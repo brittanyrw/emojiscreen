@@ -1,0 +1,145 @@
+[
+  {
+    "title": "Beauty and the Beast",
+    "emojiImgs": [
+      "castle",
+      "wilted-flower",
+      "music-notes",
+      "books",
+      "timer-clock",
+      "candle"
+    ],
+    "genres": [
+      "action",
+      "comedy",
+      "musical"
+    ],
+    "type": [
+      "movie",
+      "musical"
+    ],
+    "year": 1991
+  },
+  {
+    "title": "Game of Thrones",
+    "emojiImgs": [
+      "dragon",
+      "crown",
+      "dagger",
+      "zombie",
+      "dice",
+      "books"
+    ],
+    "genres": [
+      "action",
+      "comedy",
+      "musical"
+    ],
+    "type": [
+      "tv"
+    ],
+    "year": 2011
+  },
+  {
+    "title": "Hamilton",
+    "emojiImgs": [
+      "8-ball",
+      "add-button",
+      "add-contact",
+      "admission-tickets",
+      "adult",
+      "airplane-landing"
+    ],
+    "genres": [
+      "action",
+      "comedy",
+      "musical"
+    ],
+    "type": [
+      "musical"
+    ],
+    "year": 2015
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "emojiImgs": [
+      "8-ball",
+      "add-button",
+      "add-contact",
+      "admission-tickets",
+      "adult",
+      "airplane-landing"
+    ],
+    "genres": [
+      "action",
+      "comedy",
+      "musical"
+    ],
+    "type": [
+      "movie"
+    ],
+    "year": 2002
+  },
+  {
+    "title": "Legally Blonde",
+    "emojiImgs": [
+      "8-ball",
+      "add-button",
+      "add-contact",
+      "admission-tickets",
+      "adult",
+      "airplane-landing"
+    ],
+    "genres": [
+      "action",
+      "comedy",
+      "musical"
+    ],
+    "type": [
+      "movie",
+      "musical"
+    ],
+    "year": 2001
+  },
+  {
+    "title": "The Lion King",
+    "emojiImgs": [
+      "8-ball",
+      "add-button",
+      "add-contact",
+      "admission-tickets",
+      "adult",
+      "airplane-landing"
+    ],
+    "genres": [
+      "action",
+      "comedy",
+      "musical"
+    ],
+    "type": [
+      "movie",
+      "musical"
+    ],
+    "year": 1994
+  },
+  {
+    "title": "Sherlock",
+    "emojiImgs": [
+      "8-ball",
+      "add-button",
+      "add-contact",
+      "admission-tickets",
+      "adult",
+      "airplane-landing"
+    ],
+    "genres": [
+      "action",
+      "comedy",
+      "musical"
+    ],
+    "type": [
+      "tv"
+    ],
+    "year": 2010
+  }
+]
