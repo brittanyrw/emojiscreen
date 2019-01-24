@@ -14,7 +14,7 @@
 
 |  |  |  |  |  |
 |-|-|-|-|-|
-| F | G | H | I | J |
+| ![8-ball](/imgs/8-ball.svg "8-ball") 8-ball | G | H | I | J |
 | K | L | M | N | O |
 | P | Q | R | S | T |
 
