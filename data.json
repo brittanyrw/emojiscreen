@@ -43,12 +43,12 @@
   {
     "title": "Hamilton",
     "emojiImgs": [
-      "8-ball",
+      "dollar-banknote",
       "add-button",
-      "add-contact",
-      "admission-tickets",
-      "adult",
-      "airplane-landing"
+      "balance-scale",
+      "music-note",
+      "pen",
+      "scroll"
     ],
     "genres": [
       "action",
@@ -63,12 +63,11 @@
   {
     "title": "Harry Potter and the Chamber of Secrets",
     "emojiImgs": [
-      "8-ball",
-      "add-button",
-      "add-contact",
-      "admission-tickets",
-      "adult",
-      "airplane-landing"
+      "snake",
+      "mage",
+      "notebook",
+      "girl",
+      "high-voltage"
     ],
     "genres": [
       "action",
@@ -83,12 +82,12 @@
   {
     "title": "Legally Blonde",
     "emojiImgs": [
-      "8-ball",
-      "add-button",
-      "add-contact",
-      "admission-tickets",
-      "adult",
-      "airplane-landing"
+      "woman-judge",
+      "high-heeled-shoe",
+      "dog",
+      "heart-with-arrow",
+      "purse",
+      "school"
     ],
     "genres": [
       "action",
@@ -104,12 +103,9 @@
   {
     "title": "The Lion King",
     "emojiImgs": [
-      "8-ball",
-      "add-button",
-      "add-contact",
-      "admission-tickets",
-      "adult",
-      "airplane-landing"
+      "lion-face",
+      "crown",
+      "globe-showing-Europe-Africa"
     ],
     "genres": [
       "action",
@@ -121,25 +117,5 @@
       "musical"
     ],
     "year": 1994
-  },
-  {
-    "title": "Sherlock",
-    "emojiImgs": [
-      "8-ball",
-      "add-button",
-      "add-contact",
-      "admission-tickets",
-      "adult",
-      "airplane-landing"
-    ],
-    "genres": [
-      "action",
-      "comedy",
-      "musical"
-    ],
-    "type": [
-      "tv"
-    ],
-    "year": 2010
   }
 ]
