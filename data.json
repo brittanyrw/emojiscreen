@@ -6,8 +6,7 @@
       "wilted-flower",
       "music-notes",
       "books",
-      "timer-clock",
-      "candle"
+      "timer-clock"
     ],
     "genres": [
       "action",
@@ -27,7 +26,6 @@
       "crown",
       "dagger",
       "zombie",
-      "dice",
       "books"
     ],
     "genres": [
@@ -44,10 +42,9 @@
     "title": "Hamilton",
     "emojiImgs": [
       "dollar-banknote",
-      "add-button",
+      "pen",
       "balance-scale",
       "music-note",
-      "pen",
       "scroll"
     ],
     "genres": [
@@ -86,7 +83,6 @@
       "high-heeled-shoe",
       "dog",
       "heart-with-arrow",
-      "purse",
       "school"
     ],
     "genres": [
