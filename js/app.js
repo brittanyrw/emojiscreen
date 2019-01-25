@@ -15,8 +15,12 @@ $(document).ready(function() {
           for (var j = 0; j < data[i].emojiImgs.length; j++){
             imgs += '<img src="../imgs/' + data[i].emojiImgs[j] + '.svg" alt="' + data[i].emojiImgs[j] + '">';
           }
+          var type = '';
+          for (var g = 0; g < data[i].type.length; g++){ 
+            type = data[i].type[g];
+          }
           
-          emojiCard += "<div class='emoji-card'><div class='emoji-images'>" + imgs + "</div><div class='emoji-card-title hide-card'><h2>" + data[i].title + "</h2></div></div>";
+          emojiCard += "<div class='emoji-card'><div class='emoji-images'><div class='hint-container'><div class='hint-img'><img src='../imgs/white-question-mark.svg' alt='hint icon'/></div><p class='hint hide-card'>" + type + "</p></div>" + imgs + "</div><div class='emoji-card-title hide-card'><h2>" + data[i].title + "</h2></div></div>";
         }
 
 
@@ -29,10 +33,9 @@ $(document).ready(function() {
       $(this).find('.emoji-card-title').toggleClass("hide-card");
   });
 
-    // $(".emoji-card" ).click(function() {
-    //   alert('click');
-    //   $(this).find('.emoji-card-title').removeClass("hide-card");
-    //   $(this).find('.emoji-card-title').addClass("reveal-card");
-    // });
+  $('#emojis').on('click', '.hint-container', function() {
+      $(this).find('.hint').toggleClass("hide-card");
+  });
+
 
 });

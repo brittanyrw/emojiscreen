@@ -80,6 +80,7 @@ header {
 .emoji-images {
   border-radius: 5px 5px 0 0;
   box-shadow: 5px 5px 10px rgba(0,0,0,.1);
+  position: relative;
 }
 
 .emoji-images, .emoji-card-title {
@@ -111,6 +112,31 @@ header {
   opacity: 1;
   visibility: visible;
   display: block;
+}
+
+.hint-container {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  height: 20px;
+  width: 20px;
+  overflow: visible;
+}
+
+.hint-img {
+  background-color: black;
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+}
+
+.hint-img img {
+  width: 100%;
+}
+
+.hint {
+  opacity: 0;
+  visibility: hidden;
 }
 
 
