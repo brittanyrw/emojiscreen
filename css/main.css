@@ -4,17 +4,9 @@
 
 body {
   background-color: #F4F6F6;
-  padding: 20px;
-}
-
-::-moz-selection {
-    /*background: red;*/
-    text-shadow: none;
-}
-
-::selection {
-    background: red;
-    text-shadow: none;
+  padding: 40px;
+  font-family: 'Open Sans', sans-serif;
+  border: 20px solid #3a3335;
 }
 
 audio,
@@ -40,8 +32,14 @@ video {
 
 header {
   max-width: 1000px;
-  margin: auto;
-  padding: 30px;
+  margin: 0 auto 40px auto;
+  padding: 0px;
+}
+
+h1 {
+  font-family: 'Londrina Solid', cursive;
+  font-size: 45px;
+  margin-top: 0;
 }
 
 #emojis {
@@ -51,6 +49,7 @@ header {
     grid-gap: 20px;
     max-width: 1000px;
     margin: auto;
+    margin-bottom: 30px;
 }
 
 @media screen and (max-width: 662px){
@@ -124,6 +123,7 @@ header {
   color: white;
   font-weight: normal;
   letter-spacing: 1.1px;
+  margin: 0;
 }
 
 .hide-card {
