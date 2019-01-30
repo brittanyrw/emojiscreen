@@ -91,9 +91,33 @@ header {
   transition:all .2s;
   transition: visibility 0s, height 0s, opacity 0.5s linear;
   margin-top: 10px;
-  background-color: #3a3335;
   padding: 20px;
   margin: 0;
+  background-color: #3a3335;
+}
+
+.emoji-card:nth-child(1n) .emoji-card-title {
+    background-color: #9984D4;
+}
+
+.emoji-card:nth-child(2n) .emoji-card-title {
+    background-color: #e177cd;
+}
+
+.emoji-card:nth-child(3n) .emoji-card-title {
+    background-color: #9c92a3;
+}
+
+.emoji-card:nth-child(4n) .emoji-card-title {
+    background-color: #23B5D3;
+}
+
+.emoji-card:nth-child(5n) .emoji-card-title {
+    background-color: #16E0BD;
+}
+
+.emoji-card:nth-child(6n) .emoji-card-title {
+    background-color: #FE938C;
 }
 
 .emoji-card-title h2 {
