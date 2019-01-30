@@ -20,7 +20,7 @@ $(document).ready(function() {
             type = data[i].type[g];
           }
           
-          emojiCard += "<div class='emoji-card'><div class='emoji-images'><div class='hint-container'><div class='hint-img'><img src='../imgs/white-question-mark.svg' alt='hint icon'/></div><p class='hint hide-card'>" + type + "</p></div>" + imgs + "</div><div class='emoji-card-title hide-card'><h2>" + data[i].title + "</h2></div></div>";
+          emojiCard += "<div class='emoji-card'><div class='emoji-images'>" + imgs + "</div><div class='emoji-card-title hide-card'><h2>" + data[i].title + "</h2></div></div>";
         }
 
 
@@ -34,6 +34,10 @@ $(document).ready(function() {
   });
 
   $('#emojis').on('click', '.hint-container', function() {
+      $(this).find('.hint').toggleClass("hide-card");
+  });
+
+  $('#emojis').on('mouseover', '.hint-symbol', function() {
       $(this).find('.hint').toggleClass("hide-card");
   });
 

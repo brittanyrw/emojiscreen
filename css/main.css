@@ -81,9 +81,6 @@ header {
   border-radius: 5px 5px 0 0;
   box-shadow: 5px 5px 10px rgba(0,0,0,.1);
   position: relative;
-}
-
-.emoji-images, .emoji-card-title {
   background-color: white;
   padding: 20px;
 }
@@ -94,10 +91,15 @@ header {
   transition:all .2s;
   transition: visibility 0s, height 0s, opacity 0.5s linear;
   margin-top: 10px;
+  background-color: #3a3335;
+  padding: 20px;
+  margin: 0;
 }
 
-.emoji-card-title {
-  margin: 0;
+.emoji-card-title h2 {
+  color: white;
+  font-weight: normal;
+  letter-spacing: 1.1px;
 }
 
 .hide-card {
@@ -123,15 +125,11 @@ header {
   overflow: visible;
 }
 
-.hint-img {
+.hint-symbol {
   background-color: black;
-  border-radius: 50%;
   height: 20px;
   width: 20px;
-}
-
-.hint-img img {
-  width: 100%;
+  border-radius: 50%;
 }
 
 .hint {
