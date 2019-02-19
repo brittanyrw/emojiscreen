@@ -13,7 +13,7 @@ $(document).ready(function() {
 
           var imgs = '';
           for (var j = 0; j < data[i].emojiImgs.length; j++){
-            imgs += '<img src="../imgs/' + data[i].emojiImgs[j] + '.svg" alt="' + data[i].emojiImgs[j] + '">';
+            imgs += '<img src="../emojis/' + data[i].emojiImgs[j] + '.png" alt="' + data[i].emojiImgs[j] + '">';
           }
           var type = '';
           for (var g = 0; g < data[i].type.length; g++){ 

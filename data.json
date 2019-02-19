@@ -2,11 +2,11 @@
   {
     "title": "Beauty and the Beast",
     "emojiImgs": [
-      "castle",
+      "european-castle",
       "wilted-flower",
-      "music-notes",
+      "musical-note",
       "books",
-      "timer-clock"
+      "mantelpiece-clock"
     ],
     "genres": [
       "action",
@@ -24,7 +24,7 @@
     "emojiImgs": [
       "dragon",
       "crown",
-      "dagger",
+      "dagger-knife",
       "zombie",
       "books"
     ],
@@ -39,12 +39,30 @@
     "year": 2011
   },
   {
+    "title": "The Lion King",
+    "emojiImgs": [
+      "lion-face",
+      "crown",
+      "earth-globe-europe-africa"
+    ],
+    "genres": [
+      "action",
+      "comedy",
+      "musical"
+    ],
+    "type": [
+      "movie",
+      "musical"
+    ],
+    "year": 1994
+  },
+  {
     "title": "Hamilton",
     "emojiImgs": [
-      "dollar-banknote",
-      "pen",
-      "balance-scale",
-      "music-note",
+      "banknote-with-dollar-sign",
+      "lower-left-fountain-pen",
+      "scales",
+      "musical-note",
       "scroll"
     ],
     "genres": [
@@ -64,7 +82,7 @@
       "mage",
       "notebook",
       "girl",
-      "high-voltage"
+      "high-voltage-sign"
     ],
     "genres": [
       "action",
@@ -79,7 +97,7 @@
   {
     "title": "Legally Blonde",
     "emojiImgs": [
-      "woman-judge",
+      "female-judge",
       "high-heeled-shoe",
       "dog",
       "heart-with-arrow",
@@ -97,11 +115,29 @@
     "year": 2001
   },
   {
-    "title": "The Lion King",
+    "title": "Sixth Sense",
     "emojiImgs": [
-      "lion-face",
-      "crown",
-      "globe-showing-Europe-Africa"
+      "ghost",
+      "boy",
+      "eyes"
+    ],
+    "genres": [
+      "action",
+      "comedy",
+      "musical"
+    ],
+    "type": [
+      "movie"
+    ],
+    "year": 1994
+  },
+  {
+    "title": "A Star is Born",
+    "emojiImgs": [
+      "microphone",
+      "couple-with-heart-woman-man",
+      "guitar",
+      "white-medium-star"
     ],
     "genres": [
       "action",
@@ -115,11 +151,13 @@
     "year": 1994
   },
   {
-    "title": "The Lion King",
+    "title": "Black Panther",
     "emojiImgs": [
-      "lion-face",
-      "crown",
-      "globe-showing-Europe-Africa"
+      "cat-face",
+      "waving-black-flag",
+      "flexed-biceps-dark-skin",
+      "man-superhero-dark-skin-tone",
+      "earth-globe-europe-africa"
     ],
     "genres": [
       "action",
@@ -133,65 +171,12 @@
     "year": 1994
   },
   {
-    "title": "The Lion King",
+    "title": "Up",
     "emojiImgs": [
-      "lion-face",
-      "crown",
-      "globe-showing-Europe-Africa"
-    ],
-    "genres": [
-      "action",
-      "comedy",
-      "musical"
-    ],
-    "type": [
-      "movie",
-      "musical"
-    ],
-    "year": 1994
-  },
-  {
-    "title": "The Lion King",
-    "emojiImgs": [
-      "lion-face",
-      "crown",
-      "globe-showing-Europe-Africa"
-    ],
-    "genres": [
-      "action",
-      "comedy",
-      "musical"
-    ],
-    "type": [
-      "movie",
-      "musical"
-    ],
-    "year": 1994
-  },
-  {
-    "title": "The Lion King",
-    "emojiImgs": [
-      "lion-face",
-      "crown",
-      "globe-showing-Europe-Africa"
-    ],
-    "genres": [
-      "action",
-      "comedy",
-      "musical"
-    ],
-    "type": [
-      "movie",
-      "musical"
-    ],
-    "year": 1994
-  },
-  {
-    "title": "The Lion King",
-    "emojiImgs": [
-      "lion-face",
-      "crown",
-      "globe-showing-Europe-Africa"
+      "balloon",
+      "house-with-garden",
+      "dog",
+      "older-man-light-skin"
     ],
     "genres": [
       "action",

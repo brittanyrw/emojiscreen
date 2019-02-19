@@ -2,12 +2,16 @@
    General Styles
    ========================================================================== */
 
+* {
+  box-sizing: border-box;
+}
+
 body {
-  /*background-color: #BAB2B5;*/
-  background-color: #a4b3b6;
+  background-color: #DBD7D7;
   padding: 40px;
   font-family: 'Open Sans', sans-serif;
-/*  background-image: url(../imgs/andrew-ridley-76547-unsplash.jpg);*/
+  border: 20px solid white;
+  outline: 2px solid #545454;
 }
 
 audio,
@@ -34,17 +38,24 @@ video {
 header {
   max-width: 1000px;
   margin: 0 auto 40px auto;
-  padding: 0px;
+  padding: 20px;
 }
 
 h1 {
   font-family: 'Londrina Solid', cursive;
   font-size: 72px;
   margin-top: 0;
-  color: white;
+  color: #545454;
   @media screen and (max-width: 425px){
     font-size: 45px;
   }
+}
+
+.emoji-info {
+  padding: 30px;
+  font-size: 21px;
+  background-color: white;
+  color: #545454;
 }
 
 #emojis {
@@ -78,15 +89,19 @@ h1 {
 }
 
 .emoji-images img {
-    width: 50px;
+    width: 45px;
+    margin-right: 5px;
+}
+
+.emoji-images img:last-child {
+  margin-right: 0;
 }
 
 .emoji-images {
   border-radius: 5px 5px 0 0;
   box-shadow: 5px 5px 10px rgba(0,0,0,.1);
   position: relative;
-  /*background-color: white;*/
-  background-color: #ECECEC;
+  background-color: white;
   padding: 20px;
 }
 
@@ -98,19 +113,19 @@ h1 {
   margin-top: 10px;
   padding: 20px;
   margin: 0;
-  background-color: #A8D0E6;
+  background-color: #23B5D3;
 }
 
 .emoji-card:nth-child(2n) .emoji-card-title {
-    background-color: #F76C6C;
+    background-color: #9984D4;
 }
 
 .emoji-card:nth-child(3n) .emoji-card-title {
-    background-color: #F8E9A1;
+    background-color: #ce994e;
 }
 
 .emoji-card:nth-child(4n) .emoji-card-title {
-    background-color: #F76C6C;
+    background-color: #F25757;
 }
 
 .emoji-card:nth-child(5n) .emoji-card-title {
@@ -118,8 +133,13 @@ h1 {
 }
 
 .emoji-card:nth-child(6n) .emoji-card-title {
-    background-color: #3AAFA9;
+    background-color: #0ec171;
 }
+
+
+
+
+
 
 .emoji-card-title h2 {
   color: white;
