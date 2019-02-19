@@ -17,10 +17,15 @@ $(document).ready(function() {
           }
           var type = '';
           for (var g = 0; g < data[i].type.length; g++){ 
-            type = data[i].type[g];
+            if(data[i].type.length > 1){
+              type += '<span class="type multi-type">' + data[i].type[g] + '</span>';
+            } else {
+              type = '<span class="type">' + data[i].type[g] + '</span>';
+            }
+            
           }
           
-          emojiCard += "<div class='emoji-card'><div class='emoji-images'>" + imgs + "</div><div class='emoji-card-title hide-card'><h2>" + data[i].title + "</h2></div></div>";
+          emojiCard += "<div class='emoji-card'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'>" + type + "</p></div><div class='emoji-images'>" + imgs + "</div><div class='emoji-card-title hide-card'><h2>" + data[i].title + "</h2></div></div>";
         }
 
 
@@ -29,17 +34,20 @@ $(document).ready(function() {
       }
     });
 
-    $('#emojis').on('click', '.emoji-card', function() {
-      $(this).find('.emoji-card-title').toggleClass("hide-card");
+    $('#emojis').on('click', '.emoji-images', function() {
+      $(this).siblings('.emoji-card-title').toggleClass("hide-card");
   });
 
-  $('#emojis').on('click', '.hint-container', function() {
-      $(this).find('.hint').toggleClass("hide-card");
+  $('#emojis').on('mouseover', '.hint-container', function() {
+      $(this).find('.hint').addClass("hint-reveal");
+
+
   });
 
-  $('#emojis').on('mouseover', '.hint-symbol', function() {
-      $(this).find('.hint').toggleClass("hide-card");
-  });
+    $('#emojis').on('mouseleave', '.hint-container', function() {
+      $(this).find('.hint').removeClass("hint-reveal");
 
+
+  });
 
 });

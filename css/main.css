@@ -139,8 +139,6 @@ h1 {
 
 
 
-
-
 .emoji-card-title h2 {
   color: white;
   font-weight: normal;
@@ -164,11 +162,19 @@ h1 {
 
 .hint-container {
   position: absolute;
-  right: 15px;
-  top: 15px;
-  height: 20px;
-  width: 20px;
+  right: -10px;
+  top: -8px;
+  height: 30px;
+  width: 30px;
   overflow: visible;
+  z-index: 9999;
+}
+
+i {
+  font-size: 25px;
+  background-color: white;
+  border-radius: 50%;
+  color: #545454;
 }
 
 .hint-symbol {
@@ -181,6 +187,37 @@ h1 {
 .hint {
   opacity: 0;
   visibility: hidden;
+  display: block;
+  background-color: #545454;
+  color: white;
+  text-transform: capitalize;
+  width: 100px;
+  padding: 10px 10px 10px 8px;
+  border-radius: 5px;
+  position: absolute;
+  left: 17px;
+  top: -23px;
+  z-index: -1;
+}
+
+.multi-type {
+  position: relative;
+  display: block;
+  text-align: left;
+  padding-left: 10px;
+}
+
+.multi-type:first-child:after {
+  position: absolute;
+  content: '&';
+  right: 5%;
+
+}
+
+
+.hint-reveal {
+  opacity: 1;
+  visibility: visible;
 }
 
 
