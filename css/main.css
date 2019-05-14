@@ -7,11 +7,9 @@
 }
 
 body {
-  background-color: #DBD7D7;
+  background-color: #F27777;
   padding: 40px;
   font-family: 'Open Sans', sans-serif;
-  border: 20px solid white;
-  outline: 2px solid #545454;
 }
 
 audio,
