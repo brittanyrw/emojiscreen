@@ -178,4 +178,15 @@
     "type": "movie",
     "year": 2006
   },
+     {
+    "title": "Kung Fu Panda",
+    "emojiImgs": "🐼🎍🇨🇳🥟🍚",
+    "genres": [
+      "Animation",
+        "Action",
+        "Adventure"
+    ],
+    "type": "movie",
+    "year": 2008
+  },
 ]
