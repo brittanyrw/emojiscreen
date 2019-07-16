@@ -74,7 +74,7 @@
     ],
     "type": "movie",
     "year": 1999
-  },  
+  },
   {
     "title": "A Star is Born",
     "emojiImgs": "🎤👩👨🎸⭐",
@@ -149,5 +149,15 @@
     ],
     "type": "movie",
     "year": 1999
+  },
+  {
+    "title": "It",
+    "emojiImgs": "🎈🤡☔🚲",
+    "genres": [
+      "horror",
+      "thriller"
+    ],
+    "type": "movie",
+    "year": 2017
   }
 ]
