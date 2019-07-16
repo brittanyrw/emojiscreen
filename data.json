@@ -2,11 +2,11 @@
   {
     "title": "Beauty and the Beast",
     "emojiImgs": [
-      "european-castle",
-      "wilted-flower",
-      "musical-note",
-      "books",
-      "mantelpiece-clock"
+      "travel/castle.png",
+      "nature/wilted-flower.png",
+      "musical-note.png",
+      "books.png",
+      "mantelpiece-clock.png"
     ],
     "genres": [
       "action",
@@ -22,11 +22,11 @@
   {
     "title": "Game of Thrones",
     "emojiImgs": [
-      "dragon",
-      "crown",
-      "dagger-knife",
-      "zombie",
-      "books"
+      "dragon.png",
+      "animated/crown.gif",
+      "dagger-knife.png",
+      "zombie.png",
+      "books.png"
     ],
     "genres": [
       "action",
@@ -41,9 +41,9 @@
   {
     "title": "The Lion King",
     "emojiImgs": [
-      "lion-face",
-      "crown",
-      "earth-globe-europe-africa"
+      "lion-face.png",
+      "animated/crown.gif",
+      "earth-globe-europe-africa.png"
     ],
     "genres": [
       "action",
@@ -59,11 +59,11 @@
   {
     "title": "Hamilton",
     "emojiImgs": [
-      "banknote-with-dollar-sign",
-      "lower-left-fountain-pen",
-      "scales",
-      "musical-note",
-      "scroll"
+      "banknote-with-dollar-sign.png",
+      "lower-left-fountain-pen.png",
+      "scales.png",
+      "musical-note.png",
+      "scroll.png"
     ],
     "genres": [
       "action",
@@ -78,11 +78,11 @@
   {
     "title": "Harry Potter and the Chamber of Secrets",
     "emojiImgs": [
-      "snake",
-      "mage",
-      "notebook",
-      "girl",
-      "high-voltage-sign"
+      "nature/snake.png",
+      "mage.png",
+      "notebook.png",
+      "girl.png",
+      "high-voltage-sign.png"
     ],
     "genres": [
       "action",
@@ -97,11 +97,11 @@
   {
     "title": "Legally Blonde",
     "emojiImgs": [
-      "female-judge",
-      "high-heeled-shoe",
-      "dog",
-      "heart-with-arrow",
-      "school"
+      "female-judge.png",
+      "high-heeled-shoe.png",
+      "animated/dog_face.gif",
+      "heart-with-arrow.png",
+      "school.png"
     ],
     "genres": [
       "action",
@@ -117,9 +117,9 @@
   {
     "title": "Sixth Sense",
     "emojiImgs": [
-      "ghost",
-      "boy",
-      "eyes"
+      "animated/ghost.gif",
+      "boy.png",
+      "eyes.png"
     ],
     "genres": [
       "action",
@@ -134,10 +134,10 @@
   {
     "title": "A Star is Born",
     "emojiImgs": [
-      "microphone",
-      "couple-with-heart-woman-man",
-      "guitar",
-      "white-medium-star"
+      "microphone.png",
+      "couple-with-heart-woman-man.png",
+      "guitar.png",
+      "white-medium-star.png"
     ],
     "genres": [
       "action",
@@ -152,11 +152,11 @@
   {
     "title": "Black Panther",
     "emojiImgs": [
-      "cat-face",
-      "waving-black-flag",
-      "flexed-biceps-dark-skin",
-      "man-superhero-dark-skin-tone",
-      "earth-globe-europe-africa"
+      "animated/cat_face.gif",
+      "waving-black-flag.png",
+      "flexed-biceps-dark-skin.png",
+      "man-superhero-dark-skin-tone.png",
+      "earth-globe-europe-africa.png"
     ],
     "genres": [
       "action",
@@ -171,10 +171,28 @@
   {
     "title": "Up",
     "emojiImgs": [
-      "balloon",
-      "house-with-garden",
-      "dog",
-      "older-man-light-skin"
+      "balloon.png",
+      "travel/house-with-garden.png",
+      "animated/dog_face.gif",
+      "older-man-light-skin.png"
+    ],
+    "genres": [
+      "action",
+      "comedy",
+      "musical"
+    ],
+    "type": [
+      "movie"
+    ],
+    "year": 1994
+  },
+  {
+    "title": "Space Jam",
+    "emojiImgs": [
+      "balloon.png",
+      "travel/house-with-garden.png",
+      "animated/rocket.gif",
+      "older-man-light-skin.png"
     ],
     "genres": [
       "action",
