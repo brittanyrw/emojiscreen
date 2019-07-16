@@ -58,11 +58,12 @@ The emojis should be added to  `emojiImgs` as a string.
 }
 ```
 
-Here are a few resources to find emojis to copy: 
-* [Get Emoji](https://getemoji.com/) and [EmojiCopy](https://www.emojicopy.com/) are tools to copy emojis easily from one page. Note: The initial homepage does not display all skin color versions of each emoji so you will need to search in Emojipedia for those.
-* [Emojipedia](https://emojipedia.org/) - A directory of all emojis. 
-
 Using JavaScript, the emojis are converted into [Twemoji (Twitter's emoji version)](https://github.com/twitter/twemoji) so that all emojis will be uniform across platforms. And because they are pretty cute. 💖
+
+Here are a few resources to find emojis to copy: 
+* [Twitter Emojis](https://www.piliapp.com/twitter-symbols/) - Shows you what each Twitter emoji looks like. Note when you copy these emojis and paste them into your text editor or Github, they will no longer look like the Twitter emojis. But don't worry, Javascript will convert them to the Twitter emojis on the EmojiScreen website.
+* [Get Emoji](https://getemoji.com/) and [EmojiCopy](https://www.emojicopy.com/) are tools to copy regular emojis easily from one page. Note: The initial homepage does not display all skin color versions of each emoji so you will need to search in Emojipedia for those.
+* [Emojipedia](https://emojipedia.org/) - A directory of all emojis. 
 
 ### Genres 🔍
 
