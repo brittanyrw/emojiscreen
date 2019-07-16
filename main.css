@@ -100,6 +100,7 @@ h2 {
   position: relative;
   background-color: white;
   padding: 20px;
+  border-bottom: 2px solid #292932;
 }
 
 .emoji-card-title {
@@ -134,8 +135,7 @@ h2 {
 }
 
 .emoji-card-title h3 {
-  color: black;
-  font-weight: normal;
+  color: #292932;
   margin: 0;
 }
 
