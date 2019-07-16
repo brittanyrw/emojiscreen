@@ -1,5 +1,7 @@
 # EmojiScreen 📺
 
+![Screenshot of Emojiscreen homepage](readme/emoji-screen.png)
+
 [EmojiScreen](https://emojiscreen.com) is a listing of movies, TV shows and musicals depicted through emojis. 
 
 This project is used to teach Git and Github. Feel free to make a pull request to add one of your favorite shows or movies!
@@ -8,13 +10,13 @@ This project is used to teach Git and Github. Feel free to make a pull request t
 
 Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add a `Emoji Card` to the website. Each card should be added in the `data.json` file as an object. For more advanced ways to contribute, see the repo Issues. 
 
-Read below for a detailed walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged.
+Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged.
 
 ### Card Overview
 
 On the website, each `Emoji Card` displays images of the emojis, a hint icon that will show the type (musical, movie or TV show) when the user hovers and the name of the show, which appears when the user clicks on a card. 
 
-[SCREEN SHOT HERE]
+![Screenshot of Beauty and the Beast Emoji Card](readme/emoji-card.png)
 
 In the code, each `Emoji Card` consists of the following JSON:
 
@@ -43,7 +45,7 @@ To add a new card to the website, add a new JSON object in the `data.json` file.
 ### Emoji Images
 
 
-  "emojiImgs": [
+  <!-- "emojiImgs": [
       "nature/lion.png",
       "animated/crown.gif",
       "nature/globe-showing-europe-africa.png"
@@ -52,7 +54,7 @@ To add a new card to the website, add a new JSON object in the `data.json` file.
       "animation",
       "adventure",
       "drama"
-    ],
+    ], -->
 
 ### Genres
 
@@ -99,3 +101,43 @@ Western
       "movie"
     ],
     "year": 1994
+
+### Walkthrough
+
+Follow these intstructions to add a card. You can add a card using the Github website user interface or by cloning this repository to your local machine. If you do not already have one, create a Github account.
+
+#### Github UI
+1. Fork this repository. This will create a copy of the repository and create a new reposititory on your account.
+2. Once the repo is forked, you will be taken to the forked repo. 
+3. Navigate to the `data.json` file in your forked repo.
+4. Edit the `data.json` file and create a new object for your movie, TV show or musical. Refer to the card overview above for requirements for the object. Use the following object as a template:
+
+``` 
+{
+    "title": "The Lion King",
+    "emojiImgs": [
+        "nature/lion.png",
+        "animated/crown.gif",
+        "nature/cat.png"
+    ],
+    "genres": [
+        "animation",
+        "adventure",
+        "drama"
+    ],
+    "type": "movie",
+    "year": 1994
+  }
+```
+
+5. Once you have completed updating the object for your show or movie, scroll to the bottom of the page and add a commit message. The commit message should be formatted like: `Added Fight Club` or `Added Casablanca`. Click the `Commit Changes` button to save your changes.
+6. Navigate to the `Pull Request` tab. Click on New `Pull Request`.
+7. Review your changes and then click `Create Pull Request`. Add any additional comments and then click on `Create Pull Request`.
+8. Wait for feedback/review of your Pull Request. If your Pull Request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com)!
+
+#### Local Development
+
+##### Required Downloads
+* Git is a version control tool. We will use this to track changes in our code and also to push code from your local copy of this project 
+* A text editor such as Sublime Text, Atom, Visual Studio Code, etc.
+* Python (optional)
