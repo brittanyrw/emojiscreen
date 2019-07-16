@@ -167,5 +167,14 @@
     ],
     "type": "movie",
     "year": 1989
+  },
+ {
+    "title": "Tropic Thunder",
+    "emojiImgs": "😼😽🙀😿😾",
+    "genres": [
+      "Action, Adventure, Comedy"
+    ],
+    "type": "movie",
+    "year": 2008
   }
 ]
