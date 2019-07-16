@@ -176,5 +176,15 @@
     ],
     "type": "movie",
     "year": 2020
+  },
+{
+    "title": "RocketMan",
+    "emojiImgs": "🐱 📫",
+    "genres": [
+      "drama"
+      "musical,"
+    ],
+    "type": "movie",
+    "year": 2019
   }
 ]
