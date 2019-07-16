@@ -72,16 +72,13 @@ For movies and TV shows, go to the IMDB profile and find the genres listed. Add 
 
 For musicals, include the `musical` genre and up to two other genres from the list below: 
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-| Action  | Adult  | Adventure  | Animation  | Biography  |
-| Comedy  | Crime  | Documentary  | Drama  | Family  |
-| Fantasy  | Film Noir  | Game-Show  | History  | Horror  |
-| Musical  | Music  | Mystery  | News  | Reality-TV  |
-| Romance  | Sci-Fi  | Short  | Sport  | Talk-Show  |
-| Thriller  | War  | Western  |   |   |
-|   |   |   |   |   |
-
+|   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|
+| Action  | Adult  | Adventure  | Animation  | Biography  | Comedy  | Crime  | Documentary  |
+| Drama  | Family  | Fantasy  | Film Noir  | Game-Show  | History  | Horror  | Musical  |
+| Music  | Mystery  | News  | Reality-TV   | Romance  | Sci-Fi   | Short  | Sport  |
+| Talk-Show  | Thriller  | War  | Western  |  |   |   |   |
+|   |   |   |   |   |   |   |   |
 
 ### Type 🎬
 
