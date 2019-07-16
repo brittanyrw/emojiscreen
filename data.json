@@ -1,5 +1,4 @@
-[
-  {
+[{
     "title": "Beauty and the Beast",
     "emojiImgs": "🏰🥀🎶📚🕰️",
     "genres": [
@@ -159,5 +158,14 @@
     ],
     "type": "movie",
     "year": 2017
+  },
+  {
+    "title": "Kiki's Delivery Service",
+    "emojiImgs": "👧🐱🧹📫",
+    "genres": [
+      "animated"
+    ],
+    "type": "movie",
+    "year": 1989
   }
 ]
