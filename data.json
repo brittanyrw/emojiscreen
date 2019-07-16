@@ -176,5 +176,14 @@
     ],
     "type": "play",
     "year": 2014
+  },
+  {
+    "title": "Alien",
+    "emojiImgs": "🚀👾🔫👨‍🚀",
+    "genres": [
+      "suspense"
+    ],
+    "type": "movie",
+    "year": 1979
   }
 ]
