@@ -1,4 +1,4 @@
-# EmojiScreen 📺
+# EmojiScreen 📺 [emojiscreen.com](https://emojiscreen.com)
 
 ![Screenshot of Emojiscreen homepage](readme/emoji-screen.png)
 
