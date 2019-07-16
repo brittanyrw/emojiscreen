@@ -167,5 +167,14 @@
     ],
     "type": "movie",
     "year": 1989
+  },
+  {
+    "title": "The Color Purple",
+    "emojiImgs": "💜🏃🏾‍♀️🧘🏾‍♀️",
+    "genres": [
+      "drama"
+    ],
+    "type": "movie",
+    "year": 1986
   }
 ]
