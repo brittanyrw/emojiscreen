@@ -2,162 +2,113 @@
   {
     "title": "Beauty and the Beast",
     "emojiImgs": "🏰🥀🎶📚🕰️",
-    "genres": [
-      "animation",
-      "family",
-      "fantasy"
-    ],
+    "genres": ["animation", "family", "fantasy"],
     "type": "movie",
     "year": 1991
   },
   {
     "title": "Game of Thrones",
     "emojiImgs": "🐉👑🗡️📚🧟",
-    "genres": [
-      "action",
-      "adventure",
-      "drama"
-    ],
+    "genres": ["action", "adventure", "drama"],
     "type": "tv",
     "year": 2011
   },
   {
     "title": "The Lion King",
     "emojiImgs": "🦁👑🌍",
-    "genres": [
-      "animation",
-      "adventure",
-      "drama"
-    ],
+    "genres": ["animation", "adventure", "drama"],
     "type": "movie",
     "year": 1994
   },
   {
     "title": "Hamilton: The Musical",
     "emojiImgs": "💵🖋️⚖️🎵📜",
-    "genres": [
-      "drama",
-      "comedy",
-      "musical"
-    ],
+    "genres": ["drama", "comedy", "musical"],
     "type": "musical",
     "year": 2015
   },
   {
     "title": "Harry Potter and the Chamber of Secrets",
     "emojiImgs": "🐍🧙‍♂️📓👩‍🦰⚡",
-    "genres": [
-      "adventure",
-      "family",
-      "fantasy"
-    ],
+    "genres": ["adventure", "family", "fantasy"],
     "type": "movie",
     "year": 2002
   },
   {
     "title": "Legally Blonde",
     "emojiImgs": "👩‍⚖️👠💘🏫🐶",
-    "genres": [
-      "romance",
-      "comedy"
-    ],
+    "genres": ["romance", "comedy"],
     "type": "movie",
     "year": 2001
   },
   {
     "title": "Sixth Sense",
     "emojiImgs": "👻👦👀",
-    "genres": [
-      "drama",
-      "mystery",
-      "thriller"
-    ],
+    "genres": ["drama", "mystery", "thriller"],
     "type": "movie",
     "year": 1999
   },
   {
     "title": "A Star is Born",
     "emojiImgs": "🎤👩👨🎸⭐",
-    "genres": [
-      "action",
-      "comedy",
-      "musical"
-    ],
+    "genres": ["action", "comedy", "musical"],
     "type": "movie",
     "year": 1994
   },
   {
     "title": "Black Panther",
     "emojiImgs": "😺🌍🏴💪🏿🦸🏿",
-    "genres": [
-      "action",
-      "adventure",
-      "sci-fi"
-    ],
+    "genres": ["action", "adventure", "sci-fi"],
     "type": "movie",
     "year": 2018
   },
   {
     "title": "Pirates of the Caribbean",
     "emojiImgs": "🍻🏴‍☠️🚢",
-    "genres": [
-      "action",
-      "comedy",
-      "musical"
-    ],
+    "genres": ["action", "comedy", "musical"],
     "type": "movie",
     "year": 1994
   },
   {
     "title": "Up",
     "emojiImgs": "🎈🏠🐶👴🏻",
-    "genres": [
-      "action",
-      "comedy",
-      "musical"
-    ],
+    "genres": ["action", "comedy", "musical"],
     "type": "movie",
     "year": 1994
   },
   {
     "title": "Space Jam",
     "emojiImgs": "🏀🛸🚀",
-    "genres": [
-      "action",
-      "comedy",
-      "musical"
-    ],
+    "genres": ["action", "comedy", "musical"],
     "type": "movie",
     "year": 1994
   },
   {
     "title": "Cast Away",
     "emojiImgs": "🏐🥥🏝️",
-    "genres": [
-      "action",
-      "comedy",
-      "musical"
-    ],
+    "genres": ["action", "comedy", "musical"],
     "type": "movie",
     "year": 1994
   },
   {
     "title": "Fight Club",
     "emojiImgs": "🥊🧼🤐",
-    "genres": [
-      "drama"
-    ],
+    "genres": ["drama"],
     "type": "movie",
     "year": 1999
   },
   {
     "title": "It",
     "emojiImgs": "🎈🤡☔🚲",
-    "genres": [
-      "horror",
-      "thriller"
-    ],
+    "genres": ["horror", "thriller"],
     "type": "movie",
     "year": 2017
+  },
+  {
+    "title": "It 2: It's coming!",
+    "emojiImgs": "🎈🤡🎈🤡🎈🤡",
+    "genres": ["horror", "thriller"],
+    "type": "movie",
+    "year": 2020
   }
 ]
