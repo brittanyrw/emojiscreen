@@ -167,5 +167,15 @@
     ],
     "type": "movie",
     "year": 1989
-  }
+  },
+   {
+    "title": "Devil Wears Prada",
+    "emojiImgs": "😈💄👠🧣👓",
+    "genres": [
+      "comedy",
+        "drama"
+    ],
+    "type": "movie",
+    "year": 2006
+  },
 ]
