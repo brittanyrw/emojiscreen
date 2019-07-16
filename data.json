@@ -167,5 +167,16 @@
     ],
     "type": "movie",
     "year": 1989
+  },
+ {
+    "title": "Mulan",
+    "emojiImgs": "🐉🇨🇳🥢🏮",
+    "genres": [
+      "animation",
+      "family",
+      "adventure"
+    ],
+    "type": "movie",
+    "year": 1998
   }
 ]
