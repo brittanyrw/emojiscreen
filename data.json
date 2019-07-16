@@ -47,9 +47,9 @@
     "title": "Harry Potter and the Chamber of Secrets",
     "emojiImgs": ["🐍🧙‍♂️📓👩‍🦰⚡"],
     "genres": [
-      "action",
-      "comedy",
-      "musical"
+      "adventure",
+      "family",
+      "fantasy"
     ],
     "type": "movie",
     "year": 2002
@@ -58,9 +58,8 @@
     "title": "Legally Blonde",
     "emojiImgs": ["👩‍⚖️👠💘🏫🐶"],
     "genres": [
-      "action",
-      "comedy",
-      "musical"
+      "romance",
+      "comedy"
     ],
     "type": "movie",
     "year": 2001
@@ -69,13 +68,13 @@
     "title": "Sixth Sense",
     "emojiImgs": ["👻👦👀"],
     "genres": [
-      "action",
-      "comedy",
-      "musical"
+      "drama",
+      "mystery",
+      "thriller"
     ],
     "type": "movie",
-    "year": 1994
-  },
+    "year": 1999
+  },  
   {
     "title": "A Star is Born",
     "emojiImgs": ["🎤👩👨🎸⭐"],

@@ -1,6 +1,6 @@
 # EmojiScreen 📺
 
-![Screenshot of Emojiscreen homepage]()
+![Screenshot of Emojiscreen homepage](readme/emoji-screen.png)
 
 [EmojiScreen](https://emojiscreen.com) is a listing of movies, TV shows and musicals depicted through emojis. 
 
@@ -16,7 +16,7 @@ Read below for a detailed overview and walkthrough on how to add an `Emoji Card`
 
 On the website, each `Emoji Card` displays images of the emojis, a hint icon that will show the type (musical, movie or TV show) when the user hovers and the name of the show, which appears when the user clicks on a card. 
 
-![Screenshot of Beauty and the Beast Emoji Card]()
+![Screenshot of Beauty and the Beast Emoji Card](readme/emoji-card.png)
 
 In the code, each `Emoji Card` consists of the following JSON:
 
