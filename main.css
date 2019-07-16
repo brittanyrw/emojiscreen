@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: lavender;
+  background-color: #292932;
   padding: 40px;
   font-family: 'Open Sans', sans-serif;
   margin: 0;
@@ -37,20 +37,13 @@ video {
 header {
   max-width: 1000px;
   margin: 0 auto 40px auto;
-  padding: 20px;
-}
-
-@media screen and (max-width: 425px){
-  header {
-    padding: 0;
-  }
 }
 
 h1 {
   font-family: 'Londrina Solid', cursive;
   font-size: 72px;
-  margin-top: 0;
-  color: #545454;
+  margin: 0;
+  color: white;
 }
 
 @media screen and (max-width: 667px){
@@ -59,11 +52,13 @@ h1 {
   }
 }
 
-.emoji-info {
-  padding: 30px;
-  font-size: 21px;
-  background-color: white;
-  color: #545454;
+h2 {
+  background-color: lavender;
+  margin: 20px 0;
+  border: 1px solid lavender;
+  padding: 10px 20px;
+  color: #292932;
+  display: inline-block;
 }
 
 #emojis {
@@ -115,36 +110,32 @@ h1 {
   margin-top: 10px;
   padding: 20px;
   margin: 0;
-  background-color: #23B5D3;
+  background-color: lavender;
 }
 
-.emoji-card:nth-child(2n) .emoji-card-title {
-    background-color: #9984D4;
+.emoji-card:nth-child(2n) .emoji-card-title,
+.emoji-card:nth-child(2n) .hint {
+    background-color: #fae6e9;
 }
 
-.emoji-card:nth-child(3n) .emoji-card-title {
-    background-color: #ce994e;
+.emoji-card:nth-child(3n) .emoji-card-title,
+.emoji-card:nth-child(3n) .hint {
+    background-color: #e6f6fa;
 }
 
-.emoji-card:nth-child(4n) .emoji-card-title {
-    background-color: #F25757;
+.emoji-card:nth-child(5n) .emoji-card-title,
+.emoji-card:nth-child(5n) .hint {
+    background-color: #effae6;
 }
 
-.emoji-card:nth-child(5n) .emoji-card-title {
-    background-color: #374785;
+.emoji-card:nth-child(6n) .emoji-card-title,
+.emoji-card:nth-child(6n) .hint {
+    background-color: #faefe6;
 }
 
-.emoji-card:nth-child(6n) .emoji-card-title {
-    background-color: #0ec171;
-}
-
-
-
-
-.emoji-card-title h2 {
-  color: white;
+.emoji-card-title h3 {
+  color: black;
   font-weight: normal;
-  letter-spacing: 1.1px;
   margin: 0;
 }
 
@@ -164,8 +155,8 @@ h1 {
 
 .hint-container {
   position: absolute;
-  right: -10px;
-  top: -8px;
+  right: -2px;
+  top: 2px;
   height: 30px;
   width: 30px;
   overflow: visible;
@@ -173,14 +164,14 @@ h1 {
 }
 
 i {
-  font-size: 25px;
+  font-size: 17px;
   background-color: white;
   border-radius: 50%;
-  color: #545454;
+  color: #292932;
 }
 
 .hint-symbol {
-  background-color: black;
+  background-color: #292932;
   height: 20px;
   width: 20px;
   border-radius: 50%;
@@ -190,15 +181,15 @@ i {
   opacity: 0;
   visibility: hidden;
   display: block;
-  background-color: #545454;
-  color: white;
+  background-color: lavender;
+  color: #292932;
   text-transform: capitalize;
   width: 100px;
-  padding: 10px 10px 10px 8px;
+  padding: 3px;
   border-radius: 5px;
   position: absolute;
-  left: 17px;
-  top: -23px;
+  left: -82px;
+  top: -30px;
   z-index: -1;
 }
 
