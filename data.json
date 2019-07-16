@@ -1,7 +1,7 @@
 [
   {
     "title": "Beauty and the Beast",
-    "emojiImgs": ["🏰🥀🎶📚🕰️"],
+    "emojiImgs": "🏰🥀🎶📚🕰️",
     "genres": [
       "animation",
       "family",
@@ -12,7 +12,7 @@
   },
   {
     "title": "Game of Thrones",
-    "emojiImgs": ["🐉👑🗡️📚🧟"],
+    "emojiImgs": "🐉👑🗡️📚🧟",
     "genres": [
       "action",
       "adventure",
@@ -23,7 +23,7 @@
   },
   {
     "title": "The Lion King",
-    "emojiImgs": ["🦁👑🌍"],
+    "emojiImgs": "🦁👑🌍",
     "genres": [
       "animation",
       "adventure",
@@ -34,7 +34,7 @@
   },
   {
     "title": "Hamilton: The Musical",
-    "emojiImgs": ["💵🖋️⚖️🎵📜"],
+    "emojiImgs": "💵🖋️⚖️🎵📜",
     "genres": [
       "drama",
       "comedy",
@@ -45,7 +45,7 @@
   },
   {
     "title": "Harry Potter and the Chamber of Secrets",
-    "emojiImgs": ["🐍🧙‍♂️📓👩‍🦰⚡"],
+    "emojiImgs": "🐍🧙‍♂️📓👩‍🦰⚡",
     "genres": [
       "adventure",
       "family",
@@ -56,7 +56,7 @@
   },
   {
     "title": "Legally Blonde",
-    "emojiImgs": ["👩‍⚖️👠💘🏫🐶"],
+    "emojiImgs": "👩‍⚖️👠💘🏫🐶",
     "genres": [
       "romance",
       "comedy"
@@ -66,7 +66,7 @@
   },
   {
     "title": "Sixth Sense",
-    "emojiImgs": ["👻👦👀"],
+    "emojiImgs": "👻👦👀",
     "genres": [
       "drama",
       "mystery",
@@ -77,7 +77,7 @@
   },  
   {
     "title": "A Star is Born",
-    "emojiImgs": ["🎤👩👨🎸⭐"],
+    "emojiImgs": "🎤👩👨🎸⭐",
     "genres": [
       "action",
       "comedy",
@@ -88,7 +88,7 @@
   },
   {
     "title": "Black Panther",
-    "emojiImgs": ["😺🌍🏴💪🏿🦸🏿"],
+    "emojiImgs": "😺🌍🏴💪🏿🦸🏿",
     "genres": [
       "action",
       "comedy",
@@ -99,7 +99,7 @@
   },
   {
     "title": "Pirates of the Caribbean",
-    "emojiImgs": ["🍻🏴‍☠️🚢"],
+    "emojiImgs": "🍻🏴‍☠️🚢",
     "genres": [
       "action",
       "comedy",
@@ -110,7 +110,7 @@
   },
   {
     "title": "Up",
-    "emojiImgs": ["🎈🏠🐶👴🏻"],
+    "emojiImgs": "🎈🏠🐶👴🏻",
     "genres": [
       "action",
       "comedy",
@@ -121,7 +121,7 @@
   },
   {
     "title": "Space Jam",
-    "emojiImgs": ["🏀🛸🚀"],
+    "emojiImgs": "🏀🛸🚀",
     "genres": [
       "action",
       "comedy",
@@ -132,7 +132,7 @@
   },
   {
     "title": "Cast Away",
-    "emojiImgs": ["🏐🥥🏝️"],
+    "emojiImgs": "🏐🥥🏝️",
     "genres": [
       "action",
       "comedy",
@@ -143,7 +143,7 @@
   },
   {
     "title": "Fight Club",
-    "emojiImgs": ["🥊🧼🤐"],
+    "emojiImgs": "🥊🧼🤐",
     "genres": [
       "drama"
     ],
