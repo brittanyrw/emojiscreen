@@ -167,5 +167,15 @@
     ],
     "type": "movie",
     "year": 1989
+  },
+ {
+    "title": "Princess Bride",
+    "emojiImgs": "🏴‍☠️👸🔥🤺",
+    "genres": [
+      "adventure",
+      "family"
+    ],
+    "type": "movie",
+    "year": 1987
   }
 ]
