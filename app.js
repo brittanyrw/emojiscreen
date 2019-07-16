@@ -10,13 +10,8 @@ $(document).ready(function() {
         var emojiCard = '';
         
         for (var i in data) {
-
-          var imgs = '';
-          for (var j = 0; j < data[i].emojiImgs.length; j++){
-            imgs +=  data[i].emojiImgs[j];
-          }
           
-          emojiCard += "<div class='emoji-card'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + data[i].type + "</span></p></div><div class='emoji-images'>" + imgs + "</div><div class='emoji-card-title hide-card'><h3>" + data[i].title + " (" + data[i].year + ")" + "</h3></div></div>";
+          emojiCard += "<div class='emoji-card'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + data[i].type + "</span></p></div><div class='emoji-images'>" + data[i].emojiImgs + "</div><div class='emoji-card-title hide-card'><h3>" + data[i].title + " (" + data[i].year + ")" + "</h3></div></div>";
         }
         
         displayResources.html(emojiCard);

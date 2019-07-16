@@ -1,13 +1,7 @@
 [
   {
     "title": "Beauty and the Beast",
-    "emojiImgs": [
-      "💩",
-      "nature/wilted-flower.png",
-      "symbols/musical-note.png",
-      "objects/books.png",
-      "objects/mantelpiece-clock.png"
-    ],
+    "emojiImgs": ["🏰🥀🎶📚🕰️"],
     "genres": [
       "animation",
       "family",
@@ -18,13 +12,7 @@
   },
   {
     "title": "Game of Thrones",
-    "emojiImgs": [
-      "nature/dragon.png",
-      "animated/crown.gif",
-      "objects/dagger.png",
-      "people/zombie.png",
-      "objects/books.png"
-    ],
+    "emojiImgs": ["🐉👑🗡️📚🧟"],
     "genres": [
       "action",
       "adventure",
@@ -35,11 +23,7 @@
   },
   {
     "title": "The Lion King",
-    "emojiImgs": [
-      "nature/lion.png",
-      "animated/crown.gif",
-      "nature/globe-showing-europe-africa.png"
-    ],
+    "emojiImgs": ["🦁👑🌍"],
     "genres": [
       "animation",
       "adventure",
@@ -50,13 +34,7 @@
   },
   {
     "title": "Hamilton: The Musical",
-    "emojiImgs": [
-      "objects/dollar-banknote.png",
-      "objects/fountain-pen.png",
-      "objects/balance-scale.png",
-      "symbols/musical-notes.png",
-      "objects/scroll.png"
-    ],
+    "emojiImgs": ["💵🖋️⚖️🎵📜"],
     "genres": [
       "drama",
       "comedy",
@@ -67,13 +45,7 @@
   },
   {
     "title": "Harry Potter and the Chamber of Secrets",
-    "emojiImgs": [
-      "nature/snake.png",
-      "people/mage.png",
-      "objects/notebook.png",
-      "people/girl.png",
-      "nature/high-voltage.png"
-    ],
+    "emojiImgs": ["🐍🧙‍♂️📓👩‍🦰⚡"],
     "genres": [
       "action",
       "comedy",
@@ -84,13 +56,7 @@
   },
   {
     "title": "Legally Blonde",
-    "emojiImgs": [
-      "diversity/woman-judge-medium-light-skin-tone.png",
-      "people/high-heeled-shoe.png",
-      "animated/dog_face.gif",
-      "symbols/heart-with-arrow.png",
-      "travel/school.png"
-    ],
+    "emojiImgs": ["👩‍⚖️👠💘🏫🐶"],
     "genres": [
       "action",
       "comedy",
@@ -101,11 +67,7 @@
   },
   {
     "title": "Sixth Sense",
-    "emojiImgs": [
-      "animated/ghost.gif",
-      "people/boy.png",
-      "people/eyes.png"
-    ],
+    "emojiImgs": ["👻👦👀"],
     "genres": [
       "action",
       "comedy",
@@ -116,12 +78,7 @@
   },
   {
     "title": "A Star is Born",
-    "emojiImgs": [
-      "activity/microphone.png",
-      "people/couple-with-heart-woman-man.png",
-      "activity/guitar.png",
-      "nature/star.png"
-    ],
+    "emojiImgs": ["🎤👩👨🎸⭐"],
     "genres": [
       "action",
       "comedy",
@@ -132,13 +89,7 @@
   },
   {
     "title": "Black Panther",
-    "emojiImgs": [
-      "animated/cat_face.gif",
-      "flags/black-flag.png",
-      "diversity/flexed-biceps-dark-skin-tone.png",
-      "diversity/man-superhero-dark-skin-tone.png",
-      "nature/globe-showing-europe-africa.png"
-    ],
+    "emojiImgs": ["😺🌍🏴💪🏿🦸🏿"],
     "genres": [
       "action",
       "comedy",
@@ -148,12 +99,8 @@
     "year": 1994
   },
   {
-    "title": "Pirates of the Carabiane",
-    "emojiImgs": [
-      "animated/clinking_beer_mugs.gif",
-      "flags/pirate-flag.png",
-      "travel/ship.png"
-    ],
+    "title": "Pirates of the Caribbean",
+    "emojiImgs": ["🍻🏴‍☠️🚢"],
     "genres": [
       "action",
       "comedy",
@@ -164,12 +111,7 @@
   },
   {
     "title": "Up",
-    "emojiImgs": [
-      "objects/balloon.png",
-      "travel/house-with-garden.png",
-      "animated/dog_face.gif",
-      "diversity/old-man-light-skin-tone.png"
-    ],
+    "emojiImgs": ["🎈🏠🐶👴🏻"],
     "genres": [
       "action",
       "comedy",
@@ -180,11 +122,7 @@
   },
   {
     "title": "Space Jam",
-    "emojiImgs": [
-      "activity/basketball.png",
-      "travel/flying-saucer.png",
-      "animated/rocket.gif"
-    ],
+    "emojiImgs": ["🏀🛸🚀"],
     "genres": [
       "action",
       "comedy",
@@ -195,11 +133,7 @@
   },
   {
     "title": "Cast Away",
-    "emojiImgs": [
-      "activity/volleyball.png",
-      "food/coconut.png",
-      "animated/desert_island.gif"
-    ],
+    "emojiImgs": ["🏐🥥🏝️"],
     "genres": [
       "action",
       "comedy",
@@ -210,11 +144,7 @@
   },
   {
     "title": "Fight Club",
-    "emojiImgs": [
-      "activity/boxing-glove.png",
-      "objects/soap.png",
-      "animated/zipper_mouth_face.gif"
-    ],
+    "emojiImgs": ["🥊🧼🤐"],
     "genres": [
       "drama"
     ],
