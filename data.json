@@ -97,6 +97,16 @@
     "year": 2018
   },
   {
+    "title": "Home Alone",
+    "emojiImgs": "🏠🙈",
+    "genres": [
+      "comedy",
+      "family"
+    ],
+    "type": "movie",
+    "year": 1990
+  },
+  {
     "title": "Pirates of the Caribbean",
     "emojiImgs": "🍻🏴‍☠️🚢",
     "genres": [
