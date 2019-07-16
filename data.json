@@ -176,5 +176,16 @@
     ],
     "type": "movie",
     "year": 1986
+  },
+  {
+    "title": "Rent",
+    "emojiImgs": "🍃🍂🍁♥️",
+    "genres": [
+      "drama",
+      "musical",
+      "romance"
+    ],
+    "type": "movie",
+    "year": 2005
   }
 ]
