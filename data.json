@@ -167,5 +167,16 @@
     ],
     "type": "movie",
     "year": 1989
+  },
+ {
+    "title": "Guardians of the Galaxy",
+    "emojiImgs": "🚀🧑👽🐼🌲",
+    "genres": [
+      "action",
+       "adventure",
+       "comedy"
+    ],
+    "type": "movie",
+    "year": 2014
   }
 ]
