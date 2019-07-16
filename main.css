@@ -51,7 +51,10 @@ h1 {
   font-size: 72px;
   margin-top: 0;
   color: #545454;
-  @media screen and (max-width: 425px){
+}
+
+@media screen and (max-width: 667px){
+  h1 {
     font-size: 45px;
   }
 }
@@ -75,14 +78,8 @@ h1 {
 
 @media screen and (max-width: 662px){
   #emojis {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-
-@media screen and (max-width: 425px){
-  #emojis {
     grid-template-columns: 1fr;
-  }  
+  }
 }
 
 .emoji-card {

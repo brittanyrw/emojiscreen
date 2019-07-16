@@ -9,13 +9,11 @@
       "objects/mantelpiece-clock.png"
     ],
     "genres": [
-      "action",
-      "comedy",
-      "musical"
+      "animation",
+      "family",
+      "fantasy"
     ],
-    "type": [
-      "movie"
-    ],
+    "type": "movie",
     "year": 1991
   },
   {
@@ -29,12 +27,10 @@
     ],
     "genres": [
       "action",
-      "comedy",
-      "musical"
+      "adventure",
+      "drama"
     ],
-    "type": [
-      "tv"
-    ],
+    "type": "tv",
     "year": 2011
   },
   {
@@ -45,13 +41,11 @@
       "nature/globe-showing-europe-africa.png"
     ],
     "genres": [
-      "action",
-      "comedy",
-      "musical"
+      "animation",
+      "adventure",
+      "drama"
     ],
-    "type": [
-      "movie"
-    ],
+    "type": "movie",
     "year": 1994
   },
   {
@@ -64,13 +58,11 @@
       "objects/scroll.png"
     ],
     "genres": [
-      "action",
+      "drama",
       "comedy",
       "musical"
     ],
-    "type": [
-      "musical"
-    ],
+    "type": "musical",
     "year": 2015
   },
   {
@@ -87,9 +79,7 @@
       "comedy",
       "musical"
     ],
-    "type": [
-      "movie"
-    ],
+    "type": "movie",
     "year": 2002
   },
   {
@@ -106,9 +96,7 @@
       "comedy",
       "musical"
     ],
-    "type": [
-      "movie"
-    ],
+    "type": "movie",
     "year": 2001
   },
   {
@@ -123,9 +111,7 @@
       "comedy",
       "musical"
     ],
-    "type": [
-      "movie"
-    ],
+    "type": "movie",
     "year": 1994
   },
   {
@@ -141,9 +127,7 @@
       "comedy",
       "musical"
     ],
-    "type": [
-      "movie"
-    ],
+    "type": "movie",
     "year": 1994
   },
   {
@@ -160,15 +144,13 @@
       "comedy",
       "musical"
     ],
-    "type": [
-      "movie"
-    ],
+    "type": "movie",
     "year": 1994
   },
   {
     "title": "Pirates of the Carabiane",
     "emojiImgs": [
-      "animated/cat_face.gif",
+      "animated/clinking_beer_mugs.gif",
       "flags/pirate-flag.png",
       "travel/ship.png"
     ],
@@ -177,9 +159,7 @@
       "comedy",
       "musical"
     ],
-    "type": [
-      "movie"
-    ],
+    "type": "movie",
     "year": 1994
   },
   {
@@ -195,9 +175,7 @@
       "comedy",
       "musical"
     ],
-    "type": [
-      "movie"
-    ],
+    "type": "movie",
     "year": 1994
   },
   {
@@ -212,15 +190,13 @@
       "comedy",
       "musical"
     ],
-    "type": [
-      "movie"
-    ],
+    "type": "movie",
     "year": 1994
   },
   {
     "title": "Cast Away",
     "emojiImgs": [
-      "travel/house-with-garden.png",
+      "activity/volleyball.png",
       "food/coconut.png",
       "animated/desert_island.gif"
     ],
@@ -229,25 +205,7 @@
       "comedy",
       "musical"
     ],
-    "type": [
-      "movie"
-    ],
-    "year": 1994
-  },
-  {
-    "title": "Kingsman",
-    "emojiImgs": [
-      "nature/umbrella.png",
-      "animated/exploding_head.gif"
-    ],
-    "genres": [
-      "action",
-      "comedy",
-      "musical"
-    ],
-    "type": [
-      "movie"
-    ],
+    "type": "movie",
     "year": 1994
   }
 ]
