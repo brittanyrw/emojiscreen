@@ -176,11 +176,15 @@ Use the following object as a template:
 9. Run `git add -A` to add your changes.
 10. Add a commit message. Run the following command and replace with your movie or show name:  `git commit -m "Added Harry Potter the movie"`. 
 11. You may see a message asking for you to set your email and username. If you do not see that message (meaning you have run Git before on your machine), continue to the next step. Run the following commands, replacing "you@example.com" with your Github email and "Your name" with your github username:
+
 `git config --global user.email "you@example.com"`
+
 `git config --global user.name "Your Name"`
 
 Then re-run the commit command. Remember to replace with your show or movie: `git commit -m "Added Harry Potter the movie"`
+
 12. Run  `git push`. If you have not done this before, git push will not run until you login to your Github account. Type in your Github username and password. **NOTE: When you type your password, it will not show in the terminal. Press enter after you type your password to continue**.
+
 13. Go to the Github website and navigate to the `Pull Request` tab. Click on New `Pull Request`.
 
 ![Screenshot of a Pull Request on the Github website](readme/pull-request.png)
