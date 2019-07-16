@@ -196,6 +196,14 @@ Then re-run the commit command. Remember to replace with your show or movie: `gi
 14. Review your changes and then click `Create Pull Request`. Add any additional comments and then click on `Create Pull Request`.
 15. Wait for feedback/review of your Pull Request. If your Pull Request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com)!
 
+### Movie Examples
+
+Here are some links to top movie lists in case you're having trouble thinking of a movie to add!
+* [IMDB Top 100 drama list](https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc)
+* [IMDB Top 100 thriller list](https://www.imdb.com/search/title/?genres=thriller&groups=top_250&sort=user_rating,desc)
+* [IMDB Top 100 horror list](https://www.imdb.com/search/title/?genres=horror&groups=top_250&sort=user_rating,desc)
+* [IMDB Top 100 animated list](https://www.imdb.com/list/ls075496365/)
+
 ### Credits
 
 Emoji graphics are by Twitter and are licensed under CC-BY 4.0. Review the [Attribution Requirements](https://github.com/twitter/twemoji#attribution-requirements) for more information.

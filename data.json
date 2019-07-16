@@ -1,5 +1,4 @@
-[
-  {
+[{
     "title": "Beauty and the Beast",
     "emojiImgs": "🏰🥀🎶📚🕰️",
     "genres": ["animation", "family", "fantasy"],
@@ -104,7 +103,16 @@
     "type": "movie",
     "year": 2017
   },
-  {
+ {
+    "title": "Kiki's Delivery Service",
+    "emojiImgs": "👧🐱🧹📫",
+    "genres": [
+      "animated"
+    ],
+    "type": "movie",
+    "year": 1989
+  },
+   {
     "title": "It 2: It's coming!",
     "emojiImgs": "🎈🤡🎈🤡🎈🤡",
     "genres": ["horror", "thriller"],
