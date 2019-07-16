@@ -141,10 +141,10 @@ Use the following object as a template:
 #### Local Development
 
 ##### Required Downloads & Tools
-* Terminal (Mac OS) or Command Prompt. For Windows, Git Bash is recommended.
-* Git 
-* A text editor such as Sublime Text, Atom, Visual Studio Code, etc.
-* Python (optional)
+* Terminal (Mac OS) or Command Prompt. These are installed by default on your computer. Search for the program to open it. **For Windows, [Git Bash](https://gitforwindows.org/) is recommended.**
+* [Git](https://git-scm.com/downloads) - This is a version control tool.
+* A text editor such as [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [Visual Studio Code](https://code.visualstudio.com/download), etc.
+* [Python](https://www.python.org/downloads/) (optional). This will be used to run a web server on your local machine. To check if your computer already has Python installed, type `python --version` in your terminal. If you have Python, the terminal will print out the version number.
 
 ##### Local Development Instructions
 
@@ -153,7 +153,7 @@ Use the following object as a template:
 3. Download the project to your computer. Click on the `Clone or Download` button. Copy the HTTPS github repo link.
 4. In your terminal, navigate to where you would like to save the project (such as `cd Desktop`). Run the following command, replacing the following link with your copied link: `git clone https://github.com/your-username-will-be-here/emojiscreen.git`;
 5. In the terminal, navigate into the folder `cd emojiscreen`. 
-6. OPTIONAL: If you would like to view the project locally, open the `index.html` file in your browser.  To access `data.json`, you must run a web server. First, [download Python](https://www.python.org/downloads/). Then open a new terminal window, navigate to your project folder (you should be inside of the `emojiscreen` folder when running this command) and run the following [command](https://docs.python.org/2/library/simplehttpserver.html): `python -m SimpleHTTPServer 8000`. Navigate to localhost:8000 in your browser to see the project locally.
+6. OPTIONAL: If you would like to view the project locally, open the `index.html` file in your browser.  To access `data.json`, you must run a web server. First, [download Python](https://www.python.org/downloads/) if you do not have it already. Then open a new terminal window, navigate to your project folder (you should be inside of the `emojiscreen` folder when running this command) and run the following [command](https://docs.python.org/2/library/simplehttpserver.html): `python -m SimpleHTTPServer 8000`. Navigate to localhost:8000 in your browser to see the project locally.
 7. Open the `emojiscreen` project in your text editor of choice. Edit the `data.json` file and add a new object for your movie, TV show or musical at the bottom of the file. Make sure there is a comma between your object and the object above. Refer to the card overview above for requirements for the different object keys. 
 
 Use the following object as a template:
@@ -171,6 +171,19 @@ Use the following object as a template:
   "year": 1994
 }
 ```
-8. Make sure to save your files after you have made changes. Once you are done, go to the terminal and type `git status`.  
-9. 
+8. Make sure to save your files after you have made changes. Once you are done, go to the terminal and type `git status`. you should see `data.json` as modified.  
+9. Run `git add -A` to add your changes.
+10. Add a commit message. Run the following command and replace with your movie or show name:  `git commit -m "Added Harry Potter the movie"`. 
+11. You may see a message asking for you to set your email and username. If you do not see that message (meaning you have run Git before on your machine), continue to the next step. Run the following commands, replacing "you@example.com" with your Github email and "Your name" with your github username:
+`git config --global user.email "you@example.com"`
+`git config --global user.name "Your Name"`
+
+Then re-run the commit command. Remember to replace with your show or movie: `git commit -m "Added Harry Potter the movie"`
+12. Run  `git push`. If you have not done this before, git push will not run until you login to your Github account. Type in your Github username and password. **NOTE: When you type your password, it will not show in the terminal. Press enter after you type your password to continue**.
+13. Go to the Github website and navigate to the `Pull Request` tab. Click on New `Pull Request`.
+
+![Screenshot of a Pull Request on the Github website](readme/pull-request.png)
+
+14. Review your changes and then click `Create Pull Request`. Add any additional comments and then click on `Create Pull Request`.
+15. Wait for feedback/review of your Pull Request. If your Pull Request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com)!
 
