@@ -4,9 +4,9 @@
     "emojiImgs": [
       "travel/castle.png",
       "nature/wilted-flower.png",
-      "musical-note.png",
-      "books.png",
-      "mantelpiece-clock.png"
+      "symbols/musical-note.png",
+      "objects/books.png",
+      "objects/mantelpiece-clock.png"
     ],
     "genres": [
       "action",
@@ -14,19 +14,18 @@
       "musical"
     ],
     "type": [
-      "movie",
-      "musical"
+      "movie"
     ],
     "year": 1991
   },
   {
     "title": "Game of Thrones",
     "emojiImgs": [
-      "dragon.png",
+      "nature/dragon.png",
       "animated/crown.gif",
-      "dagger-knife.png",
-      "zombie.png",
-      "books.png"
+      "objects/dagger.png",
+      "people/zombie.png",
+      "objects/books.png"
     ],
     "genres": [
       "action",
@@ -41,9 +40,9 @@
   {
     "title": "The Lion King",
     "emojiImgs": [
-      "lion-face.png",
+      "nature/lion.png",
       "animated/crown.gif",
-      "earth-globe-europe-africa.png"
+      "nature/globe-showing-europe-africa.png"
     ],
     "genres": [
       "action",
@@ -51,19 +50,18 @@
       "musical"
     ],
     "type": [
-      "movie",
-      "musical"
+      "movie"
     ],
     "year": 1994
   },
   {
-    "title": "Hamilton",
+    "title": "Hamilton: The Musical",
     "emojiImgs": [
-      "banknote-with-dollar-sign.png",
-      "lower-left-fountain-pen.png",
-      "scales.png",
-      "musical-note.png",
-      "scroll.png"
+      "objects/dollar-banknote.png",
+      "objects/fountain-pen.png",
+      "objects/balance-scale.png",
+      "symbols/musical-notes.png",
+      "objects/scroll.png"
     ],
     "genres": [
       "action",
@@ -79,10 +77,10 @@
     "title": "Harry Potter and the Chamber of Secrets",
     "emojiImgs": [
       "nature/snake.png",
-      "mage.png",
-      "notebook.png",
-      "girl.png",
-      "high-voltage-sign.png"
+      "people/mage.png",
+      "objects/notebook.png",
+      "people/girl.png",
+      "nature/high-voltage.png"
     ],
     "genres": [
       "action",
@@ -97,11 +95,11 @@
   {
     "title": "Legally Blonde",
     "emojiImgs": [
-      "female-judge.png",
-      "high-heeled-shoe.png",
+      "diversity/woman-judge-medium-light-skin-tone.png",
+      "people/high-heeled-shoe.png",
       "animated/dog_face.gif",
-      "heart-with-arrow.png",
-      "school.png"
+      "symbols/heart-with-arrow.png",
+      "travel/school.png"
     ],
     "genres": [
       "action",
@@ -109,8 +107,7 @@
       "musical"
     ],
     "type": [
-      "movie",
-      "musical"
+      "movie"
     ],
     "year": 2001
   },
@@ -118,8 +115,8 @@
     "title": "Sixth Sense",
     "emojiImgs": [
       "animated/ghost.gif",
-      "boy.png",
-      "eyes.png"
+      "people/boy.png",
+      "people/eyes.png"
     ],
     "genres": [
       "action",
@@ -134,10 +131,10 @@
   {
     "title": "A Star is Born",
     "emojiImgs": [
-      "microphone.png",
-      "couple-with-heart-woman-man.png",
-      "guitar.png",
-      "white-medium-star.png"
+      "activity/microphone.png",
+      "people/couple-with-heart-woman-man.png",
+      "activity/guitar.png",
+      "nature/star.png"
     ],
     "genres": [
       "action",
@@ -153,10 +150,27 @@
     "title": "Black Panther",
     "emojiImgs": [
       "animated/cat_face.gif",
-      "waving-black-flag.png",
-      "flexed-biceps-dark-skin.png",
-      "man-superhero-dark-skin-tone.png",
-      "earth-globe-europe-africa.png"
+      "flags/black-flag.png",
+      "diversity/flexed-biceps-dark-skin-tone.png",
+      "diversity/man-superhero-dark-skin-tone.png",
+      "nature/globe-showing-europe-africa.png"
+    ],
+    "genres": [
+      "action",
+      "comedy",
+      "musical"
+    ],
+    "type": [
+      "movie"
+    ],
+    "year": 1994
+  },
+  {
+    "title": "Pirates of the Carabiane",
+    "emojiImgs": [
+      "animated/cat_face.gif",
+      "flags/pirate-flag.png",
+      "travel/ship.png"
     ],
     "genres": [
       "action",
@@ -171,10 +185,10 @@
   {
     "title": "Up",
     "emojiImgs": [
-      "balloon.png",
+      "objects/balloon.png",
       "travel/house-with-garden.png",
       "animated/dog_face.gif",
-      "older-man-light-skin.png"
+      "diversity/old-man-light-skin-tone.png"
     ],
     "genres": [
       "action",
@@ -189,10 +203,42 @@
   {
     "title": "Space Jam",
     "emojiImgs": [
-      "balloon.png",
+      "activity/basketball.png",
+      "travel/flying-saucer.png",
+      "animated/rocket.gif"
+    ],
+    "genres": [
+      "action",
+      "comedy",
+      "musical"
+    ],
+    "type": [
+      "movie"
+    ],
+    "year": 1994
+  },
+  {
+    "title": "Cast Away",
+    "emojiImgs": [
       "travel/house-with-garden.png",
-      "animated/rocket.gif",
-      "older-man-light-skin.png"
+      "food/coconut.png",
+      "animated/desert_island.gif"
+    ],
+    "genres": [
+      "action",
+      "comedy",
+      "musical"
+    ],
+    "type": [
+      "movie"
+    ],
+    "year": 1994
+  },
+  {
+    "title": "Kingsman",
+    "emojiImgs": [
+      "nature/umbrella.png",
+      "animated/exploding_head.gif"
     ],
     "genres": [
       "action",
