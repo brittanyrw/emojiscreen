@@ -66,7 +66,7 @@ Using JavaScript, the emojis are converted into [Twemoji (Twitter's emoji versio
 
 ### Genres 🔍
 
-For movies and TV shows, go to the IMDB profile and find the genres listed. Add these genres to the `Emoji Card` object. See the below screenshot for the genre listing in IMDB profiles.
+For movies and TV shows, go to the IMDB profile and find the genres listed under the title. Add these genres to the `Emoji Card` object. See the below screenshot for the genre listing in IMDB profiles.
 
 ![Screenshot of the Beauty and the Beast IDMB profile with the genres circled](readme/imdb-screenshot.png)
 
@@ -75,8 +75,8 @@ For musicals, include the `musical` genre and up to two other genres from the li
 |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|
 | action  | adventure  | animation  | biography  | comedy  | crime  | documentary  | drama  |
-| family  | fantasy  | film-noir  | history  | horror  | musical  | music  | mystery  |
-| news  | romance  | sci-fi   | sport  | thriller  | war   | western  |   |
+| family  | fantasy  | film-noir  | history  | horror  | music  | mystery  | news  |
+| romance  | sci-fi  | sport   | thriller  | war  | western   |   |   |
 |   |   |   |   |   |   |   |   |
 
 ### Type 🎬
