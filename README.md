@@ -50,7 +50,7 @@ Each card must have a title. This should be the full title.
 
 The emojis should be added to  `emojiImgs` as a string. 
 
-## **Five emojis maximum for each card**
+## **Add five emojis maximum for each card**
 
 ``` 
 {
@@ -101,11 +101,11 @@ Specify the year the movie or show was released or first aired. This should be a
 }
 ```
 
-### Walkthrough 🚶‍
+## Walkthrough 🚶‍
 
 Follow these intstructions to add a card. You can add a card using the Github website user interface or by cloning this repository to your local machine. If you do not already have one, create a Github account before proceeding.
 
-#### Github UI
+## Github UI
 1. Fork this repository. This will create a copy of the repository and create a new reposititory on your account. Note: the `Fork` button is located in the top right area of the repo.
 2. Once the repo is forked, you will be taken to the forked repo. Note: In the top left, the name of the repo should now include your username.
 3. Navigate to the `data.json` file in your forked repo by clicking on the file name.
@@ -138,15 +138,15 @@ Use the following object as a template:
 7. Review your changes and then click `Create Pull Request`. Add any additional comments and then click on `Create Pull Request`.
 8. Wait for feedback/review of your Pull Request. If your Pull Request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com)!
 
-#### Local Development
+## Local Development
 
-##### Required Downloads & Tools
+### Required Downloads & Tools
 * Terminal (Mac OS) or Command Prompt. These are installed by default on your computer. Search for the program to open it. **For Windows, [Git Bash](https://gitforwindows.org/) is recommended.**
 * [Git](https://git-scm.com/downloads) - This is a version control tool.
 * A text editor such as [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [Visual Studio Code](https://code.visualstudio.com/download), etc.
 * [Python](https://www.python.org/downloads/) (optional). This will be used to run a web server on your local machine. To check if your computer already has Python installed, type `python --version` in your terminal. If you have Python, the terminal will print out the version number.
 
-##### Local Development Instructions
+### Local Development Instructions
 
 1. Fork this repository. This will create a copy of the repository and create a new reposititory on your account.
 2. Once the repo is forked, you will be taken to the forked repo. 
