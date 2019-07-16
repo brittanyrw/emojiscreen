@@ -207,5 +207,18 @@
     ],
     "type": "movie",
     "year": 1994
+  },
+  {
+    "title": "Fight Club",
+    "emojiImgs": [
+      "activity/boxing-glove.png",
+      "object/soap.png",
+      "animated/zipper_mouth_face.gif"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "type": "movie",
+    "year": 1999
   }
 ]
