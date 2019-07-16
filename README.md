@@ -44,6 +44,9 @@ To add a new card to the website, add a new JSON object in the `data.json` file.
 
 ### Emoji Images
 
+Click here to view a webpage listing all of the possible emojis that you can choose from and their correct filepaths. 
+
+
 
   <!-- "emojiImgs": [
       "nature/lion.png",
