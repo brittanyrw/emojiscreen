@@ -104,7 +104,7 @@ Western
 
 ### Walkthrough
 
-Follow these intstructions to add a card. You can add a card using the Github website user interface or by cloning this repository to your local machine. If you do not already have one, create a Github account.
+Follow these intstructions to add a card. You can add a card using the Github website user interface or by cloning this repository to your local machine. If you do not already have one, create a Github account before proceeding.
 
 #### Github UI
 1. Fork this repository. This will create a copy of the repository and create a new reposititory on your account.
@@ -137,7 +137,39 @@ Follow these intstructions to add a card. You can add a card using the Github we
 
 #### Local Development
 
-##### Required Downloads
-* Git is a version control tool. We will use this to track changes in our code and also to push code from your local copy of this project 
+##### Required Downloads & Tools
+* Terminal (Mac OS) or Command Prompt. For Windows, Git Bash is recommended.
+* Git 
 * A text editor such as Sublime Text, Atom, Visual Studio Code, etc.
 * Python (optional)
+
+##### Local Development Instructions
+
+1. Fork this repository. This will create a copy of the repository and create a new reposititory on your account.
+2. Once the repo is forked, you will be taken to the forked repo. 
+3. Download the project to your computer. Click on the `Clone or Download` button. Copy the HTTPS github repo link.
+4. In your terminal, navigate to where you would like to save the project (such as `cd Desktop`). Run the following command, replacing the following link with your copied link: `git clone https://github.com/your-username-will-be-here/emojiscreen.git`;
+5. In the terminal, navigate into the folder `cd emojiscreen`. 
+6. OPTIONAL: If you would like to view the project locally, open the `index.html` file in your browser.  To view the emoji images locally, you must run a web server. First, [download Python](https://www.python.org/downloads/). Then open a new terminal window, navigate to your project folder (you should be inside of the `emojiscreen` folder when running this command) and run the following [command](https://docs.python.org/2/library/simplehttpserver.html): `python -m SimpleHTTPServer 8000`. Navigate to localhost:8000 in your browser to see the project locally.
+7. Open the `emojiscreen` project in your text editor of choice. Edit the `data.json` file and create a new object for your movie, TV show or musical. Refer to the card overview above for requirements for the object. Use the following object as a template:
+
+``` 
+{
+    "title": "The Lion King",
+    "emojiImgs": [
+        "nature/lion.png",
+        "animated/crown.gif",
+        "nature/cat.png"
+    ],
+    "genres": [
+        "animation",
+        "adventure",
+        "drama"
+    ],
+    "type": "movie",
+    "year": 1994
+  }
+```
+8. Make sure to save your files after you have made changes. Once you are done, go to the terminal and type `git status`. This 
+9. 
+
