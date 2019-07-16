@@ -187,3 +187,6 @@ Then re-run the commit command. Remember to replace with your show or movie: `gi
 14. Review your changes and then click `Create Pull Request`. Add any additional comments and then click on `Create Pull Request`.
 15. Wait for feedback/review of your Pull Request. If your Pull Request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com)!
 
+### Credits
+
+Emoji graphics are by Twitter and are licensed under CC-BY 4.0. Review the [Attribution Requirements](https://github.com/twitter/twemoji#attribution-requirements) for more information.
