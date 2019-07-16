@@ -169,14 +169,12 @@
     "year": 1989
   },
  {
-    "title": "Guardians of the Galaxy",
-    "emojiImgs": "🚀🧑👽🐼🌲",
+    "title": "Bungou Stray Dogs: Dead Apple",
+    "emojiImgs": "🍎🗡🐶🇯🇵",
     "genres": [
-      "action",
-       "adventure",
-       "comedy"
+      "animation"
     ],
     "type": "movie",
-    "year": 2014
+    "year": 2018
   }
 ]
