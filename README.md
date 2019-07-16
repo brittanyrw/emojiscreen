@@ -74,10 +74,9 @@ For musicals, include the `musical` genre and up to two other genres from the li
 
 |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|
-| Action  | Adult  | Adventure  | Animation  | Biography  | Comedy  | Crime  | Documentary  |
-| Drama  | Family  | Fantasy  | Film Noir  | Game-Show  | History  | Horror  | Musical  |
-| Music  | Mystery  | News  | Reality-TV   | Romance  | Sci-Fi   | Short  | Sport  |
-| Talk-Show  | Thriller  | War  | Western  |  |   |   |   |
+| action  | adventure  | animation  | biography  | comedy  | crime  | documentary  | drama  |
+| family  | fantasy  | film-noir  | history  | horror  | musical  | music  | mystery  |
+| news  | romance  | sci-fi   | sport  | thriller  | war   | western  |   |
 |   |   |   |   |   |   |   |   |
 
 ### Type 🎬
