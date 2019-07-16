@@ -1,6 +1,4 @@
 $(document).ready(function() {
- 
-    var displayResources = $("#emojis");
 
     $.ajax({
       type: "GET",

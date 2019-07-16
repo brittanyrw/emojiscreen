@@ -1,6 +1,6 @@
 # EmojiScreen 📺
 
-![Screenshot of Emojiscreen homepage](readme/emoji-screen.png)
+![Screenshot of Emojiscreen homepage]()
 
 [EmojiScreen](https://emojiscreen.com) is a listing of movies, TV shows and musicals depicted through emojis. 
 
@@ -16,25 +16,21 @@ Read below for a detailed overview and walkthrough on how to add an `Emoji Card`
 
 On the website, each `Emoji Card` displays images of the emojis, a hint icon that will show the type (musical, movie or TV show) when the user hovers and the name of the show, which appears when the user clicks on a card. 
 
-![Screenshot of Beauty and the Beast Emoji Card](readme/emoji-card.png)
+![Screenshot of Beauty and the Beast Emoji Card]()
 
 In the code, each `Emoji Card` consists of the following JSON:
 
 ``` 
 {
-    "title": "The Lion King",
-    "emojiImgs": [
-        "nature/lion.png",
-        "animated/crown.gif",
-        "nature/cat.png"
-    ],
+    "title": "Beauty and the Beast",
+    "emojiImgs": ["🏰🥀🎶📚🕰️"],
     "genres": [
-        "animation",
-        "adventure",
-        "drama"
+      "animation",
+      "family",
+      "fantasy"
     ],
     "type": "movie",
-    "year": 1994
+    "year": 1991
   }
 ```
 
@@ -116,17 +112,13 @@ Follow these intstructions to add a card. You can add a card using the Github we
 4. Edit the `data.json` file and create a new object for your movie, TV show or musical. Refer to the card overview above for requirements for the object. Use the following object as a template:
 
 ``` 
-{
-    "title": "The Lion King",
-    "emojiImgs": [
-        "nature/lion.png",
-        "animated/crown.gif",
-        "nature/cat.png"
-    ],
+ {
+    "title": "Black Panther",
+    "emojiImgs": ["😺🌍🏴💪🏿🦸🏿"],
     "genres": [
-        "animation",
-        "adventure",
-        "drama"
+      "action",
+      "comedy",
+      "musical"
     ],
     "type": "movie",
     "year": 1994
@@ -153,26 +145,22 @@ Follow these intstructions to add a card. You can add a card using the Github we
 3. Download the project to your computer. Click on the `Clone or Download` button. Copy the HTTPS github repo link.
 4. In your terminal, navigate to where you would like to save the project (such as `cd Desktop`). Run the following command, replacing the following link with your copied link: `git clone https://github.com/your-username-will-be-here/emojiscreen.git`;
 5. In the terminal, navigate into the folder `cd emojiscreen`. 
-6. OPTIONAL: If you would like to view the project locally, open the `index.html` file in your browser.  To view the emoji images locally, you must run a web server. First, [download Python](https://www.python.org/downloads/). Then open a new terminal window, navigate to your project folder (you should be inside of the `emojiscreen` folder when running this command) and run the following [command](https://docs.python.org/2/library/simplehttpserver.html): `python -m SimpleHTTPServer 8000`. Navigate to localhost:8000 in your browser to see the project locally.
+6. OPTIONAL: If you would like to view the project locally, open the `index.html` file in your browser.  To access `data.json`, you must run a web server. First, [download Python](https://www.python.org/downloads/). Then open a new terminal window, navigate to your project folder (you should be inside of the `emojiscreen` folder when running this command) and run the following [command](https://docs.python.org/2/library/simplehttpserver.html): `python -m SimpleHTTPServer 8000`. Navigate to localhost:8000 in your browser to see the project locally.
 7. Open the `emojiscreen` project in your text editor of choice. Edit the `data.json` file and create a new object for your movie, TV show or musical. Refer to the card overview above for requirements for the object. Use the following object as a template:
 
 ``` 
 {
     "title": "The Lion King",
-    "emojiImgs": [
-        "nature/lion.png",
-        "animated/crown.gif",
-        "nature/cat.png"
-    ],
+    "emojiImgs": ["🦁👑🌍"],
     "genres": [
-        "animation",
-        "adventure",
-        "drama"
+      "animation",
+      "adventure",
+      "drama"
     ],
     "type": "movie",
     "year": 1994
   }
 ```
-8. Make sure to save your files after you have made changes. Once you are done, go to the terminal and type `git status`. This 
+8. Make sure to save your files after you have made changes. Once you are done, go to the terminal and type `git status`.  
 9. 
 
