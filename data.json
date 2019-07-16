@@ -168,4 +168,15 @@
     "type": "movie",
     "year": 1989
   }
+ {
+    "title": "Chicago",
+    "emojiImgs": "🎷👯🔫👠🕺",
+    "genres": [
+      "musical",
+      "drama",
+      "comedy"
+    ],
+    "type": "movie",
+    "year": 2002
+  }
 ]
