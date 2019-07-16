@@ -120,11 +120,11 @@ Use the following object as a template:
   "emojiImgs": "😺🌍🏴💪🏿🦸🏿",
   "genres": [
     "action",
-    "comedy",
-    "musical"
+    "adventure",
+    "sci-fi"
   ],
   "type": "movie",
-  "year": 1994
+  "year": 2018
 }
 ```
 
