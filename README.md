@@ -195,10 +195,10 @@ Then re-run the commit command. Remember to replace with your show or movie: `gi
 ### Movie Examples
 
 Here are some links to top movie lists in case you're having trouble thinking of a movie to add!
-[IMDB Top 100 drama list](https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc)
-[IMDB Top 100 thriller list](https://www.imdb.com/search/title/?genres=thriller&groups=top_250&sort=user_rating,desc)
-[IMDB Top 100 horror list](https://www.imdb.com/search/title/?genres=horror&groups=top_250&sort=user_rating,desc)
-[IMDB Top 100 animated list](https://www.imdb.com/list/ls075496365/)
+* [IMDB Top 100 drama list](https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc)
+* [IMDB Top 100 thriller list](https://www.imdb.com/search/title/?genres=thriller&groups=top_250&sort=user_rating,desc)
+* [IMDB Top 100 horror list](https://www.imdb.com/search/title/?genres=horror&groups=top_250&sort=user_rating,desc)
+* [IMDB Top 100 animated list](https://www.imdb.com/list/ls075496365/)
 
 ### Credits
 
