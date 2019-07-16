@@ -167,5 +167,14 @@
     ],
     "type": "movie",
     "year": 1989
+  },
+ {
+    "title": "Wicked",
+    "emojiImgs": "💚🧹🧙‍♂️",
+    "genres": [
+      "fantasy"
+    ],
+    "type": "musical",
+    "year": 2003
   }
 ]
