@@ -253,6 +253,16 @@
          "type":"movie",
          "year":1994
       },{
+         "title":"Miss Saigon",
+         "emojiImgs":"🇻🇳💑🚁👶",
+         "genres":[
+            "drama",
+            "war",
+            "musical"
+         ],
+         "type":"musical",
+         "year":1991
+      },{
         "title":"On the Town",
         "emojiImgs":"⚓🚢",
         "genres":[
