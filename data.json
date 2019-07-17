@@ -169,6 +169,25 @@
     "year": 1989
   },
  {
+    "title": "Wicked",
+    "emojiImgs": "💚🧹🧙‍♂️",
+    "genres": [
+      "fantasy"
+    ],
+    "type": "musical",
+    "year": 2003
+  },
+  {
+    "title": "The 25th Annual Putnum County Spelling Bee",
+    "emojiImgs": "🔤🐝😂",
+    "genres": [
+      "musical",
+      "comedy"
+    ],
+    "type": "musical",
+    "year": 2005
+  }
+  {
     "title": "Chicago",
     "emojiImgs": "🎷👯🔫👠🕺",
     "genres": [
@@ -437,5 +456,24 @@
 		],
 		"type": "movie",
 		"year": 2008
-	}
+	},
+ {
+    "title": "Wicked",
+    "emojiImgs": "💚🧹🧙‍♂️",
+    "genres": [
+      "fantasy"
+    ],
+    "type": "musical",
+    "year": 2003
+  },
+  {
+    "title": "The 25th Annual Putnum County Spelling Bee",
+    "emojiImgs": "🔤🐝😂",
+    "genres": [
+      "musical",
+      "comedy"
+    ],
+    "type": "musical",
+    "year": 2005
+  }
 ]
