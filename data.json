@@ -178,7 +178,26 @@
     "type": "movie",
     "year": 1989
   },
- {
+  {
+    "title": "The Color Purple",
+    "emojiImgs": "💜🏃🏾‍♀️🧘🏾‍♀️",
+    "genres": [
+      "drama"
+    ],
+    "type": "movie",
+    "year": 1986
+  },
+  {
+    "title": "Rent",
+    "emojiImgs": "🍃🍂🍁♥️",
+    "genres": [
+      "drama",
+      "musical",
+      "romance"
+    ],
+    "type": "movie",
+    "year": 2005
+  },{
     "title": "Princess Bride",
     "emojiImgs": "🏴‍☠️👸🔥🤺",
     "genres": [
