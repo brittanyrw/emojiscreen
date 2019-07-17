@@ -168,6 +168,27 @@
     "type": "movie",
     "year": 1989
   },
+   {
+    "title": "Devil Wears Prada",
+    "emojiImgs": "😈💄👠🧣👓",
+    "genres": [
+      "comedy",
+        "drama"
+    ],
+    "type": "movie",
+    "year": 2006
+  },
+     {
+    "title": "Kung Fu Panda",
+    "emojiImgs": "🐼🎍🇨🇳🥟🍚",
+    "genres": [
+      "Animation",
+        "Action",
+        "Adventure"
+    ],
+    "type": "movie",
+    "year": 2008
+  },
  {
     "title": "Wicked",
     "emojiImgs": "💚🧹🧙‍♂️",
