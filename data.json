@@ -68,6 +68,15 @@
         "type":"movie",
         "year":2018
      },{
+        "title":"The Book of Mormon",
+        "emojiImgs":"👋🔔👨📖✝️",
+        "genres":[
+           "comedy",
+           "satire"
+        ],
+        "type":"musical",
+        "year":2011
+     },{
         "title":"Bungou Stray Dogs: Dead Apple",
         "emojiImgs":"🍎🗡🐶🇯🇵",
         "genres":[
