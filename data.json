@@ -309,6 +309,15 @@
          "type":"movie",
          "year":2019
       },{
+         "title":"School of Rock",
+         "emojiImgs":"🏫🎸🥁🎹",
+         "genres":[
+            "comedy",
+            "music"
+         ],
+         "type":"movie",
+         "year":2003
+      },{
         "title":" Seven ",
         "emojiImgs":"  🕵🔪👮‍♂️😈",
         "genres":[
