@@ -183,9 +183,9 @@
       "title":"Kung Fu Panda",
       "emojiImgs":"🐼🎍🇨🇳🥟🍚",
       "genres":[
-         "Animation",
-         "Action",
-         "Adventure"
+         "animation",
+         "action",
+         "adventure"
       ],
       "type":"movie",
       "year":2008
@@ -232,7 +232,7 @@
       "year":2019
    },
    {
-      "title":"On the town",
+      "title":"On the Town",
       "emojiImgs":"⚓🚢",
       "genres":[
          "comedy"
@@ -250,104 +250,6 @@
       "year":1979
    },
    {
-      "title":"Beauty and the Beast",
-      "emojiImgs":"🏰🥀🎶📚🕰️",
-      "genres":[
-         "animation",
-         "family",
-         "fantasy"
-      ],
-      "type":"movie",
-      "year":1991
-   },
-   {
-      "title":"Game of Thrones",
-      "emojiImgs":"🐉👑🗡️📚🧟",
-      "genres":[
-         "action",
-         "adventure",
-         "drama"
-      ],
-      "type":"tv",
-      "year":2011
-   },
-   {
-      "title":"The Lion King",
-      "emojiImgs":"🦁👑🌍",
-      "genres":[
-         "animation",
-         "adventure",
-         "drama"
-      ],
-      "type":"movie",
-      "year":1994
-   },
-   {
-      "title":"Hamilton: The Musical",
-      "emojiImgs":"💵🖋️⚖️🎵📜",
-      "genres":[
-         "drama",
-         "comedy",
-         "musical"
-      ],
-      "type":"musical",
-      "year":2015
-   },
-   {
-      "title":"Harry Potter and the Bucket of Money",
-      "emojiImgs":"🐍🧙‍♂️📓👩‍🦰⚡",
-      "genres":[
-         "adventure",
-         "family",
-         "fantasy"
-      ],
-      "type":"movie",
-      "year":2002
-   },
-   {
-      "title":"Legally Blonde",
-      "emojiImgs":"👩‍⚖️👠💘🏫🐶",
-      "genres":[
-         "romance",
-         "comedy"
-      ],
-      "type":"movie",
-      "year":2001
-   },
-   {
-      "title":"Sixth Sense",
-      "emojiImgs":"👻👦👀",
-      "genres":[
-         "drama",
-         "mystery",
-         "thriller"
-      ],
-      "type":"movie",
-      "year":1999
-   },
-   {
-      "title":"A Star is Born",
-      "emojiImgs":"🎤👩👨🎸⭐",
-      "genres":[
-         "action",
-         "comedy",
-         "musical"
-      ],
-      "type":"movie",
-      "year":1994
-   },
-   {
-      "title":"Black Panther",
-      "emojiImgs":"😺🌍🏴💪🏿🦸🏿",
-      "genres":[
-         "action",
-         "adventure",
-         "sci-fi"
-      ],
-      "type":"movie",
-      "year":2018
-   },
-   {
       "title":"Home Alone",
       "emojiImgs":"🏠🙈",
       "genres":[
@@ -356,78 +258,6 @@
       ],
       "type":"movie",
       "year":1990
-   },
-   {
-      "title":"Pirates of the Caribbean",
-      "emojiImgs":"🍻🏴‍☠️🚢",
-      "genres":[
-         "action",
-         "comedy",
-         "musical"
-      ],
-      "type":"movie",
-      "year":1994
-   },
-   {
-      "title":"Up",
-      "emojiImgs":"🎈🏠🐶👴🏻",
-      "genres":[
-         "action",
-         "comedy",
-         "musical"
-      ],
-      "type":"movie",
-      "year":1994
-   },
-   {
-      "title":"Space Jam",
-      "emojiImgs":"🏀🛸🚀",
-      "genres":[
-         "action",
-         "comedy",
-         "musical"
-      ],
-      "type":"movie",
-      "year":1994
-   },
-   {
-      "title":"Cast Away",
-      "emojiImgs":"🏐🥥🏝️",
-      "genres":[
-         "action",
-         "comedy",
-         "musical"
-      ],
-      "type":"movie",
-      "year":1994
-   },
-   {
-      "title":"Fight Club",
-      "emojiImgs":"🥊🧼🤐",
-      "genres":[
-         "drama"
-      ],
-      "type":"movie",
-      "year":1999
-   },
-   {
-      "title":"It",
-      "emojiImgs":"🎈🤡☔🚲",
-      "genres":[
-         "horror",
-         "thriller"
-      ],
-      "type":"movie",
-      "year":2017
-   },
-   {
-      "title":"Kiki's Delivery Service",
-      "emojiImgs":"👧🐱🧹📫",
-      "genres":[
-         "animated"
-      ],
-      "type":"movie",
-      "year":1989
    },
    {
       "title":"300 ",
@@ -461,23 +291,13 @@
       "year":2019
    },
    {
-      "title":"Home Alone",
-      "emojiImgs":"🏠🙈",
-      "genres":[
-         "comedy",
-         "family"
-      ],
-      "type":"new movie",
-      "year":1990
-   },
-   {
       "title":"Bungou Stray Dogs: Dead Apple",
       "emojiImgs":"🍎🗡🐶🇯🇵",
       "genres":[
          "animation"
       ],
       "type":"movie",
-      "year":2018
+      "year": 2018
    },
    {
       "title":"It 2: It's coming!",
