@@ -135,7 +135,7 @@ If you are already comfortable using Github and Git, feel free to skip the instr
 1. Fork this repository. This will create a copy of the repository and create a new reposititory on your account. Note: the `Fork` button is located in the top right area of the repo.
 2. Once the repo is forked, you will be taken to the forked repo. Note: In the top left, the name of the repo should now include your username.
 3. Navigate to the `data.json` file in your forked repo by clicking on the file name.
-4. Edit the `data.json` file by clicking on the pencil icon and add a new object for your movie, TV show or musical at the bottom of the file. Make sure there is a comma between your object and the object above. Refer to the card overview above for requirements for the different object keys.
+4. Edit the `data.json` file by clicking on the pencil icon and add a new object for your movie, TV show or musical in alphabetical order. **Note: If the movie title starts with 'The' then use the next word for alphabetical order.** Make sure there is a comma between your object and the object above and below. Refer to the card overview above for requirements for the different object keys.
 
 Use the following object as a template:
 
@@ -181,7 +181,7 @@ Use the following object as a template:
 4. In your terminal, navigate to where you would like to save the project (such as `cd Desktop`). Run the following command, replacing the following link with your copied link: `git clone https://github.com/your-username-will-be-here/emojiscreen.git`;
 5. In the terminal, navigate into the folder `cd emojiscreen`.
 6. OPTIONAL: If you would like to view the project locally, open the `index.html` file in your browser. To access `data.json`, you must run a web server. First, [download Python](https://www.python.org/downloads/) if you do not have it already. Then open a new terminal window, navigate to your project folder (you should be inside of the `emojiscreen` folder when running this command) and run the following [command](https://docs.python.org/2/library/simplehttpserver.html): `python -m SimpleHTTPServer 8000`. Navigate to localhost:8000 in your browser to see the project locally.
-7. Open the `emojiscreen` project in your text editor of choice. Edit the `data.json` file and add a new object for your movie, TV show or musical at the bottom of the file. Make sure there is a comma between your object and the object above. Refer to the card overview above for requirements for the different object keys.
+7. Open the `emojiscreen` project in your text editor of choice. Edit the `data.json` file and add a new object for your movie, TV show or musical alphabetical order. **Note: If the movie title starts with 'The' then use the next word for alphabetical order.**. Make sure there is a comma between your object and the object above and below. Refer to the card overview above for requirements for the different object keys.
 
 Use the following object as a template:
 
