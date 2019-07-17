@@ -126,9 +126,9 @@ Specify the year the movie or show was released or first aired. This should be a
 
 ## Walkthrough 🚶‍
 
-Follow these intstructions to add a card. You can add a card using the Github website user interface or by cloning this repository to your local machine. If you do not already have one, create a Github account before proceeding.
+Follow these intstructions to add a card. You can add a card using the Github website user interface or on your local machine. If you do not already have one, create a Github account before proceeding.
 
-If you are already comfortable using Github and Git, feel free to skip the instructions below and make a pull request using whatever method you prefer!
+> If you are already comfortable using Github and Git, feel free to skip the instructions below and make a pull request using whatever method you prefer!
 
 ## Github UI
 
