@@ -121,6 +121,16 @@
         "type":"movie",
         "year":1999
      },{
+        "title":"Frozen",
+        "emojiImgs":"👭☃️❄️",
+        "genres":[
+           "animation",
+           "adventure",
+           "comedy"
+        ],
+        "type":"movie",
+        "year":2013
+     },{
         "title":"Game of Thrones",
         "emojiImgs":"🐉👑🗡️📚🧟",
         "genres":[
@@ -214,8 +224,16 @@
         ],
         "type":"movie",
         "year":2001
-     },
-     {
+     },{
+        "title":"Les Misérables",
+        "emojiImgs":"🇫🇷🥖👮🏻",
+        "genres":[
+           "drama",
+           "history"
+        ],
+        "type":"musical",
+        "year":1987
+     },{
          "title":"The Lion King",
          "emojiImgs":"🦁👑🌍",
          "genres":[
