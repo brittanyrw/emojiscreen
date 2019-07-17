@@ -11,7 +11,27 @@
 
 Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add a `Emoji Card` to the website. Each card should be added in the `data.json` file as an object. For more advanced ways to contribute, see the repo Issues.
 
-Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged.
+Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged. If you run into trouble, feel free to create an Issue!
+
+## Movie, TV Show and Musical Examples
+
+Here are some links to lists of movies, TV shows and musicals in case you're having trouble thinking of something to add!
+
+### Movies
+* [IMDB Top 100 drama list](https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc)
+* [IMDB Top 100 thriller list](https://www.imdb.com/search/title/?genres=thriller&groups=top_250&sort=user_rating,desc)
+* [IMDB Top 100 horror list](https://www.imdb.com/search/title/?genres=horror&groups=top_250&sort=user_rating,desc)
+* [IMDB Top 100 animated list](https://www.imdb.com/list/ls075496365/)
+
+### TV
+* [IMDB Top TV Shows](https://www.imdb.com/chart/toptv/)
+* [Most Popular on Rotten Tomatoes](https://www.rottentomatoes.com/browse/tv-list-2/)
+* [ING Top 100 TV Shows](https://www.ign.com/lists/top-100-tv-shows)
+
+### Musicals
+* [IMDB 100 Greatest Musicals](https://www.imdb.com/list/ls000071646/)
+* [Greatest Musicals Ever Performed](https://www.ranker.com/crowdranked-list/best-musicals)
+* [100 Top Musicals of All Time](https://www.whatsonstage.com/london-theatre/news/wos100-the-top-100-musicals-of-all-time_34333.html)
 
 ### Card Overview 🃏
 
@@ -108,6 +128,8 @@ Specify the year the movie or show was released or first aired. This should be a
 
 Follow these intstructions to add a card. You can add a card using the Github website user interface or by cloning this repository to your local machine. If you do not already have one, create a Github account before proceeding.
 
+If you are already comfortable using Github and Git, feel free to skip the instructions below and make a pull request using whatever method you prefer!
+
 ## Github UI
 
 1. Fork this repository. This will create a copy of the repository and create a new reposititory on your account. Note: the `Fork` button is located in the top right area of the repo.
@@ -197,14 +219,14 @@ Then re-run the commit command. Remember to replace with your show or movie: `gi
 14. Review your changes and then click `Create Pull Request`. Add any additional comments and then click on `Create Pull Request`.
 15. Wait for feedback/review of your Pull Request. If your Pull Request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com)!
 
-### Movie Examples
+## Other Resources and Options
+* [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+* [Additional Git/Github Practice](https://try.github.io/)
+* [Visualizing Git Commands Tool](https://git-school.github.io/visualizing-git/)
+* Try creating a [new branch](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) for your pull request.
 
-Here are some links to top movie lists in case you're having trouble thinking of a movie to add!
-* [IMDB Top 100 drama list](https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc)
-* [IMDB Top 100 thriller list](https://www.imdb.com/search/title/?genres=thriller&groups=top_250&sort=user_rating,desc)
-* [IMDB Top 100 horror list](https://www.imdb.com/search/title/?genres=horror&groups=top_250&sort=user_rating,desc)
-* [IMDB Top 100 animated list](https://www.imdb.com/list/ls075496365/)
-
-### Credits
+## Credits
 
 Emoji graphics are by Twitter and are licensed under CC-BY 4.0. Review the [Attribution Requirements](https://github.com/twitter/twemoji#attribution-requirements) for more information.
+
+> Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
