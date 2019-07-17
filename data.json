@@ -1,4 +1,4 @@
-[{
+﻿[{
     "title": "Beauty and the Beast",
     "emojiImgs": "🏰🥀🎶📚🕰️",
     "genres": [
@@ -167,6 +167,28 @@
     ],
     "type": "movie",
     "year": 1989
+  },
+ {
+    "title": "Chicago",
+    "emojiImgs": "🎷👯🔫👠🕺",
+    "genres": [
+      "musical",
+      "drama",
+      "comedy"
+    ],
+    "type": "movie",
+    "year": 2002
+  },
+ {
+    "title": "Aladdin",
+    "emojiImgs": "🧞‍♂️💞👸👳🏰",
+    "genres": [
+      "adventure",
+      "family",
+      "comedy"
+    ],
+    "type": "movie",
+    "year": 2019
   },
  {
     "title": "On the town",
