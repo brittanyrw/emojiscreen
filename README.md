@@ -116,6 +116,8 @@ Specify the year the movie or show was released or first aired. This should be a
 
 Follow these intstructions to add a card. You can add a card using the Github website user interface or by cloning this repository to your local machine. If you do not already have one, create a Github account before proceeding.
 
+If you are already comfortable using Github and Git, feel free to skip the instructions below and make a pull request using whatever method you prefer!
+
 ## Github UI
 
 1. Fork this repository. This will create a copy of the repository and create a new reposititory on your account. Note: the `Fork` button is located in the top right area of the repo.
