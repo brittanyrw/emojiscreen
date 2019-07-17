@@ -1,10 +1,11 @@
-# EmojiScreen 📺 [emojiscreen.com](https://emojiscreen.com)
+# EmojiScreen 📺 
+[Visit emojiscreen.com](https://emojiscreen.com)
 
 ![Screenshot of Emojiscreen homepage](readme/emoji-screen.png)
 
 [EmojiScreen](https://emojiscreen.com) is a listing of movies, TV shows and musicals depicted through emojis.
 
-> This project is built for those learning Git and Github and want to practice making pull requests, branches, features and more. Feel free to make a pull request to add one of your favorite shows or movies! 💛 💙 💜 💚 ❤
+> This project is built for those learning Git and Github and want to practice making pull requests, branches, features and more. Feel free to make a pull request to add one of your favorite shows or movies! 💛 💙 💜 💚 💖
 
 ## Contributing 🎁
 
