@@ -121,8 +121,20 @@
     ],
     "type": "movie",
     "year": 1989
-      
-  },{ "title": "Pet Sematary",
+  },
+ {
+ "title": "300 ",
+    "emojiImgs": " 💪🤕👊🏻⚔️ 🛡",
+    "genres": ["action","drama","fantasy"],
+    "type": "movie",
+    "year": 2007
+    },{
+  "title": " Seven ",
+    "emojiImgs": "  🕵🔪👮‍♂️😈",
+    "genres": ["drama"],
+    "type": "movie",
+    "year": 2007
+    },{ "title": "Pet Sematary",
     "emojiImgs": "🐶🐱☠️⚰️",
     "genres": [
       "horror",
