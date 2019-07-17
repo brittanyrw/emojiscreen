@@ -43,7 +43,7 @@
     "year": 2015
   },
   {
-    "title": "Harry Potter and the Chamber of Secrets",
+    "title": "Harry Potter and the Bucket of Money",
     "emojiImgs": "🐍🧙‍♂️📓👩‍🦰⚡",
     "genres": [
       "adventure",
@@ -178,6 +178,25 @@
     "type": "movie",
     "year": 1989
   },
+ {
+    "title": "Mulan",
+    "emojiImgs": "👧🐱🧹📫🎈",
+    "genres": [
+      "animated"
+    ],
+    "type": "movie",
+    "year": 2020
+  },
+{
+    "title": "RocketMan",
+    "emojiImgs": "🐱 📫",
+    "genres": [
+      "drama"
+      "musical,"
+    ],
+    "type": "movie",
+    "year": 2019
+},
   {
     "title": "The Color Purple",
     "emojiImgs": "💜🏃🏾‍♀️🧘🏾‍♀️",
