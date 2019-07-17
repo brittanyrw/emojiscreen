@@ -176,14 +176,14 @@
     ],
     "type": "movie",
     "year": {
-      "title": "Top Gun",
-      "emojiImgs": "🧗‍♂️🎼🎹",
+      "title": "Home Alone",
+      "emojiImgs": "🏠🙈",
       "genres": [
-        "action",
-        "drama"
+        "comedy",
+        "family"
       ],
       "type": "movie",
-      "year": 1989
+      "year": 1990
     }
   }
 ]
