@@ -121,6 +121,16 @@
     ],
     "type": "movie",
     "year": 1989
+      
+  },{ "title": "Pet Sematary",
+    "emojiImgs": "🐶🐱☠️⚰️",
+    "genres": [
+      "horror",
+      "thriller",
+      "mystery" 
+    ],
+    "type": "movie",
+    "year": 2019
   },
    {
     "title": "It 2: It's coming!",
