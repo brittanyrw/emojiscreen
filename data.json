@@ -72,7 +72,8 @@
         "emojiImgs":"👋🔔👨📖✝️",
         "genres":[
            "comedy",
-           "satire"
+           "satire",
+           "musical"
         ],
         "type":"musical",
         "year":2011
@@ -239,6 +240,7 @@
         "genres":[
            "drama",
            "history"
+           "musical"
         ],
         "type":"musical",
         "year":1987
@@ -355,6 +357,16 @@
         ],
         "type":"movie",
         "year":1994
+     },{
+        "title":"Sweeney Todd: The Demon Barber of Fleet Street",
+        "emojiImgs":"💈🔪☠️🍰",
+        "genres":[
+           "drama",
+           "horror",
+           "musical"
+        ],
+        "type":"musical",
+        "year":1979
      },{
         "title":"Tropic Thunder",
         "emojiImgs":"😼😽🙀😿😾",
