@@ -97,6 +97,16 @@
     "year": 2018
   },
   {
+    "title": "Home Alone",
+    "emojiImgs": "🏠🙈",
+    "genres": [
+      "comedy",
+      "family"
+    ],
+    "type": "movie",
+    "year": 1990
+  },
+  {
     "title": "Pirates of the Caribbean",
     "emojiImgs": "🍻🏴‍☠️🚢",
     "genres": [
@@ -176,5 +186,42 @@
     ],
     "type": "movie",
     "year": 2018
+ },
+  {
+    "title": "The Color Purple",
+    "emojiImgs": "💜🏃🏾‍♀️🧘🏾‍♀️",
+    "genres": [
+      "drama"
+    ],
+    "type": "movie",
+    "year": 1986
+  },
+  {
+    "title": "Rent",
+    "emojiImgs": "🍃🍂🍁♥️",
+    "genres": [
+      "drama",
+      "musical",
+      "romance"
+    ],
+    "type": "movie",
+    "year": 2005
+  },{
+    "title": "Princess Bride",
+    "emojiImgs": "🏴‍☠️👸🔥🤺",
+    "genres": [
+      "adventure",
+      "family"
+    ],
+    "type": "movie",
+    "year": 1987
+ },
+ {    "title": "Tropic Thunder",
+    "emojiImgs": "😼😽🙀😿😾",
+    "genres": [
+      "Action, Adventure, Comedy"
+    ],
+    "type": "movie",
+    "year": 2008
   }
 ]
