@@ -375,5 +375,16 @@
       ],
       "type":"musical",
       "year":2003
+   },
+   {
+     "title":"Jurassic Park",
+     "emojiImgs":"🔬🦖🏝",
+     "genres":[
+       "Action",
+       "Adventure",
+       "Sci-Fi"
+     ],
+     "type":"movie",
+     "year":1993
    }
 ]
