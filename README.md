@@ -13,6 +13,14 @@ Below are instructions for how to contribute to this project. The easiest way to
 
 Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged.
 
+## Movie Examples
+
+Here are some links to top movie lists in case you're having trouble thinking of a movie to add!
+* [IMDB Top 100 drama list](https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc)
+* [IMDB Top 100 thriller list](https://www.imdb.com/search/title/?genres=thriller&groups=top_250&sort=user_rating,desc)
+* [IMDB Top 100 horror list](https://www.imdb.com/search/title/?genres=horror&groups=top_250&sort=user_rating,desc)
+* [IMDB Top 100 animated list](https://www.imdb.com/list/ls075496365/)
+
 ### Card Overview 🃏
 
 On the website, each `Emoji Card` displays images of the emojis, a hint icon that will show the type (musical, movie or TV show) when the user hovers and the name of the show, which appears when the user clicks on a card.
@@ -198,17 +206,10 @@ Then re-run the commit command. Remember to replace with your show or movie: `gi
 15. Wait for feedback/review of your Pull Request. If your Pull Request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com)!
 
 ## Other Resources and Options
+* [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Additional Git/Github Practice](https://try.github.io/)
 * [Visualizing Git Commands Tool](https://git-school.github.io/visualizing-git/)
 * Try creating a [new branch](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) for your pull request.
-
-## Movie Examples
-
-Here are some links to top movie lists in case you're having trouble thinking of a movie to add!
-* [IMDB Top 100 drama list](https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc)
-* [IMDB Top 100 thriller list](https://www.imdb.com/search/title/?genres=thriller&groups=top_250&sort=user_rating,desc)
-* [IMDB Top 100 horror list](https://www.imdb.com/search/title/?genres=horror&groups=top_250&sort=user_rating,desc)
-* [IMDB Top 100 animated list](https://www.imdb.com/list/ls075496365/)
 
 ## Credits
 
