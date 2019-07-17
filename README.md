@@ -13,13 +13,25 @@ Below are instructions for how to contribute to this project. The easiest way to
 
 Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged.
 
-## Movie Examples
+## Movie, TV Show and Musical Examples
 
-Here are some links to top movie lists in case you're having trouble thinking of a movie to add!
+Here are some links to lists of movies, TV shows and musicals in case you're having trouble thinking of something to add!
+
+### Movies
 * [IMDB Top 100 drama list](https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc)
 * [IMDB Top 100 thriller list](https://www.imdb.com/search/title/?genres=thriller&groups=top_250&sort=user_rating,desc)
 * [IMDB Top 100 horror list](https://www.imdb.com/search/title/?genres=horror&groups=top_250&sort=user_rating,desc)
 * [IMDB Top 100 animated list](https://www.imdb.com/list/ls075496365/)
+
+### TV
+* [IMDB Top TV Shows](https://www.imdb.com/chart/toptv/)
+* [Most Popular on Rotten Tomatoes](https://www.rottentomatoes.com/browse/tv-list-2/)
+* [ING Top 100 TV Shows](https://www.ign.com/lists/top-100-tv-shows)
+
+### Musicals
+* [IMDB 100 Greatest Musicals](https://www.imdb.com/list/ls000071646/)
+* [Greatest Musicals Ever Performed](https://www.ranker.com/crowdranked-list/best-musicals)
+* [100 Top Musicals of All Time](https://www.whatsonstage.com/london-theatre/news/wos100-the-top-100-musicals-of-all-time_34333.html)
 
 ### Card Overview 🃏
 
