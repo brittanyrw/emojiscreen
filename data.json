@@ -132,6 +132,15 @@
     "type": "movie",
     "year": 2019
   },
+ {
+    "title": "Bungou Stray Dogs: Dead Apple",
+    "emojiImgs": "🍎🗡🐶🇯🇵",
+    "genres": [
+      "animation"
+    ],
+    "type": "movie",
+    "year": 2018
+ },
    {
     "title": "It 2: It's coming!",
     "emojiImgs": "🤡🎈🤡🎈🤡",
