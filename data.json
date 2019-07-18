@@ -67,6 +67,16 @@
         ],
         "type":"movie",
         "year":2018
+     },
+     {
+         "title":"Blazing Saddles",
+         "emojiImgs":"🔥🤠🐴🏇🏜️",
+         "genres":[
+         "western",
+         "comedy"
+         ],
+         "type":"movie",
+         "year":1974
      },{
         "title":"The Book of Mormon",
         "emojiImgs":"👋🔔👨📖✝️",
@@ -393,6 +403,14 @@
         ],
         "type":"musical",
         "year":2003
+     },{
+         "title":"Young Frankenstein",
+         "emojiImgs":"👶🌭🍺⚡️🧟‍",
+         "genres":[
+         "comedy"
+         ],
+         "type":"movie",
+         "year":1974
      }
-      
+
  ]
