@@ -13,6 +13,8 @@ Below are instructions for how to contribute to this project. The easiest way to
 
 Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged. If you run into trouble, feel free to create an Issue!
 
+> Note for movies or shows with multiple versions: For example, Beauty and the Beast has two movie versions (2017 and 1999) and was also a broadway musical. If someone has already added the 1999 movie, and you would like to add the 2017 movie or the musical, you can add the other version but at least one emoji should be different from whatever is already in the `data.json` file.
+
 ## Movie, TV Show and Musical Examples
 
 Here are some links to lists of movies, TV shows and musicals in case you're having trouble thinking of something to add!
@@ -129,7 +131,7 @@ Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one t
 
 ### Year 📆
 
-Specify the year the movie or show was released or first aired. This should be a number (no quotations around the year).
+Specify the year the movie or show was released or first aired. Or the first performance year for a musical. This should be a number (no quotations around the year).
 
 ```
 {
