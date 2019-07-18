@@ -283,6 +283,16 @@
         "type":"play",
         "year":2014
      },{
+        "title":"The Other Side of Heaven",
+        "emojiImgs":"⛪🙏🏝🇹🇴😇",
+        "genres":[
+           "adventure",
+           "biography",
+           "drama"
+        ],
+        "type":"move",
+        "year":2014
+     },{
         "title":"Pet Sematary",
         "emojiImgs":"🐶🐱☠️⚰️",
         "genres":[
@@ -291,7 +301,7 @@
            "mystery"
         ],
         "type":"movie",
-        "year":2019
+        "year":2001
      },{
         "title":"Pirates of the Caribbean",
         "emojiImgs":"🍻🏴‍☠️🚢",
@@ -412,5 +422,4 @@
          "type":"movie",
          "year":1974
      }
-
  ]
