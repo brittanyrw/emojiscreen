@@ -224,6 +224,7 @@ Then re-run the commit command. Remember to replace with your show or movie: `gi
 * [Additional Git/Github Practice](https://try.github.io/)
 * [Visualizing Git Commands Tool](https://git-school.github.io/visualizing-git/)
 * Try creating a [new branch](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) for your pull request.
+* [Syncing your Fork](https://help.github.com/en/articles/syncing-a-fork)
 
 ## Credits
 
