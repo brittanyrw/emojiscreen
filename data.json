@@ -290,8 +290,8 @@
            "biography",
            "drama"
         ],
-        "type":"move",
-        "year":2014
+        "type":"movie",
+        "year":2001
      },{
         "title":"Pet Sematary",
         "emojiImgs":"🐶🐱☠️⚰️",
@@ -301,7 +301,7 @@
            "mystery"
         ],
         "type":"movie",
-        "year":2001
+        "year":2019
      },{
         "title":"Pirates of the Caribbean",
         "emojiImgs":"🍻🏴‍☠️🚢",
