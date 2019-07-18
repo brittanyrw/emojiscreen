@@ -9,7 +9,7 @@
 
 ## Contributing 🎁
 
-Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add a `Emoji Card` to the website. Each card should be added in the `data.json` file as an object. For more advanced ways to contribute, see the repo Issues.
+Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add a `Emoji Card` to the website (you can add multiple shows or movies). Each card should be added in the `data.json` file as an object. For more advanced ways to contribute, see the repo Issues.
 
 Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged. If you run into trouble, feel free to create an Issue!
 
