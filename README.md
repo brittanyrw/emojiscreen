@@ -89,13 +89,26 @@ Here are a few resources to find emojis to copy:
 
 ### Genres 🔍
 
+The genres should be added as an array (the square [] brackets indicates an array or list). Seperate each genre with a comma and each genre should be wrapped in quotes. There is no limit to the number of genres but try not to add too many.
+
+```
+{
+  "genres": [
+    "animation",
+    "family",
+    "fantasy"
+  ]
+}
+```
+
 For movies and TV shows, go to the IMDB profile and find the genres listed under the title. Add these genres to the `Emoji Card` object. Some cards will only have one genre, that is okay! If you would like to add an additional genre (outside of the IMDB genres, note that in your Pull Request or [create an Issue](https://github.com/brittanyrw/emojiscreen/issues)).
 
 See the below screenshot for the location of the genre listing in IMDB profiles.
 
 ![Screenshot of the Beauty and the Beast IDMB profile with the genres circled](readme/imdb-screenshot.png)
 
-For musicals, include the `musical` genre and up to two other genres from the list below:
+
+For musicals, include the `musical` genre and any other genres from the list below that you think fit:
 
 |         |           |           |           |        |         |             |       |
 | ------- | --------- | --------- | --------- | ------ | ------- | ----------- | ----- |
