@@ -411,6 +411,14 @@
          ],
          "type":"movie",
          "year":1974
+     },{
+         "title":"E.T. the Extra-Terrestrial",
+         "emojiImgs":"🌙🚲👉🏻👈🏻👽",
+         "genres":[
+         "Family, Sci-Fi "
+         ],
+         "type":"movie",
+         "year":1982
      }
 
  ]
