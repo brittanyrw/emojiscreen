@@ -39,6 +39,16 @@
         "type":"movie",
         "year":2019
      },{
+        "title": "Alf",
+        "emojiImgs": "🚀👽🍴🐈️",
+        "genres": [
+          "comedy",
+          "family",
+          "sci-fi"
+        ],
+        "type": "tv",
+        "year": 1986
+      },{
         "title":"Alien",
         "emojiImgs":"🚀👾🔫👨‍🚀",
         "genres":[
