@@ -68,6 +68,16 @@
         "type":"movie",
         "year":2018
      },{
+        "title":"The Book of Mormon",
+        "emojiImgs":"👋🔔👨📖✝️",
+        "genres":[
+           "comedy",
+           "satire",
+           "musical"
+        ],
+        "type":"musical",
+        "year":2011
+     },{
         "title":"Bungou Stray Dogs: Dead Apple",
         "emojiImgs":"🍎🗡🐶🇯🇵",
         "genres":[
@@ -120,6 +130,16 @@
         ],
         "type":"movie",
         "year":1999
+     },{
+        "title":"Frozen",
+        "emojiImgs":"👭☃️❄️",
+        "genres":[
+           "animation",
+           "adventure",
+           "comedy"
+        ],
+        "type":"movie",
+        "year":2013
      },{
         "title":"Game of Thrones",
         "emojiImgs":"🐉👑🗡️📚🧟",
@@ -214,8 +234,17 @@
         ],
         "type":"movie",
         "year":2001
-     },
-     {
+     },{
+        "title":"Les Misérables",
+        "emojiImgs":"🇫🇷🥖👮🏻",
+        "genres":[
+           "drama",
+           "history"
+           "musical"
+        ],
+        "type":"musical",
+        "year":1987
+     },{
          "title":"The Lion King",
          "emojiImgs":"🦁👑🌍",
          "genres":[
@@ -225,6 +254,16 @@
          ],
          "type":"movie",
          "year":1994
+      },{
+         "title":"Miss Saigon",
+         "emojiImgs":"🇻🇳💑🚁👶",
+         "genres":[
+            "drama",
+            "war",
+            "musical"
+         ],
+         "type":"musical",
+         "year":1991
       },{
         "title":"On the Town",
         "emojiImgs":"⚓🚢",
@@ -282,6 +321,15 @@
          "type":"movie",
          "year":2019
       },{
+         "title":"School of Rock",
+         "emojiImgs":"🏫🎸🥁🎹",
+         "genres":[
+            "comedy",
+            "music"
+         ],
+         "type":"movie",
+         "year":2003
+      },{
         "title":" Seven ",
         "emojiImgs":"  🕵🔪👮‍♂️😈",
         "genres":[
@@ -309,6 +357,16 @@
         ],
         "type":"movie",
         "year":1994
+     },{
+        "title":"Sweeney Todd: The Demon Barber of Fleet Street",
+        "emojiImgs":"💈🔪☠️🍰",
+        "genres":[
+           "drama",
+           "horror",
+           "musical"
+        ],
+        "type":"musical",
+        "year":1979
      },{
         "title":"Tropic Thunder",
         "emojiImgs":"😼😽🙀😿😾",
