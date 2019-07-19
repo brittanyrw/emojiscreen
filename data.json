@@ -450,5 +450,14 @@
          ],
          "type":"movie",
          "year":1974
+     },{
+       "title":"Chernobyl",
+       "emojiImgs":"💥☢️🇺🇦",
+       "genres":[
+       "drama",
+       "history"
+       ],
+       "type":"tv",
+       "year":2019
      }
  ]
