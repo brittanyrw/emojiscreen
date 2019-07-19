@@ -116,6 +116,15 @@
         "type":"movie",
         "year":2000
      },{
+       "title":"Chernobyl",
+       "emojiImgs":"💥☢️🇺🇦",
+       "genres":[
+       "drama",
+       "history"
+       ],
+       "type":"tv",
+       "year":2019
+     },{
         "title":"Chicago",
         "emojiImgs":"🎷👯🔫👠🕺",
         "genres":[
@@ -142,6 +151,15 @@
         ],
         "type":"movie",
         "year":2006
+     },{
+         "title":"E.T. the Extra-Terrestrial",
+         "emojiImgs":"🌙🚲👉🏻👈🏻👽",
+         "genres":[
+             "Family", 
+             "Sci-Fi"
+         ],
+         "type":"movie",
+         "year":1982
      },{
         "title":"Fight Club",
         "emojiImgs":"🥊🧼🤐",
@@ -459,14 +477,5 @@
          ],
          "type":"movie",
          "year":1974
-     },{
-         "title":"E.T. the Extra-Terrestrial",
-         "emojiImgs":"🌙🚲👉🏻👈🏻👽",
-         "genres":[
-             "Family", 
-             "Sci-Fi"
-         ],
-         "type":"movie",
-         "year":1982
      }
  ]
