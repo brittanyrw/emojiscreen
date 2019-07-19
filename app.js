@@ -31,6 +31,15 @@ $(document).ready(function() {
     $('#emojis').on('mouseleave', '.hint-container', function() {
       $(this).find('.hint').removeClass("hint-reveal");
     });
+
+    $('.btn-reveal-all').click(function() {
+      var title = $(this).attr('title');
+      title = title.search(/reveal/i) === -1 ? title.replace(/hide/i, 'Reveal') : title.replace(/reveal/i, 'Hide');
+      $(this).attr('title', title);
+
+      $(this).find('i').toggleClass(['fa-eye','fa-eye-slash']);
+      $('#emojis').find('.emoji-card-title').toggleClass("hide-card");
+    });
     
 
 });
