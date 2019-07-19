@@ -293,6 +293,16 @@
         "type":"play",
         "year":2014
      },{
+        "title":"The Other Side of Heaven",
+        "emojiImgs":"⛪🙏🏝🇹🇴😇",
+        "genres":[
+           "adventure",
+           "biography",
+           "drama"
+        ],
+        "type":"movie",
+        "year":2001
+     },{
         "title":"Pet Sematary",
         "emojiImgs":"🐶🐱☠️⚰️",
         "genres":[
@@ -431,5 +441,4 @@
          "type":"movie",
          "year":1974
      }
-
  ]
