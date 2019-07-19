@@ -8,9 +8,10 @@ $(document).ready(function() {
       success: function(data) {
 
         var emojiCard = '';
-        
+
+        shuffle(data);
+
         for (var i in data) {
-          
           emojiCard += "<div class='emoji-card'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + data[i].type + "</span></p></div><div class='emoji-images'>" + data[i].emojiImgs + "</div><div class='emoji-card-title hide-card'><h3>" + data[i].title + " (" + data[i].year + ")" + "</h3></div></div>";
         }
         
@@ -18,6 +19,22 @@ $(document).ready(function() {
         twemoji.parse(document.body);
       }
     });
+
+
+    // Shuffle function from http://stackoverflow.com/a/2450976
+    function shuffle(array) {
+      var currentIndex = array.length, temporaryValue, randomIndex;
+
+      while (currentIndex !== 0) {
+          randomIndex = Math.floor(Math.random() * currentIndex);
+          currentIndex -= 1;
+          temporaryValue = array[currentIndex];
+          array[currentIndex] = array[randomIndex];
+          array[randomIndex] = temporaryValue;
+      }
+
+      return array;
+    }
 
 
     $('#emojis').on('click', '.emoji-images', function() {
