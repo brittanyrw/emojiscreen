@@ -486,5 +486,15 @@
          ],
          "type":"movie",
          "year":1974
-     }
- ]
+     }, {
+      "title": "John Wick",
+      "emojiImgs": "🔪🐶🚗🔫🤵🏻",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "type": "movie",
+      "year": 2014
+    }
+]
