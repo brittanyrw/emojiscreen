@@ -22,12 +22,6 @@ h1 {
   color: white;
 }
 
-@media screen and (max-width: 667px){
-  h1 {
-    font-size: 50px;
-  }
-}
-
 header img {
   height: 29px;
 }
@@ -89,12 +83,6 @@ h2 {
     max-width: 1000px;
     margin: auto;
     margin-bottom: 30px;
-}
-
-@media screen and (max-width: 662px){
-  #emojis, .heading-content {
-    grid-template-columns: 1fr;
-  }
 }
 
 .emoji-card {
@@ -216,6 +204,33 @@ i {
 .hint-reveal {
   opacity: 1;
   visibility: visible;
+}
+
+@media screen and (min-width: 663px) and (max-width: 1000px) {
+  #emojis {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: auto;
+    grid-gap: 20px;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+
+  .emoji-images img {
+    width: 2.4em;
+    margin-right: 10px;
+  }
+}
+
+@media screen and (max-width: 662px){
+  #emojis, .heading-content {
+    grid-template-columns: 1fr;
+  }
+
+  .emoji-images img {
+    width: 2em;
+    margin-right: 5px;
+  }
 }
 
 
