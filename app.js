@@ -31,5 +31,6 @@ $(document).ready(function() {
     $('#emojis').on('mouseleave', '.hint-container', function() {
       $(this).find('.hint').removeClass("hint-reveal");
     });
+    
 
 });
