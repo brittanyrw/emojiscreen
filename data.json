@@ -378,6 +378,15 @@
         "type": "movie",
         "year": 1994
     },{
+      "title": "Kill Bill: Volume 1",
+      "emojiImgs": "🔪🙍‍🥋🦶🇯🇵",
+      "genres": [
+        "action",
+        "drama"
+      ],
+      "type": "movie",
+      "year": 2003
+    },{
         "title":"Rent",
         "emojiImgs":"🍃🍂🍁♥️",
         "genres":[
