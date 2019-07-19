@@ -14,6 +14,7 @@ header {
   margin: 0 auto 40px auto;
 }
 
+
 h1 {
   font-family: 'Londrina Solid', cursive;
   font-size: 72px;
@@ -23,17 +24,61 @@ h1 {
 
 @media screen and (max-width: 667px){
   h1 {
-    font-size: 45px;
+    font-size: 50px;
   }
 }
 
-h2 {
+header img {
+  height: 29px;
+}
+
+.heading-content {
+  display: grid;
+  grid-template-columns: 2.5fr 1fr;
+  grid-gap: 20px;
+}
+
+.contribute-callout {
+  padding: 0 20px 20px 20px;
+  margin: 20px 0 0 0;
+  border: 3px solid #fae6e9;
+}
+
+.contribute-callout p {
+  color: white;
+  text-align: center;
+}
+
+.contribute-callout a {
+  color: #292932;
+  background-color: #effae6;
+  padding: 15px;
+  font-weight: 900;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: block;
+  transition: .5s;
+}
+
+.contribute-callout a:hover {
+  background-color: #e6f6fa;
+  transition: .5s;
+}
+
+.contribute-callout img {
+  height: 27px;
+}
+
+.header {
   background-color: lavender;
-  margin: 20px 0;
+  margin: 20px 0 0 0;
   border: 1px solid lavender;
   padding: 10px 20px;
+}
+
+h2 {
   color: #292932;
-  display: inline-block;
 }
 
 #emojis {
@@ -47,7 +92,7 @@ h2 {
 }
 
 @media screen and (max-width: 662px){
-  #emojis {
+  #emojis, .heading-content {
     grid-template-columns: 1fr;
   }
 }
