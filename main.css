@@ -229,6 +229,14 @@ i {
   right: 30px;
   width: 50px;
   height: 50px;
+  z-index: 9999;
+}
+
+@media screen and (max-width: 1024px){
+  .btn-reveal-all {
+    bottom: 5px;
+    right: 5px;
+  }
 }
 
 .btn-reveal-all:before {
