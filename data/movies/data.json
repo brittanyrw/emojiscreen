@@ -1,14 +1,5 @@
 [
     {
-        "title":"The 25th Annual Putnum County Spelling Bee",
-        "emojiImgs":"🔤🐝😂",
-        "genres":[
-        "musical",
-        "comedy"
-        ],
-        "type":"musical",
-        "year":2005
-    },{
         "title":"300 ",
         "emojiImgs":" 💪🤕👊🏻⚔️ 🛡",
         "genres":[
@@ -39,16 +30,6 @@
         "type":"movie",
         "year":2019
      },{
-        "title": "Alf",
-        "emojiImgs": "🚀👽🍴🐈️",
-        "genres": [
-          "comedy",
-          "family",
-          "sci-fi"
-        ],
-        "type": "tv",
-        "year": 1986
-      },{
         "title":"Alien",
         "emojiImgs":"🚀👾🔫👨‍🚀",
         "genres":[
@@ -88,16 +69,6 @@
          "type":"movie",
          "year":1974
      },{
-        "title":"The Book of Mormon",
-        "emojiImgs":"👋🔔👨📖✝️",
-        "genres":[
-           "comedy",
-           "satire",
-           "musical"
-        ],
-        "type":"musical",
-        "year":2011
-     },{
         "title":"Bungou Stray Dogs: Dead Apple",
         "emojiImgs":"🍎🗡🐶🇯🇵",
         "genres":[
@@ -115,15 +86,6 @@
         ],
         "type":"movie",
         "year":2000
-     },{
-       "title":"Chernobyl",
-       "emojiImgs":"💥☢️🇺🇦",
-       "genres":[
-       "drama",
-       "history"
-       ],
-       "type":"tv",
-       "year":2019
      },{
         "title":"Chicago",
         "emojiImgs":"🎷👯🔫👠🕺",
@@ -178,26 +140,6 @@
         ],
         "type":"movie",
         "year":2013
-     },{
-        "title":"Game of Thrones",
-        "emojiImgs":"🐉👑🗡️📚🧟",
-        "genres":[
-           "action",
-           "adventure",
-           "drama"
-        ],
-        "type":"tv",
-        "year":2011
-     },{
-        "title":"Hamilton: The Musical",
-        "emojiImgs":"💵🖋️⚖️🎵📜",
-        "genres":[
-           "drama",
-           "comedy",
-           "musical"
-        ],
-        "type":"musical",
-        "year":2015
      },{
         "title":"Harry Potter and the Chamber of Secrets",
         "emojiImgs":"🐍🧙‍♂️📓👩‍🦰⚡",
@@ -292,16 +234,6 @@
         "type":"movie",
         "year":2001
      },{
-        "title":"Les Misérables",
-        "emojiImgs":"🇫🇷🥖👮🏻",
-        "genres":[
-           "drama",
-           "history",
-           "musical"
-        ],
-        "type":"musical",
-        "year":1987
-     },{
          "title":"The Lion King",
          "emojiImgs":"🦁👑🌍",
          "genres":[
@@ -330,16 +262,6 @@
          ],
          "type":"movie",
          "year":1999
-      },{
-         "title":"Miss Saigon",
-         "emojiImgs":"🇻🇳💑🚁👶",
-         "genres":[
-            "drama",
-            "war",
-            "musical"
-         ],
-         "type":"musical",
-         "year":1991
       },{
         "title":"On the Town",
         "emojiImgs":"⚓🚢",
@@ -453,16 +375,6 @@
         "type":"movie",
         "year":1994
      },{
-        "title":"Sweeney Todd: The Demon Barber of Fleet Street",
-        "emojiImgs":"💈🔪☠️🍰",
-        "genres":[
-           "drama",
-           "horror",
-           "musical"
-        ],
-        "type":"musical",
-        "year":1979
-     },{
         "title":"Tropic Thunder",
         "emojiImgs":"😼😽🙀😿😾",
         "genres":[
@@ -480,14 +392,6 @@
         ],
         "type":"movie",
         "year":1994
-     },{
-        "title":"Wicked",
-        "emojiImgs":"💚🧹🧙‍♂️",
-        "genres":[
-           "fantasy"
-        ],
-        "type":"musical",
-        "year":2003
      },{
          "title":"Young Frankenstein",
          "emojiImgs":"👶🌭🍺⚡️🧟‍",

@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Alf",
+        "emojiImgs": "🚀👽🍴🐈️",
+        "genres": [
+            "comedy",
+            "family",
+            "sci-fi"
+        ],
+        "type": "tv",
+        "year": 1986
+    },{
+        "title": "Chernobyl",
+        "emojiImgs": "💥☢️🇺🇦",
+        "genres": [
+            "drama",
+            "history"
+        ],
+        "type": "tv",
+        "year": 2019
+    },{
+        "title": "Game of Thrones",
+        "emojiImgs": "🐉👑🗡️📚🧟",
+        "genres":[
+            "action",
+            "adventure",
+            "drama"
+        ],
+        "type": "tv",
+        "year": 2011
+    }
+]

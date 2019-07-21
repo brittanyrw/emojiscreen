@@ -1,0 +1,70 @@
+[
+    {
+        "title": "The 25th Annual Putnum County Spelling Bee",
+        "emojiImgs": "🔤🐝😂",
+        "genres": [
+            "musical",
+            "comedy"
+        ],
+        "type": "musical",
+        "year": 2005
+    },{
+        "title": "The Book of Mormon",
+        "emojiImgs": "👋🔔👨📖✝️",
+        "genres":[
+            "comedy",
+            "satire",
+            "musical"
+        ],
+        "type": "musical",
+        "year": 2011
+     },{
+        "title": "Hamilton: The Musical",
+        "emojiImgs": "💵🖋️⚖️🎵📜",
+        "genres":[
+            "drama",
+            "comedy",
+            "musical"
+        ],
+        "type": "musical",
+        "year": 2015
+     },{
+        "title": "Les Misérables",
+        "emojiImgs": "🇫🇷🥖👮🏻",
+        "genres": [
+            "drama",
+            "history",
+            "musical"
+        ],
+        "type": "musical",
+        "year": 1987
+     },{
+        "title": "Miss Saigon",
+        "emojiImgs": "🇻🇳💑🚁👶",
+        "genres": [
+            "drama",
+            "war",
+            "musical"
+        ],
+        "type": "musical",
+        "year": 1991
+     },{
+        "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "emojiImgs": "💈🔪☠️🍰",
+        "genres": [
+            "drama",
+            "horror",
+            "musical"
+        ],
+        "type": "musical",
+        "year": 1979
+    },{
+        "title": "Wicked",
+        "emojiImgs": "💚🧹🧙‍♂️",
+        "genres": [
+            "fantasy"
+        ],
+        "type": "musical",
+        "year": 2003
+    }
+]
