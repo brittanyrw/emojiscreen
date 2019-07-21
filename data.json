@@ -496,5 +496,13 @@
          ],
          "type":"movie",
          "year":1974
+     },{
+        "title": "Pokemon: The First Movie",
+        "emojiImgs":"👦️🐁️😭️",
+        "genres":[
+           "animation"
+        ],
+        "type":"movie",
+        "year":1998
      }
 ]
