@@ -527,6 +527,16 @@
         "type":"musical",
         "year":2003
      },{
+        "title":"X-Files",
+        "emojiImgs":"👽🛸👦🏻👩‍🦰🔦",
+        "genres":[
+           "sci-fi",
+            "drama",
+            "mystery"
+        ],
+        "type":"tv",
+        "year":1993
+     },{
          "title":"Young Frankenstein",
          "emojiImgs":"👶🌭🍺⚡️🧟‍",
          "genres":[
