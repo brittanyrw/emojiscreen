@@ -143,6 +143,16 @@
         "type":"movie",
         "year":1986
      },{
+         "title":"The Curious Case of Benjamin Button",
+         "emojiImgs":"👴🏻➡️🧔🏻➡️👶🏻", 
+         "genres":[
+           "Drama",
+           "Fantasy",
+           "Romance"
+         ],
+         "type":"movie",
+         "year":2008
+     },{
         "title":"Devil Wears Prada",
         "emojiImgs":"😈💄👠🧣👓",
         "genres":[
@@ -160,6 +170,16 @@
          ],
          "type":"movie",
          "year":1982
+     },{
+         "title":"The Fast and the Furious",
+         "emojiImgs":"🚗💨😡", 
+         "genres":[
+           "Action",
+           "Crime",
+           "Thriller"
+         ],
+         "type":"movie",
+         "year":2001
      },{
         "title":"Fight Club",
         "emojiImgs":"🥊🧼🤐",
@@ -504,25 +524,5 @@
          ],
          "type":"movie",
          "year":1974
-     },{
-         "title":"The Curious Case of Benjamin Button",
-         "emojiImgs":"👴🏻➡️🧔🏻➡️👶🏻", 
-         "genres":[
-           "Drama",
-           "Fantasy",
-           "Romance"
-         ],
-         "type":"movie",
-         "year":2008
-     },{
-         "title":"The Fast and the Furious",
-         "emojiImgs":"🚗💨😡", 
-         "genres":[
-           "Action",
-           "Crime",
-           "Thriller"
-         ],
-         "type":"movie",
-         "year":2001
      }
 ]
