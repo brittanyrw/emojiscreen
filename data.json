@@ -1,14 +1,5 @@
 [
     {
-        "title":"The 25th Annual Putnum County Spelling Bee",
-        "emojiImgs":"🔤🐝😂",
-        "genres":[
-        "musical",
-        "comedy"
-        ],
-        "type":"musical",
-        "year":2005
-    },{
         "title":"300 ",
         "emojiImgs":" 💪🤕👊🏻⚔️ 🛡",
         "genres":[
@@ -189,6 +180,15 @@
         "type":"tv",
         "year":2011
      },{
+      "title":"Hachi: A Dog's Tale",
+      "emojiImgs":"👨🐕⚰️🚉🕰",
+      "genres":[
+         "drama",
+         "Family"
+      ],
+      "type":"movie",
+      "year":2010
+     },{
         "title":"Hamilton: The Musical",
         "emojiImgs":"💵🖋️⚖️🎵📜",
         "genres":[
@@ -301,6 +301,15 @@
         ],
         "type":"musical",
         "year":1987
+     },{
+      "title":"The 25th Annual Putnum County Spelling Bee",
+      "emojiImgs":"🔤🐝😂",
+      "genres":[
+      "musical",
+      "comedy"
+      ],
+      "type":"musical",
+      "year":2005
      },{
          "title":"The Lion King",
          "emojiImgs":"🦁👑🌍",
