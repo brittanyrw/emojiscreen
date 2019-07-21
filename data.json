@@ -544,5 +544,15 @@
          ],
          "type":"movie",
          "year":1974
-     }
+     },  {
+         "title": "Gladiator",
+         "emojiImgs": "🤺⚔️🛡️",
+         "genres": [
+         "action",
+         "adventure",
+         "drama"
+         ],
+        "type": "movie",
+       "year": 2000
+}
 ]
