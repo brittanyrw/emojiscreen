@@ -209,6 +209,16 @@
         "type":"tv",
         "year":2011
      },{
+         "title": "Gladiator",
+         "emojiImgs": "🤺⚔️🛡️",
+         "genres": [
+         "action",
+         "adventure",
+         "drama"
+         ],
+        "type": "movie",
+       "year": 2000
+     },{
         "title":"Hamilton: The Musical",
         "emojiImgs":"💵🖋️⚖️🎵📜",
         "genres":[
@@ -544,15 +554,5 @@
          ],
          "type":"movie",
          "year":1974
-     },  {
-         "title": "Gladiator",
-         "emojiImgs": "🤺⚔️🛡️",
-         "genres": [
-         "action",
-         "adventure",
-         "drama"
-         ],
-        "type": "movie",
-       "year": 2000
-}
+     }
 ]
