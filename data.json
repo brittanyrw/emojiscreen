@@ -1,500 +1,380 @@
 [
-    {
-        "title":"The 25th Annual Putnum County Spelling Bee",
-        "emojiImgs":"🔤🐝😂",
-        "genres":[
-        "musical",
-        "comedy"
-        ],
-        "type":"musical",
-        "year":2005
-    },{
-        "title":"300 ",
-        "emojiImgs":" 💪🤕👊🏻⚔️ 🛡",
-        "genres":[
-           "action",
-           "drama",
-           "fantasy"
-        ],
-        "type":"movie",
-        "year":2007
-     },{
-        "title":"A Star is Born",
-        "emojiImgs":"🎤👩👨🎸⭐",
-        "genres":[
-           "action",
-           "comedy",
-           "musical"
-        ],
-        "type":"movie",
-        "year":1994
-     },{
-        "title":"Aladdin",
-        "emojiImgs":"🧞‍♂️💞👸👳🏰",
-        "genres":[
-           "adventure",
-           "family",
-           "comedy"
-        ],
-        "type":"movie",
-        "year":2019
-     },{
-        "title": "Alf",
-        "emojiImgs": "🚀👽🍴🐈️",
-        "genres": [
-          "comedy",
-          "family",
-          "sci-fi"
-        ],
-        "type": "tv",
-        "year": 1986
-      },{
-        "title":"Alien",
-        "emojiImgs":"🚀👾🔫👨‍🚀",
-        "genres":[
-           "suspense"
-        ],
-        "type":"movie",
-        "year":1979
-     },{
-        "title":"Beauty and the Beast",
-        "emojiImgs":"🏰🥀🎶📚🕰️",
-        "genres":[
-           "animation",
-           "family",
-           "fantasy"
-        ],
-        "type":"movie",
-        "year":1991
-     },
-     {
-        "title":"Black Panther",
-        "emojiImgs":"😺🌍🏴💪🏿🦸🏿",
-        "genres":[
-           "action",
-           "adventure",
-           "sci-fi"
-        ],
-        "type":"movie",
-        "year":2018
-     },
-     {
-         "title":"Blazing Saddles",
-         "emojiImgs":"🔥🤠🐴🏇🏜️",
-         "genres":[
-         "western",
-         "comedy"
-         ],
-         "type":"movie",
-         "year":1974
-     },{
-        "title":"The Book of Mormon",
-        "emojiImgs":"👋🔔👨📖✝️",
-        "genres":[
-           "comedy",
-           "satire",
-           "musical"
-        ],
-        "type":"musical",
-        "year":2011
-     },{
-        "title":"Bungou Stray Dogs: Dead Apple",
-        "emojiImgs":"🍎🗡🐶🇯🇵",
-        "genres":[
-           "animation"
-        ],
-        "type":"movie",
-        "year": 2018
-     },{
-        "title":"Cast Away",
-        "emojiImgs":"🏐🥥🏝️",
-        "genres":[
-           "action",
-           "comedy",
-           "musical"
-        ],
-        "type":"movie",
-        "year":2000
-     },{
-       "title":"Chernobyl",
-       "emojiImgs":"💥☢️🇺🇦",
-       "genres":[
-       "drama",
-       "history"
-       ],
-       "type":"tv",
-       "year":2019
-     },{
-        "title":"Chicago",
-        "emojiImgs":"🎷👯🔫👠🕺",
-        "genres":[
-           "musical",
-           "drama",
-           "comedy"
-        ],
-        "type":"movie",
-        "year":2002
-     },{
-        "title":"The Color Purple",
-        "emojiImgs":"💜🏃🏾‍♀️🧘🏾‍♀️",
-        "genres":[
-           "drama"
-        ],
-        "type":"movie",
-        "year":1986
-     },{
-        "title":"Devil Wears Prada",
-        "emojiImgs":"😈💄👠🧣👓",
-        "genres":[
-           "comedy",
-           "drama"
-        ],
-        "type":"movie",
-        "year":2006
-     },{
-         "title":"E.T. the Extra-Terrestrial",
-         "emojiImgs":"🌙🚲👉🏻👈🏻👽",
-         "genres":[
-             "Family", 
-             "Sci-Fi"
-         ],
-         "type":"movie",
-         "year":1982
-     },{
-        "title":"Fight Club",
-        "emojiImgs":"🥊🧼🤐",
-        "genres":[
-           "drama"
-        ],
-        "type":"movie",
-        "year":1999
-     },{
-        "title":"Frozen",
-        "emojiImgs":"👭☃️❄️",
-        "genres":[
-           "animation",
-           "adventure",
-           "comedy"
-        ],
-        "type":"movie",
-        "year":2013
-     },{
-        "title":"Game of Thrones",
-        "emojiImgs":"🐉👑🗡️📚🧟",
-        "genres":[
-           "action",
-           "adventure",
-           "drama"
-        ],
-        "type":"tv",
-        "year":2011
-     },{
-        "title":"Hamilton: The Musical",
-        "emojiImgs":"💵🖋️⚖️🎵📜",
-        "genres":[
-           "drama",
-           "comedy",
-           "musical"
-        ],
-        "type":"musical",
-        "year":2015
-     },{
-        "title":"Harry Potter and the Chamber of Secrets",
-        "emojiImgs":"🐍🧙‍♂️📓👩‍🦰⚡",
-        "genres":[
-           "adventure",
-           "family",
-           "fantasy"
-        ],
-        "type":"movie",
-        "year":2002
-     },{
-        "title":"Home Alone",
-        "emojiImgs":"🏠🙈",
-        "genres":[
-           "comedy",
-           "family"
-        ],
-        "type":"movie",
-        "year":1990
-     },{
-        "title":"It",
-        "emojiImgs":"🎈🤡☔🚲",
-        "genres":[
-           "horror",
-           "thriller"
-        ],
-        "type":"movie",
-        "year":2017
-     },{
-        "title":"It 2: It's coming!",
-        "emojiImgs":"🤡🎈🤡🎈🤡",
-        "genres":[
-           "horror",
-           "thriller"
-        ],
-        "type":"movie",
-        "year":2020
-     },{
-      "title": "John Wick",
-      "emojiImgs": "🔪🐶🚗🔫🤵🏻",
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "type": "movie",
-      "year": 2014
-    },{
-        "title":"Jurassic Park",
-        "emojiImgs":"🔬🦖🏝",
-        "genres":[
-          "Action",
-          "Adventure",
-          "Sci-Fi"
-        ],
-        "type":"movie",
-        "year":1993
-      },{
-        "title":"Kiki's Delivery Service",
-        "emojiImgs":"👧🐱🧹📫",
-        "genres":[
-           "animated"
-        ],
-        "type":"movie",
-        "year":1989
-     },{
-      "title": "Kill Bill: Volume 1",
-      "emojiImgs": "🔪🙍‍🥋🦶🇯🇵",
-      "genres": [
-        "action",
-        "drama"
-      ],
-      "type": "movie",
-      "year": 2003
-    },{
-        "title":"Kung Fu Panda",
-        "emojiImgs":"🐼🎍🇨🇳🥟🍚",
-        "genres":[
-           "animation",
-           "action",
-           "adventure"
-        ],
-        "type":"movie",
-        "year":2008
-     },{
-        "title":"Legally Blonde",
-        "emojiImgs":"👩‍⚖️👠💘🏫🐶",
-        "genres":[
-           "romance",
-           "comedy"
-        ],
-        "type":"movie",
-        "year":2001
-     },{
-        "title":"Les Misérables",
-        "emojiImgs":"🇫🇷🥖👮🏻",
-        "genres":[
-           "drama",
-           "history",
-           "musical"
-        ],
-        "type":"musical",
-        "year":1987
-     },{
-         "title":"The Lion King",
-         "emojiImgs":"🦁👑🌍",
-         "genres":[
-            "animation",
-            "adventure",
-            "drama"
-         ],
-         "type":"movie",
-         "year":1994
-      },{
-         "title":"The Lord of the Rings: The Fellowship of the Ring",
-         "emojiImgs":"💍🧝⚔️🧙",
-         "genres":[
-         "adventure",
-         "drama",
-         "fantasy"
-         ],
-         "type":"movie",
-         "year":2001
-     },{
-         "title":"Matrix",
-         "emojiImgs":"👨‍💻👩‍💻🔫🥋",
-         "genres":[
-            "action",
-            "sci-fi"
-         ],
-         "type":"movie",
-         "year":1999
-      },{
-         "title":"Miss Saigon",
-         "emojiImgs":"🇻🇳💑🚁👶",
-         "genres":[
-            "drama",
-            "war",
-            "musical"
-         ],
-         "type":"musical",
-         "year":1991
-      },{
-        "title":"On the Town",
-        "emojiImgs":"⚓🚢",
-        "genres":[
-           "comedy"
-        ],
-        "type":"play",
-        "year":2014
-     },{
-        "title":"The Other Side of Heaven",
-        "emojiImgs":"⛪🙏🏝🇹🇴😇",
-        "genres":[
-           "adventure",
-           "biography",
-           "drama"
-        ],
-        "type":"movie",
-        "year":2001
-     },{
-        "title":"Pet Sematary",
-        "emojiImgs":"🐶🐱☠️⚰️",
-        "genres":[
-           "horror",
-           "thriller",
-           "mystery"
-        ],
-        "type":"movie",
-        "year":2019
-     },{
-        "title":"Pirates of the Caribbean",
-        "emojiImgs":"🍻🏴‍☠️🚢",
-        "genres":[
-           "action",
-           "comedy",
-           "musical"
-        ],
-        "type":"movie",
-        "year":1994
-     },{
-        "title":"Princess Bride",
-        "emojiImgs":"🏴‍☠️👸🔥🤺",
-        "genres":[
-           "adventure",
-           "family"
-        ],
-        "type":"movie",
-        "year":1987
-     },{
-        "title": "Pulp Fiction",
-        "emojiImgs": "🔪🔫🍔🥊💊",
-        "genres": [
-          "crime",
-          "drama"
-        ],
-        "type": "movie",
-        "year": 1994
-    },{
-        "title":"Rent",
-        "emojiImgs":"🍃🍂🍁♥️",
-        "genres":[
-           "drama",
-           "musical",
-           "romance"
-        ],
-        "type":"movie",
-        "year":2005
-     },{
-         "title":"RocketMan",
-         "emojiImgs":"🐱 📫",
-         "genres":[
-            "drama",
-            "musical"
-         ],
-         "type":"movie",
-         "year":2019
-      },{
-         "title":"School of Rock",
-         "emojiImgs":"🏫🎸🥁🎹",
-         "genres":[
-            "comedy",
-            "music"
-         ],
-         "type":"movie",
-         "year":2003
-      },{
-        "title":" Seven ",
-        "emojiImgs":"  🕵🔪👮‍♂️😈",
-        "genres":[
-           "drama"
-        ],
-        "type":"movie",
-        "year":2007
-     },{
-        "title":"Sixth Sense",
-        "emojiImgs":"👻👦👀",
-        "genres":[
-           "drama",
-           "mystery",
-           "thriller"
-        ],
-        "type":"movie",
-        "year":1999
-     },{
-        "title":"Space Jam",
-        "emojiImgs":"🏀🛸🚀",
-        "genres":[
-           "action",
-           "comedy",
-           "musical"
-        ],
-        "type":"movie",
-        "year":1994
-     },{
-        "title":"Sweeney Todd: The Demon Barber of Fleet Street",
-        "emojiImgs":"💈🔪☠️🍰",
-        "genres":[
-           "drama",
-           "horror",
-           "musical"
-        ],
-        "type":"musical",
-        "year":1979
-     },{
-        "title":"Tropic Thunder",
-        "emojiImgs":"😼😽🙀😿😾",
-        "genres":[
-           "Action, Adventure, Comedy"
-        ],
-        "type":"movie",
-        "year":2008
-     },{
-        "title":"Up",
-        "emojiImgs":"🎈🏠🐶👴🏻",
-        "genres":[
-           "action",
-           "comedy",
-           "musical"
-        ],
-        "type":"movie",
-        "year":1994
-     },{
-        "title":"Wicked",
-        "emojiImgs":"💚🧹🧙‍♂️",
-        "genres":[
-           "fantasy"
-        ],
-        "type":"musical",
-        "year":2003
-     },{
-         "title":"Young Frankenstein",
-         "emojiImgs":"👶🌭🍺⚡️🧟‍",
-         "genres":[
-         "comedy"
-         ],
-         "type":"movie",
-         "year":1974
-     }
+  {
+    "title": "See No Evil, Hear No Evil",
+    "emojiImgs": "🙈👹🙉👹",
+    "genres": ["comedy", "crime"],
+    "type": "movie",
+    "year": 1989
+  },
+  {
+    "title": "The 25th Annual Putnum County Spelling Bee",
+    "emojiImgs": "🔤🐝😂",
+    "genres": ["musical", "comedy"],
+    "type": "musical",
+    "year": 2005
+  },
+  {
+    "title": "300 ",
+    "emojiImgs": "💪🤕👊🏻⚔️ 🛡",
+    "genres": ["action", "drama", "fantasy"],
+    "type": "movie",
+    "year": 2007
+  },
+  {
+    "title": "A Star is Born",
+    "emojiImgs": "🎤👩👨🎸⭐",
+    "genres": ["action", "comedy", "musical"],
+    "type": "movie",
+    "year": 1994
+  },
+  {
+    "title": "Aladdin",
+    "emojiImgs": "🧞‍♂️💞👸👳🏰",
+    "genres": ["adventure", "family", "comedy"],
+    "type": "movie",
+    "year": 2019
+  },
+  {
+    "title": "Alf",
+    "emojiImgs": "🚀👽🍴🐈️",
+    "genres": ["comedy", "family", "sci-fi"],
+    "type": "tv",
+    "year": 1986
+  },
+  {
+    "title": "Alien",
+    "emojiImgs": "🚀👾🔫👨‍🚀",
+    "genres": ["suspense"],
+    "type": "movie",
+    "year": 1979
+  },
+  {
+    "title": "Beauty and the Beast",
+    "emojiImgs": "🏰🥀🎶📚🕰️",
+    "genres": ["animation", "family", "fantasy"],
+    "type": "movie",
+    "year": 1991
+  },
+  {
+    "title": "Black Panther",
+    "emojiImgs": "😺🌍🏴💪🏿🦸🏿",
+    "genres": ["action", "adventure", "sci-fi"],
+    "type": "movie",
+    "year": 2018
+  },
+  {
+    "title": "Blazing Saddles",
+    "emojiImgs": "🔥🤠🐴🏇🏜️",
+    "genres": ["western", "comedy"],
+    "type": "movie",
+    "year": 1974
+  },
+  {
+    "title": "The Book of Mormon",
+    "emojiImgs": "👋🔔👨📖✝️",
+    "genres": ["comedy", "satire", "musical"],
+    "type": "musical",
+    "year": 2011
+  },
+  {
+    "title": "Bungou Stray Dogs: Dead Apple",
+    "emojiImgs": "🍎🗡🐶🇯🇵",
+    "genres": ["animation"],
+    "type": "movie",
+    "year": 2018
+  },
+  {
+    "title": "Cast Away",
+    "emojiImgs": "🏐🥥🏝️",
+    "genres": ["action", "comedy", "musical"],
+    "type": "movie",
+    "year": 2000
+  },
+  {
+    "title": "Chernobyl",
+    "emojiImgs": "💥☢️🇺🇦",
+    "genres": ["drama", "history"],
+    "type": "tv",
+    "year": 2019
+  },
+  {
+    "title": "Chicago",
+    "emojiImgs": "🎷👯🔫👠🕺",
+    "genres": ["musical", "drama", "comedy"],
+    "type": "movie",
+    "year": 2002
+  },
+  {
+    "title": "The Color Purple",
+    "emojiImgs": "💜🏃🏾‍♀️🧘🏾‍♀️",
+    "genres": ["drama"],
+    "type": "movie",
+    "year": 1986
+  },
+  {
+    "title": "Devil Wears Prada",
+    "emojiImgs": "😈💄👠🧣👓",
+    "genres": ["comedy", "drama"],
+    "type": "movie",
+    "year": 2006
+  },
+  {
+    "title": "E.T. the Extra-Terrestrial",
+    "emojiImgs": "🌙🚲👉🏻👈🏻👽",
+    "genres": ["Family", "Sci-Fi"],
+    "type": "movie",
+    "year": 1982
+  },
+  {
+    "title": "Fight Club",
+    "emojiImgs": "🥊🧼🤐",
+    "genres": ["drama"],
+    "type": "movie",
+    "year": 1999
+  },
+  {
+    "title": "Frozen",
+    "emojiImgs": "👭☃️❄️",
+    "genres": ["animation", "adventure", "comedy"],
+    "type": "movie",
+    "year": 2013
+  },
+  {
+    "title": "Game of Thrones",
+    "emojiImgs": "🐉👑🗡️📚🧟",
+    "genres": ["action", "adventure", "drama"],
+    "type": "tv",
+    "year": 2011
+  },
+  {
+    "title": "Hamilton: The Musical",
+    "emojiImgs": "💵🖋️⚖️🎵📜",
+    "genres": ["drama", "comedy", "musical"],
+    "type": "musical",
+    "year": 2015
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "emojiImgs": "🐍🧙‍♂️📓👩‍🦰⚡",
+    "genres": ["adventure", "family", "fantasy"],
+    "type": "movie",
+    "year": 2002
+  },
+  {
+    "title": "Home Alone",
+    "emojiImgs": "🏠🙈",
+    "genres": ["comedy", "family"],
+    "type": "movie",
+    "year": 1990
+  },
+  {
+    "title": "It",
+    "emojiImgs": "🎈🤡☔🚲",
+    "genres": ["horror", "thriller"],
+    "type": "movie",
+    "year": 2017
+  },
+  {
+    "title": "It 2: It's coming!",
+    "emojiImgs": "🤡🎈🤡🎈🤡",
+    "genres": ["horror", "thriller"],
+    "type": "movie",
+    "year": 2020
+  },
+  {
+    "title": "John Wick",
+    "emojiImgs": "🔪🐶🚗🔫🤵🏻",
+    "genres": ["Action", "Crime", "Thriller"],
+    "type": "movie",
+    "year": 2014
+  },
+  {
+    "title": "Jurassic Park",
+    "emojiImgs": "🔬🦖🏝",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "type": "movie",
+    "year": 1993
+  },
+  {
+    "title": "Kiki's Delivery Service",
+    "emojiImgs": "👧🐱🧹📫",
+    "genres": ["animated"],
+    "type": "movie",
+    "year": 1989
+  },
+  {
+    "title": "Kill Bill: Volume 1",
+    "emojiImgs": "🔪🙍‍🥋🦶🇯🇵",
+    "genres": ["action", "drama"],
+    "type": "movie",
+    "year": 2003
+  },
+  {
+    "title": "Kung Fu Panda",
+    "emojiImgs": "🐼🎍🇨🇳🥟🍚",
+    "genres": ["animation", "action", "adventure"],
+    "type": "movie",
+    "year": 2008
+  },
+  {
+    "title": "Legally Blonde",
+    "emojiImgs": "👩‍⚖️👠💘🏫🐶",
+    "genres": ["romance", "comedy"],
+    "type": "movie",
+    "year": 2001
+  },
+  {
+    "title": "Les Misérables",
+    "emojiImgs": "🇫🇷🥖👮🏻",
+    "genres": ["drama", "history", "musical"],
+    "type": "musical",
+    "year": 1987
+  },
+  {
+    "title": "The Lion King",
+    "emojiImgs": "🦁👑🌍",
+    "genres": ["animation", "adventure", "drama"],
+    "type": "movie",
+    "year": 1994
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "emojiImgs": "💍🧝⚔️🧙",
+    "genres": ["adventure", "drama", "fantasy"],
+    "type": "movie",
+    "year": 2001
+  },
+  {
+    "title": "Matrix",
+    "emojiImgs": "👨‍💻👩‍💻🔫🥋",
+    "genres": ["action", "sci-fi"],
+    "type": "movie",
+    "year": 1999
+  },
+  {
+    "title": "Miss Saigon",
+    "emojiImgs": "🇻🇳💑🚁👶",
+    "genres": ["drama", "war", "musical"],
+    "type": "musical",
+    "year": 1991
+  },
+  {
+    "title": "On the Town",
+    "emojiImgs": "⚓🚢",
+    "genres": ["comedy"],
+    "type": "play",
+    "year": 2014
+  },
+  {
+    "title": "The Other Side of Heaven",
+    "emojiImgs": "⛪🙏🏝🇹🇴😇",
+    "genres": ["adventure", "biography", "drama"],
+    "type": "movie",
+    "year": 2001
+  },
+  {
+    "title": "Pet Sematary",
+    "emojiImgs": "🐶🐱☠️⚰️",
+    "genres": ["horror", "thriller", "mystery"],
+    "type": "movie",
+    "year": 2019
+  },
+  {
+    "title": "Pirates of the Caribbean",
+    "emojiImgs": "🍻🏴‍☠️🚢",
+    "genres": ["action", "comedy", "musical"],
+    "type": "movie",
+    "year": 1994
+  },
+  {
+    "title": "Princess Bride",
+    "emojiImgs": "🏴‍☠️👸🔥🤺",
+    "genres": ["adventure", "family"],
+    "type": "movie",
+    "year": 1987
+  },
+  {
+    "title": "Pulp Fiction",
+    "emojiImgs": "🔪🔫🍔🥊💊",
+    "genres": ["crime", "drama"],
+    "type": "movie",
+    "year": 1994
+  },
+  {
+    "title": "Rent",
+    "emojiImgs": "🍃🍂🍁♥️",
+    "genres": ["drama", "musical", "romance"],
+    "type": "movie",
+    "year": 2005
+  },
+  {
+    "title": "RocketMan",
+    "emojiImgs": "🐱 📫",
+    "genres": ["drama", "musical"],
+    "type": "movie",
+    "year": 2019
+  },
+  {
+    "title": "School of Rock",
+    "emojiImgs": "🏫🎸🥁🎹",
+    "genres": ["comedy", "music"],
+    "type": "movie",
+    "year": 2003
+  },
+  {
+    "title": "Seven",
+    "emojiImgs": "🕵🔪👮‍♂️😈",
+    "genres": ["drama"],
+    "type": "movie",
+    "year": 2007
+  },
+  {
+    "title": "Sixth Sense",
+    "emojiImgs": "👻👦👀",
+    "genres": ["drama", "mystery", "thriller"],
+    "type": "movie",
+    "year": 1999
+  },
+  {
+    "title": "Space Jam",
+    "emojiImgs": "🏀🛸🚀",
+    "genres": ["action", "comedy", "musical"],
+    "type": "movie",
+    "year": 1994
+  },
+  {
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "emojiImgs": "💈🔪☠️🍰",
+    "genres": ["drama", "horror", "musical"],
+    "type": "musical",
+    "year": 1979
+  },
+  {
+    "title": "Tropic Thunder",
+    "emojiImgs": "😼😽🙀😿😾",
+    "genres": ["Action, Adventure, Comedy"],
+    "type": "movie",
+    "year": 2008
+  },
+  {
+    "title": "Up",
+    "emojiImgs": "🎈🏠🐶👴🏻",
+    "genres": ["action", "comedy", "musical"],
+    "type": "movie",
+    "year": 1994
+  },
+  {
+    "title": "Wicked",
+    "emojiImgs": "💚🧹🧙‍♂️",
+    "genres": ["fantasy"],
+    "type": "musical",
+    "year": 2003
+  },
+  {
+    "title": "Young Frankenstein",
+    "emojiImgs": "👶🌭🍺⚡️🧟‍",
+    "genres": ["comedy"],
+    "type": "movie",
+    "year": 1974
+  }
 ]
