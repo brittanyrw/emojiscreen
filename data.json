@@ -397,6 +397,16 @@
         "type": "movie",
         "year": 1994
     },{
+      "title": "Ready Player One",
+      "emojiImgs": "🏁🕹1️⃣",
+      "genres": [
+        "action",
+        "adventure",
+        "sci-fi"
+      ],
+      "type": "movie",
+      "year": 2018
+  },{
         "title":"Rent",
         "emojiImgs":"🍃🍂🍁♥️",
         "genres":[
