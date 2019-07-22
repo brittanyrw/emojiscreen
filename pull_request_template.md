@@ -1,4 +1,4 @@
-<!-- As you are making updates, please follow the checklist below. Place an [x] inside each square as you complete each item -->
+<!-- If you are adding a new TV show, movie or musical, please follow the checklist below. Place an [x] (get rid of any spaces) inside each square as you complete each item -->
 
 If this pull request closes an issue, add the number below after the # sign.
 
