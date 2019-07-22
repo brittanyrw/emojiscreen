@@ -269,5 +269,27 @@ i {
   font-size: 2em;
 }
 
+footer {
+  text-align: center;
+  max-width: 1000px;
+  margin: auto;
+  border-top: 1px solid white;
+  padding-top: 20px;
+}
 
+footer p {
+  line-height: 26px;
+  color: white;
+  font-size: 18px;
+}
+
+footer span {
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  color: gold;
+}
+
+footer img {
+  height: 19px;
+}
 
