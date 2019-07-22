@@ -524,7 +524,9 @@
         "title":"Tropic Thunder",
         "emojiImgs":"😼😽🙀😿😾",
         "genres":[
-           "Action, Adventure, Comedy"
+           "Action",
+           "Adventure",
+           "Comedy"
         ],
         "type":"movie",
         "year":2008
