@@ -239,6 +239,16 @@
         "type":"movie",
         "year":2002
      },{
+        "title":"Harry Potter and the Goblet of Fire",
+        "emojiImgs":"🐉🧜☠️🏆🧙‍♂️",
+        "genres":[
+           "adventure",
+           "family",
+           "fantasy"
+        ],
+        "type":"movie",
+        "year":2005
+     },{
         "title":"Home Alone",
         "emojiImgs":"🏠🙈",
         "genres":[
