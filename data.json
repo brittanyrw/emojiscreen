@@ -483,6 +483,15 @@
          "type":"movie",
          "year":2003
       },{
+         "title": "See No Evil, Hear No Evil",
+         "emojiImgs": "🙈👹🙉👹",
+         "genres":[
+            "comedy",
+            "crime"
+         ],
+         "type":"movie",
+         "year":1989
+      },{
         "title":" Seven ",
         "emojiImgs":"  🕵🔪👮‍♂️😈",
         "genres":[
