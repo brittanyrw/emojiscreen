@@ -7,6 +7,6 @@
 - [ ] ⭐ My genres are each individually wrapped in quotation marks and have a comma between each one. (such as submitting this `"genres": ["adventure","mystery","animation"]` and not this `"genres":["adventure, mystery, animation"]`)
 - [ ] 🖍️ I have placed the new show(s) or movie(s) in alphabetical order based on title. 
 
-If this pull request closes an issue, replace the --- with the issue number.
+👋 If this pull request closes an issue, replace the --- with the issue number.
 
 Closes #---
