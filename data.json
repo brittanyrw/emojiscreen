@@ -462,6 +462,16 @@
         "type":"movie",
         "year":1994
      },{
+      "title":"Spider-Man",
+      "emojiImgs":"🕷👨🏻‍🦰🤟🏻📸👨‍🦳",
+      "genres":[
+         "action",
+         "adventure",
+         "Sci-Fi"
+      ],
+      "type":"movie",
+      "year":2002
+     },{
         "title":"Sweeney Todd: The Demon Barber of Fleet Street",
         "emojiImgs":"💈🔪☠️🍰",
         "genres":[
