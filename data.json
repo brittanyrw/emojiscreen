@@ -135,6 +135,16 @@
         "type":"movie",
         "year":2002
      },{
+      "title": "Child's Play",
+      "emojiImgs": "👶😰😫☠",
+      "genres": [
+        "action",
+        "Horror",
+        "sci-fi"
+      ],
+      "type": "movie",
+      "year": 2019
+     },{
         "title":"The Color Purple",
         "emojiImgs":"💜🏃🏾‍♀️🧘🏾‍♀️",
         "genres":[
@@ -209,6 +219,15 @@
         "type":"tv",
         "year":2011
      },{
+      "title": "Get Out",
+      "emojiImgs": "😮😱💪🏿🦸🏿",
+      "genres": [
+        "Horror",
+        "sci-fi"
+      ],
+      "type": "movie",
+      "year": 2018
+    },{
          "title": "Gladiator",
          "emojiImgs": "🤺⚔️🛡️",
          "genres": [
@@ -352,6 +371,15 @@
          "type":"movie",
          "year":1994
       },{
+         "title": "The Lion King",
+         "emojiImgs": "😺🦁👑🌍",
+         "genres": [
+           "action",
+           "adventure"
+         ],
+         "type": "movie",
+         "year": 2018
+      },{
          "title":"The Lord of the Rings: The Fellowship of the Ring",
          "emojiImgs":"💍🧝⚔️🧙",
          "genres":[
@@ -454,7 +482,7 @@
       ],
       "type": "movie",
       "year": 2018
-  },{
+    },{
         "title":"Rent",
         "emojiImgs":"🍃🍂🍁♥️",
         "genres":[
@@ -520,6 +548,16 @@
         "type":"movie",
         "year":1994
      },{
+      "title": "Spiderman",
+      "emojiImgs": "😎🕷💪😍",
+      "genres": [
+        "action",
+        "adventure",
+        "sci-fi"
+      ],
+      "type": "movie",
+      "year": 2019
+     },{
         "title":"Sweeney Todd: The Demon Barber of Fleet Street",
         "emojiImgs":"💈🔪☠️🍰",
         "genres":[
@@ -575,52 +613,5 @@
          ],
          "type":"movie",
          "year":1974
-     },{
-  "title": "Alladin",
-  "emojiImgs": "( ͡° ͜ʖ ͡°)█㋡💪🏿",
-  "genres": [
-    "action",
-    "adventure"
-  ],
-  "type": "movie",
-  "year": 2019
-},{
-  "title": "Child's Play",
-  "emojiImgs": "👶😰😫☠",
-  "genres": [
-    "action",
-    "Horror",
-    "sci-fi"
-  ],
-  "type": "movie",
-  "year": 2019
-},{
-  "title": "Get Out",
-  "emojiImgs": "😮😱💪🏿🦸🏿",
-  "genres": [
-    "Horror",
-    "sci-fi"
-  ],
-  "type": "movie",
-  "year": 2018
-},{
-  "title": "Spiderman",
-  "emojiImgs": "😎🕷💪😍",
-  "genres": [
-    "action",
-    "adventure",
-    "sci-fi"
-  ],
-  "type": "movie",
-  "year": 2019
-},{
-  "title": "Lion King",
-  "emojiImgs": "😺🦁👑🌍",
-  "genres": [
-    "action",
-    "adventure"
-  ],
-  "type": "movie",
-  "year": 2018
-}
+     }
 ]
