@@ -575,5 +575,52 @@
          ],
          "type":"movie",
          "year":1974
-     }
+     },{
+  "title": "Alladin",
+  "emojiImgs": "( ͡° ͜ʖ ͡°)█㋡💪🏿",
+  "genres": [
+    "action",
+    "adventure"
+  ],
+  "type": "movie",
+  "year": 2019
+},{
+  "title": "Child's Play",
+  "emojiImgs": "👶😰😫☠",
+  "genres": [
+    "action",
+    "Horror",
+    "sci-fi"
+  ],
+  "type": "movie",
+  "year": 2019
+},{
+  "title": "Get Out",
+  "emojiImgs": "😮😱💪🏿🦸🏿",
+  "genres": [
+    "Horror",
+    "sci-fi"
+  ],
+  "type": "movie",
+  "year": 2018
+},{
+  "title": "Spiderman",
+  "emojiImgs": "😎🕷💪😍",
+  "genres": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "type": "movie",
+  "year": 2019
+},{
+  "title": "Lion King",
+  "emojiImgs": "😺🦁👑🌍",
+  "genres": [
+    "action",
+    "adventure"
+  ],
+  "type": "movie",
+  "year": 2018
+}
 ]
