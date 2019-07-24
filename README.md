@@ -17,7 +17,9 @@ Read below for a detailed overview and walkthrough on how to add an `Emoji Card`
 
 ## Movie, TV Show and Musical Examples
 
-Here are some links to lists of movies, TV shows and musicals in case you're having trouble thinking of something to add!
+Here are some links to lists of movies, TV shows and musicals in case you're having trouble thinking of something to add! 
+
+### I have also [added Issues for individual movies and series](https://github.com/brittanyrw/emojiscreen/issues) that I would like to make sure are added to EmojiScreen. Feel free to grab on of those as well. 
 
 ### Movies
 * [IMDB Top 100 drama list](https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc)
