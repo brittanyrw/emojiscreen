@@ -588,6 +588,17 @@
         "type":"movie",
         "year":1994
      },{
+        "title":"West Side Story",
+        "emojiImgs":"🗽✈️⚔️🦈💔",
+        "genres":[
+           "musical",
+           "romance",
+           "drama",
+           "crime"
+        ],
+        "type":"musical",
+        "year":1961
+     },{
         "title":"Wicked",
         "emojiImgs":"💚🧹🧙‍♂️",
         "genres":[
