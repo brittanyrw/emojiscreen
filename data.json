@@ -467,5 +467,57 @@
     "genres": ["comedy"],
     "type": "movie",
     "year": 1974
-  }
+  },
+  {
+   "title": "Grey's Anatomy",
+   "emojiImgs": "💊💉🧪⚕🍷",
+    "genres": [
+          "drama",
+          "romance"
+      ],
+      "type": "TV Series",
+      "year": 2005 - 
+      },
+    {
+    "title": "John Wick: Chapter 3 - Parabellum",
+   "emojiImgs": "🔫🗡🐶💰🏎",
+    "genres": [
+          "action",
+          "crime",
+          "thriller"
+      ],
+      "type": "movie",
+      "year": 2019
+      },
+  {
+  "title": "Jurassic Park: Fallen Kingdom",
+   "emojiImgs": "🦖🦕🐊🤯😫",
+    "genres": [
+          "action",
+          "adventure",
+          "Sci-Fi"
+      ],
+      "type": "TV Series",
+      "year": 2018
+      },
+  {
+   "title": "Narcos",
+   "emojiImgs": "🔫🗡💊💉💰",
+    "genres": [
+          "crime",
+          "drama"
+      ],
+      "type": "TV Series",
+      "year": 2015-2017
+      },
+   {
+   "title": "The Big Bang Theory",
+   "emojiImgs": "🌍💻⚗🔭",
+    "genres": [
+          "comedy",
+          "romance"
+      ],
+      "type": "TV Series",
+      "year": 2007-2019
+      }
 ]
