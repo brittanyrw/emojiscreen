@@ -49,7 +49,7 @@ In the code, each `Emoji Card` consists of the following JSON:
 {
   "title": "Beauty and the Beast",
   "emojiImgs": "🏰🥀🎶📚🕰️",
-  "genres": ["animation","family","fantasy"],
+  "genres": ["animation", "family", "fantasy"],
   "type": "movie",
   "year": 1991
 }
@@ -93,7 +93,7 @@ The genres should be added as an array (the square [] brackets indicates an arra
 
 ```
 {
-  "genres": ["animation","family","fantasy"]
+  "genres": ["animation", "family", "fantasy"]
 }
 ```
 
@@ -152,7 +152,7 @@ Use the following object as a template:
 {
   "title": "Black Panther",
   "emojiImgs": "😺🌍🏴💪🏿🦸🏿",
-  "genres": ["action","adventure","sci-fi"],
+  "genres": ["action", "adventure", "sci-fi"],
   "type": "movie",
   "year": 2018
 }
@@ -194,7 +194,7 @@ Use the following object as a template:
 {
   "title": "The Lion King",
   "emojiImgs": "🦁👑🌍",
-  "genres": ["animation","adventure","drama"],
+  "genres": ["animation", "adventure", "drama"],
   "type": "movie",
   "year": 1994
 }
