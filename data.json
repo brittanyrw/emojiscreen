@@ -57,6 +57,16 @@
         "type":"movie",
         "year":1979
      },{
+       "title":"The Avengers",
+       "emojiImgs":"🦸‍♂️🦸‍♀️💪",
+       "genres": [
+          "action",
+          "adventure",
+          "sci-fi",
+         ],
+         "type": "movie",
+         "year": 2012
+     },{    
         "title":"Beauty and the Beast",
         "emojiImgs":"🏰🥀🎶📚🕰️",
         "genres":[
@@ -105,6 +115,16 @@
         ],
         "type":"movie",
         "year": 2018
+     },{
+       "title":"Captain America: The First Avenger",
+       "emojiImgs":"👨‍✈️🇺🇸",
+       "genres":[
+          "action",
+          "adventure",
+          "sci-fi",
+          ],
+         "type":"movie",
+         "year":2011
      },{
         "title":"Cast Away",
         "emojiImgs":"🏐🥥🏝️",
@@ -277,6 +297,46 @@
         "type":"movie",
         "year":1990
      },{
+       "title":"The Incredible Hulk",
+       "emojiImgs":"💢😠👨‍💪",
+       "genres":[
+          "action",
+          "adventure",
+          "sci-fi",
+         ],
+         "type": "movie",
+         "year": 2008
+     },{
+        "title":"Iron Man",
+       "emojiImgs":"👨‍🚀💪🛡️",
+       "genres":[
+          "action",
+          "adventure",
+          "sci-fi",
+        ],
+        "type": "movie",
+        "year": 2008
+     },{
+       "title":"Iron Man 2",
+       "emojiImgs":"👨‍🚀💪🛡️2️⃣",
+       "genres":[
+          "action",
+          "adventure",
+          "sci-fi",
+         ],
+        "type": "movie",
+        "year": 2010
+     },{
+       "title":"Iron Man 3",
+       "emojiImgs":"👨‍🚀💪🛡️3️⃣",
+       "genres":[
+          "action",
+          "adventure",
+          "sci-fi",
+         ],
+         "type": "movie",
+         "year": 2013
+     },{    
         "title":"It",
         "emojiImgs":"🎈🤡☔🚲",
         "genres":[
@@ -568,6 +628,65 @@
         "type":"musical",
         "year":1979
      },{
+        "title":"Thor",
+        "emojiImgs":"🔨💪👨",
+        "genres":"action",
+                 "adventure",
+                 "fantasy",
+         ],
+        "type":"movie",
+        "year":2011
+     },{
+       "title":"Thor: The Dark World",
+       "emojiImgs":"🔨💪👨🌍🏴",
+       "genres":[
+            "action",
+            "adventure",
+            "fantasy",
+         ],
+         "type":"movie",
+         "year":2013
+     },{
+         "title":"Toy Story",
+         "emojiImgs":"🤖📚",
+         "genres":[
+             "animation",
+             "fantasy",
+             "family"
+          ],
+         "type": "movie",
+         "year": 1995
+     },{
+        "title":"Toy Story 2",
+        "emojiImgs":"🤖📚2️⃣",
+        "genres":[
+             "animation",
+             "fantasy",
+             "family"
+          ],
+         "type":"movie",
+         "year":1999
+      },{
+        "title":"Toy Story 3",
+        "emojiImgs":"🤖📚3️⃣",
+        "genres":[
+             "animation",
+             "fantasy",
+             "family",
+          ],
+         "type": "movie",
+         "year": 2010
+      },{
+         "title":"Toy Story 4",
+         "emojiImgs":"🤖📚4️⃣",
+         "genres":[
+             "animation",
+             "fantasy",
+             "family",
+          ],
+         "type": "movie",
+         "year": 2019
+      },{
         "title":"Tropic Thunder",
         "emojiImgs":"😼😽🙀😿😾",
         "genres":[
