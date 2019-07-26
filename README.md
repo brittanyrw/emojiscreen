@@ -221,7 +221,7 @@ Then re-run the commit command. Remember to replace with your show or movie: `gi
 15. Wait for feedback/review of your Pull Request. If your Pull Request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com)!
 
 ## Other Resources and Options
-* [Additional guides, tutorials, and helpful tips for contributing on Github](Resources.md)
+* [Additional guides, tutorials, and helpful tips for contributing on GitHub](Resources.md)
 
 ## Credits
 
