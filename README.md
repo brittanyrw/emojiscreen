@@ -221,11 +221,7 @@ Then re-run the commit command. Remember to replace with your show or movie: `gi
 15. Wait for feedback/review of your Pull Request. If your Pull Request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com)!
 
 ## Other Resources and Options
-* [Git Handbook](https://guides.github.com/introduction/git-handbook/)
-* [Additional Git/Github Practice](https://try.github.io/)
-* [Visualizing Git Commands Tool](https://git-school.github.io/visualizing-git/)
-* Try creating a [new branch](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) for your pull request.
-* [Syncing your Fork](https://help.github.com/en/articles/syncing-a-fork)
+* [Additional guides, tutorials, and helpful tips for contributing on Github](Resources.md)
 
 ## Credits
 
