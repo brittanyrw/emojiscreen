@@ -9,15 +9,17 @@
 
 ## Contributing 🎁
 
-Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add a `Emoji Card` to the website (you can add multiple shows or movies). Each card should be added in the `data.json` file as an object. For more advanced ways to contribute, see the repo Issues.
+Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add a `Emoji Card` to the website (you can add multiple shows or movies). Each card should be added in the `data.json` file as an object. 
+
+For more advanced ways to contribute, see the repo Issues. If you want to work on one of the features but aren't sure where to start, write a comment and I will be happy to help you out or get you started. 
 
 Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged. If you run into trouble, feel free to create an Issue!
 
-> Note for movies or shows with multiple versions: For example, Beauty and the Beast has two movie versions (2017 and 1999) and was also a broadway musical. If someone has already added the 1999 movie, and you would like to add the 2017 movie or the musical, you can add the other version but at least one emoji should be different from whatever is already in the `data.json` file.
-
 ## Movie, TV Show and Musical Examples
 
-Here are some links to lists of movies, TV shows and musicals in case you're having trouble thinking of something to add!
+Here are some links to lists of movies, TV shows and musicals in case you're having trouble thinking of something to add! 
+
+### I have also [added Issues for individual movies and series](https://github.com/brittanyrw/emojiscreen/issues) that I would like to make sure are added to EmojiScreen. Feel free to grab on of those as well. 
 
 ### Movies
 * [IMDB Top 100 drama list](https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc)
@@ -47,11 +49,7 @@ In the code, each `Emoji Card` consists of the following JSON:
 {
   "title": "Beauty and the Beast",
   "emojiImgs": "🏰🥀🎶📚🕰️",
-  "genres": [
-    "animation",
-    "family",
-    "fantasy"
-  ],
+  "genres": ["animation", "family", "fantasy"],
   "type": "movie",
   "year": 1991
 }
@@ -95,11 +93,7 @@ The genres should be added as an array (the square [] brackets indicates an arra
 
 ```
 {
-  "genres": [
-    "animation",
-    "family",
-    "fantasy"
-  ]
+  "genres": ["animation", "family", "fantasy"]
 }
 ```
 
@@ -158,11 +152,7 @@ Use the following object as a template:
 {
   "title": "Black Panther",
   "emojiImgs": "😺🌍🏴💪🏿🦸🏿",
-  "genres": [
-    "action",
-    "adventure",
-    "sci-fi"
-  ],
+  "genres": ["action", "adventure", "sci-fi"],
   "type": "movie",
   "year": 2018
 }
@@ -204,11 +194,7 @@ Use the following object as a template:
 {
   "title": "The Lion King",
   "emojiImgs": "🦁👑🌍",
-  "genres": [
-    "animation",
-    "adventure",
-    "drama"
-  ],
+  "genres": ["animation", "adventure", "drama"],
   "type": "movie",
   "year": 1994
 }
