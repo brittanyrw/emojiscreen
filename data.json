@@ -203,6 +203,13 @@
     "year": 2005
   },
   {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "emojiImgs": "👨‍🏫🌕🐺🐀⚡",
+    "genres": ["adventure", "family", "fantasy"],
+    "type": "movie",
+    "year": 2004
+},
+  {
     "title": "Home Alone",
     "emojiImgs": "🏠🙈",
     "genres": ["comedy", "family"],
