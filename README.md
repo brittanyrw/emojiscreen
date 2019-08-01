@@ -19,10 +19,10 @@ Read below for a detailed overview and walkthrough on how to add an `Emoji Card`
 * [Detailed breakdown of Emojiscreen entries with easy-to-follow examples](Examples.md)
 
 ## Walkthrough 🚶‍
-* [Step-by-step instructions for creating an Emojiscreen card, navigating GitHub to fork this repository and make a pull request, and how to develop locally](Walkthrough.md)
+* [Step-by-step instructions for creating an Emojiscreen card, navigating GitHub to fork this repository and make a pull request and how to develop locally](Walkthrough.md)
 
 ## Other Resources and Options
-* [Additional guides, tutorials, and helpful tips for contributing on GitHub](Resources.md)
+* [Additional guides, tutorials and helpful tips for contributing on GitHub](Resources.md)
 
 ## Credits
 
