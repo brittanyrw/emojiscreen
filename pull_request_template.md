@@ -3,7 +3,8 @@
 - [ ] 🔍 I have searched the `data.json` file and confirmed I am not adding a duplicate entry.
 - [ ] 🌈 I have added a single year under `date`. Note: Do not add ranges such as 2017-2019. 
 - [ ] 📅 I have added a type from one of the following: `movie` , `tv` or `musical`.
-- [ ] 3️⃣ I have at least three emojis listed under `emojiImgs` and 5️⃣ less than five emojis listed under `emojiImgs`.
+- [ ] 3️⃣ I have at least three emojis listed under `emojiImgs`
+- [ ] 5️⃣ I have a maximum of five emojis listed under `emojiImgs`.
 - [ ] 👍 My pull request has a descriptive title (such as `Added The Lion King` or `Added Black Panther, The Avengers: Endgame and Thor`)
 - [ ] ⭐ My genres are all inside of square brackets `[ ]` and each are individually wrapped in quotation marks and have a comma between each one. (such as submitting this `"genres": ["adventure","mystery","animation"]` and not this `"genres":["adventure, mystery, animation"]`)
 - [ ] 🖍️ I have placed the new show(s) or movie(s) in alphabetical order based on title. 
