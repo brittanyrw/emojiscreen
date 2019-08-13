@@ -190,14 +190,14 @@
   },
   {
     "title": "Harry Potter and the Philosopher's Stone",
-    "emojiImgs": "👶🏻📨🎂✨📖💀💎",
+    "emojiImgs": "📨🎂✨📖💀💎",
     "genres": ["adventure", "family", "fantasy"],
     "type": "movie",
     "year":2001
   },
   {
     "title": "Harry Potter and the Chamber of Secrets",
-    "emojiImgs": "🐍🧙‍♂️📓👩‍🦰⚡",
+    "emojiImgs": "🐍🧙‍♂️📓👩🏻‍🦰⚡",
     "genres": ["adventure", "family", "fantasy"],
     "type": "movie",
     "year": 2002
@@ -225,7 +225,7 @@
   },
   {
     "title": "Harry Potter and the Half-Blood Prince",
-    "emojiImgs":"👦🏻🐍💀📖🧙🏻‍♂️😭",
+    "emojiImgs":"👦🏻🐍💀📖🧙🏻‍♂️",
     "genres": ["adventure", "family", "fantasy"],
     "type": "movie",
     "year": 2009
@@ -239,7 +239,7 @@
   },
   {
     "title" : "Harry Potter and the Deathly Hallows – Part 2",
-    "emojiImgs":"💰💎💍🏆💀🐍🏰🔥",
+    "emojiImgs":"💰💍💀🐍🏰🔥",
      "genres": ["adventure", "family", "fantasy"],
     "type": "movie",
     "year": 2011
