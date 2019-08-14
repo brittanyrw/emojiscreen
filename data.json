@@ -197,14 +197,14 @@
   },
   {
     "title" : "Harry Potter and the Deathly Hallows – Part 1",
-    "emojiImgs":"👰🏻🤵🏻💀🚽🐍🔪",
+    "emojiImgs":"👰🏻🤵🏻💀🐍🔪",
      "genres": ["adventure", "family", "fantasy"],
     "type": "movie",
     "year": 2010
   },
   {
     "title" : "Harry Potter and the Deathly Hallows – Part 2",
-    "emojiImgs":"💰💍💀🐍🏰🔥",
+    "emojiImgs":"💍💀🐍🏰🔥",
      "genres": ["adventure", "family", "fantasy"],
     "type": "movie",
     "year": 2011
@@ -232,7 +232,7 @@
   },
   {
     "title": "Harry Potter and the Philosopher's Stone",
-    "emojiImgs": "📨🎂✨📖💀💎",
+    "emojiImgs": "📨🎂✨📖💎",
     "genres": ["adventure", "family", "fantasy"],
     "type": "movie",
     "year":2001
