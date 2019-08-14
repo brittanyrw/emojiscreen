@@ -190,10 +190,24 @@
   },
   {
     "title": "Harry Potter and the Chamber of Secrets",
-    "emojiImgs": "🐍🧙‍♂️📓👩‍🦰⚡",
+    "emojiImgs": "🐍🧙‍♂️📓👩🏻‍🦰⚡",
     "genres": ["adventure", "family", "fantasy"],
     "type": "movie",
     "year": 2002
+  },
+  {
+    "title" : "Harry Potter and the Deathly Hallows – Part 1",
+    "emojiImgs":"👰🏻🤵🏻💀🐍🔪",
+     "genres": ["adventure", "family", "fantasy"],
+    "type": "movie",
+    "year": 2010
+  },
+  {
+    "title" : "Harry Potter and the Deathly Hallows – Part 2",
+    "emojiImgs":"💍💀🐍🏰🔥",
+     "genres": ["adventure", "family", "fantasy"],
+    "type": "movie",
+    "year": 2011
   },
   {
     "title": "Harry Potter and the Goblet of Fire",
@@ -203,15 +217,36 @@
     "year": 2005
   },
   {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "emojiImgs":"👦🏻🐍💀📖🧙🏻‍♂️",
+    "genres": ["adventure", "family", "fantasy"],
+    "type": "movie",
+    "year": 2009
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "emojiImgs": "💀🏠💅🏻💭🔮",
+    "genres": ["adventure", "family", "fantasy"],
+    "type": "movie",
+    "year": 2007
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "emojiImgs": "📨🎂✨📖💎",
+    "genres": ["adventure", "family", "fantasy"],
+    "type": "movie",
+    "year":2001
+  },
+  {
     "title": "Harry Potter and the Prisoner of Azkaban",
     "emojiImgs": "👨‍🏫🌕🐺🐀⚡",
     "genres": ["adventure", "family", "fantasy"],
     "type": "movie",
     "year": 2004
-},
+  },
   {
     "title": "Home Alone",
-    "emojiImgs": "🏠🙈",
+    "emojiImgs": "🏠🙈🎄",
     "genres": ["comedy", "family"],
     "type": "movie",
     "year": 1990
