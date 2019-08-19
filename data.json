@@ -37,7 +37,7 @@
   {
     "title": "Alien",
     "emojiImgs": "🚀👾🔫👨‍🚀",
-    "genres": ["suspense"],
+    "genres": ["suspense", "horror"],
     "type": "movie",
     "year": 1979
   },
@@ -252,6 +252,13 @@
     "year": 1990
   },
   {
+    "title": "Inglorious Basterds",
+    "emojiImgs": "💀🔪🎖️📽️🔥",
+    "genres": ["war", "history"],
+    "type": "movie",
+    "year": 2009
+  },
+  {
     "title": "It",
     "emojiImgs": "🎈🤡☔🚲",
     "genres": ["horror", "thriller"],
@@ -259,11 +266,18 @@
     "year": 2017
   },
   {
-    "title": "It 2: It's coming!",
+    "title": "It Chapter Two",
     "emojiImgs": "🤡🎈🤡🎈🤡",
     "genres": ["horror", "thriller"],
     "type": "movie",
-    "year": 2020
+    "year": 2019
+  },
+  {
+    "title": "Jackie Brown",
+    "emojiImgs": "🙎🏿‍♀️🛫💼💰",
+    "genres": ["crime", "film-noir"],
+    "type": "movie",
+    "year": 1997
   },
   {
     "title": "John Wick",
@@ -288,10 +302,14 @@
   },
   {
     "title": "Kill Bill: Volume 1",
-    "emojiImgs": "🔪🙍‍🥋🦶🇯🇵",
+    "emojiImgs": "🗡️🙍‍🥋🦶🇯🇵",
     "genres": ["action", "drama"],
     "type": "movie",
     "year": 2003
+  },
+  {
+    "title": "Kill Bill: Volume 2",
+    "emojiImgs": "👰🗡️👧💓💥"
   },
   {
     "title": "Kung Fu Panda",
@@ -348,6 +366,13 @@
     "genres": ["drama", "war", "musical"],
     "type": "musical",
     "year": 1991
+  },
+  {
+    "title": "Once Upon a Time in Hollywood",
+    "emojiImgs": "🙍‍♂️🙍‍♂️🙎‍♀️🐕🎬",
+    "genres": ["drama", "comedy"],
+    "type": "film",
+    "year": 2019
   },
   {
     "title": "On the Town",
@@ -420,6 +445,13 @@
     "year": 2005
   },
   {
+    "title": "Reservoir Dogs",
+    "emojiImgs": "🕴️🕴️🕴️🕴️🕴️",
+    "genres": ["crime", "thriller"],
+    "type": "movie",
+    "year": 1992
+  },
+  {
     "title": "RocketMan",
     "emojiImgs": "🐱 📫",
     "genres": ["drama", "musical"],
@@ -441,8 +473,8 @@
     "year": 1989
   },
   {
-    "title": " Seven ",
-    "emojiImgs": "  🕵🔪👮‍♂️😈",
+    "title": "Seven",
+    "emojiImgs": "🕵🔪👮‍♂️😈",
     "genres": ["drama"],
     "type": "movie",
     "year": 2007
