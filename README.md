@@ -13,7 +13,7 @@ Below are instructions for how to contribute to this project. The easiest way to
 
 For more advanced ways to contribute, see the repo Issues. If you want to work on one of the features but aren't sure where to start, write a comment and I will be happy to help you out or get you started. 
 
-Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged. If you run into trouble, feel free to create an Issue!
+Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged and you can make multiple pull requests if you desire. If you run into trouble, feel free to create an Issue!
 
 ## Movie, TV Show and Musical Examples
 
@@ -55,6 +55,8 @@ In the code, each `Emoji Card` consists of the following JSON:
 }
 ```
 
+Note: Click here to [learn what JSON is](https://developers.squarespace.com/what-is-json).
+
 To add a new card to the website, add a new JSON object in the `data.json` file. Make sure to separate your new object from existing objects with a comma. Below is an overview of each key in the `Emoji Card` object. Every key is required.
 
 ### Title 👍
@@ -69,9 +71,9 @@ Each card must have a title. This should be the full title.
 
 ### Emojis 😍
 
-The emojis should be added to `emojiImgs` as a string.
+The emojis should be added to `emojiImgs` as a string. Your emojis should be surrounded by double quotation marks.
 
-## **Add five emojis maximum for each card**
+## **Important Note: Add five emojis maximum for each card**
 
 ```
 {
@@ -97,7 +99,7 @@ The genres should be added as an array (the square [] brackets indicates an arra
 }
 ```
 
-For movies and TV shows, go to the IMDB profile and find the genres listed under the title. Add these genres to the `Emoji Card` object. Some cards will only have one genre, that is okay! If you would like to add an additional genre (outside of the IMDB genres, note that in your Pull Request or [create an Issue](https://github.com/brittanyrw/emojiscreen/issues)).
+For movies and TV shows, go to the IMDB profile and find the genres listed under the title. Add these genres to the `Emoji Card` object. Some cards will only have one genre, that is okay! Use the genre chart below as a guide for which genres are avaliable.
 
 See the below screenshot for the location of the genre listing in IMDB profiles.
 
@@ -125,7 +127,7 @@ Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one t
 
 ### Year 📆
 
-Specify the year the movie or show was released or first aired. Or the first performance year for a musical. This should be a number (no quotations around the year).
+Specify the year the movie or show was released or first aired. Or the first performance year for a musical. This should be a  single number (no quotations around the year). If you are adding a series, this year should be the year that the series aired or started. Do not add ranges such as 2017-2019. 
 
 ```
 {
@@ -140,6 +142,8 @@ Follow these intstructions to add a card. You can add a card using the Github we
 > If you are already comfortable using Github and Git, feel free to skip the instructions below and make a pull request using whatever method you prefer!
 
 ## Github UI
+
+### This method will use the Github website to contribute to this project. You will not need to download any programs to your computer using these instructions.
 
 1. Fork this repository. This will create a copy of the repository and create a new reposititory on your account. Note: the `Fork` button is located in the top right area of the repo.
 2. Once the repo is forked, you will be taken to the forked repo. Note: In the top left, the name of the repo should now include your username.
@@ -166,15 +170,17 @@ Use the following object as a template:
 
 ![Screenshot of a Pull Request on the Github website](readme/pull-request.png)
 
-7. Review your changes and then click `Create Pull Request`. Add any additional comments and then click on `Create Pull Request`.
-8. Wait for feedback/review of your Pull Request. If your Pull Request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com)!
+7. Review your changes and then click `Create Pull Request`. Add any additional comments, go through the checklist within the Pull Request and then click on `Create Pull Request`.
+8. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com) and you will offically have contributed to the project! 🎉
 
 ## Local Development
+
+### This method will use your local machine to contribute to the project. This will require you to download multiple programs onto your computer. This is the method most programmers use when working on projects. 
 
 ### Required Downloads & Tools
 
 - Terminal (Mac OS) or Command Prompt. These are installed by default on your computer. Search for the program to open it. **For Windows, [Git Bash](https://gitforwindows.org/) is recommended.**
-- [Git](https://git-scm.com/downloads) - This is a version control tool.
+- [Git](https://git-scm.com/downloads) - This is a version control tool. For Windows, this download will include Git Bash.
 - A text editor such as [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [Visual Studio Code](https://code.visualstudio.com/download), etc.
 - [Python](https://www.python.org/downloads/) (optional). This will be used to run a web server on your local machine. To check if your computer already has Python installed, type `python --version` in your terminal. If you have Python, the terminal will print out the version number.
 
@@ -203,7 +209,7 @@ Use the following object as a template:
 8. Make sure to save your files after you have made changes. Once you are done, go to the terminal and type `git status`. you should see `data.json` as modified.
 9. Run `git add -A` to add your changes.
 10. Add a commit message. Run the following command and replace with your movie or show name: `git commit -m "Added Harry Potter the movie"`.
-11. You may see a message asking for you to set your email and username. If you do not see that message (meaning you have run Git before on your machine), continue to the next step. Run the following commands, replacing "you@example.com" with your Github email and "Your name" with your github username:
+11. If you have never used git on your computer before, you will see a message asking for you to set your email and username. If you do not see that message (meaning you have run Git before on your machine), continue to the next step. Run the following commands, replacing "you@example.com" with your Github email and "Your name" with your github username:
 
 `git config --global user.email "you@example.com"`
 
@@ -217,8 +223,8 @@ Then re-run the commit command. Remember to replace with your show or movie: `gi
 
 ![Screenshot of a Pull Request on the Github website](readme/pull-request.png)
 
-14. Review your changes and then click `Create Pull Request`. Add any additional comments and then click on `Create Pull Request`.
-15. Wait for feedback/review of your Pull Request. If your Pull Request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com)!
+14. Review your changes and then click `Create Pull Request`. Add any additional comments, go through the checklist within the Pull Request and then click on `Create Pull Request`.
+15. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com) and you will offically have contributed to the project! 🎉
 
 ## Other Resources and Options
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
