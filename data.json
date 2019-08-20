@@ -309,7 +309,10 @@
   },
   {
     "title": "Kill Bill: Volume 2",
-    "emojiImgs": "👰🗡️👧💓💥"
+    "emojiImgs": "👰🗡️👧💓💥",
+    "genres": ["action", "drama"],
+    "type": "movie",
+    "year": 2004
   },
   {
     "title": "Kung Fu Panda",
