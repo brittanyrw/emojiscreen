@@ -130,19 +130,19 @@ h2 {
   transition: .5s;
 }
 
-#filters button:first-child {
+#filters .musical-filter {
   background-color: #fae6e9;
 }
 
-#filters button:nth-child(2) {
+#filters .tv-filter {
   background-color: #faefe6;
 }
 
-#filters button:nth-child(3) {
+#filters .movie-filter {
   background-color: #effae6;
 }
 
-#filters button:nth-child(4) {
+#filters .all-filter {
   background-color: #e6f6fa;
 }
 
