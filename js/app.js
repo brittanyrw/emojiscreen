@@ -14,7 +14,7 @@ $(document).ready(function() {
           dataSource: shuffle(emojiData),
           locator: "items",
           totalNumber: emojiData.length,
-          pageSize: 15,
+          pageSize: 24,
           prevText: '<',
           nextText: '>',
           ajax: {
