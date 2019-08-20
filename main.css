@@ -87,38 +87,6 @@ h2 {
   color: #292932;
 }
 
-#pagination ul {
-  list-style: none;
-  text-align: center;
-  
-}
-
-#pagination ul li {
-  display: inline-block;
-  margin-right: 10px;
-  padding: 5px 10px;
-}
-
-#pagination ul li:last-child {
-  margin-right: 0;
-}
-
-#pagination ul li.active {
-  background-color: gold;
-}
-
-#pagination ul li.active a {
-  color: #292932;
-  font-weight: bold;
-}
-
-#pagination ul li a {
-  line-height: 26px;
-  color: white;
-  font-size: 18px;
-  text-decoration: none;
-}
-
 #emojis {
     display: grid;
     grid-template-columns: 1fr;
@@ -336,8 +304,6 @@ footer span {
 footer img {
   height: 19px;
 }
-
-
 
 #message {
   display: none;
