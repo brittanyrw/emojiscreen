@@ -14,7 +14,9 @@ $(document).ready(function() {
           dataSource: shuffle(emojiData),
           locator: "items",
           totalNumber: emojiData.length,
-          pageSize: 21,
+          pageSize: 15,
+          prevText: '<',
+          nextText: '>',
           ajax: {
             beforeSend: function() {
               emojiCardContainer.html(
