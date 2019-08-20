@@ -34,8 +34,14 @@ header img {
 
 .heading-content {
   display: grid;
-  grid-template-columns: 2.5fr 1fr;
+  grid-template-columns: 1fr;
   grid-gap: 20px;
+}
+
+@media screen and (min-width: 662px){
+  .heading-content {
+    grid-template-columns: 2.5fr 1fr;
+  }
 }
 
 .contribute-callout {
@@ -83,7 +89,7 @@ h2 {
 
 #emojis {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
     grid-auto-rows: auto;
     grid-gap: 20px;
     max-width: 1000px;
@@ -91,11 +97,18 @@ h2 {
     margin-bottom: 30px;
 }
 
-@media screen and (max-width: 662px){
-  #emojis, .heading-content {
-    grid-template-columns: 1fr;
+@media screen and (min-width: 662px){
+  #emojis {
+    grid-template-columns: 1fr 1fr;
   }
 }
+
+@media screen and (min-width: 992px){
+  #emojis {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
 
 .emoji-card {
     display: inline-block;
