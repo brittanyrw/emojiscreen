@@ -5,32 +5,57 @@ $(document).ready(function() {
     // Request the movie/show data from the data.json file
     $.ajax({
       type: "GET",
-      url: "../data.json", 
+      url: "../../data.json", 
       success: function(data) {
+        var emojiData = data;
 
-        // Create a variable for the emoji cards.
-        var emojiCard = '';
-
-        // Run the random order function below on the data we recieve back from the ajax request on data.json.
-        shuffle(data);
+        $("#pagination").pagination({
+          // Run the random order function below on the data we recieve back from the ajax request on data.json.
+          dataSource: shuffle(emojiData),
+          locator: "items",
+          totalNumber: emojiData.length,
+          pageSize: 15,
+          prevText: '<',
+          nextText: '>',
+          ajax: {
+            beforeSend: function() {
+              emojiCardContainer.html(
+                "Loading data from flickr.com ..."
+              );
+            }
+          },
+          callback: function(data, pagination) {
+            // Create a variable for the emoji cards.
+            var emojiCard = "";
         
-        // Loop through the data from the data.json file and insert parts of the data into HTML. On each loop, we are appending a new card.
-        for (var i in data) {
-          emojiCard += "<div class='emoji-card'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + data[i].type + "</span></p></div><div class='emoji-images'>" + data[i].emojiImgs + "</div><div class='emoji-card-title hide-card'><h3>" + data[i].title + " (" + data[i].year + ")" + "</h3></div></div>";
-        }
-        
-        // Append the emoji card variable, which has all of the emoji cards to the initial variable we created that was for the container to hold the cards.
-        emojiCardContainer.html(emojiCard);
-
-        // Run Twemoji to change all emojis to Twitter emojis.
-        twemoji.parse(document.body);
+            // Loop through the data from the data.json file and insert parts of the data into HTML. On each loop, we are appending a new card.
+            for (var i in data) {
+              emojiCard +=
+                "<div class='emoji-card'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" +
+                data[i].type +
+                "</span></p></div><div class='emoji-images'>" +
+                data[i].emojiImgs +
+                "</div><div class='emoji-card-title hide-card'><h3>" +
+                data[i].title +
+                " (" +
+                data[i].year +
+                ")" +
+                "</h3></div></div>";
+            }
+            // Append the emoji card variable, which has all of the emoji cards to the initial variable we created that was for the container to hold the cards.
+            emojiCardContainer.html(emojiCard);
+            
+            // Run Twemoji to change all emojis to Twitter emojis.
+            twemoji.parse(document.body);
+          }
+        });
 
         // Add the count of number of shows/movies to the footer.
         $('footer span').append(data.length);
       }
     });
 
-    // Display movies and show in a random order, the random order will refresh on page reload
+    // Function to display movies and shows in a random order, the random order will refresh on page reload
     function shuffle(array) {
       var currentIndex = array.length, temporaryValue, randomIndex;
 
