@@ -196,6 +196,13 @@
     "year": 2000
   },
   {
+    "title": "Grease",
+    "emojiImgs": "🌅👸💞👨‍🎤🚘",
+    "genres": ["musical", "romance"],
+    "type": "musical",
+    "year": 1978
+  },
+  {
     "title": "Hamilton: The Musical",
     "emojiImgs": "💵🖋️⚖️🎵📜",
     "genres": ["drama", "comedy", "musical"],
