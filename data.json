@@ -182,6 +182,13 @@
     "year": 2018
   },
   {
+    "title": "Gilmore Girls",
+    "emojiImgs": "👩‍👧☕🧢👩‍⚖️👨‍⚖️",
+    "genres": ["comedy", "drama"],
+    "type": "tv",
+    "year": 2000
+  },
+  {
     "title": "Gladiator",
     "emojiImgs": "🤺⚔️🛡️",
     "genres": ["action", "adventure", "drama"],
