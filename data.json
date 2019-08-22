@@ -1,5 +1,19 @@
 [
   {
+    "title": "Lost",
+    "emojiImgs": "✈️🏝⛺🆘❓",
+    "genres": ["adventure", "drama", "fantasy"],
+    "type": "tv",
+    "year": 2004
+    },
+    {
+      "title": "Breaking Bad",
+      "emojiImgs": "🌵🤓🧪💊💰",
+      "genres": ["crime", "drama", "thriller"],
+      "type": "tv",
+      "year": 2008
+      },
+  {
     "title": "The 25th Annual Putnum County Spelling Bee",
     "emojiImgs": "🔤🐝😂",
     "genres": ["musical", "comedy"],
