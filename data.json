@@ -70,6 +70,13 @@
     "year": 2011
   },
   {
+    "title": "Breaking Bad",
+    "emojiImgs": "🌵🤓🧪💊💰",
+    "genres": ["crime", "drama", "thriller"],
+    "type": "tv",
+    "year": 2008
+  },
+  {
     "title": "Bungou Stray Dogs: Dead Apple",
     "emojiImgs": "🍎🗡🐶🇯🇵",
     "genres": ["animation"],
@@ -355,6 +362,13 @@
     "genres": ["adventure", "drama", "fantasy"],
     "type": "movie",
     "year": 2001
+  },
+  {
+    "title": "Lost",
+    "emojiImgs": "✈️🏝⛺🆘❓",
+    "genres": ["adventure", "drama", "fantasy"],
+    "type": "tv",
+    "year": 2004
   },
   {
     "title": "Matrix",
