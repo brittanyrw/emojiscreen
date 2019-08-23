@@ -594,4 +594,11 @@
     "type": "movie",
     "year": 1974
   }
+  {
+    "title": "Fargo",
+    "emojiImgs": "🖲️💥🤓😎👽",
+    "genres": ["crime", "drama", "thriller"],
+    "type": "movie",
+    "year": 1996
+  }
 ]
