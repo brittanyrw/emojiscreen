@@ -77,6 +77,13 @@
     "year": 2008
   },
   {
+    "title": "Buffy the Vampire Slayer",
+    "emojiImgs": "🅾️🎃🧛‍",
+    "genres": ["drama", "fantasy", "romance", "action"],
+    "type": "tv",
+    "year": 1997
+  },
+  {
     "title": "Bungou Stray Dogs: Dead Apple",
     "emojiImgs": "🍎🗡🐶🇯🇵",
     "genres": ["animation"],
