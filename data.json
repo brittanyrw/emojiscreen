@@ -161,6 +161,13 @@
     "year": 2001
   },
   {
+    "title": "Fargo",
+    "emojiImgs": "🖲️💥😎👽",
+    "genres": ["crime", "drama", "thriller"],
+    "type": "movie",
+    "year": 1996
+  },
+  {
     "title": "Fight Club",
     "emojiImgs": "🥊🧼🤐",
     "genres": ["drama"],
@@ -593,12 +600,5 @@
     "genres": ["comedy"],
     "type": "movie",
     "year": 1974
-  },
-  {
-    "title": "Fargo",
-    "emojiImgs": "🖲️💥🤓😎👽",
-    "genres": ["crime", "drama", "thriller"],
-    "type": "movie",
-    "year": 1996
   }
 ]
