@@ -140,6 +140,13 @@
     "year": 2006
   },
   {
+    "title": "Dirty Dancing",
+    "emojiImgs": "🍉💃🕶🕺👶",
+    "genres": ["drama", "music","romance"],
+    "type": "movie",
+    "year": 1987
+  },
+  {
     "title": "E.T. the Extra-Terrestrial",
     "emojiImgs": "🌙🚲👉🏻👈🏻👽",
     "genres": ["Family", "Sci-Fi"],
@@ -182,11 +189,25 @@
     "year": 2018
   },
   {
+    "title": "Gilmore Girls",
+    "emojiImgs": "👩‍👧☕🧢👩‍⚖️👨‍⚖️",
+    "genres": ["comedy", "drama"],
+    "type": "tv",
+    "year": 2000
+  },
+  {
     "title": "Gladiator",
     "emojiImgs": "🤺⚔️🛡️",
     "genres": ["action", "adventure", "drama"],
     "type": "movie",
     "year": 2000
+  },
+  {
+    "title": "Grease",
+    "emojiImgs": "🌅👸💞👨‍🎤🚘",
+    "genres": ["musical", "romance"],
+    "type": "musical",
+    "year": 1978
   },
   {
     "title": "Hamilton: The Musical",
