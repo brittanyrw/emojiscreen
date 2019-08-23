@@ -19,7 +19,7 @@ Read below for a detailed overview and walkthrough on how to add an `Emoji Card`
 
 Here are some links to lists of movies, TV shows and musicals in case you're having trouble thinking of something to add! 
 
-### I have also [added Issues for individual movies and series](https://github.com/brittanyrw/emojiscreen/issues) that I would like to make sure are added to EmojiScreen. Feel free to add one of the movies or shows listed in Issues.
+### I have also [added Issues for individual movies and series](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3A%22add+show%2Fmovie%22) that I would like to make sure are added to EmojiScreen. Feel free to add one of the movies or shows listed in Issues.
 
 ### Movies
 * [IMDB Top 100 drama list](https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc)
