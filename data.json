@@ -294,6 +294,13 @@
     "year": 2009
   },
   {
+    "title": "Into the Woods",
+    "emojiImgs": "🔥🎄🎶👩‍🎤",
+    "genres": ["drama", "musical"],
+    "type": "musical",
+    "year": 1987
+  },
+  {
     "title": "It",
     "emojiImgs": "🎈🤡☔🚲",
     "genres": ["horror", "thriller"],
