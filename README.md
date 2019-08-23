@@ -21,6 +21,8 @@ Here are some links to lists of movies, TV shows and musicals in case you're hav
 
 ### I have also [added Issues for individual movies and series](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3A%22add+show%2Fmovie%22) that I think would be fun to add to EmojiScreen. Feel free to add one of the movies or shows listed in Issues. Make sure to add the Issue number in your Pull Request if you do.
 
+Note: The issues to add movies or shows have links to IMDB, but many movies have multiple versions. Feel free to add a different version than the link if you prefer.
+
 ### Movies
 * [IMDB Top 100 drama list](https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc)
 * [IMDB Top 100 thriller list](https://www.imdb.com/search/title/?genres=thriller&groups=top_250&sort=user_rating,desc)
