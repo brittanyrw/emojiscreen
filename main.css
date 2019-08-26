@@ -10,7 +10,7 @@ body {
 }
 
 header {
-  max-width: 1000px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
@@ -88,7 +88,7 @@ h2 {
 }
 
 #filters {
-  max-width: 1000px;
+  max-width: 1200px;
   margin: 0 auto 30px auto;
   padding: 25px 0;
   display: grid;
@@ -156,7 +156,7 @@ h2 {
     grid-template-columns: 1fr;
     grid-auto-rows: auto;
     grid-gap: 20px;
-    max-width: 1000px;
+    max-width: 1220px;
     margin: auto;
     margin-bottom: 30px;
 }
@@ -173,6 +173,12 @@ h2 {
   }
 }
 
+@media screen and (min-width: 1200px){
+  #emojis {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
 .emoji-card {
     display: inline-block;
     text-align: center;
@@ -182,8 +188,14 @@ h2 {
 }
 
 .emoji-images img {
-    width: 45px;
+    width: 42px;
     margin-right: 5px;
+}
+
+@media screen and (max-width: 992px){
+  .emoji-images img {
+    width: 48px;
+  }
 }
 
 .emoji-images img:last-child {
@@ -195,7 +207,7 @@ h2 {
   box-shadow: 5px 5px 10px rgba(0,0,0,.1);
   position: relative;
   background-color: white;
-  padding: 20px;
+  padding: 20px 15px;
   border-bottom: 2px solid #292932;
 }
 
