@@ -192,6 +192,12 @@ h2 {
     margin-right: 5px;
 }
 
+@media screen and (max-width: 992px){
+  .emoji-images img {
+    width: 48px;
+  }
+}
+
 .emoji-images img:last-child {
   margin-right: 0;
 }
