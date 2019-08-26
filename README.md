@@ -9,7 +9,7 @@
 
 ## Contributing 🎁
 
-Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add a `Emoji Card` to the website (you can add multiple shows or movies). Each card should be added in the `data.json` file as an object. 
+Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add a `Emoji Card` to the website (you can add multiple shows or movies). Each card should be added in the `data.js` file as an object. 
 
 For more advanced ways to contribute, see the repo Issues. If you want to work on one of the features but aren't sure where to start, write a comment and I will be happy to help you out or get you started. 
 
@@ -45,21 +45,19 @@ On the website, each `Emoji Card` displays images of the emojis, a hint icon tha
 
 ![Screenshot of Beauty and the Beast Emoji Card](readme/emoji-card.png)
 
-In the code, each `Emoji Card` consists of the following JSON:
+In the code, each `Emoji Card` consists of the following object:
 
 ```
 {
-  "title": "Beauty and the Beast",
-  "emojiImgs": "🏰🥀🎶📚🕰️",
-  "genres": ["animation", "family", "fantasy"],
-  "type": "movie",
-  "year": 1991
+  title: "Beauty and the Beast",
+  emojiImgs: "🏰🥀🎶📚🕰️",
+  genres: ["animation", "family", "fantasy"],
+  type: "movie",
+  year: 1991
 }
 ```
 
-Note: Click here to [learn what JSON is](https://developers.squarespace.com/what-is-json).
-
-To add a new card to the website, add a new JSON object in the `data.json` file. Make sure to separate your new object from existing objects with a comma. Below is an overview of each key in the `Emoji Card` object. Every key is required.
+To add a new card to the website, add a new object in the `data.js` file. Make sure to separate your new object from existing objects with a comma. Below is an overview of each key in the `Emoji Card` object. Every key is required.
 
 ### Title 👍
 
@@ -67,7 +65,7 @@ Each card must have a title. This should be the full title.
 
 ```
 {
-  "title": "Beauty and the Beast",
+  title: "Beauty and the Beast",
 }
 ```
 
@@ -79,7 +77,7 @@ The emojis should be added to `emojiImgs` as a string. Your emojis should be sur
 
 ```
 {
-  "emojiImgs": "🏰🥀🎶📚🕰️",
+  emojiImgs: "🏰🥀🎶📚🕰️",
 }
 ```
 
@@ -87,21 +85,23 @@ Using JavaScript, the emojis are converted into [Twemoji (Twitter's emoji versio
 
 Here are a few resources to find emojis to copy:
 
-- [Twitter Emojis](https://www.piliapp.com/twitter-symbols/) - Shows you what each Twitter emoji looks like. Note when you copy these emojis and paste them into your text editor or Github, they will no longer look like the Twitter emojis. But don't worry, Javascript will convert them to the Twitter emojis on the EmojiScreen website.
+- [Twitter Emojis](https://www.piliapp.com/twitter-symbols/) - Shows you what each Twitter emoji looks like. 
 - [Get Emoji](https://getemoji.com/) and [EmojiCopy](https://www.emojicopy.com/) are tools to copy regular emojis easily from one page. Note: The initial homepage does not display all skin color versions of each emoji so you will need to search in Emojipedia for those.
 - [Emojipedia](https://emojipedia.org/) - A directory of all emojis.
 
+Note when you copy these emojis and paste them into your text editor or Github, they will no longer look like the Twitter emojis. But don't worry, Javascript will convert them to the Twitter emojis on the EmojiScreen website.
+
 ### Genres 🔍
 
-The genres should be added as an array (the square [] brackets indicates an array or list). Seperate each genre with a comma and each genre should be wrapped in quotes. There is no limit to the number of genres but try not to add too many.
+The genres should be added as an array (the square [] brackets indicates an array or list). Separate each genre with a comma and each genre should be wrapped in quotes. There is no limit to the number of genres but try not to add too many.
 
 ```
 {
-  "genres": ["animation", "family", "fantasy"]
+  genres: ["animation", "family", "fantasy"]
 }
 ```
 
-For movies and TV shows, go to the IMDB profile and find the genres listed under the title. Add these genres to the `Emoji Card` object. Some cards will only have one genre, that is okay! Use the genre chart below as a guide for which genres are avaliable.
+For movies and TV shows, go to the IMDB profile and find the genres listed under the title. Add these genres to the `Emoji Card` object. Some cards will only have one genre, that is okay! Use the genre chart below as a guide for which genres are available.
 
 See the below screenshot for the location of the genre listing in IMDB profiles.
 
@@ -123,7 +123,7 @@ Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one t
 
 ```
 {
-  "type": "movie",
+  type: "movie",
 }
 ```
 
@@ -133,13 +133,13 @@ Specify the year the movie or show was released or first aired. Or the first per
 
 ```
 {
-  "year": 1994
+  year: 1994
 }
 ```
 
 ## Walkthrough 🚶‍
 
-Follow these intstructions to add a card. You can add a card using the Github website user interface or on your local machine. If you do not already have one, create a Github account before proceeding.
+Follow these instructions to add a card. You can add a card using the Github website user interface or on your local machine. If you do not already have one, create a Github account before proceeding.
 
 > If you are already comfortable using Github and Git, feel free to skip the instructions below and make a pull request using whatever method you prefer!
 
@@ -147,20 +147,20 @@ Follow these intstructions to add a card. You can add a card using the Github we
 
 ### This method will use the Github website to contribute to this project. You will not need to download any programs to your computer using these instructions.
 
-1. Fork this repository. This will create a copy of the repository and create a new reposititory on your account. Note: the `Fork` button is located in the top right area of the repo.
+1. Fork this repository. This will create a copy of the repository and create a new repository on your account. Note: the `Fork` button is located in the top right area of the repo.
 2. Once the repo is forked, you will be taken to the forked repo. Note: In the top left, the name of the repo should now include your username.
-3. Navigate to the `data.json` file in your forked repo by clicking on the file name.
-4. Edit the `data.json` file by clicking on the pencil icon and add a new object for your movie, TV show or musical in alphabetical order. **Note: If the movie title starts with 'The' then use the next word for alphabetical order.** Make sure there is a comma between your object and the object above and below. Refer to the card overview above for requirements for the different object keys.
+3. Navigate to the `data.js` file in your forked repo by clicking on the file name.
+4. Edit the `data.js` file by clicking on the pencil icon and add a new object for your movie, TV show or musical in alphabetical order. **Note: If the movie title starts with 'The' then use the next word for alphabetical order.** Make sure there is a comma between your object and the object above and below. Refer to the card overview above for requirements for the different object keys.
 
 Use the following object as a template:
 
 ```
 {
-  "title": "Black Panther",
-  "emojiImgs": "😺🌍🏴💪🏿🦸🏿",
-  "genres": ["action", "adventure", "sci-fi"],
-  "type": "movie",
-  "year": 2018
+  title: "Black Panther",
+  emojiImgs: "😺🌍🏴💪🏿🦸🏿",
+  genres: ["action", "adventure", "sci-fi"],
+  type: "movie",
+  year: 2018
 }
 ```
 
@@ -173,7 +173,7 @@ Use the following object as a template:
 ![Screenshot of a Pull Request on the Github website](readme/pull-request.png)
 
 7. Review your changes and then click `Create Pull Request`. Add any additional comments, go through the checklist within the Pull Request and then click on `Create Pull Request`.
-8. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com) and you will offically have contributed to the project! 🎉
+8. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com) and you will officially have contributed to the project! 🎉
 
 ## Local Development
 
@@ -184,31 +184,29 @@ Use the following object as a template:
 - Terminal (Mac OS) or Command Prompt. These are installed by default on your computer. Search for the program to open it. **For Windows, [Git Bash](https://gitforwindows.org/) is recommended.**
 - [Git](https://git-scm.com/downloads) - This is a version control tool. For Windows, this download will include Git Bash.
 - A text editor such as [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [Visual Studio Code](https://code.visualstudio.com/download), etc.
-- [Python](https://www.python.org/downloads/) (optional). This will be used to run a web server on your local machine. To check if your computer already has Python installed, type `python --version` in your terminal. If you have Python, the terminal will print out the version number.
 
 ### Local Development Instructions
 
-1. Fork this repository. This will create a copy of the repository and create a new reposititory on your account.
+1. Fork this repository. This will create a copy of the repository and create a new repository on your account.
 2. Once the repo is forked, you will be taken to the forked repo.
 3. Download the project to your computer. Click on the `Clone or Download` button. Copy the HTTPS github repo link.
 4. In your terminal, navigate to where you would like to save the project (such as `cd Desktop`). Run the following command, replacing the following link with your copied link: `git clone https://github.com/your-username-will-be-here/emojiscreen.git`;
 5. In the terminal, navigate into the folder `cd emojiscreen`.
-6. OPTIONAL: If you would like to view the project locally, you must run a web server to access `data.json`. If you open the index.html file in your browser, you will not be able to see any of the cards until you run a web server. To run a server first, [download Python](https://www.python.org/downloads/) if you do not have it already. Then open a new terminal window, navigate to your project folder (you should be inside of the `emojiscreen` folder when running this command) and run the following [command](https://docs.python.org/2/library/simplehttpserver.html): `python -m SimpleHTTPServer 8000`. Navigate to localhost:8000 in your browser to see the project locally.
-7. Open the `emojiscreen` project in your text editor of choice. Edit the `data.json` file and add a new object for your movie, TV show or musical alphabetical order. **Note: If the movie title starts with 'The' then use the next word for alphabetical order.**. Make sure there is a comma between your object and the object above and below. Refer to the card overview above for requirements for the different object keys. 
+6. Open the `emojiscreen` project in your text editor of choice. Edit the `data.js` file and add a new object for your movie, TV show or musical alphabetical order. **Note: If the movie title starts with 'The' then use the next word for alphabetical order.**. Make sure there is a comma between your object and the object above and below. Refer to the card overview above for requirements for the different object keys. 
 
 Use the following object as a template:
 
 ```
 {
-  "title": "The Lion King",
-  "emojiImgs": "🦁👑🌍",
-  "genres": ["animation", "adventure", "drama"],
-  "type": "movie",
-  "year": 1994
+  title: "The Lion King",
+  emojiImgs: "🦁👑🌍",
+  genres: ["animation", "adventure", "drama"],
+  type: "movie",
+  year: 1994
 }
 ```
 
-8. Make sure to save your files after you have made changes. Once you are done, go to the terminal and type `git status`. you should see `data.json` as modified.
+8. Make sure to save your files after you have made changes. Once you are done, go to the terminal and type `git status`. you should see `data.js` as modified.
 9. Run `git add -A` to add your changes.
 10. Add a commit message. Run the following command and replace with your movie or show name: `git commit -m "Added Harry Potter the movie"`.
 11. If you have never used git on your computer before, you will see a message asking for you to set your email and username. If you do not see that message (meaning you have run Git before on your machine), continue to the next step. Run the following commands, replacing "you@example.com" with your Github email and "Your name" with your github username:
@@ -226,7 +224,7 @@ Then re-run the commit command. Remember to replace with your show or movie: `gi
 ![Screenshot of a Pull Request on the Github website](readme/pull-request.png)
 
 14. Review your changes and then click `Create Pull Request`. Add any additional comments, go through the checklist within the Pull Request and then click on `Create Pull Request`.
-15. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com) and you will offically have contributed to the project! 🎉
+15. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com) and you will officially have contributed to the project! 🎉
 
 ## Other Resources and Options
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
