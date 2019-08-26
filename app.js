@@ -2,39 +2,33 @@ $(document).ready(function() {
   // Create a variable for the container to hold the emoji cards.
   var emojiCardContainer = $("#emojis");
 
-  // Request the movie/show data from the data.json file
-  $.ajax({
-    type: "GET",
-    url: "../data.json",
-    success: function(data) {
-      // Create a variable for the emoji cards.
-      var emojiCard = "";
+  // Create a variable for the emoji cards.
+  var emojiCard = "";
 
-      // Run the random order function below on the data we recieve back from the ajax request on data.json.
-      shuffle(data);
+  // Run the random order function below on the data inside data.js. This will display the cards in a random order on the page every time the page is refreshed.
+  shuffle(emojiItems);
 
-      // Loop through the data from the data.json file and insert parts of the data into HTML. On each loop, we are appending a new card.
-      for (var i in data) {
-        emojiCard +=
-          "<div class='emoji-card' data-filter='" + data[i].type +
-          "'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + data[i].type +
-          "</span></p></div><div class='emoji-images'>" + data[i].emojiImgs +
-          "</div><div class='emoji-card-title hide-card'><h3>" + data[i].title +
-          " (" + data[i].year + ")" + "</h3></div></div>";
-      }
+  // Loop through the data from the data.js file and insert parts of the data into HTML. On each loop, we are appending a new card with the HTML below.
+  for (var i in emojiItems) {
+    emojiCard +=
+      "<div class='emoji-card' data-filter='" + emojiItems[i].type +
+    "'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + emojiItems[i].type +
+    "</span></p></div><div class='emoji-images'>" + emojiItems[i].emojiImgs +
+    "</div><div class='emoji-card-title hide-card'><h3>" + emojiItems[i].title +
+    " (" + emojiItems[i].year + ")" + "</h3></div></div>";
+  }
 
-      // Append the emoji card variable, which has all of the emoji cards to the initial variable we created that was for the container to hold the cards.
-      emojiCardContainer.html(emojiCard);
+  // Append the emoji card variable, which has all of the emoji cards to the initial variable we created that was for the container to hold the cards.
+  emojiCardContainer.html(emojiCard);
 
-      // Run Twemoji to change all emojis to Twitter emojis.
-      twemoji.parse(document.body);
+  // Run Twemoji to change all emojis to Twitter emojis.
+  twemoji.parse(document.body);
 
-      // Add the count of number of shows/movies to the footer.
-      $("footer span").append(data.length);
-    }
-  });
+  // Add the count of number of shows/movies to the footer.
+  $("footer span").append(emojiItems.length);
+    
 
-  // Display movies and show in a random order, the random order will refresh on page reload
+  // Display movies and show in a random order, the random order will refresh on page reload. This function is used above before the cards are rendered on the page.
   function shuffle(array) {
     var currentIndex = array.length,
       temporaryValue,
@@ -51,21 +45,22 @@ $(document).ready(function() {
     return array;
   }
 
-  $("#filters button").each(function() {
+  // The code that runs the filter buttons at the top of the page. This currently allows users to filter by 'type' (ie musical, movie or tv show).
+  $("#filters button").each(function() { 
     $(this).on("click", function() {
       var filtertag = $(this).attr("data-filter");
       $("#message").hide();
       $("div.emoji-card-title").addClass("hide-card");
-      if (filtertag == "view-all") {
+      if (filtertag == "view-all") { // If the user clicks on view all, show all cards.
         $("div.emoji-card").show();
-      } else if (
+      } else if ( // If the user clicks on movies, musicals or tv shows, show the cards that fall into that category and hide all cards that do not fall into that category.
         $("div.emoji-card[data-filter='" + filtertag + "']").length > 0
       ) {
         $("div.emoji-card").show();
         $(
           "div.emoji-card:not([data-filter='" + filtertag + "'])"
         ).hide();
-      } else {
+      } else { // If there are no cards that match the filter, display a message that says that there are no cards for that category.
         $("div.emoji-card").hide();
         $("#message").show();
         $("#message").html(
