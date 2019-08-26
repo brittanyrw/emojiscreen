@@ -200,9 +200,9 @@ Use the following object as a template:
 1. Fork this repository. This will create a copy of the repository and create a new repository on your account.
 2. Once the repo is forked, you will be taken to the forked repo.
 3. Download the project to your computer. Click on the `Clone or Download` button. Copy the HTTPS github repo link.
-4. In your terminal, navigate to where you would like to save the project (such as `cd Desktop`). Run the following command, replacing the following link with your copied link: `git clone https://github.com/your-username-will-be-here/emojiscreen.git`;
-5. In the terminal, navigate into the folder `cd emojiscreen`.
-6. Open the `emojiscreen` project in your text editor of choice. Edit the `data.js` file and add a new object for your movie, TV show or musical alphabetical order. **Note: If the movie title starts with 'The' then use the next word for alphabetical order.**. Make sure there is a comma between your object and the object above and below. Refer to the card overview above for requirements for the different object keys. 
+4. In your terminal, navigate to where you would like to save the project (such as `cd Desktop`). Run the following command in the terminal, replacing the following link with your copied link: `git clone https://github.com/your-username-will-be-here/emojiscreen.git`;
+5. After the command has been run, in the terminal, navigate into the EmojiScreen project folder `cd emojiscreen`.
+6. Open the `emojiscreen` project in your text editor of choice. Edit the `data.js` file and add a new object for your movie, TV show or musical alphabetical order. **Note: If the movie title starts with 'The' then use the next word for alphabetical order.**. Make sure there is a comma between your object and the object above and below. Refer to the card overview above for requirements for the different object keys.  Make sure to save your files after you have made changes. 
 
 Use the following object as a template:
 
@@ -216,10 +216,11 @@ Use the following object as a template:
 }
 ```
 
-8. Make sure to save your files after you have made changes. Once you are done, go to the terminal and type `git status`. you should see `data.js` as modified.
-9. Run `git add -A` to add your changes.
-10. Add a commit message. Run the following command and replace with your movie or show name: `git commit -m "Added Harry Potter the movie"`.
-11. If you have never used git on your computer before, you will see a message asking for you to set your email and username. If you do not see that message (meaning you have run Git before on your machine), continue to the next step. Run the following commands, replacing "you@example.com" with your Github email and "Your name" with your github username:
+8. If you would like to see what your addition will look like, open the `index.html` file in the `emojiscreen` folder in a web browser. The EmojiCards are added in a random order so it may take you a few seconds to find what you added. If you do not see any cards in the browser, this could mean that you have a typo in your `data.js` file. If that is the case, double check what you have added for missing commas and quotation marks.
+9. Once you are done, go to the terminal and type `git status`. you should see `data.js` as modified.
+10. Run `git add -A` to add your changes.
+11. Add a commit message. Run the following command and replace with your movie or show name: `git commit -m "Added Harry Potter the movie"`.
+12. If you have never used git on your computer before, you will see a message asking for you to set your email and username. If you do not see that message (meaning you have run Git before on your machine), continue to the next step. Run the following commands, replacing "you@example.com" with your Github email and "Your name" with your github username:
 
 `git config --global user.email "you@example.com"`
 
@@ -227,14 +228,14 @@ Use the following object as a template:
 
 Then re-run the commit command. Remember to replace with your show or movie: `git commit -m "Added Harry Potter the movie"`
 
-12. Run `git push`. If you have not done this before, git push will not run until you login to your Github account. Type in your Github username and password. **NOTE: When you type your password, it will not show in the terminal. Press enter after you type your password to continue**.
+13. Run `git push`. If you have not done this before, git push will not run until you login to your Github account. Type in your Github username and password. **NOTE: When you type your password, it will not show in the terminal. Press enter after you type your password to continue**.
 
-13. Go to the Github website and navigate to the `Pull Request` tab. Click on New `Pull Request`.
+14. Go to the Github website and navigate to the `Pull Request` tab. Click on New `Pull Request`.
 
 ![Screenshot of a Pull Request on the Github website](readme/pull-request.png)
 
-14. Review your changes and then click `Create Pull Request`. Add any additional comments, go through the checklist within the Pull Request and then click on `Create Pull Request`.
-15. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com) and you will officially have contributed to the project! 🎉
+15. Review your changes and then click `Create Pull Request`. Add any additional comments, go through the checklist within the Pull Request and then click on `Create Pull Request`.
+16. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com) and you will officially have contributed to the project! 🎉
 
 ## Other Resources and Options
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
