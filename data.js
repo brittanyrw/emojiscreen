@@ -77,6 +77,13 @@ const emojiItems = [
         year: 2008
     },
     {
+        title: "Buffy the Vampire Slayer",
+        emojiImgs: "🅾️🎃🧛‍",
+        genres: ["drama", "fantasy", "romance", "action"],
+        type: "tv",
+        year: 1997
+    },
+    {
         title: "Bungou Stray Dogs: Dead Apple",
         emojiImgs: "🍎🗡🐶🇯🇵",
         genres: ["animation"],
@@ -152,6 +159,13 @@ const emojiItems = [
         genres: ["Family", "Sci-Fi"],
         type: "movie",
         year: 1982
+    },
+    {
+        title: "Fargo",
+        emojiImgs: "🖲️💥😎👽",
+        genres: ["crime", "drama", "thriller"],
+        type: "movie",
+        year: 1996
     },
     {
         title: "The Fast and the Furious",
@@ -285,6 +299,13 @@ const emojiItems = [
         genres: ["war", "history"],
         type: "movie",
         year: 2009
+    },
+    {
+        title: "Into the Woods",
+        emojiImgs: "🔥🎄🎶👩‍🎤",
+        genres: ["drama", "musical"],
+        type: "musical",
+        year: 1987
     },
     {
         title: "It",
