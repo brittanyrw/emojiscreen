@@ -97,7 +97,7 @@ The genres should be added as an array (the square [] brackets indicates an arra
 
 ```
 {
-  genres: ["animation", "family", "fantasy"]
+  genres: ["animation", "family", "fantasy"],
 }
 ```
 
