@@ -139,7 +139,7 @@ Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one t
 
 ### Year 📆
 
-Specify the year the movie or show was released or first aired. Or the first performance year for a musical. This should be a  single number (no quotations around the year). If you are adding a series, this year should be the year that the series aired or started. Do not add ranges such as 2017-2019. 
+Specify the year the movie or show was released or first aired. Or the first performance year for a musical. This should be a  single number (no quotations around the year). Do not add ranges such as 2017-2019. 
 
 ```
 {
