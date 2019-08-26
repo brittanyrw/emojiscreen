@@ -15,6 +15,16 @@ For more advanced ways to contribute, see the repo Issues. If you want to work o
 
 Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged and you can make multiple pull requests if you desire. If you run into trouble, feel free to create an Issue!
 
+## Table of Contents
+
+- [Movie, TV Show and Musical Examples](#movie-tv-show-and-musical-examples)
+- [Emoji Card Overview](#card-overview)
+- [Contribution Walkthroughs](#walkthrough)
+  - [Contribute using Github Website (no downloads required)](#github-ui)
+  - [Contribute using your local development environment (downloads required)](#local-development)  
+- [Git & Github Resources](#other-resources-and-options)
+- [Credits](#credits)
+
 ## Movie, TV Show and Musical Examples
 
 Here are some links to lists of movies, TV shows and musicals in case you're having trouble thinking of something to add! 
@@ -39,7 +49,7 @@ Note: The issues to add movies or shows have links to IMDB, but many shows/movie
 * [Greatest Musicals Ever Performed](https://www.ranker.com/crowdranked-list/best-musicals)
 * [100 Top Musicals of All Time](https://www.whatsonstage.com/london-theatre/news/wos100-the-top-100-musicals-of-all-time_34333.html)
 
-### Card Overview 🃏
+## Card Overview
 
 On the website, each `Emoji Card` displays images of the emojis, a hint icon that will show the type (musical, movie or TV show) when the user hovers and the name of the show, which appears when the user clicks on a card.
 
@@ -137,7 +147,7 @@ Specify the year the movie or show was released or first aired. Or the first per
 }
 ```
 
-## Walkthrough 🚶‍
+## Walkthrough
 
 Follow these instructions to add a card. You can add a card using the Github website user interface or on your local machine. If you do not already have one, create a Github account before proceeding.
 
@@ -234,6 +244,8 @@ Then re-run the commit command. Remember to replace with your show or movie: `gi
 * [Syncing your Fork](https://help.github.com/en/articles/syncing-a-fork)
 
 ## Credits
+
+💖Check out a list of all [of the EmojiScreen contributors](https://github.com/brittanyrw/emojiscreen/graphs/contributors).
 
 Emoji graphics are by Twitter and are licensed under CC-BY 4.0. Review the [Attribution Requirements](https://github.com/twitter/twemoji#attribution-requirements) for more information.
 
