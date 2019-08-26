@@ -9,11 +9,11 @@
 
 ## Contributing 🎁
 
-Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add a `Emoji Card` to the website (you can add multiple shows or movies). Each card should be added in the `data.js` file as an object. 
+Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add an `Emoji Card` to the website (you can add multiple shows or movies). Each card should be added in the `data.js` file as an object. 
 
-For more advanced ways to contribute, see the repo Issues. If you want to work on one of the features but aren't sure where to start, write a comment and I will be happy to help you out or get you started. 
+For more advanced ways to contribute, see the repo Issues. If you want to work on one of the features but aren't sure where to start, write a comment and I will be happy to help you out or get you started. You are also welcome to suggest other features [by adding an Issue](https://github.com/brittanyrw/emojiscreen/issues).
 
-Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged and you can make multiple pull requests if you desire. If you run into trouble, feel free to create an Issue!
+Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged and you can make multiple pull requests if you desire. If you run into trouble, feel free [to create an Issue](https://github.com/brittanyrw/emojiscreen/issues)!
 
 ## Table of Contents
 
@@ -29,20 +29,22 @@ Read below for a detailed overview and walkthrough on how to add an `Emoji Card`
 
 Here are some links to lists of movies, TV shows and musicals in case you're having trouble thinking of something to add! 
 
-### I have also [added Issues for individual movies and series](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3A%22add+show%2Fmovie%22+sort%3Acreated-asc) that I think would be fun to add to EmojiScreen. Feel free to add one of the movies or shows listed in Issues. Make sure to comment inside of the Issue if you plan on taking it and add the Issue number in your Pull Request.
+### I have also [added Issues for individual movies and series](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3A%22add+show%2Fmovie%22+sort%3Acreated-asc) that I think would be fun to add to EmojiScreen. Feel free to add any of the movies or shows listed in Issues. Make sure to comment inside of the Issue if you plan on taking it and add the Issue number in your Pull Request.
 
 Note: The issues to add movies or shows have links to IMDB, but many shows/movies have multiple versions. Feel free to add a different version than the link if you prefer.
 
 ### Movies
+* [IMDB Disney list](https://www.imdb.com/search/keyword/?keywords=disney&ref_=fn_al_kw_1)
 * [IMDB Top 100 drama list](https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc)
 * [IMDB Top 100 thriller list](https://www.imdb.com/search/title/?genres=thriller&groups=top_250&sort=user_rating,desc)
-* [IMDB Top 100 horror list](https://www.imdb.com/search/title/?genres=horror&groups=top_250&sort=user_rating,desc)
+* [IMDB Top 100 comedy list](https://www.imdb.com/list/ls055851487/)
 * [IMDB Top 100 animated list](https://www.imdb.com/list/ls075496365/)
 
 ### TV
 * [IMDB Top TV Shows](https://www.imdb.com/chart/toptv/)
 * [Most Popular on Rotten Tomatoes](https://www.rottentomatoes.com/browse/tv-list-2/)
 * [ING Top 100 TV Shows](https://www.ign.com/lists/top-100-tv-shows)
+* [IMDB Disney list](https://www.imdb.com/search/keyword/?keywords=disney&ref_=fn_al_kw_1)
 
 ### Musicals
 * [IMDB 100 Greatest Musicals](https://www.imdb.com/list/ls000071646/)
@@ -51,11 +53,11 @@ Note: The issues to add movies or shows have links to IMDB, but many shows/movie
 
 ## Card Overview
 
-On the website, each `Emoji Card` displays images of the emojis, a hint icon that will show the type (musical, movie or TV show) when the user hovers and the name of the show, which appears when the user clicks on a card.
+On the website, each `Emoji Card` displays 1) images of the emojis, 2) a hint icon that will show the type (musical, movie or TV show) when the user hovers and 3) the name of the show (which appears when the user clicks on a card).
 
 ![Screenshot of Beauty and the Beast Emoji Card](readme/emoji-card.png)
 
-In the code, each `Emoji Card` consists of the following object:
+In the `data.js` file, each `Emoji Card` consists of the following object:
 
 ```
 {
