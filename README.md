@@ -131,7 +131,9 @@ For musicals, include the `musical` genre and any other genres from the list bel
 
 ### Type 🎬
 
-Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one type per card.
+Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one type per card. 
+
+`musical` under type is referring to live musicals performed on Broadway, the West End, local theaters etc. If you are adding a **movie** musical, please choose `movie` as the type and indicate it is a musical via genres.
 
 ```
 {
