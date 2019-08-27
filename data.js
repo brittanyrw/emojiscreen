@@ -287,6 +287,13 @@ const emojiItems = [
         year: 2004
     },
     {
+        title: "Hidden Figures",
+        emojiImgs: "💥🐼🦄🙇‍",
+        genres: ["Biography", "Drama", "History"],
+        type: "movie",
+        year: 2016
+    },
+    {
         title: "Home Alone",
         emojiImgs: "🏠🙈🎄",
         genres: ["comedy", "family"],
