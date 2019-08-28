@@ -546,6 +546,13 @@ const emojiItems = [
         year: 2007
     },
     {
+        title: "Sex and the City",
+        emojiImgs: "🍸👠👩🏼‍🦱💄🗽",
+        genres: ["comedy","drama","romance"],
+        type: "tv",
+        year: 1998
+    },
+    {
         title: "Sixth Sense",
         emojiImgs: "👻👦👀",
         genres: ["drama", "mystery", "thriller"],
