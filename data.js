@@ -162,7 +162,7 @@ const emojiItems = [
     },
     {
         title: "Fargo",
-        emojiImgs: "🖲️💥😎👽",
+        emojiImgs: "🚔🌳👶🏻⚰️",
         genres: ["crime", "drama", "thriller"],
         type: "movie",
         year: 1996
