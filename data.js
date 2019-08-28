@@ -413,6 +413,13 @@ const emojiItems = [
         year: 2004
     },
     {
+        title: "Mary Poppins",
+        emojiImgs: "✨☂️✨👜✨",
+        genres: ["comedy", "family", "fantasy"],
+        type: "movie",
+        year: 1964
+    },
+    {
         title: "Matrix",
         emojiImgs: "👨‍💻👩‍💻🔫🥋",
         genres: ["action", "sci-fi"],
