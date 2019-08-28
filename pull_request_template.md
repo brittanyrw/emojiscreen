@@ -1,7 +1,7 @@
 <!-- You must fill out this to do list for your pull request to be accepted.  If you are adding a new TV show, movie or musical, please follow the checklist below. Place an [x] (get rid of any spaces) inside each square as you complete each item. If this pull request is to address someting other than adding shows or movies, please delete the text below and write your own description on what you have changed/added to the project. -->
 
-- [ ] 🔍 I have searched the `data.json` file and confirmed I am not adding a duplicate entry.
-- [ ] 🌈 I have added a single year under `date`. Note: Do not add ranges such as 2017-2019. 
+- [ ] 🔍 I have searched the `data.js` file and confirmed I am not adding a duplicate entry. Note: Different versions of the same show/movie are okay to add such as Lion King (1994) and Lion King (2019) or Rent (movie) and Rent (musical).
+- [ ] 🌈 I have added a single year under `year`. Note: Do not add ranges such as 2017-2019. 
 - [ ] 📅 I have added a type from one of the following: `movie` , `tv` or `musical`.
 - [ ] 3️⃣ I have at least three emojis listed under `emojiImgs`
 - [ ] 5️⃣ I have a maximum of five emojis listed under `emojiImgs`.
