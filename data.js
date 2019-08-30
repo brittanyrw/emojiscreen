@@ -154,6 +154,13 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "Snow White",
+        emojiImgs: "🍎👸💤🤴💋",
+        genres: ["musical", "animated", "romance"],
+        type: "movie",
+        year: 1944
+    },
+    {
         title: "E.T. the Extra-Terrestrial",
         emojiImgs: "🌙🚲👉🏻👈🏻👽",
         genres: ["Family", "Sci-Fi"],
