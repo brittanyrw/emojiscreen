@@ -371,6 +371,13 @@ const emojiItems = [
         year: 2008
     },
     {
+	title: "La La Land",
+	emojiImgs: "👩👮💓",
+	genres: ["romance", "drama"],
+	type: "movie",
+	year: 2016
+    },
+    {
         title: "Legally Blonde",
         emojiImgs: "👩‍⚖️👠💘🏫🐶",
         genres: ["romance", "comedy"],
