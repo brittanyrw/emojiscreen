@@ -216,6 +216,13 @@ const emojiItems = [
         type: "movie",
         year: 2000
     },
+     {
+        title: "Goonies",
+        emojiImgs: "🚴🚴‍♀️😲💍👨‍👩‍👧‍👦",
+        genres: ["adventure", "comedy", "family"],
+        type: "movie",
+        year: 1985
+    },
     {
         title: "Grease",
         emojiImgs: "🌅👸💞👨‍🎤🚘",
