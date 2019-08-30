@@ -588,6 +588,13 @@ const emojiItems = [
         year: 1994
     },
     {
+        title: "Us",
+        emojiImgs: "🎈🏠🐶👴🏻",
+        genres: ["horror", "thriller", "Us"],
+        type: "movie",
+        year: 2019
+    },
+    {
         title: "West Side Story",
         emojiImgs: "🗽✈️⚔️🦈💔",
         genres: ["musical", "romance", "drama", "crime"],
