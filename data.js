@@ -771,5 +771,12 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "Dora and the Lost City of Gold",
+        emojiImgs: "👧🐒🏕️🏰💰",
+        genres: ["fantasy", "adventure", "comedy"],
+        type: "movie",
+        year: 2019
     }
 ]
