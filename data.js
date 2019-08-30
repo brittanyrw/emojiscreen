@@ -386,7 +386,7 @@ const emojiItems = [
     },
     {
         title: "Lilo & Stitch",
-        emojiImgs: "🏄‍♀️👽👧🏽🌸",
+        emojiImgs: "🏄‍♀️👽👧🏽🌸"
         genres: ["animation", "comedy", "adventure"],
         type: "movie",
         year: 2002
