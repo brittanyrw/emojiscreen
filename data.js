@@ -65,7 +65,7 @@ const emojiItems = [
     {
         title: "Clueless",
         emojiImgs: "🛍️💅💞💋🗽",
-        genres: ["comedy", "Clueless", "romance"],
+        genres: ["comedy", "romance"],
         type: "movie",
         year: 1995
     },
@@ -625,7 +625,7 @@ const emojiItems = [
     {
         title: "Us",
         emojiImgs: "🎭🔮✂️🏚️🐰",
-        genres: ["horror", "thriller", "Us"],
+        genres: ["horror", "thriller"],
         type: "movie",
         year: 2019
     },{
