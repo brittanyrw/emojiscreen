@@ -89,12 +89,11 @@ h2 {
 
 #filters {
   max-width: 1200px;
-  margin: 0 auto 30px auto;
+  margin: 0 auto 0 auto;
   padding: 25px 0;
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 20px;
-  border-bottom: 2px solid white;
 }
 
 @media screen and (min-width: 662px){
@@ -112,7 +111,7 @@ h2 {
   }
 }
 
-#filters p {
+#filters p, #search p {
   color: white;
   font-size: 18px;
   text-align: center;
@@ -149,6 +148,24 @@ h2 {
 #filters button:hover {
   background-color: gold;
   transition: .5s;
+}
+
+#search {
+  max-width: 1200px;
+  margin: 0 auto 30px auto;
+  padding: 0 0 25px 0;
+  display: grid;
+  grid-template-areas: "text search search blank blank blank";
+  grid-gap: 20px;
+  border-bottom: 2px solid white;
+}
+
+#search p {
+  grid-area: "text";
+}
+
+#search input {
+  grid-area: "search";
 }
 
 #emojis {
