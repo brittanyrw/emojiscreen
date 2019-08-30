@@ -175,6 +175,13 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "Dora and the Lost City of Gold",
+        emojiImgs: "👧🐒🏕️🏰💰",
+        genres: ["fantasy", "adventure", "comedy"],
+        type: "movie",
+        year: 2019
+    },
+    {
         title: "E.T. the Extra-Terrestrial",
         emojiImgs: "🌙🚲👉🏻👈🏻👽",
         genres: ["Family", "Sci-Fi"],
@@ -778,12 +785,5 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    },
-    {
-        title: "Dora and the Lost City of Gold",
-        emojiImgs: "👧🐒🏕️🏰💰",
-        genres: ["fantasy", "adventure", "comedy"],
-        type: "movie",
-        year: 2019
     }
 ]
