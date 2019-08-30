@@ -58,7 +58,7 @@ const emojiItems = [
     {
         title: "Bad Santa",
         emojiImgs: "😁😂🥰🌺🌼",
-        genres: ["Comedy", "Crime", "Drama"],
+        genres: ["comedy", "crime", "drama"],
         type: "movie",
         year: 2003
     },
@@ -156,7 +156,7 @@ const emojiItems = [
     {
         title: "The Curious Case of Benjamin Button",
         emojiImgs: "👴🏻➡️🧔🏻➡️👶🏻",
-        genres: ["Drama", "Fantasy", "Romance"],
+        genres: ["drama", "fantasy", "romance"],
         type: "movie",
         year: 2008
     },
