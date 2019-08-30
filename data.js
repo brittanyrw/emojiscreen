@@ -628,12 +628,5 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    },
-    {
-        title: "Jane the Virgin",
-        emojiImgs: "💃🏽♍️🌴👶🏽💖",
-        genres: ["comedy","romance","tele novella"],
-        type: "tv",
-        year: 2014
     }
 ]
