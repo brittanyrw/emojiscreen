@@ -318,7 +318,7 @@ const emojiItems = [
         title: "Jane The Virgin",
         emojiImgs: "👶🤰👵💁‍♀️🌊",
         genres: ["comedy", "telenovela"],
-        type: "tv"
+        type: "tv",
         year: 2014
     },
     {
