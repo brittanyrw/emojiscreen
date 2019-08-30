@@ -581,6 +581,13 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "Steven Universe",
+        emojiImgs: "👦🏻💎💎💎🛡️",
+        genres: ["comedy"],
+        type: "tv",
+        year: 2013
+    },
+    {
         title: "Sweeney Todd: The Demon Barber of Fleet Street",
         emojiImgs: "💈🔪☠️🍰",
         genres: ["drama", "horror", "musical"],
@@ -642,12 +649,5 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    },
-    {
-      title: "Steven Universe",
-      emojiImgs: "👦🏻 💎💎💎 🛡️",
-      genres: ["comedy"],
-      type: "tv",
-      year: 2013
     }
 ]
