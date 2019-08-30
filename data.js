@@ -385,6 +385,13 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "Lilo & Stitch",
+        emojiImgs: "",
+        genres: ["animation", "comedy", "adventure"],
+        type: "movie",
+        year: 2002
+    },
+    {
         title: "The Lion King",
         emojiImgs: "🦁👑🌍",
         genres: ["animation", "adventure", "drama"],
