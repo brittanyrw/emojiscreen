@@ -567,6 +567,13 @@ const emojiItems = [
         year: 1979
     },
     {
+        title: "The Hangover",
+        emojiImgs: "🤵🎰🥃🍾🤕",
+        genres: ["Comedy"],
+        type: "movie",
+        year: 2009
+    },
+    {
         title: "Tropic Thunder",
         emojiImgs: "😼😽🙀😿😾",
         genres: ["Action", "Adventure", "Comedy"],
