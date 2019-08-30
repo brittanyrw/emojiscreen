@@ -63,13 +63,6 @@ const emojiItems = [
         year: 1974
     },
     {
-        title: "Clueless",
-        emojiImgs: "🛍️💅💞💋🗽",
-        genres: ["comedy", "romance"],
-        type: "movie",
-        year: 1995
-    },
-    {
         title: "The Book of Mormon",
         emojiImgs: "👋🔔👨📖✝️",
         genres: ["comedy", "satire", "musical"],
@@ -138,6 +131,13 @@ const emojiItems = [
         genres: ["animation", "adventure", "comedy"],
         type: "movie",
         year: 2009
+    },
+    {
+        title: "Clueless",
+        emojiImgs: "🛍️💅💞💋🗽",
+        genres: ["comedy", "romance"],
+        type: "movie",
+        year: 1995
     },
     {
         title: "The Color Purple",
@@ -399,13 +399,6 @@ const emojiItems = [
         year: 2001
     },
     {
-        title: "Leon: The Professional",
-        emojiImgs: "🧒🔫🧔🌷‍",
-        genres: ["thriller"],
-        type: "movie",
-        year: 1994
-    },
-    {
         title: "Les Misérables",
         emojiImgs: "🇫🇷🥖👮🏻",
         genres: ["drama", "history", "musical"],
@@ -642,7 +635,8 @@ const emojiItems = [
         genres: ["horror", "thriller"],
         type: "movie",
         year: 2019
-    },{
+    },
+    {
         title: "Wall-E",
         emojiImgs: "📺❤️💻",
         genres: ["animation", "adventure", "family"],
