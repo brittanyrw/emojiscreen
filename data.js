@@ -530,6 +530,12 @@ const emojiItems = [
         year: 1991
     },
     {
+        title: "Mulan",
+        emojiImgs: "🔫⚔️🎶🥁",
+        genres: ["War", "music"],
+        type: "movie",
+        year: 1998
+    },{
         title: "Office Space",
         emojiImgs: "👔🖨⚒💾💰",
         genres: ["comedy"],
@@ -772,5 +778,12 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "Dora and the Lost City of Gold",
+        emojiImgs: "👧🐒🏕️🏰💰",
+        genres: ["fantasy", "adventure", "comedy"],
+        type: "movie",
+        year: 2019
     }
 ]
