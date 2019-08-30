@@ -302,8 +302,8 @@ const emojiItems = [
     },
     {
         title: "Hidden Figures",
-        emojiImgs: "💥🐼🦄🙇‍",
-        genres: ["Biography", "Drama", "History"],
+        emojiImgs: "🚀👩🏽‍💻🧮👨🏻‍🦳👨🏻‍🚀",
+        genres: ["biography", "drama", "history"],
         type: "movie",
         year: 2016
     },
