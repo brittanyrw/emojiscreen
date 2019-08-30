@@ -609,6 +609,12 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "SpongeBob SquarePants",
+        emojiImgs: "🦀🍔🌊🍍🐿",
+        genres: ["family", "animation"],
+        type: "tv",
+        year: 1999
+    },{
         title: "Steven Universe",
         emojiImgs: "👦🏻💎💎💎🛡️",
         genres: ["comedy"],
