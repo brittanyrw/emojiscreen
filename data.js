@@ -56,6 +56,13 @@ const emojiItems = [
         year: 2018
     },
     {
+        title: "Bad Santa",
+        emojiImgs: "😁😂🥰🌺🌼",
+        genres: ["Comedy", "Crime", "Drama"],
+        type: "movie",
+        year: 2003
+    },
+    {
         title: "Blazing Saddles",
         emojiImgs: "🔥🤠🐴🏇🏜️",
         genres: ["western", "comedy"],
