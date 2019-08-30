@@ -614,5 +614,13 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {        
+        title: "Se7en",
+        emojiImgs: "😒 😓 😔⚡️🧟",
+        genres: ["Mystery"],
+        type: "movie",
+        year: 1995
+
     }
 ]
