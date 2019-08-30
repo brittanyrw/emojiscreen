@@ -427,11 +427,11 @@ const emojiItems = [
         year: 1991
     },
     {
-        title: "Once Upon a Time in Hollywood",
-        emojiImgs: "🙍‍♂️🙍‍♂️🙎‍♀️🐕🎬",
-        genres: ["drama", "comedy"],
-        type: "film",
-        year: 2019
+        title: "Mulan",
+        emojiImgs: "🔫⚔️🎶🥁",
+        genres: ["War", "music"],
+        type: "movie",
+        year: 1998
     },
     {
         title: "On the Town",
