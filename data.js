@@ -308,6 +308,13 @@ const emojiItems = [
         year: 1990
     },
     {
+        title: "Jane The Virgin",
+        emojiImgs: "👶🤰👵💁‍♀️🌊",
+        genres: ["comedy", "telenovela"],
+        type: "tv"
+        year: 2014
+    },
+    {
         title: "Inglorious Basterds",
         emojiImgs: "💀🔪🎖️📽️🔥",
         genres: ["war", "history"],
