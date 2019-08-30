@@ -539,6 +539,13 @@ const emojiItems = [
         year: 2007
     },
     {
+        title: "Silence of the Lambs",
+        emojiImgs: "🤐🐑🍷🦋",
+        genres: ["crime", "drama", "thriller"],
+        type: "movie",
+        year: 1991
+    },
+    {
         title: "Sixth Sense",
         emojiImgs: "👻👦👀",
         genres: ["drama", "mystery", "thriller"],
