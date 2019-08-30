@@ -56,6 +56,13 @@ const emojiItems = [
         year: 2018
     },
     {
+        title: "Bad Santa",
+        emojiImgs: "😁😂🥰🌺🌼",
+        genres: ["Comedy", "Crime", "Drama"],
+        type: "movie",
+        year: 2003
+    },
+    {
         title: "Blazing Saddles",
         emojiImgs: "🔥🤠🐴🏇🏜️",
         genres: ["western", "comedy"],
@@ -229,6 +236,13 @@ const emojiItems = [
         genres: ["action", "adventure", "drama"],
         type: "movie",
         year: 2000
+    },
+     {
+        title: "Goonies",
+        emojiImgs: "🚴🚴‍♀️😲💍👨‍👩‍👧‍👦",
+        genres: ["adventure", "comedy", "family"],
+        type: "movie",
+        year: 1985
     },
     {
         title: "Grease",
