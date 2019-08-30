@@ -63,6 +63,13 @@ const emojiItems = [
         year: 1974
     },
     {
+        title: "Clueless",
+        emojiImgs: "🛍️💅💞💋🗽",
+        genres: ["comedy", "Clueless", "romance"],
+        type: "movie",
+        year: 1995
+    },
+    {
         title: "The Book of Mormon",
         emojiImgs: "👋🔔👨📖✝️",
         genres: ["comedy", "satire", "musical"],
