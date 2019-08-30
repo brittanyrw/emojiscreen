@@ -329,6 +329,13 @@ const emojiItems = [
         year: 1997
     },
     {
+        title: "Jane the Virgin",
+        emojiImgs: "💃🏽♍️🌴👶🏽💖",
+        genres: ["comedy","romance","tele novella"],
+        type: "tv",
+        year: 2014
+    },
+    {
         title: "John Wick",
         emojiImgs: "🔪🐶🚗🔫🤵🏻",
         genres: ["Action", "Crime", "Thriller"],
