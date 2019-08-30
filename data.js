@@ -676,5 +676,14 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+
+       title: "Leon:The Professional",
+       emojiImgs: "🧒🔫🧔🌷‍",
+       genres: ["thriller"],
+       type: "movie",
+       year: 1994
+
     }
 ]
