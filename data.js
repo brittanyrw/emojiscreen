@@ -1,4 +1,4 @@
-const emojiItems = [
+    const emojiItems = [
     {
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
@@ -128,7 +128,7 @@ const emojiItems = [
     {
         title: "Child's Play",
         emojiImgs: "👶😰😫☠",
-        genres: ["action", "Horror", "sci-fi"],
+        genres: ["action", "horror", "sci-fi"],
         type: "movie",
         year: 2019
     },
@@ -184,7 +184,7 @@ const emojiItems = [
     {
         title: "E.T. the Extra-Terrestrial",
         emojiImgs: "🌙🚲👉🏻👈🏻👽",
-        genres: ["Family", "Sci-Fi"],
+        genres: ["family", "sci-fi"],
         type: "movie",
         year: 1982
     },
@@ -198,7 +198,7 @@ const emojiItems = [
     {
         title: "The Fast and the Furious",
         emojiImgs: "🚗💨😡",
-        genres: ["Action", "Crime", "Thriller"],
+        genres: ["action", "crime", "thriller"],
         type: "movie",
         year: 2001
     },
@@ -226,7 +226,7 @@ const emojiItems = [
     {
         title: "Get Out",
         emojiImgs: "😮😱💪🏿🦸🏿",
-        genres: ["Horror", "sci-fi"],
+        genres: ["horror", "sci-fi"],
         type: "movie",
         year: 2018
     },
@@ -407,14 +407,14 @@ const emojiItems = [
     {
         title: "John Wick",
         emojiImgs: "🔪🐶🚗🔫🤵🏻",
-        genres: ["Action", "Crime", "Thriller"],
+        genres: ["action", "crime", "thriller"],
         type: "movie",
         year: 2014
     },
     {
         title: "Jurassic Park",
         emojiImgs: "🔬🦖🏝",
-        genres: ["Action", "Adventure", "Sci-Fi"],
+        genres: ["action", "adventure", "sci-fi"],
         type: "movie",
         year: 1993
     },
@@ -545,7 +545,7 @@ const emojiItems = [
     {
         title: "Mulan",
         emojiImgs: "🔫⚔️🎶🥁",
-        genres: ["War", "music"],
+        genres: ["war", "music"],
         type: "movie",
         year: 1998
     },{
@@ -738,7 +738,7 @@ const emojiItems = [
     {
         title: "Tropic Thunder",
         emojiImgs: "😼😽🙀😿😾",
-        genres: ["Action", "Adventure", "Comedy"],
+        genres: ["action", "adventure", "comedy"],
         type: "movie",
         year: 2008
     },
