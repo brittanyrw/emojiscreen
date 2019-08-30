@@ -1,5 +1,12 @@
 const emojiItems = [
     {
+        title: "Hachi: A Dog's Tale",
+        emojiImgs: "👨‍🏫💔🚉🐕🌭",
+        genres: ["family", "drama"],
+        type: "movie",
+        year: 2009
+    },
+    {
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
         genres: ["musical", "comedy"],
