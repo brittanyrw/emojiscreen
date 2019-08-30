@@ -589,7 +589,7 @@ const emojiItems = [
     },
     {
         title: "Us",
-        emojiImgs: "🎈🏠🐶👴🏻",
+        emojiImgs: "🎭🔮✂️🏚️🐰",
         genres: ["horror", "thriller", "Us"],
         type: "movie",
         year: 2019
