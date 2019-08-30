@@ -13,6 +13,13 @@ const emojiItems = [
         type: "movie",
         year: 2007
     },
+	{
+        title: "StuG3eeek!!!!",
+        emojiImgs: " 💪🤕👊🏻⚔️ 🛡",
+        genres: ["action", "drama", "fantasy"],
+        type: "movie",
+        year: 2007
+    },
     {
         title: "A Star is Born",
         emojiImgs: "🎤👩👨🎸⭐",
