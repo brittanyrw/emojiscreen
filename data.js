@@ -455,6 +455,12 @@ const emojiItems = [
         year: 2004
     },
     {
+        title: "Mary Poppins",
+        emojiImgs: "✨☂️✨👜✨",
+        genres: ["comedy", "family", "fantasy"],
+        type: "movie",
+        year: 1964
+    },{
         title: "Love and Other Drugs",
         emojiImgs: "😍🆘💊💔💏",
         genres: ["romance", "drama", "comedy"],
@@ -600,6 +606,13 @@ const emojiItems = [
         genres: ["drama"],
         type: "movie",
         year: 2007
+    },
+    {
+        title: "Sex and the City",
+        emojiImgs: "🍸👠👩🏼‍🦱💄🗽",
+        genres: ["comedy","drama","romance"],
+        type: "tv",
+        year: 1998
     },
     {
         title: "Sixth Sense",
