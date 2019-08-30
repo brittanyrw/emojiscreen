@@ -566,6 +566,13 @@ const emojiItems = [
         type: "musical",
         year: 1979
     },
+	{
+        title: "Toy Story",
+        emojiImgs: "💈🔪☠️🍰",
+        genres: ["Animation", "Adventure", "Comedy"],
+        type: "movie",
+        year: 1995
+    },
     {
         title: "Tropic Thunder",
         emojiImgs: "😼😽🙀😿😾",
