@@ -1,12 +1,5 @@
 const emojiItems = [
     {
-        title: "Hachi: A Dog's Tale",
-        emojiImgs: "👨‍🏫💔🚉🐕🌭",
-        genres: ["family", "drama"],
-        type: "movie",
-        year: 2009
-    },
-    {
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
         genres: ["musical", "comedy"],
@@ -175,13 +168,6 @@ const emojiItems = [
         year: 1987
     },
     {
-        title: "Snow White",
-        emojiImgs: "🍎👸💤🤴💋",
-        genres: ["musical", "animated", "romance"],
-        type: "movie",
-        year: 1944
-    },
-    {
         title: "E.T. the Extra-Terrestrial",
         emojiImgs: "🌙🚲👉🏻👈🏻👽",
         genres: ["Family", "Sci-Fi"],
@@ -250,6 +236,13 @@ const emojiItems = [
         genres: ["musical", "romance"],
         type: "musical",
         year: 1978
+    },
+    {
+        title: "Hachi: A Dog's Tale",
+        emojiImgs: "👨‍🏫💔🚉🐕🌭",
+        genres: ["family", "drama"],
+        type: "movie",
+        year: 2009
     },
     {
         title: "Hamilton: The Musical",
@@ -647,6 +640,13 @@ const emojiItems = [
         genres: ["drama", "mystery", "thriller"],
         type: "movie",
         year: 1999
+    },
+    {
+        title: "Snow White",
+        emojiImgs: "🍎👸💤🤴💋",
+        genres: ["musical", "animated", "romance"],
+        type: "movie",
+        year: 1944
     },
     {
         title: "Space Jam",
