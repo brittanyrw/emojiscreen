@@ -440,6 +440,13 @@ const emojiItems = [
         year: 2001
     },
     {
+        title: "Leon: The Professional",
+        emojiImgs: "🧒🔫🧔🌷‍",
+        genres: ["thriller"],
+        type: "movie",
+        year: 1994
+    },
+    {
         title: "Les Misérables",
         emojiImgs: "🇫🇷🥖👮🏻",
         genres: ["drama", "history", "musical"],
