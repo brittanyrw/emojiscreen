@@ -434,7 +434,7 @@ const emojiItems = [
         year: 2004
     },
     {
-        title: "Love and other drugs",
+        title: "Love and Other Drugs",
         emojiImgs: "😍🆘💊💔💏",
         genres: ["romance", "drama", "comedy"],
         type: "movie",
