@@ -523,6 +523,12 @@ const emojiItems = [
         year: 1991
     },
     {
+        title: "Mulan",
+        emojiImgs: "🔫⚔️🎶🥁",
+        genres: ["War", "music"],
+        type: "movie",
+        year: 1998
+    },{
         title: "Office Space",
         emojiImgs: "👔🖨⚒💾💰",
         genres: ["comedy"],
