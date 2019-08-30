@@ -96,6 +96,13 @@ const emojiItems = [
         genres: ["action", "comedy", "musical"],
         type: "movie",
         year: 2000
+    },  
+    {
+        title: "The Cheetah Girls",
+        emojiImgs: "🐆🐆🐆🐆🎶",
+        genres: ["comedy", "drama", "musical"],
+        type: "movie",
+        year: 2003
     },
     {
         title: "Chernobyl",
