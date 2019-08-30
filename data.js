@@ -560,6 +560,13 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "SpongeBob SquarePants",
+        emojiImgs: "🦀🍔🌊🍍🐿",
+        genres: ["family", "animation"],
+        type: "tv",
+        year: 1999
+    },
+    {
         title: "Sweeney Todd: The Demon Barber of Fleet Street",
         emojiImgs: "💈🔪☠️🍰",
         genres: ["drama", "horror", "musical"],
