@@ -103,6 +103,13 @@ const emojiItems = [
         genres: ["action", "comedy", "musical"],
         type: "movie",
         year: 2000
+    },  
+    {
+        title: "The Cheetah Girls",
+        emojiImgs: "🐆🐆🐆🐆🎶",
+        genres: ["comedy", "drama", "musical"],
+        type: "movie",
+        year: 2003
     },
     {
         title: "Chernobyl",
@@ -336,6 +343,13 @@ const emojiItems = [
         year: 1997
     },
     {
+        title: "Jane the Virgin",
+        emojiImgs: "💃🏽♍️🌴👶🏽💖",
+        genres: ["comedy","romance","tele novella"],
+        type: "tv",
+        year: 2014
+    },
+    {
         title: "John Wick",
         emojiImgs: "🔪🐶🚗🔫🤵🏻",
         genres: ["Action", "Crime", "Thriller"],
@@ -426,12 +440,26 @@ const emojiItems = [
         type: "movie",
         year: 1999
     },
+      {
+        title: "Matrix Revolutions",
+        emojiImgs: "📞💻🕶️",
+        genres: ["action", "sci-fi"],
+        type: "movie",
+        year: 2003
+    },
     {
         title: "Miss Saigon",
         emojiImgs: "🇻🇳💑🚁👶",
         genres: ["drama", "war", "musical"],
         type: "musical",
         year: 1991
+    },
+    {
+        title: "Office Space",
+        emojiImgs: "👔🖨⚒💾💰",
+        genres: ["comedy"],
+        type: "movie",
+        year: 1999
     },
     {
         title: "Once Upon a Time in Hollywood",
@@ -567,6 +595,13 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "Steven Universe",
+        emojiImgs: "👦🏻💎💎💎🛡️",
+        genres: ["comedy"],
+        type: "tv",
+        year: 2013
+    },
+    {
         title: "Sweeney Todd: The Demon Barber of Fleet Street",
         emojiImgs: "💈🔪☠️🍰",
         genres: ["drama", "horror", "musical"],
@@ -593,6 +628,12 @@ const emojiItems = [
         genres: ["horror", "thriller", "Us"],
         type: "movie",
         year: 2019
+    },{
+        title: "Wall-E",
+        emojiImgs: "📺❤️💻",
+        genres: ["animation", "adventure", "family"],
+        type: "movie",
+        year: 2008
     },
     {
         title: "West Side Story",
