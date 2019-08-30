@@ -614,5 +614,12 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+      title: "Steven Universe",
+      emojiImgs: "👦🏻 💎💎💎 🛡️",
+      genres: ["comedy"],
+      type: "tv",
+      year: 2013
     }
 ]
