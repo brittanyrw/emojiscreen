@@ -419,6 +419,13 @@ const emojiItems = [
         type: "movie",
         year: 1999
     },
+      {
+        title: "Matrix Revolutions",
+        emojiImgs: "📞💻🕶️",
+        genres: ["action", "sci-fi"],
+        type: "movie",
+        year: 2003
+    },
     {
         title: "Miss Saigon",
         emojiImgs: "🇻🇳💑🚁👶",
