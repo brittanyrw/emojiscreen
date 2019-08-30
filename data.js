@@ -595,6 +595,13 @@ const emojiItems = [
         year: 1994
     },
     {
+        title: "Wall-E",
+        emojiImgs: "📺❤️💻",
+        genres: ["animation", "adventure", "family"],
+        type: "movie",
+        year: 2008
+    },
+    {
         title: "West Side Story",
         emojiImgs: "🗽✈️⚔️🦈💔",
         genres: ["musical", "romance", "drama", "crime"],
