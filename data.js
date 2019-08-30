@@ -683,6 +683,12 @@ const emojiItems = [
         year: 1979
     },
     {
+        title: "Their Eyes Were Watching God",
+        emojiImgs: "👀👼🎬",
+        genres: ["drama", "romance"],
+        type: "movie",
+        year: 2005
+    },{
         title: "The Hangover",
         emojiImgs: "🤵🎰🥃🍾🤕",
         genres: ["comedy"],
