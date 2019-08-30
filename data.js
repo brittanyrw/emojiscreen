@@ -252,6 +252,13 @@ const emojiItems = [
         year: 2015
     },
     {
+        title: "The Hangover",
+        emojiImgs: "🤵🎰🥃🍾🤕",
+        genres: ["comedy"],
+        type: "movie",
+        year: 2009
+    },
+    {
         title: "Harry Potter and the Chamber of Secrets",
         emojiImgs: "🐍🧙‍♂️📓👩🏻‍🦰⚡",
         genres: ["adventure", "family", "fantasy"],
@@ -688,12 +695,6 @@ const emojiItems = [
         genres: ["drama", "romance"],
         type: "movie",
         year: 2005
-    },{
-        title: "The Hangover",
-        emojiImgs: "🤵🎰🥃🍾🤕",
-        genres: ["comedy"],
-        type: "movie",
-        year: 2009
     },
     {
         title: "Tropic Thunder",
