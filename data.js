@@ -371,6 +371,13 @@ const emojiItems = [
         year: 2008
     },
     {
+        title: "Lady and the Tramp",
+        emojiImgs: "💃🐶🍝",
+        genres: ["animation", "romance"],
+        type: "movie",
+        year: 1955
+    },
+    {
         title: "Legally Blonde",
         emojiImgs: "👩‍⚖️👠💘🏫🐶",
         genres: ["romance", "comedy"],
