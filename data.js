@@ -56,6 +56,13 @@ const emojiItems = [
         year: 2018
     },
     {
+        title: "Black Swan",
+        emojiImgs: "🩰👯‍♀️🦢🎭🔪",
+        genres: ["drama", "thriller"],
+        type: "movie",
+        year: 2010
+    },
+    {
         title: "Blazing Saddles",
         emojiImgs: "🔥🤠🐴🏇🏜️",
         genres: ["western", "comedy"],
