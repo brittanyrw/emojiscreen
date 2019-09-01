@@ -89,11 +89,12 @@ h2 {
 
 #filters {
   max-width: 1200px;
-  margin: 0 auto 0 auto;
+  margin: 0 auto 30px auto;
   padding: 25px 0;
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 20px;
+  border-bottom: 2px solid white;
 }
 
 @media screen and (min-width: 662px){
@@ -103,6 +104,10 @@ h2 {
   #filters p {
     text-align: left;
   }
+  #filters input {
+    grid-column: 2 / 6;
+    height: auto;
+  }
 }
 
 @media screen and (min-width: 992px){
@@ -111,7 +116,7 @@ h2 {
   }
 }
 
-#filters p, #search p {
+#filters p {
   color: white;
   font-size: 18px;
   text-align: center;
@@ -150,22 +155,10 @@ h2 {
   transition: .5s;
 }
 
-#search {
-  max-width: 1200px;
-  margin: 0 auto 30px auto;
-  padding: 0 0 25px 0;
-  display: grid;
-  grid-template-areas: "text search search blank blank blank";
-  grid-gap: 20px;
-  border-bottom: 2px solid white;
-}
-
-#search p {
-  grid-area: "text";
-}
-
-#search input {
-  grid-area: "search";
+#filters input {
+  padding: 0 15px;
+  height: 60px;
+  font-family: inherit;
 }
 
 #emojis {
