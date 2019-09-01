@@ -12,6 +12,7 @@ $(document).ready(function() {
   for (var i in emojiItems) {
     emojiCard +=
       "<div class='emoji-card' data-filter='" + emojiItems[i].type +
+      "' data-title='" + emojiItems[i].title +
     "'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + emojiItems[i].type +
     "</span></p></div><div class='emoji-images'>" + emojiItems[i].emojiImgs +
     "</div><div class='emoji-card-title hide-card'><h3>" + emojiItems[i].title +
@@ -60,6 +61,9 @@ $(document).ready(function() {
         $(
           "div.emoji-card:not([data-filter='" + filtertag + "'])"
         ).hide();
+      } else if (filtertag === "matching" && $("div.emoji-card[data-title='" + $("#filters input").val() + "']").length > 0) {
+        $("div.emoji-card").show();
+        $("div.emoji-card:not([data-title='" + $("#filters input").val() + "'])").hide()
       } else { // If there are no cards that match the filter, display a message that says that there are no cards for that category.
         $("div.emoji-card").hide();
         $("#message").show();

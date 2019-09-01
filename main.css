@@ -104,8 +104,10 @@ h2 {
   #filters p {
     text-align: left;
   }
-  #filters input {
+  #search {
     grid-column: 2 / 6;
+  }
+  #filters input {
     height: auto;
   }
 }
@@ -155,10 +157,16 @@ h2 {
   transition: .5s;
 }
 
+#search {
+  display: flex;
+  justify-content: space-between;
+}
+
 #filters input {
   padding: 0 15px;
   height: 60px;
   font-family: inherit;
+  width: 100%;
 }
 
 #emojis {
