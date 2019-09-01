@@ -154,11 +154,25 @@ const emojiItems = [
         year: 1986
     },
     {
+        title: "Come From Away",
+        emojiImgs: "🗽✈️🇨🇦🛄💞",
+        genres: ["drama", "history"],
+        type: "musical",
+        year: 2015
+    },
+    {
         title: "The Curious Case of Benjamin Button",
         emojiImgs: "👴🏻➡️🧔🏻➡️👶🏻",
         genres: ["Drama", "Fantasy", "Romance"],
         type: "movie",
         year: 2008
+    },
+    {
+        title: "Dear Evan Hansen",
+        emojiImgs: "💌⚰️👨‍👩‍👧‍👦💻💞",
+        genres: ["drama", "musical"],
+        type: "musical",
+        year: 2015
     },
     {
         title: "Devil Wears Prada",
