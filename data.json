@@ -475,7 +475,7 @@
           "drama",
           "romance"
       ],
-      "type": "TV Series",
+      "type": "tv",
       "year": 2005 - 
       },
     {
@@ -497,7 +497,7 @@
           "adventure",
           "Sci-Fi"
       ],
-      "type": "TV Series",
+      "type": "movie",
       "year": 2018
       },
   {
@@ -507,7 +507,7 @@
           "crime",
           "drama"
       ],
-      "type": "TV Series",
+      "type": "tv",
       "year": 2015-2017
       },
    {
@@ -517,7 +517,7 @@
           "comedy",
           "romance"
       ],
-      "type": "TV Series",
+      "type": "tv",
       "year": 2007-2019
       }
 ]
