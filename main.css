@@ -107,7 +107,7 @@ h2 {
   #search {
     grid-column: 2 / 6;
   }
-  #filters input {
+  #search input {
     height: auto;
   }
 }
@@ -162,11 +162,19 @@ h2 {
   justify-content: space-between;
 }
 
-#filters input {
+#search input {
   padding: 0 15px;
   height: 60px;
   font-family: inherit;
   width: 100%;
+}
+
+#search i {
+  background: rgba(0, 0, 0, 0);
+}
+
+#search button, #search button:disabled:hover {
+  background-color: lightgray;
 }
 
 #emojis {

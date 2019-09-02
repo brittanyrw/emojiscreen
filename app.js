@@ -1,4 +1,8 @@
 $(document).ready(function() {
+  // Add emoji card titles as dropdown menu options for search bar.
+  var titles = emojiItems.map((i) => "<option value='" + i.title + "'>");
+  $("#matches").append(titles.join(" "));
+
   // Create a variable for the container to hold the emoji cards.
   var emojiCardContainer = $("#emojis");
 
@@ -61,9 +65,9 @@ $(document).ready(function() {
         $(
           "div.emoji-card:not([data-filter='" + filtertag + "'])"
         ).hide();
-      } else if (filtertag === "matching" && $("div.emoji-card[data-title='" + $("#filters input").val() + "']").length > 0) {
+      } else if (filtertag === "matching" && $("div.emoji-card[data-title='" + $("#search input").val() + "']").length > 0) {
         $("div.emoji-card").show();
-        $("div.emoji-card:not([data-title='" + $("#filters input").val() + "'])").hide()
+        $("div.emoji-card:not([data-title='" + $("#search input").val() + "'])").hide();
       } else { // If there are no cards that match the filter, display a message that says that there are no cards for that category.
         $("div.emoji-card").hide();
         $("#message").show();
@@ -71,7 +75,22 @@ $(document).ready(function() {
           "<p>There are no " + filtertag + " cards on this page. 🙁</p>"
         );
       }
+      $("#search input").val("");
+      $("#search button").prop("disabled", true);
     });
+  });
+
+  // Trigger search submit button on pressing "Enter" key
+  $("#search input").on("keyup", function(e) {
+    if (e.keyCode === 13) {
+      $("#search button").click();
+    }
+  });
+
+  // Disable search submit button when search bar is empty
+  $("#search button").prop("disabled", true);
+  $(document).on("input", "input:text", function() {
+    $("#search button").prop("disabled", false)
   });
 
   // Display total count of movies and shows in the footer
