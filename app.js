@@ -69,8 +69,8 @@ $(document).ready(function() {
       }
     });
   });
-
-  // Display total count of movies and shows in the footer
+  
+  // Reveal the movie or show title when the user clicks on the emojis.
   $("#emojis").on("click", ".emoji-images", function() {
     $(this)
       .siblings(".emoji-card-title")
