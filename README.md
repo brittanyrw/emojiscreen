@@ -36,7 +36,7 @@ Here are some links to lists of movies, TV shows and musicals in case you're hav
 ### View [Issues for TV shows](https://github.com/brittanyrw/emojiscreen/labels/tv)
 ### View [Issues for Musicals](https://github.com/brittanyrw/emojiscreen/labels/musical)
 
-Note: The issues to add movies or shows have links to IMDB, but many shows/movies have multiple versions. Feel free to add a different version than the link if you prefer.
+Note: The issues to add movies or shows have links to IMDB, but many shows/movies have multiple versions. Feel free to add a different version than the link if you prefer. For series, adding just some of the movies in a series is okay if you cannot add every single one!
 
 ### Movies
 * [IMDB Disney list](https://www.imdb.com/search/keyword/?keywords=disney&ref_=fn_al_kw_1)
