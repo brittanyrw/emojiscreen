@@ -1,4 +1,4 @@
-const emojiItems = [
+    const emojiItems = [
     {
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
@@ -61,6 +61,12 @@ const emojiItems = [
         genres: ["drama", "thriller"],
         type: "movie",
         year: 2010
+    },{
+        title: "Bad Santa",
+        emojiImgs: "😁😂🥰🌺🌼",
+        genres: ["comedy", "crime", "drama"],
+        type: "movie",
+        year: 2003
     },
     {
         title: "Blazing Saddles",
@@ -68,13 +74,6 @@ const emojiItems = [
         genres: ["western", "comedy"],
         type: "movie",
         year: 1974
-    },
-    {
-        title: "Clueless",
-        emojiImgs: "🛍️💅💞💋🗽",
-        genres: ["comedy", "Clueless", "romance"],
-        type: "movie",
-        year: 1995
     },
     {
         title: "The Book of Mormon",
@@ -135,7 +134,7 @@ const emojiItems = [
     {
         title: "Child's Play",
         emojiImgs: "👶😰😫☠",
-        genres: ["action", "Horror", "sci-fi"],
+        genres: ["action", "horror", "sci-fi"],
         type: "movie",
         year: 2019
     },
@@ -145,6 +144,13 @@ const emojiItems = [
         genres: ["animation", "adventure", "comedy"],
         type: "movie",
         year: 2009
+    },
+    {
+        title: "Clueless",
+        emojiImgs: "🛍️💅💞💋🗽",
+        genres: ["comedy", "romance"],
+        type: "movie",
+        year: 1995
     },
     {
         title: "The Color Purple",
@@ -163,7 +169,7 @@ const emojiItems = [
     {
         title: "The Curious Case of Benjamin Button",
         emojiImgs: "👴🏻➡️🧔🏻➡️👶🏻",
-        genres: ["Drama", "Fantasy", "Romance"],
+        genres: ["drama", "fantasy", "romance"],
         type: "movie",
         year: 2008
     },
@@ -189,9 +195,16 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "Dora and the Lost City of Gold",
+        emojiImgs: "👧🐒🏕️🏰💰",
+        genres: ["fantasy", "adventure", "comedy"],
+        type: "movie",
+        year: 2019
+    },
+    {
         title: "E.T. the Extra-Terrestrial",
         emojiImgs: "🌙🚲👉🏻👈🏻👽",
-        genres: ["Family", "Sci-Fi"],
+        genres: ["family", "sci-fi"],
         type: "movie",
         year: 1982
     },
@@ -205,7 +218,7 @@ const emojiItems = [
     {
         title: "The Fast and the Furious",
         emojiImgs: "🚗💨😡",
-        genres: ["Action", "Crime", "Thriller"],
+        genres: ["action", "crime", "thriller"],
         type: "movie",
         year: 2001
     },
@@ -233,7 +246,7 @@ const emojiItems = [
     {
         title: "Get Out",
         emojiImgs: "😮😱💪🏿🦸🏿",
-        genres: ["Horror", "sci-fi"],
+        genres: ["horror", "sci-fi"],
         type: "movie",
         year: 2018
     },
@@ -251,6 +264,13 @@ const emojiItems = [
         type: "movie",
         year: 2000
     },
+     {
+        title: "Goonies",
+        emojiImgs: "🚴🚴‍♀️😲💍👨‍👩‍👧‍👦",
+        genres: ["adventure", "comedy", "family"],
+        type: "movie",
+        year: 1985
+    },
     {
         title: "Grease",
         emojiImgs: "🌅👸💞👨‍🎤🚘",
@@ -259,11 +279,31 @@ const emojiItems = [
         year: 1978
     },
     {
+        title: "Hachi: A Dog's Tale",
+        emojiImgs: "👨‍🏫💔🚉🐕🌭",
+        genres: ["family", "drama"],
+        type: "movie",
+        year: 2009
+    },
+    {
         title: "Hamilton: The Musical",
         emojiImgs: "💵🖋️⚖️🎵📜",
         genres: ["drama", "comedy", "musical"],
         type: "musical",
         year: 2015
+    },
+    {   title: "Hairspray: The Musical",
+        emojiImgs: "💋💃👠👨🏽‍🦱👨🏻",
+        genres: ["comedy", "drama", "musical"],
+        type: "musical",
+        year: 2002
+    },
+    {
+        title: "The Hangover",
+        emojiImgs: "🤵🎰🥃🍾🤕",
+        genres: ["comedy"],
+        type: "movie",
+        year: 2009
     },
     {
         title: "Harry Potter and the Chamber of Secrets",
@@ -322,11 +362,25 @@ const emojiItems = [
         year: 2004
     },
     {
+        title: "Hidden Figures",
+        emojiImgs: "🚀👩🏽‍💻🧮👨🏻‍🦳👨🏻‍🚀",
+        genres: ["biography", "drama", "history"],
+        type: "movie",
+        year: 2016
+    },
+    {
         title: "Home Alone",
         emojiImgs: "🏠🙈🎄",
         genres: ["comedy", "family"],
         type: "movie",
         year: 1990
+    },
+    {
+        title: "Jane The Virgin",
+        emojiImgs: "👶🤰👵💁‍♀️🌊",
+        genres: ["comedy", "telenovela"],
+        type: "tv",
+        year: 2014
     },
     {
         title: "Inglorious Basterds",
@@ -373,14 +427,14 @@ const emojiItems = [
     {
         title: "John Wick",
         emojiImgs: "🔪🐶🚗🔫🤵🏻",
-        genres: ["Action", "Crime", "Thriller"],
+        genres: ["action", "crime", "thriller"],
         type: "movie",
         year: 2014
     },
     {
         title: "Jurassic Park",
         emojiImgs: "🔬🦖🏝",
-        genres: ["Action", "Adventure", "Sci-Fi"],
+        genres: ["action", "adventure", "sci-fi"],
         type: "movie",
         year: 1993
     },
@@ -413,11 +467,31 @@ const emojiItems = [
         year: 2008
     },
     {
+        title: "Lady and the Tramp",
+        emojiImgs: "💃🐶🍝",
+        genres: ["animation", "romance"],
+        type: "movie",
+        year: 1955
+    },{
+        title: "La La Land",
+        emojiImgs: "👩👮💓",
+        genres: ["romance", "drama", "musical"],
+        type: "movie",
+        year: 2016
+    },
+    {
         title: "Legally Blonde",
         emojiImgs: "👩‍⚖️👠💘🏫🐶",
         genres: ["romance", "comedy"],
         type: "movie",
         year: 2001
+    },
+    {
+        title: "Leon: The Professional",
+        emojiImgs: "🧒🔫🧔🌷‍",
+        genres: ["thriller"],
+        type: "movie",
+        year: 1994
     },
     {
         title: "Les Misérables",
@@ -455,6 +529,19 @@ const emojiItems = [
         year: 2004
     },
     {
+        title: "Mary Poppins",
+        emojiImgs: "✨☂️✨👜✨",
+        genres: ["comedy", "family", "fantasy"],
+        type: "movie",
+        year: 1964
+    },{
+        title: "Love and Other Drugs",
+        emojiImgs: "😍🆘💊💔💏",
+        genres: ["romance", "drama", "comedy"],
+        type: "movie",
+        year: 2010
+    },
+    {
         title: "Matrix",
         emojiImgs: "👨‍💻👩‍💻🔫🥋",
         genres: ["action", "sci-fi"],
@@ -476,6 +563,12 @@ const emojiItems = [
         year: 1991
     },
     {
+        title: "Mulan",
+        emojiImgs: "🔫⚔️🎶🥁",
+        genres: ["war", "music"],
+        type: "movie",
+        year: 1998
+    },{
         title: "Office Space",
         emojiImgs: "👔🖨⚒💾💰",
         genres: ["comedy"],
@@ -595,11 +688,31 @@ const emojiItems = [
         year: 2007
     },
     {
+        title: "Silence of the Lambs",
+        emojiImgs: "🤐🐑🍷🦋",
+        genres: ["crime", "drama", "thriller"],
+        type: "movie",
+        year: 1991
+    },{
+        title: "Sex and the City",
+        emojiImgs: "🍸👠👩🏼‍🦱💄🗽",
+        genres: ["comedy","drama","romance"],
+        type: "tv",
+        year: 1998
+    },
+    {
         title: "Sixth Sense",
         emojiImgs: "👻👦👀",
         genres: ["drama", "mystery", "thriller"],
         type: "movie",
         year: 1999
+    },
+    {
+        title: "Snow White",
+        emojiImgs: "🍎👸💤🤴💋",
+        genres: ["musical", "animated", "romance"],
+        type: "movie",
+        year: 1944
     },
     {
         title: "Space Jam",
@@ -616,6 +729,12 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "SpongeBob SquarePants",
+        emojiImgs: "🦀🍔🌊🍍🐿",
+        genres: ["family", "animation"],
+        type: "tv",
+        year: 1999
+    },{
         title: "Steven Universe",
         emojiImgs: "👦🏻💎💎💎🛡️",
         genres: ["comedy"],
@@ -630,9 +749,16 @@ const emojiItems = [
         year: 1979
     },
     {
+        title: "Their Eyes Were Watching God",
+        emojiImgs: "👀👼🎬",
+        genres: ["drama", "romance"],
+        type: "movie",
+        year: 2005
+    },
+    {
         title: "Tropic Thunder",
         emojiImgs: "😼😽🙀😿😾",
-        genres: ["Action", "Adventure", "Comedy"],
+        genres: ["action", "adventure", "comedy"],
         type: "movie",
         year: 2008
     },
@@ -646,10 +772,11 @@ const emojiItems = [
     {
         title: "Us",
         emojiImgs: "🎭🔮✂️🏚️🐰",
-        genres: ["horror", "thriller", "Us"],
+        genres: ["horror", "thriller"],
         type: "movie",
         year: 2019
-    },{
+    },
+    {
         title: "Wall-E",
         emojiImgs: "📺❤️💻",
         genres: ["animation", "adventure", "family"],
