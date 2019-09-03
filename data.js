@@ -56,6 +56,12 @@
         year: 2018
     },
     {
+        title: "Black Swan",
+        emojiImgs: "🩰👯‍♀️🦢🎭🔪",
+        genres: ["drama", "thriller"],
+        type: "movie",
+        year: 2010
+    },{
         title: "Bad Santa",
         emojiImgs: "😁😂🥰🌺🌼",
         genres: ["comedy", "crime", "drama"],
@@ -154,11 +160,25 @@
         year: 1986
     },
     {
+        title: "Come From Away",
+        emojiImgs: "🗽✈️🇨🇦🛄💞",
+        genres: ["drama", "history"],
+        type: "musical",
+        year: 2015
+    },
+    {
         title: "The Curious Case of Benjamin Button",
         emojiImgs: "👴🏻➡️🧔🏻➡️👶🏻",
         genres: ["drama", "fantasy", "romance"],
         type: "movie",
         year: 2008
+    },
+    {
+        title: "Dear Evan Hansen",
+        emojiImgs: "💌⚰️👨‍👩‍👧‍👦💻💞",
+        genres: ["drama", "musical"],
+        type: "musical",
+        year: 2015
     },
     {
         title: "Devil Wears Prada",
