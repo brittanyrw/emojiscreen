@@ -67,6 +67,8 @@ $(document).ready(function() {
           "<p>There are no " + filtertag + " cards on this page. 🙁</p>"
         );
       }
+      filteredCards = document.querySelectorAll('div.emoji-card:not([style*="display: none"])');
+      paginate(1); //paginate after filtering
     });
   });
   
@@ -107,5 +109,18 @@ $(document).ready(function() {
       .find(".emoji-card-title")
       .toggleClass("hide-card");
   });
+
+  //add pagination function
+  var filteredCards = document.querySelectorAll('div.emoji-card');
+  function paginate(pageNo){
+    var count = 30; //no of emojis per page
+    var startIndex = (pageNo - 1) * count;
+    var endIndex = startIndex + count;
+    console.log(startIndex, endIndex);
+    for(const [i, card] of filteredCards.entries()){
+      card.style.display = (i >= startIndex && i <= endIndex) ?  "inline-block" : " none";
+    }
+  }
+  paginate(1);
 });
 

@@ -392,3 +392,23 @@ footer img {
   font-size: 18px;
   text-align: center;
 }
+
+#pagination{
+  display: flex;
+  justify-content: flex-end;
+  max-width: 1200px;
+  margin:30px auto;
+}
+
+#pagination .pageBtn{
+  padding:10px 13px;
+  background-color: white;
+  border:none;
+  cursor: pointer;
+  font-weight: bold;
+  color: #292932;
+}
+
+#pagination .pageBtn:hover{
+  background-color: gold;
+}
