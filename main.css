@@ -407,8 +407,13 @@ footer img {
   cursor: pointer;
   font-weight: bold;
   color: #292932;
+  margin-left:2px;
 }
 
-#pagination .pageBtn:hover{
+#pagination .pageBtn i{
+  padding-top: 2px;
+}
+
+#pagination .pageBtn:hover, #pagination .pageBtn.active, #pagination .pageBtn:hover i, #pagination .pageBtn.active i{
   background-color: gold;
 }

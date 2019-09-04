@@ -68,7 +68,7 @@ $(document).ready(function() {
         );
       }
       filteredCards = document.querySelectorAll('div.emoji-card:not([style*="display: none"])');
-      paginate(1); //paginate after filtering
+      gotoPage(1); //paginate after filtering
     });
   });
   
@@ -110,17 +110,67 @@ $(document).ready(function() {
       .toggleClass("hide-card");
   });
 
-  //add pagination function
+  //listen to pagintaion button click
+  document.addEventListener('click', function(e){
+    //check if pagetBtn was clicked
+    if(e.target.className.indexOf('pageBtn') >= 0) 
+      gotoPage(e.target.dataset.target);
+    else if(e.target.parentElement.className.indexOf('pageBtn') >= 0)
+      gotoPage(e.target.parentElement.dataset.target);
+  });
+
+  //store filtered emoji cards for pagination
   var filteredCards = document.querySelectorAll('div.emoji-card');
-  function paginate(pageNo){
+  var currentPage = 1;
+
+  //goto page function
+  function gotoPage(pageNo){
+    if(pageNo == 'prev')
+      pageNo =  currentPage - 1;
+    else if(pageNo == 'next')
+      pageNo = currentPage + 1;
+
     var count = 30; //no of emojis per page
+    var pageCount = Math.ceil(filteredCards.length / count);
     var startIndex = (pageNo - 1) * count;
     var endIndex = startIndex + count;
-    console.log(startIndex, endIndex);
-    for(const [i, card] of filteredCards.entries()){
-      card.style.display = (i >= startIndex && i <= endIndex) ?  "inline-block" : " none";
+    if(pageNo <= 0 || pageNo > pageCount) //if page doesnt exist
+      return; 
+
+    //create pagination buttons for the page
+    createPaginationButtons(pageNo, pageCount);
+    currentPage = Number(pageNo);
+    
+    //hide and show emoji-cards for the page
+    for(const [i, card] of filteredCards.entries())
+      card.style.display = (i >= startIndex && i <= endIndex) ?  'inline-block' : ' none';
+ 
+  }
+
+  function createPaginationButtons(pageNo, pageCount){
+    var paginationSect = document.getElementById('pagination');
+    var pageButtons = document.getElementsByClassName('pageBtn');    
+    if(pageCount > 1){
+      //show pagination
+      paginationSect.style.display = 'flex';
+      paginationSect.innerHTML = '';
+
+      //create and insert the buttons
+      paginationSect.innerHTML += ('<button class="pageBtn" data-target="prev"><i class="fas fa-angle-left"></i></button>');
+      for(var i = 1; i <= pageCount; i++){
+        paginationSect.innerHTML += ('<button class="pageBtn" data-target="' + i + '"> ' + i + ' </button>')
+      }
+      paginationSect.innerHTML += ('<button class="pageBtn" data-target="next"><i class="fas fa-angle-right"></i></button>')
+      
+      //set activepage btn color
+      for(const btn of pageButtons)
+        (btn.dataset.target == pageNo) ? btn.classList.add('active') : btn.classList.remove('active');
+
+    }else{
+      //hide pagintaion if only one page
+      paginationSect.style.display = ' none';
     }
   }
-  paginate(1);
+  gotoPage(1); //init pagination for the first time
 });
 
