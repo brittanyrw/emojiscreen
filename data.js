@@ -404,18 +404,18 @@
         year: 2017
     },
     {
-        title: "It's Always Sunny in Philadelphia",
-        emojiImgs: "🕐☀🏙🧀🥩",
-        genres: ["comedy"],
-        type: "tv",
-        year: 2005
-    },
-    {
         title: "It Chapter Two",
         emojiImgs: "🤡🎈🤡🎈🤡",
         genres: ["horror", "thriller"],
         type: "movie",
         year: 2019
+    },
+    {
+        title: "It's Always Sunny in Philadelphia",
+        emojiImgs: "🕐☀🏙🧀🥩",
+        genres: ["comedy"],
+        type: "tv",
+        year: 2005
     },
     {
         title: "Jackie Brown",
