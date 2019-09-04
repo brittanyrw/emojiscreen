@@ -825,5 +825,12 @@
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "It's Always Sunny in Philadelphia",
+        emojiImgs: "🕐☀🏙🧀🥩",
+        genres: ["comedy"],
+        type: "tv",
+        year: 2005
     }
 ]
