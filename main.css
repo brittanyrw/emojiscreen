@@ -220,6 +220,7 @@ h2 {
   padding: 20px;
   margin: 0;
   background-color: lavender;
+  cursor: auto;
 }
 
 .emoji-card:nth-child(2n) .emoji-card-title,
