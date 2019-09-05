@@ -137,13 +137,11 @@ For musicals, include the `musical` genre and any other genres from the list bel
 
 ### Link ⛓
 
-Add a link to the IMDB (if movie or TV show) page or show website if current musical, or [Playbill archive page](http://www.playbill.com/vault) if past musical.
+Add a link to the [IMDB page](https://www.imdb.com/) if TV show or movie, or [Playbill archive page](http://www.playbill.com/vault) if past musical.
 
 Make sure the link includes `https` or `http` at the beginning. 
 
-For musicals, if the show is currently on Broadway, on the West End or on tour, you may link the official show website ( example for Hamilton: https://hamiltonmusical.com/new-york/ ).
-
-If the show is not curretly playing, link the [Playbill archive page](http://www.playbill.com/vault) for the show. Make sure the Playbill link is for the original production. It will say 'original' under the show name on Playbill. Here is an example of [the page you should be linking](http://www.playbill.com/production/les-miserables-broadway-theatre-vault-0000012257) for musicals.
+For musicals link the [Playbill archive page](http://www.playbill.com/vault) for the show. Make sure the Playbill link is for the original production. It will say 'original' under the show name on Playbill. Here is an example of [the page you should be linking](http://www.playbill.com/production/les-miserables-broadway-theatre-vault-0000012257) for musicals.
 
 ```
 {
