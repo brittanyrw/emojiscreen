@@ -20,11 +20,9 @@ $(document).ready(function() {
       "<div class='emoji-card' data-filter='" + type +
     "'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + type +
     "</span></p></div><div class='emoji-images'>" + emojiImgs +
-    "</div><div class='emoji-card-title hide-card'><a title='Go to website' href='"
-                           // temporary until all websites are added
-    + (itemLink ? itemLink : "https://www.imdb.com/find?ref_=nv_sr_fn&q=" + title + "&s=all")
-    + "' target='_blank'><h3>" + title +
-    " (" + year + ")" + "</h3></a></div></div>";
+    "</div><div class='emoji-card-title hide-card'>" +
+      generateTitle(title, year, itemLink) +
+    "</div></div>";
   }
 
   // Append the emoji card variable, which has all of the emoji cards to the initial variable we created that was for the container to hold the cards.
@@ -116,5 +114,13 @@ $(document).ready(function() {
       .find(".emoji-card-title")
       .toggleClass("hide-card");
   });
+
+  function generateTitle(title, year, itemLink) {
+    const titleElement = "<h3>" + title +" (" + year + ")</h3>"
+    if(itemLink) {
+      return "<a title='Go to website' href='" + itemLink + "' target='_blank'>" + titleElement + "</a>"
+    }
+    return titleElement
+  }
 });
 
