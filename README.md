@@ -69,6 +69,7 @@ In the `data.js` file, each `Emoji Card` consists of the following object:
   title: "Beauty and the Beast",
   emojiImgs: "🏰🥀🎶📚🕰️",
   genres: ["animation", "family", "fantasy"],
+  itemLink: "https://www.imdb.com/title/tt0101414/",
   type: "movie",
   year: 1991
 }
@@ -134,6 +135,23 @@ For musicals, include the `musical` genre and any other genres from the list bel
 | romance | sci-fi    | sport     | thriller  | war    | western |             |       |
 |         |           |           |           |        |         |             |       |
 
+### Link ⛓
+
+Add a link to the IMDB (if movie or TV show) page or show website if current musical, or [Playbill archive page](http://www.playbill.com/vault) if past musical.
+
+Make sure the link includes `https` or `http` at the beginning. 
+
+For musicals, if the show is currently on Broadway, on the West End or on tour, you may link the official show website ( example for Hamilton: https://hamiltonmusical.com/new-york/ ).
+
+If the show is not curretly playing, link the [Playbill archive page](http://www.playbill.com/vault) for the show. Make sure the Playbill link is for the original production. It will say 'original' under the showname on Playbill. Here is an example of [the page you should be linking](http://www.playbill.com/production/les-miserables-broadway-theatre-vault-0000012257) for musicals.
+
+```
+{
+  itemLink: "https://www.imdb.com/title/tt0101414/",
+}
+```
+
+
 ### Type 🎬
 
 Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one type per card. 
@@ -181,6 +199,7 @@ Use the following object as a template:
   title: "Black Panther",
   emojiImgs: "😺🌍🏴💪🏿🦸🏿",
   genres: ["action", "adventure", "sci-fi"],
+  itemLink: "https://www.imdb.com/title/tt1825683/",
   type: "movie",
   year: 2018
 }
@@ -226,6 +245,7 @@ Use the following object as a template:
   title: "The Lion King",
   emojiImgs: "🦁👑🌍",
   genres: ["animation", "adventure", "drama"],
+  itemLink: "https://www.imdb.com/title/tt0110357/",
   type: "movie",
   year: 1994
 }
