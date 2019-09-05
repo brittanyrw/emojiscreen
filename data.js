@@ -90,6 +90,13 @@
         year: 2008
     },
     {
+        title: "Brooklyn Nine-Nine",
+        emojiImgs: "🗽👮🏻‍♂️👮🏿‍👮🏻‍♀️👮🏾",
+        genres: ["comedy", "crime"],
+        type: "tv",
+        year: 2013
+    },
+    {
         title: "Buffy the Vampire Slayer",
         emojiImgs: "🅾️🎃🧛‍",
         genres: ["drama", "fantasy", "romance", "action"],
