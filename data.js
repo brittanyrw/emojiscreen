@@ -5,7 +5,7 @@
         genres: ["musical", "comedy"],
         type: "musical",
         year: 2005,
-        website: "http://www.playbill.com/production/the-25th-annual-putnam-county-spelling-bee-circle-in-the-square-theatre-vault-0000003219"
+        itemLink: "http://www.playbill.com/production/the-25th-annual-putnam-county-spelling-bee-circle-in-the-square-theatre-vault-0000003219"
     },
     {
         title: "300 ",
@@ -13,7 +13,7 @@
         genres: ["action", "drama", "fantasy"],
         type: "movie",
         year: 2007,
-        website: "https://www.imdb.com/title/tt0416449/?ref_=nv_sr_1?ref_=nv_sr_1"
+        itemLink: "https://www.imdb.com/title/tt0416449/?ref_=nv_sr_1?ref_=nv_sr_1"
     },
     {
         title: "A Star is Born",
@@ -21,7 +21,7 @@
         genres: ["drama", "music", "romance"],
         type: "movie",
         year: 2018,
-        website: "https://www.imdb.com/title/tt1517451/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt1517451/?ref_=fn_al_tt_1"
     },
     {
         title: "Aladdin",
@@ -29,7 +29,7 @@
         genres: ["adventure", "family", "comedy"],
         type: "movie",
         year: 2019,
-        website: "https://www.imdb.com/title/tt6139732/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt6139732/?ref_=fn_al_tt_1"
     },
     {
         title: "Alf",
@@ -44,7 +44,7 @@
         genres: ["suspense", "horror"],
         type: "movie",
         year: 1979,
-        website: "https://www.imdb.com/title/tt0090390/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt0090390/?ref_=fn_al_tt_1"
     },
     {
         title: "Beauty and the Beast",
@@ -52,7 +52,7 @@
         genres: ["animation", "family", "fantasy"],
         type: "movie",
         year: 1991,
-        website: "https://www.imdb.com/title/tt2771200/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt2771200/?ref_=fn_al_tt_1"
     },
     {
         title: "Black Panther",
@@ -60,7 +60,7 @@
         genres: ["action", "adventure", "sci-fi"],
         type: "movie",
         year: 2018,
-        website: "https://www.imdb.com/title/tt1825683/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt1825683/?ref_=fn_al_tt_1"
     },
     {
         title: "Black Swan",
@@ -68,7 +68,7 @@
         genres: ["drama", "thriller"],
         type: "movie",
         year: 2010,
-        website: "https://www.imdb.com/title/tt0947798/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt0947798/?ref_=fn_al_tt_1"
     },{
         title: "Bad Santa",
         emojiImgs: "😁😂🥰🌺🌼",
@@ -187,7 +187,7 @@
         genres: ["drama", "fantasy", "romance"],
         type: "movie",
         year: 2008,
-        website: "https://www.imdb.com/title/tt0421715/"
+        itemLink: "https://www.imdb.com/title/tt0421715/"
     },
     {
         title: "Dear Evan Hansen",

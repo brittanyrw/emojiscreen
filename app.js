@@ -14,7 +14,7 @@ $(document).ready(function() {
     const emojiImgs = emojiItems[i].emojiImgs
     const year = emojiItems[i].year
     const title = emojiItems[i].title
-    const website = emojiItems[i].website
+    const itemLink = emojiItems[i].itemLink
 
     emojiCard +=
       "<div class='emoji-card' data-filter='" + type +
@@ -22,7 +22,7 @@ $(document).ready(function() {
     "</span></p></div><div class='emoji-images'>" + emojiImgs +
     "</div><div class='emoji-card-title hide-card'><a title='Go to website' href='"
                            // temporary until all websites are added
-    + (website ? website : "https://www.imdb.com/find?ref_=nv_sr_fn&q=" + title + "&s=all")
+    + (itemLink ? itemLink : "https://www.imdb.com/find?ref_=nv_sr_fn&q=" + title + "&s=all")
     + "' target='_blank'><h3>" + title +
     " (" + year + ")" + "</h3></a></div></div>";
   }
