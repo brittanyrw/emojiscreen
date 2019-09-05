@@ -411,6 +411,13 @@
         year: 2019
     },
     {
+        title: "It's Always Sunny in Philadelphia",
+        emojiImgs: "🕐☀🏙🧀🥩",
+        genres: ["comedy"],
+        type: "tv",
+        year: 2005
+    },
+    {
         title: "Jackie Brown",
         emojiImgs: "🙎🏿‍♀️🛫💼💰",
         genres: ["crime", "film-noir"],
