@@ -143,7 +143,7 @@ Make sure the link includes `https` or `http` at the beginning.
 
 For musicals, if the show is currently on Broadway, on the West End or on tour, you may link the official show website ( example for Hamilton: https://hamiltonmusical.com/new-york/ ).
 
-If the show is not curretly playing, link the [Playbill archive page](http://www.playbill.com/vault) for the show. Make sure the Playbill link is for the original production. It will say 'original' under the showname on Playbill. Here is an example of [the page you should be linking](http://www.playbill.com/production/les-miserables-broadway-theatre-vault-0000012257) for musicals.
+If the show is not curretly playing, link the [Playbill archive page](http://www.playbill.com/vault) for the show. Make sure the Playbill link is for the original production. It will say 'original' under the show name on Playbill. Here is an example of [the page you should be linking](http://www.playbill.com/production/les-miserables-broadway-theatre-vault-0000012257) for musicals.
 
 ```
 {
