@@ -832,12 +832,5 @@
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    },
-    {
-        title: "Brooklyn Nine-Nine",
-        emojiImgs: "🗽🏙️🔎👮🏿‍👮🏽‍👮👮🏼‍♀️👮🏻‍♀️👮🏾",
-        genres: ["comedy", "crime"],
-        type: "tv",
-        year: 2013
     }
 ]
