@@ -135,7 +135,7 @@ For musicals, include the `musical` genre and any other genres from the list bel
 | romance | sci-fi    | sport     | thriller  | war    | western |             |       |
 |         |           |           |           |        |         |             |       |
 
-### Link ⛓
+### Link 🔗
 
 Add a link to the [IMDB page](https://www.imdb.com/) if TV show or movie, or [Playbill archive page](http://www.playbill.com/vault) if past musical.
 
