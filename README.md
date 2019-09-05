@@ -69,7 +69,7 @@ In the `data.js` file, each `Emoji Card` consists of the following object:
   title: "Beauty and the Beast",
   emojiImgs: "🏰🥀🎶📚🕰️",
   genres: ["animation", "family", "fantasy"],
-  itemLink: "https://www.imdb.com/title/tt0101414/",
+  website: "https://www.imdb.com/title/tt0101414/",
   type: "movie",
   year: 1991
 }
@@ -145,7 +145,7 @@ For musicals link the [Playbill archive page](http://www.playbill.com/vault) for
 
 ```
 {
-  itemLink: "https://www.imdb.com/title/tt0101414/",
+  website: "https://www.imdb.com/title/tt0101414/",
 }
 ```
 
