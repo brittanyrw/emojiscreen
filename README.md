@@ -137,7 +137,7 @@ For musicals, include the `musical` genre and any other genres from the list bel
 
 ### Link 🔗
 
-Add a link to the [IMDB page](https://www.imdb.com/) if TV show or movie, or [Playbill archive page](http://www.playbill.com/vault) if past musical.
+Add a link to the [IMDB page](https://www.imdb.com/) if TV show or movie, or [Playbill archive page](http://www.playbill.com/vault) if it is a musical.
 
 Make sure the link includes `https` or `http` at the beginning. 
 
