@@ -116,7 +116,7 @@
         genres: ["action", "comedy", "musical"],
         type: "movie",
         year: 2000
-    },  
+    },
     {
         title: "The Cheetah Girls",
         emojiImgs: "🐆🐆🐆🐆🎶",
@@ -825,6 +825,13 @@
         genres: ["fantasy"],
         type: "musical",
         year: 2003
+    },
+    {
+        title: "Willy Wonka & the Chocolate Factory",
+        emojiImgs: "🧒🏻🍫🏭🎩️",
+        genres: ["family", "fantasy", "musical"],
+        type: "movie",
+        year: 1971
     },
     {
         title: "X-Files",
