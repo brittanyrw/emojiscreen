@@ -6,6 +6,8 @@
 
 ## This project was built to create a fun, judgement free space for those learning Git and Github to practice making pull requests, branches, adding features, and more. 💛 💙 💜 💚 💖
 
+> Also contribute to our companion project, [EmojiBops: a listing of songs depicted via emojis](https://github.com/brittanyrw/emojibops/).
+
 ## Contributing 🎁
 
 Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add an `Emoji Card` to the website (you can add multiple shows or movies). Each card should be added in the `data.js` file as an object. 
