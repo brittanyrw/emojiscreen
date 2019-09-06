@@ -1,4 +1,11 @@
-    const emojiItems = [
+const emojiItems = [
+    {
+        title: "Rocky",
+        emojiImgs: "🏃‍♂️🥊🕴️",
+        genres: ["drama", "sport"],
+        type: "movie",
+        year: 1976
+    },
     {
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
@@ -61,7 +68,7 @@
         genres: ["drama", "thriller"],
         type: "movie",
         year: 2010
-    },{
+    }, {
         title: "Bad Santa",
         emojiImgs: "😁😂🥰🌺🌼",
         genres: ["comedy", "crime", "drama"],
@@ -116,7 +123,7 @@
         genres: ["action", "comedy", "musical"],
         type: "movie",
         year: 2000
-    },  
+    },
     {
         title: "The Cheetah Girls",
         emojiImgs: "🐆🐆🐆🐆🎶",
@@ -271,7 +278,7 @@
         type: "movie",
         year: 2000
     },
-     {
+    {
         title: "Goonies",
         emojiImgs: "🚴🚴‍♀️😲💍👨‍👩‍👧‍👦",
         genres: ["adventure", "comedy", "family"],
@@ -299,7 +306,8 @@
         type: "musical",
         year: 2015
     },
-    {   title: "Hairspray: The Musical",
+    {
+        title: "Hairspray: The Musical",
         emojiImgs: "💋💃👠👨🏽‍🦱👨🏻",
         genres: ["comedy", "drama", "musical"],
         type: "musical",
@@ -434,7 +442,7 @@
     {
         title: "Jane the Virgin",
         emojiImgs: "💃🏽♍️🌴👶🏽💖",
-        genres: ["comedy","romance","tele novella"],
+        genres: ["comedy", "romance", "tele novella"],
         type: "tv",
         year: 2014
     },
@@ -486,7 +494,7 @@
         genres: ["animation", "romance"],
         type: "movie",
         year: 1955
-    },{
+    }, {
         title: "La La Land",
         emojiImgs: "👩👮💓",
         genres: ["romance", "drama", "musical"],
@@ -548,7 +556,7 @@
         genres: ["comedy", "family", "fantasy"],
         type: "movie",
         year: 1964
-    },{
+    }, {
         title: "Love and Other Drugs",
         emojiImgs: "😍🆘💊💔💏",
         genres: ["romance", "drama", "comedy"],
@@ -562,7 +570,7 @@
         type: "movie",
         year: 1999
     },
-      {
+    {
         title: "Matrix Revolutions",
         emojiImgs: "📞💻🕶️",
         genres: ["action", "sci-fi"],
@@ -715,10 +723,10 @@
         genres: ["crime", "drama", "thriller"],
         type: "movie",
         year: 1991
-    },{
+    }, {
         title: "Sex and the City",
         emojiImgs: "🍸👠👩🏼‍🦱💄🗽",
-        genres: ["comedy","drama","romance"],
+        genres: ["comedy", "drama", "romance"],
         type: "tv",
         year: 1998
     },
@@ -756,7 +764,7 @@
         genres: ["family", "animation"],
         type: "tv",
         year: 1999
-    },{
+    }, {
         title: "Steven Universe",
         emojiImgs: "👦🏻💎💎💎🛡️",
         genres: ["comedy"],
