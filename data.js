@@ -116,7 +116,7 @@
         genres: ["action", "comedy", "musical"],
         type: "movie",
         year: 2000
-    },  
+    },
     {
         title: "The Cheetah Girls",
         emojiImgs: "🐆🐆🐆🐆🎶",
@@ -437,6 +437,13 @@
         genres: ["comedy","romance","tele novella"],
         type: "tv",
         year: 2014
+    },
+    {
+        title: "Jaws",
+        emojiImgs: "🛥️🌊🏊‍♂️🦈",
+        genres: ["adventure", "drama", "thriller"],
+        type: "movie",
+        year: 1975
     },
     {
         title: "John Wick",
