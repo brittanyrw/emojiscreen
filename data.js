@@ -116,7 +116,7 @@
         genres: ["action", "comedy", "musical"],
         type: "movie",
         year: 2000
-    },  
+    },
     {
         title: "The Cheetah Girls",
         emojiImgs: "🐆🐆🐆🐆🎶",
@@ -256,6 +256,13 @@
         genres: ["horror", "sci-fi"],
         type: "movie",
         year: 2018
+    },
+    {
+        title: "Ghostbusters",
+        emojiImgs: "👻🔫👨‍🚒️",
+        genres: ["comedy", "action", "fantasy"],
+        type: "movie",
+        year: 1984
     },
     {
         title: "Gilmore Girls",
