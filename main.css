@@ -175,7 +175,7 @@ h2 {
 
 @media screen and (min-width: 1200px){
   #emojis {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
   }
 }
 
@@ -188,8 +188,14 @@ h2 {
 }
 
 .emoji-images img {
-    width: 42px;
+    width: 48px;
     margin-right: 5px;
+}
+
+@media screen and (min-width: 1200px){
+  .emoji-images img {
+    margin-right: 18px;
+  }
 }
 
 @media screen and (max-width: 992px){
@@ -263,8 +269,8 @@ h2 {
 
 .hint-container {
   position: absolute;
-  right: -2px;
-  top: 2px;
+  right: 2px;
+  top: 5px;
   height: 30px;
   width: 30px;
   overflow: visible;

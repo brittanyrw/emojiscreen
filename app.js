@@ -143,7 +143,7 @@ $(document).ready(function() {
     
     //hide and show emoji-cards for the page
     for(const [i, card] of filteredCards.entries())
-      card.style.display = (i >= startIndex && i <= endIndex) ?  'inline-block' : ' none';
+      card.style.display = (i >= startIndex && i < endIndex) ?  'inline-block' : ' none';
  
   }
 
