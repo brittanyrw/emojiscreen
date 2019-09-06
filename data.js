@@ -1,12 +1,5 @@
 const emojiItems = [
     {
-        title: "Rocky",
-        emojiImgs: "🏃‍♂️🥊🕴️",
-        genres: ["drama", "sport"],
-        type: "movie",
-        year: 1976
-    },
-    {
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
         genres: ["musical", "comedy"],
@@ -667,6 +660,13 @@ const emojiItems = [
         genres: ["crime", "drama"],
         type: "movie",
         year: 1994
+    },
+    {
+        title: "Rocky",
+        emojiImgs: "🏃‍♂️🥊🕴️",
+        genres: ["drama", "sport"],
+        type: "movie",
+        year: 1976
     },
     {
         title: "Ready Player One",
