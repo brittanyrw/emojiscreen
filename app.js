@@ -11,7 +11,7 @@ $(document).ready(function() {
   // Loop through the data from the data.js file and insert parts of the data into HTML. On each loop, we are appending a new card with the HTML below.
   for (var i in emojiItems) {
     emojiCard +=
-      "<div class='emoji-card' data-filter='" + emojiItems[i].type +
+      "<div class='emoji-card' year-filter='" + chopYear(emojiItems[i].year) + "s' data-filter='" + emojiItems[i].type +
     "'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + emojiItems[i].type +
     "</span></p></div><div class='emoji-images'>" + emojiItems[i].emojiImgs +
     "</div><div class='emoji-card-title hide-card'><h3>" + emojiItems[i].title +
@@ -45,6 +45,12 @@ $(document).ready(function() {
     return array;
   }
 
+  // Truncates a full year to the decade value
+  function chopYear(year) {
+    year = year.toString();
+    return year.slice(0, -1) + '0';
+  }
+
   // The code that runs the filter buttons at the top of the page. This currently allows users to filter by 'type' (ie musical, movie or tv show).
   $("#filters button").each(function() { 
     $(this).on("click", function() {
@@ -69,7 +75,33 @@ $(document).ready(function() {
       }
     });
   });
-  
+
+  // Rough pass at year filter. It's a mess of jQuery / vanilla right now. 
+  /**
+   * TODO:
+   * => css classes to replace jQuery hide / show
+   */
+  document.getElementById('advanced-filters')
+    .addEventListener('click', function(event) {
+      var decade = event.target.attributes['data-filter'].value;
+      $("#message").hide();
+      document.querySelectorAll('div.emoji-card-title').forEach(card => {
+        card.classList.add('hide-card');
+      });
+      if (document.querySelectorAll(`div.emoji-card[year-filter='${decade}']`).length > 0){
+        $("div.emoji-card").show();
+        $(
+          `div.emoji-card:not([year-filter='${decade}'])`
+        ).hide();
+      } else {
+        $("div.emoji-card").hide();
+        $("#message").show();
+        $("#message").html(
+          `<p>There are no cards from the ${decade} on this page. 🙁</p>`
+        );
+      }
+  });
+
   // Reveal the movie or show title when the user clicks on the emojis.
   $("#emojis").on("click", ".emoji-images", function() {
     $(this)

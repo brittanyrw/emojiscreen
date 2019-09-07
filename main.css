@@ -87,7 +87,8 @@ h2 {
   color: #292932;
 }
 
-#filters {
+#filters,
+#advanced-filters {
   max-width: 1200px;
   margin: 0 auto 30px auto;
   padding: 25px 0;
@@ -98,27 +99,38 @@ h2 {
 }
 
 @media screen and (min-width: 662px){
-  #filters {
+  #filters,
+  #advanced-filters {
     grid-template-columns: .5fr .5fr .5fr .5fr .5fr;
   }
-  #filters p {
+  #filters p,
+  #advanced-filters p {
     text-align: left;
+  }
+  #advanced-filters button:nth-child(6) {
+    grid-column: 2;
   }
 }
 
 @media screen and (min-width: 992px){
-  #filters {
+  #filters,
+  #advanced-filters {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  }
+  #advanced-filters button:nth-child(6) {
+    grid-column: 2;
   }
 }
 
-#filters p {
+#filters p,
+#advanced-filters p {
   color: white;
   font-size: 18px;
   text-align: center;
 }
 
-#filters button {
+#filters button,
+#advanced-filters button {
   border: 0;
   border-radius: 0;
   font-size: 18px;
@@ -146,8 +158,54 @@ h2 {
   background-color: #e6f6fa;
 }
 
+#advanced-filters .filter-1940s {
+  background-color: #42000a;
+  color: #fff;
+}
+
+#advanced-filters .filter-1950s {
+  background-color: #3d1c00;
+  color: #fff;
+}
+
+#advanced-filters .filter-1960s {
+  background-color: #0e1f00;
+  color: #fff;
+}
+
+#advanced-filters .filter-1970s {
+  background-color: #00222b;
+  color: #fff;
+}
+
+#advanced-filters .filter-1980s {
+  background-color: #440041;
+  color: #fff;
+}
+
+#advanced-filters .filter-1990s {
+  background-color: #160038;
+  color: #fff;
+}
+
+#advanced-filters .filter-2000s {
+  background-color: #3e4200;
+  color: #fff;
+}
+
+#advanced-filters .filter-2010s {
+  background-color: #181818;
+  color: #fff;
+}
+
 #filters button:hover {
   background-color: gold;
+  transition: .5s;
+}
+
+#advanced-filters button:hover {
+  background-color: gold;
+  color: #292932;
   transition: .5s;
 }
 
