@@ -1,6 +1,6 @@
 $(document).ready(function() {
   // Add emoji card titles as dropdown menu options for search bar.
-  var titles = emojiItems.map((i) => "<option value='" + i.title + "'>");
+  var titles = emojiItems.map((i) => "<option value=\"" + i.title + "\">");
   $("#matches").append(titles.join(" "));
 
   // Create a variable for the container to hold the emoji cards.
@@ -16,8 +16,8 @@ $(document).ready(function() {
   for (var i in emojiItems) {
     emojiCard +=
       "<div class='emoji-card' data-filter='" + emojiItems[i].type +
-      "' data-title='" + emojiItems[i].title +
-    "'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + emojiItems[i].type +
+      "' data-title=\"" + emojiItems[i].title +
+    "\"><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + emojiItems[i].type +
     "</span></p></div><div class='emoji-images'>" + emojiItems[i].emojiImgs +
     "</div><div class='emoji-card-title hide-card'><h3>" + emojiItems[i].title +
     " (" + emojiItems[i].year + ")" + "</h3></div></div>";
@@ -65,9 +65,11 @@ $(document).ready(function() {
         $(
           "div.emoji-card:not([data-filter='" + filtertag + "'])"
         ).hide();
-      } else if (filtertag === "matching" && $("div.emoji-card[data-title='" + $("#search input").val() + "']").length > 0) {
+      } else if ( // If the user clicks on the search button, show the cards whose titles match the search query.
+        filtertag === "matching" && $("div.emoji-card[data-title=\"" + $("#search input").val() + "\"]").length > 0
+      ) {
         $("div.emoji-card").show();
-        $("div.emoji-card:not([data-title='" + $("#search input").val() + "'])").hide();
+        $("div.emoji-card:not([data-title=\"" + $("#search input").val() + "\"])").hide();
       } else { // If there are no cards that match the filter, display a message that says that there are no cards for that category.
         $("div.emoji-card").hide();
         $("#message").show();
@@ -75,11 +77,10 @@ $(document).ready(function() {
           "<p>There are no " + filtertag + " cards on this page. 🙁</p>"
         );
       }
-      $("#search input").val("");
-      $("#search button").prop("disabled", true);
+      $("#search input").val(""); //Clear search bar
+      $("#search button").prop("disabled", true); //Disable search button
     });
   });
-<<<<<<< HEAD
 
   // Trigger search submit button on pressing "Enter" key
   $("#search input").on("keyup", function(e) {

@@ -107,9 +107,6 @@ h2 {
   #search {
     grid-column: 2 / 6;
   }
-  #search input {
-    height: auto;
-  }
 }
 
 @media screen and (min-width: 992px){
