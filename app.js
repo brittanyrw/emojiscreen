@@ -84,7 +84,7 @@ $(document).ready(function() {
 
   // Trigger search submit button on pressing "Enter" key
   $("#search input").on("keyup", function(e) {
-    if (e.keyCode === 13) {
+    if (e.keyCode === 13 && !$("#search button").is(":disabled")) {
       $("#search button").click();
     }
   });
@@ -92,7 +92,11 @@ $(document).ready(function() {
   // Disable search submit button when search bar is empty
   $("#search button").prop("disabled", true);
   $(document).on("input", "input:text", function() {
-    $("#search button").prop("disabled", false)
+    if ($("#search input").val()) {
+      $("#search button").prop("disabled", false);     
+    } else {
+      $("#search button").prop("disabled", true);
+    }
   });
 
   // Reveal the movie or show title when the user clicks on the emojis.
