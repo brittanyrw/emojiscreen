@@ -56,6 +56,12 @@
         year: 2018
     },
     {
+        title: "Black Swan",
+        emojiImgs: "🩰👯‍♀️🦢🎭🔪",
+        genres: ["drama", "thriller"],
+        type: "movie",
+        year: 2010
+    },{
         title: "Bad Santa",
         emojiImgs: "😁😂🥰🌺🌼",
         genres: ["comedy", "crime", "drama"],
@@ -82,6 +88,13 @@
         genres: ["crime", "drama", "thriller"],
         type: "tv",
         year: 2008
+    },
+    {
+        title: "Brooklyn Nine-Nine",
+        emojiImgs: "🗽👮🏻‍♂️👮🏿‍👮🏻‍♀️👮🏾",
+        genres: ["comedy", "crime"],
+        type: "tv",
+        year: 2013
     },
     {
         title: "Buffy the Vampire Slayer",
@@ -154,11 +167,25 @@
         year: 1986
     },
     {
+        title: "Come From Away",
+        emojiImgs: "🗽✈️🇨🇦🛄💞",
+        genres: ["drama", "history"],
+        type: "musical",
+        year: 2015
+    },
+    {
         title: "The Curious Case of Benjamin Button",
         emojiImgs: "👴🏻➡️🧔🏻➡️👶🏻",
         genres: ["drama", "fantasy", "romance"],
         type: "movie",
         year: 2008
+    },
+    {
+        title: "Dear Evan Hansen",
+        emojiImgs: "💌⚰️👨‍👩‍👧‍👦💻💞",
+        genres: ["drama", "musical"],
+        type: "musical",
+        year: 2015
     },
     {
         title: "Devil Wears Prada",
@@ -391,6 +418,13 @@
         year: 2019
     },
     {
+        title: "It's Always Sunny in Philadelphia",
+        emojiImgs: "🕐☀🏙🧀🥩",
+        genres: ["comedy"],
+        type: "tv",
+        year: 2005
+    },
+    {
         title: "Jackie Brown",
         emojiImgs: "🙎🏿‍♀️🛫💼💰",
         genres: ["crime", "film-noir"],
@@ -548,7 +582,15 @@
         genres: ["war", "music"],
         type: "movie",
         year: 1998
-    },{
+    },
+    {
+        title: "The Office",
+        emojiImgs: "👔🤓📠📎💻",
+        genres: ["comedy", "sitcom", "mockumentary"],
+        type: "tv",
+        year: 2005
+    },
+    {
         title: "Office Space",
         emojiImgs: "👔🖨⚒💾💰",
         genres: ["comedy"],
