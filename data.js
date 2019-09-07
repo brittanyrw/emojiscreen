@@ -42,6 +42,13 @@
         year: 1979
     },
     {
+        title: "Avatar: The Last Airbender",
+        emojiImgs: "🥋🌏🔥💧💨",
+        genres: ["animation", "action", "adventure"],
+        type: "tv",
+        year: 2005
+    },
+    {
         title: "Beauty and the Beast",
         emojiImgs: "🏰🥀🎶📚🕰️",
         genres: ["animation", "family", "fantasy"],
