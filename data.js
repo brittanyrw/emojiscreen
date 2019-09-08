@@ -116,7 +116,7 @@
         genres: ["action", "comedy", "musical"],
         type: "movie",
         year: 2000
-    },  
+    },
     {
         title: "The Cheetah Girls",
         emojiImgs: "🐆🐆🐆🐆🎶",
@@ -624,6 +624,13 @@
         genres: ["horror", "thriller", "mystery"],
         type: "movie",
         year: 2019
+    },
+    {
+        title: "Pinocchio",
+        emojiImgs: "🤥👴🐋",
+        genres: ["animation"],
+        type: "movie",
+        year: 1940
     },
     {
         title: "Pirates of the Caribbean",
