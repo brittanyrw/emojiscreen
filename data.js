@@ -566,6 +566,12 @@ const emojiItems = [
         genres: ["adventure", "drama", "fantasy"],
         type: "tv",
         year: 2004
+    }, {
+        title: "Love and Other Drugs",
+        emojiImgs: "😍🆘💊💔💏",
+        genres: ["romance", "drama", "comedy"],
+        type: "movie",
+        year: 2010
     },
     {
         title: "Mary Poppins",
@@ -573,12 +579,6 @@ const emojiItems = [
         genres: ["comedy", "family", "fantasy"],
         type: "movie",
         year: 1964
-    }, {
-        title: "Love and Other Drugs",
-        emojiImgs: "😍🆘💊💔💏",
-        genres: ["romance", "drama", "comedy"],
-        type: "movie",
-        year: 2010
     },
     {
         title: "Matrix",
