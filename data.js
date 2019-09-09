@@ -258,6 +258,13 @@ const emojiItems = [
         year: 2018
     },
     {
+        title: "Ghostbusters",
+        emojiImgs: "👻🔫👨‍🚒️",
+        genres: ["comedy", "action", "fantasy"],
+        type: "movie",
+        year: 1984
+    },
+    {
         title: "Gilmore Girls",
         emojiImgs: "👩‍👧☕🧢👩‍⚖️👨‍⚖️",
         genres: ["comedy", "drama"],
