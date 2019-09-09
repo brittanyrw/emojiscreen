@@ -849,6 +849,13 @@ const emojiItems = [
         year: 2003
     },
     {
+        title: "Willy Wonka & the Chocolate Factory",
+        emojiImgs: "🧒🏻🍫🏭🎩️",
+        genres: ["family", "fantasy", "musical"],
+        type: "movie",
+        year: 1971
+    },
+    {
         title: "X-Files",
         emojiImgs: "👽🛸👦🏻👩‍🦰🔦",
         genres: ["sci-fi", "drama", "mystery"],
