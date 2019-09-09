@@ -414,6 +414,14 @@ const emojiItems = [
         year: 2009
     },
     {
+        title: "Interestelar",
+        emojiImgs: "🌍👨‍🚀🚀⏱️❤️",
+        genres: ["adventure", "drama", "sci-fi"],
+        type: "movie",
+        year: "2014",
+        itemLink: "https://www.imdb.com/title/tt0816692/"
+    },
+    {
         title: "Into the Woods",
         emojiImgs: "🔥🎄🎶👩‍🎤",
         genres: ["drama", "musical"],
