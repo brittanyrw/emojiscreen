@@ -70,6 +70,7 @@ In the `data.js` file, each `Emoji Card` consists of the following object:
   title: "Beauty and the Beast",
   emojiImgs: "🏰🥀🎶📚🕰️",
   genres: ["animation", "family", "fantasy"],
+  itemLink: "https://www.imdb.com/title/tt0101414/",
   type: "movie",
   year: 1991
 }
@@ -135,6 +136,23 @@ For musicals, include the `musical` genre and any other genres from the list bel
 | romance | sci-fi    | sport     | thriller  | war    | western |             |       |
 |         |           |           |           |        |         |             |       |
 
+### Link 🔗
+
+Add a link to the [IMDB page](https://www.imdb.com/) if TV show or movie, or [Playbill archive page](http://www.playbill.com/vault) if it is a musical.
+
+Make sure the link includes `https` or `http` at the beginning. The link must be wrapped in quotation marks.
+
+For TV shows and movies, add the [IMDB page](https://www.imdb.com/) link.
+
+For musicals link the [Playbill archive page](http://www.playbill.com/vault) for the show. Make sure the Playbill link is for the original production. It will say 'original' under the show name on Playbill. Here is an example of [the page you should be linking](http://www.playbill.com/production/les-miserables-broadway-theatre-vault-0000012257) for musicals.
+
+```
+{
+  itemLink: "https://www.imdb.com/title/tt0101414/",
+}
+```
+
+
 ### Type 🎬
 
 Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one type per card. 
@@ -182,6 +200,7 @@ Use the following object as a template:
   title: "Black Panther",
   emojiImgs: "😺🌍🏴💪🏿🦸🏿",
   genres: ["action", "adventure", "sci-fi"],
+  itemLink: "https://www.imdb.com/title/tt1825683/",
   type: "movie",
   year: 2018
 }
@@ -227,6 +246,7 @@ Use the following object as a template:
   title: "The Lion King",
   emojiImgs: "🦁👑🌍",
   genres: ["animation", "adventure", "drama"],
+  itemLink: "https://www.imdb.com/title/tt0110357/",
   type: "movie",
   year: 1994
 }
