@@ -658,6 +658,13 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "Pinocchio",
+        emojiImgs: "🤥👴🐋",
+        genres: ["animation"],
+        type: "movie",
+        year: 1940
+    },
+    {
         title: "Pirates of the Caribbean",
         emojiImgs: "🍻🏴‍☠️🚢",
         genres: ["action", "comedy", "musical"],
