@@ -382,6 +382,11 @@ footer img {
   height: 19px;
 }
 
+footer a {
+  color: #fff;
+  text-decoration: underline;
+}
+
 #message {
   display: none;
   max-width: 1000px;
