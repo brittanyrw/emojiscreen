@@ -418,7 +418,7 @@ const emojiItems = [
         emojiImgs: "🌍👨‍🚀🚀⏱️❤️",
         genres: ["adventure", "drama", "sci-fi"],
         type: "movie",
-        year: "2014",
+        year: 2014,
         itemLink: "https://www.imdb.com/title/tt0816692/"
     },
     {
