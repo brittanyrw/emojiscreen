@@ -554,6 +554,14 @@ const emojiItems = [
         year: 2018
     },
     {
+        title: "The Little Mermaid",
+        emojiImgs: "‍🧜🏽‍🤴🏽🐠🦞🐙",
+        genres: ["animation","family","fantasy"],
+        type: "movie",
+        year: 1989,
+        itemLink: "https://www.imdb.com/title/tt0097757/"
+    },
+    {
         title: "The Lord of the Rings: The Fellowship of the Ring",
         emojiImgs: "💍🧝⚔️🧙",
         genres: ["adventure", "drama", "fantasy"],
