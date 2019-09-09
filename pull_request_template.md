@@ -3,10 +3,11 @@
 - [ ] 🔍 I have searched the `data.js` file and confirmed I am not adding a duplicate entry. Note: Different versions of the same show/movie are okay to add such as Lion King (1994) and Lion King (2019) or Rent (movie) and Rent (musical).
 - [ ] 🌈 I have added a single year under `year`. Note: Do not add ranges such as 2017-2019.
 - [ ] 📅 I have added a type from one of the following: `movie` , `tv` or `musical`.
-- [ ] 3️⃣ I have at least three emojis listed under `emojiImgs`
+- [ ] 🔗 I have added the IMDB page or Playbill archive page under `itemLink`.
+- [ ] 3️⃣ I have at least three emojis listed under `emojiImgs`.
 - [ ] 5️⃣ I have a maximum of five emojis listed under `emojiImgs`.
-- [ ] 👍 My pull request has a descriptive title (such as `Added The Lion King` or `Added Black Panther, The Avengers: Endgame and Thor`)
-- [ ] ⭐ My genres are all inside of square brackets `[ ]` and each are individually wrapped in quotation marks and have a comma between each one. (such as submitting this `"genres": ["adventure","mystery","animation"]` and not this `"genres":["adventure, mystery, animation"]`)
+- [ ] 👍 My pull request has a descriptive title (such as `Added The Lion King` or `Added Black Panther, The Avengers: Endgame and Thor`).
+- [ ] ⭐ My genres are all inside of square brackets `[ ]` and each are individually wrapped in quotation marks and have a comma between each one. (such as submitting this `"genres": ["adventure","mystery","animation"]` and not this `"genres":["adventure, mystery, animation"]`).
 - [ ] 🖍️ I have placed the new show(s) or movie(s) in alphabetical order based on title.
 
 <!-- 👋 If this pull request closes an issue, add Closes #--- to the bottom of the pull request (replace the --- with the issue number). -->

@@ -12,7 +12,7 @@
 
 Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add an `Emoji Card` to the website (you can add multiple shows or movies). Each card should be added in the `data.js` file as an object. 
 
-For more advanced ways to contribute, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). If you want to work on one of the features but aren't sure where to start, write a comment and I will be happy to help you out or get you started. You are also welcome to suggest other features [by adding an Issue](https://github.com/brittanyrw/emojiscreen/issues).
+For more other ways to contribute, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). If you want to work on one of the features but aren't sure where to start, write a comment and I will be happy to help you out or get you started. You are also welcome to suggest other features [by adding an Issue](https://github.com/brittanyrw/emojiscreen/issues).
 
 Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged and you can make multiple pull requests if you desire. If you run into trouble, feel free [to create an Issue](https://github.com/brittanyrw/emojiscreen/issues)!
 
@@ -70,6 +70,7 @@ In the `data.js` file, each `Emoji Card` consists of the following object:
   title: "Beauty and the Beast",
   emojiImgs: "🏰🥀🎶📚🕰️",
   genres: ["animation", "family", "fantasy"],
+  itemLink: "https://www.imdb.com/title/tt0101414/",
   type: "movie",
   year: 1991
 }
@@ -135,6 +136,23 @@ For musicals, include the `musical` genre and any other genres from the list bel
 | romance | sci-fi    | sport     | thriller  | war    | western |             |       |
 |         |           |           |           |        |         |             |       |
 
+### Link 🔗
+
+Add a link to the [IMDB page](https://www.imdb.com/) if TV show or movie, or [Playbill archive page](http://www.playbill.com/vault) if it is a musical.
+
+Make sure the link includes `https` or `http` at the beginning. The link must be wrapped in quotation marks.
+
+For TV shows and movies, add the [IMDB page](https://www.imdb.com/) link.
+
+For musicals link the [Playbill archive page](http://www.playbill.com/vault) for the show. Make sure the Playbill link is for the original production. It will say 'original' under the show name on Playbill. Here is an example of [the page you should be linking](http://www.playbill.com/production/les-miserables-broadway-theatre-vault-0000012257) for musicals.
+
+```
+{
+  itemLink: "https://www.imdb.com/title/tt0101414/",
+}
+```
+
+
 ### Type 🎬
 
 Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one type per card. 
@@ -182,6 +200,7 @@ Use the following object as a template:
   title: "Black Panther",
   emojiImgs: "😺🌍🏴💪🏿🦸🏿",
   genres: ["action", "adventure", "sci-fi"],
+  itemLink: "https://www.imdb.com/title/tt1825683/",
   type: "movie",
   year: 2018
 }
@@ -227,6 +246,7 @@ Use the following object as a template:
   title: "The Lion King",
   emojiImgs: "🦁👑🌍",
   genres: ["animation", "adventure", "drama"],
+  itemLink: "https://www.imdb.com/title/tt0110357/",
   type: "movie",
   year: 1994
 }
