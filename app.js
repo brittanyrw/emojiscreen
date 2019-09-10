@@ -83,22 +83,32 @@ $(document).ready(function() {
    */
   document.getElementById('advanced-filters')
     .addEventListener('click', function(event) {
-      var decade = event.target.attributes['data-filter'].value;
-      $("#message").hide();
-      document.querySelectorAll('div.emoji-card-title').forEach(card => {
-        card.classList.add('hide-card');
-      });
-      if (document.querySelectorAll(`div.emoji-card[year-filter='${decade}']`).length > 0){
-        $("div.emoji-card").show();
-        $(
-          `div.emoji-card:not([year-filter='${decade}'])`
-        ).hide();
+      const showFiltersBtn = document.querySelector('button.show-advanced-filters');
+      const target = event.target;
+      const className = target.className;
+      if (target === showFiltersBtn || className === 'fas fa-angle-down') {
+        document.getElementById('year-filter').classList.toggle('shown');
+        showFiltersBtn.children[0].classList.toggle('rotate');
       } else {
-        $("div.emoji-card").hide();
-        $("#message").show();
-        $("#message").html(
-          `<p>There are no cards from the ${decade} on this page. 🙁</p>`
-        );
+        document.getElementById('year-filter').classList.toggle('shown');
+        showFiltersBtn.children[0].classList.toggle('rotate');
+        var decade = event.target.attributes['data-filter'].value;
+        $("#message").hide();
+        document.querySelectorAll('div.emoji-card-title').forEach(card => {
+          card.classList.add('hide-card');
+        });
+        if (document.querySelectorAll(`div.emoji-card[year-filter='${decade}']`).length > 0){
+          $("div.emoji-card").show();
+          $(
+            `div.emoji-card:not([year-filter='${decade}'])`
+          ).hide();
+        } else {
+          $("div.emoji-card").hide();
+          $("#message").show();
+          $("#message").html(
+            `<p>There are no cards from the ${decade} on this page. 🙁</p>`
+          );
+        }
       }
   });
 
