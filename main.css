@@ -243,8 +243,18 @@ h2 {
     background-color: #faefe6;
 }
 
-.emoji-card-title h3 {
+
+.emoji-card-title > a {
+  text-decoration: none;
   color: #292932;
+}
+
+
+.emoji-card-title > a:hover {
+  color: #535379;
+}
+
+.emoji-card-title h3 {
   margin: 0;
 }
 
@@ -380,6 +390,11 @@ footer span {
 
 footer img {
   height: 19px;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: underline;
 }
 
 #message {

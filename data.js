@@ -1,31 +1,35 @@
-    const emojiItems = [
+const emojiItems = [
     {
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
         genres: ["musical", "comedy"],
         type: "musical",
-        year: 2005
+        year: 2005,
+        itemLink: "http://www.playbill.com/production/the-25th-annual-putnam-county-spelling-bee-circle-in-the-square-theatre-vault-0000003219"
     },
     {
         title: "300 ",
         emojiImgs: " 💪🤕👊🏻⚔️ 🛡",
         genres: ["action", "drama", "fantasy"],
         type: "movie",
-        year: 2007
+        year: 2007,
+        itemLink: "https://www.imdb.com/title/tt0416449/?ref_=nv_sr_1?ref_=nv_sr_1"
     },
     {
         title: "A Star is Born",
         emojiImgs: "🎤👩👨🎸⭐",
         genres: ["drama", "music", "romance"],
         type: "movie",
-        year: 2018
+        year: 2018,
+        itemLink: "https://www.imdb.com/title/tt1517451/?ref_=fn_al_tt_1"
     },
     {
         title: "Aladdin",
         emojiImgs: "🧞‍♂️💞👸👳🏰",
         genres: ["adventure", "family", "comedy"],
         type: "movie",
-        year: 2019
+        year: 2019,
+        itemLink: "https://www.imdb.com/title/tt6139732/?ref_=fn_al_tt_1"
     },
     {
         title: "Alf",
@@ -39,28 +43,32 @@
         emojiImgs: "🚀👾🔫👨‍🚀",
         genres: ["suspense", "horror"],
         type: "movie",
-        year: 1979
+        year: 1979,
+        itemLink: "https://www.imdb.com/title/tt0090390/?ref_=fn_al_tt_1"
     },
     {
         title: "Beauty and the Beast",
         emojiImgs: "🏰🥀🎶📚🕰️",
         genres: ["animation", "family", "fantasy"],
         type: "movie",
-        year: 1991
+        year: 1991,
+        itemLink: "https://www.imdb.com/title/tt2771200/?ref_=fn_al_tt_1"
     },
     {
         title: "Black Panther",
         emojiImgs: "😺🌍🏴💪🏿🦸🏿",
         genres: ["action", "adventure", "sci-fi"],
         type: "movie",
-        year: 2018
+        year: 2018,
+        itemLink: "https://www.imdb.com/title/tt1825683/?ref_=fn_al_tt_1"
     },
     {
         title: "Black Swan",
         emojiImgs: "🩰👯‍♀️🦢🎭🔪",
         genres: ["drama", "thriller"],
         type: "movie",
-        year: 2010
+        year: 2010,
+        itemLink: "https://www.imdb.com/title/tt0947798/?ref_=fn_al_tt_1"
     },{
         title: "Bad Santa",
         emojiImgs: "😁😂🥰🌺🌼",
@@ -178,7 +186,8 @@
         emojiImgs: "👴🏻➡️🧔🏻➡️👶🏻",
         genres: ["drama", "fantasy", "romance"],
         type: "movie",
-        year: 2008
+        year: 2008,
+        itemLink: "https://www.imdb.com/title/tt0421715/"
     },
     {
         title: "Dear Evan Hansen",
@@ -258,6 +267,13 @@
         year: 2018
     },
     {
+        title: "Ghostbusters",
+        emojiImgs: "👻🔫👨‍🚒️",
+        genres: ["comedy", "action", "fantasy"],
+        type: "movie",
+        year: 1984
+    },
+    {
         title: "Gilmore Girls",
         emojiImgs: "👩‍👧☕🧢👩‍⚖️👨‍⚖️",
         genres: ["comedy", "drama"],
@@ -271,7 +287,7 @@
         type: "movie",
         year: 2000
     },
-     {
+    {
         title: "Goonies",
         emojiImgs: "🚴🚴‍♀️😲💍👨‍👩‍👧‍👦",
         genres: ["adventure", "comedy", "family"],
@@ -299,7 +315,8 @@
         type: "musical",
         year: 2015
     },
-    {   title: "Hairspray: The Musical",
+    {
+        title: "Hairspray: The Musical",
         emojiImgs: "💋💃👠👨🏽‍🦱👨🏻",
         genres: ["comedy", "drama", "musical"],
         type: "musical",
@@ -383,18 +400,19 @@
         year: 1990
     },
     {
-        title: "Jane The Virgin",
-        emojiImgs: "👶🤰👵💁‍♀️🌊",
-        genres: ["comedy", "telenovela"],
-        type: "tv",
-        year: 2014
-    },
-    {
         title: "Inglorious Basterds",
         emojiImgs: "💀🔪🎖️📽️🔥",
         genres: ["war", "history"],
         type: "movie",
         year: 2009
+    },
+    {
+        title: "Interestelar",
+        emojiImgs: "🌍👨‍🚀🚀⏱️❤️",
+        genres: ["adventure", "drama", "sci-fi"],
+        type: "movie",
+        year: 2014,
+        itemLink: "https://www.imdb.com/title/tt0816692/"
     },
     {
         title: "Into the Woods",
@@ -434,9 +452,16 @@
     {
         title: "Jane the Virgin",
         emojiImgs: "💃🏽♍️🌴👶🏽💖",
-        genres: ["comedy","romance","tele novella"],
+        genres: ["comedy", "romance", "tele novella"],
         type: "tv",
         year: 2014
+    },
+    {
+        title: "Jaws",
+        emojiImgs: "🛥️🌊🏊‍♂️🦈",
+        genres: ["adventure", "drama", "thriller"],
+        type: "movie",
+        year: 1975
     },
     {
         title: "John Wick",
@@ -486,7 +511,7 @@
         genres: ["animation", "romance"],
         type: "movie",
         year: 1955
-    },{
+    }, {
         title: "La La Land",
         emojiImgs: "👩👮💓",
         genres: ["romance", "drama", "musical"],
@@ -529,6 +554,14 @@
         year: 2018
     },
     {
+        title: "The Little Mermaid",
+        emojiImgs: "‍🧜🏽‍🤴🏽🐠🦞🐙",
+        genres: ["animation","family","fantasy"],
+        type: "movie",
+        year: 1989,
+        itemLink: "https://www.imdb.com/title/tt0097757/"
+    },
+    {
         title: "The Lord of the Rings: The Fellowship of the Ring",
         emojiImgs: "💍🧝⚔️🧙",
         genres: ["adventure", "drama", "fantasy"],
@@ -541,6 +574,12 @@
         genres: ["adventure", "drama", "fantasy"],
         type: "tv",
         year: 2004
+    }, {
+        title: "Love and Other Drugs",
+        emojiImgs: "😍🆘💊💔💏",
+        genres: ["romance", "drama", "comedy"],
+        type: "movie",
+        year: 2010
     },
     {
         title: "Mary Poppins",
@@ -548,12 +587,6 @@
         genres: ["comedy", "family", "fantasy"],
         type: "movie",
         year: 1964
-    },{
-        title: "Love and Other Drugs",
-        emojiImgs: "😍🆘💊💔💏",
-        genres: ["romance", "drama", "comedy"],
-        type: "movie",
-        year: 2010
     },
     {
         title: "Matrix",
@@ -562,7 +595,7 @@
         type: "movie",
         year: 1999
     },
-      {
+    {
         title: "Matrix Revolutions",
         emojiImgs: "📞💻🕶️",
         genres: ["action", "sci-fi"],
@@ -674,6 +707,12 @@
         type: "movie",
         year: 2007
     },
+        title: "Rocky",
+        emojiImgs: "🏃‍♂️🥊🕴️",
+        genres: ["drama", "sport"],
+        type: "movie",
+        year: 1976
+    },
     {
         title: "Ready Player One",
         emojiImgs: "🏁🕹1️⃣",
@@ -729,10 +768,10 @@
         genres: ["crime", "drama", "thriller"],
         type: "movie",
         year: 1991
-    },{
+    }, {
         title: "Sex and the City",
         emojiImgs: "🍸👠👩🏼‍🦱💄🗽",
-        genres: ["comedy","drama","romance"],
+        genres: ["comedy", "drama", "romance"],
         type: "tv",
         year: 1998
     },
@@ -770,7 +809,7 @@
         genres: ["family", "animation"],
         type: "tv",
         year: 1999
-    },{
+    }, {
         title: "Steven Universe",
         emojiImgs: "👦🏻💎💎💎🛡️",
         genres: ["comedy"],
@@ -839,6 +878,13 @@
         genres: ["fantasy"],
         type: "musical",
         year: 2003
+    },
+    {
+        title: "Willy Wonka & the Chocolate Factory",
+        emojiImgs: "🧒🏻🍫🏭🎩️",
+        genres: ["family", "fantasy", "musical"],
+        type: "movie",
+        year: 1971
     },
     {
         title: "X-Files",
