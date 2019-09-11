@@ -647,6 +647,13 @@
         year: 1998
     },
     {
+        title: "Powerpuff Girls",
+        emojiImgs: "👧👧👧🐒",
+        genres: ["animation"],
+        type: "tv",
+        year: 1998
+    },
+    {
         title: "Princess and the Frog",
         emojiImgs: "👸🏽🐸💋💒🥂",
         genres: ["animation", "adventure", "comedy"],
