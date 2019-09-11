@@ -668,6 +668,13 @@
         year: 1994
     },
     {
+        title: "Ratatouille",
+        emojiImgs: "🐀👨‍🍳🔪",
+        genres: ["animation"],
+        type: "movie",
+        year: 2007
+    },
+    {
         title: "Ready Player One",
         emojiImgs: "🏁🕹1️⃣",
         genres: ["action", "adventure", "sci-fi"],
