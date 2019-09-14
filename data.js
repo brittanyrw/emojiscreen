@@ -253,6 +253,13 @@ const emojiItems = [
         year: 1999
     },
     {
+        title: "Finding Nemo",
+        emojiImgs: "🐟🦈🔭",
+        genres: ["animation"],
+        type: "movie",
+        year: 2003
+    },
+    {
         title: "Frozen",
         emojiImgs: "👭☃️❄️",
         genres: ["animation", "adventure", "comedy"],
