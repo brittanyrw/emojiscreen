@@ -708,6 +708,12 @@ const emojiItems = [
         year: 1994
     },
     {
+        title: "Ratatouille",
+        emojiImgs: "🐀👨‍🍳🔪",
+        genres: ["animation"],
+        type: "movie",
+        year: 2007
+    },
         title: "Rocky",
         emojiImgs: "🏃‍♂️🥊🕴️",
         genres: ["drama", "sport"],
