@@ -47,6 +47,13 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0090390/?ref_=fn_al_tt_1"
     },
     {
+        title: "Avatar: The Last Airbender",
+        emojiImgs: "🥋🌏🔥💧💨",
+        genres: ["animation", "action", "adventure"],
+        type: "tv",
+        year: 2005
+    },
+    {
         title: "Beauty and the Beast",
         emojiImgs: "🏰🥀🎶📚🕰️",
         genres: ["animation", "family", "fantasy"],
