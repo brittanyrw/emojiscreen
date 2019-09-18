@@ -62,6 +62,13 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt2771200/?ref_=fn_al_tt_1"
     },
     {
+        title: "The Big Bang Theory",
+        emojiImgs: "🌍💻⚗🔭",
+        genres: ["comedy","romance"],
+        type: "tv",
+        year: 2007
+    },
+    {
         title: "Black Panther",
         emojiImgs: "😺🌍🏴💪🏿🦸🏿",
         genres: ["action", "adventure", "sci-fi"],
@@ -76,7 +83,8 @@ const emojiItems = [
         type: "movie",
         year: 2010,
         itemLink: "https://www.imdb.com/title/tt0947798/?ref_=fn_al_tt_1"
-    },{
+    },
+    {
         title: "Bad Santa",
         emojiImgs: "😁😂🥰🌺🌼",
         genres: ["comedy", "crime", "drama"],
@@ -316,6 +324,13 @@ const emojiItems = [
         year: 1978
     },
     {
+        title: "Grey's Anatomy",
+        emojiImgs: "💊💉🧪⚕🍷",
+        genres: ["drama", "romance"],
+        type: "tv",
+        year: 2005
+    },
+    {
         title: "Hachi: A Dog's Tale",
         emojiImgs: "👨‍🏫💔🚉🐕🌭",
         genres: ["family", "drama"],
@@ -485,11 +500,25 @@ const emojiItems = [
         year: 2014
     },
     {
+        title: "John Wick: Chapter 3 - Parabellum",
+        emojiImgs: "🔫🗡🐶💰🏎",
+        genres: ["action", "crime", "thriller"],
+        type: "movie",
+        year: 2019
+    },
+    {
         title: "Jurassic Park",
         emojiImgs: "🔬🦖🏝",
         genres: ["action", "adventure", "sci-fi"],
         type: "movie",
         year: 1993
+    },
+    {
+        title: "Jurassic Park: Fallen Kingdom",
+        emojiImgs: "🦖🦕🐊🤯😫",
+        genres: ["action", "adventure", "Sci-Fi"],
+        type: "movie",
+        year: 2018
     },
     {
         title: "Kiki's Delivery Service",
@@ -588,7 +617,8 @@ const emojiItems = [
         genres: ["adventure", "drama", "fantasy"],
         type: "tv",
         year: 2004
-    }, {
+    },
+    {
         title: "Love and Other Drugs",
         emojiImgs: "😍🆘💊💔💏",
         genres: ["romance", "drama", "comedy"],
@@ -629,6 +659,12 @@ const emojiItems = [
         genres: ["war", "music"],
         type: "movie",
         year: 1998
+    },{
+        title: "Narcos",
+        emojiImgs: "🔫🗡💊💉💰",
+        genres: ["crime", "drama"],
+        type: "tv",
+        year: 2015
     },
     {
         title: "The Office",
@@ -720,7 +756,8 @@ const emojiItems = [
         genres: ["animation"],
         type: "movie",
         year: 2007
-    },{
+    },
+    {
         title: "Rocky",
         emojiImgs: "🏃‍♂️🥊🕴️",
         genres: ["drama", "sport"],
@@ -782,7 +819,8 @@ const emojiItems = [
         genres: ["crime", "drama", "thriller"],
         type: "movie",
         year: 1991
-    }, {
+    },
+    {
         title: "Sex and the City",
         emojiImgs: "🍸👠👩🏼‍🦱💄🗽",
         genres: ["comedy", "drama", "romance"],
@@ -823,7 +861,8 @@ const emojiItems = [
         genres: ["family", "animation"],
         type: "tv",
         year: 1999
-    }, {
+    },
+    {
         title: "Steven Universe",
         emojiImgs: "👦🏻💎💎💎🛡️",
         genres: ["comedy"],
