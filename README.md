@@ -4,9 +4,9 @@
 
 ![Screenshot of Emojiscreen homepage](readme/emoji-screen.png)
 
-## This project was built to create a fun, judgement free space for those learning Git and Github to practice making pull requests, branches, adding features, and more. 💛 💙 💜 💚 💖
+> This project was built to create a fun, judgement free space for those learning Git and Github to practice making pull requests, branches, adding features, and more. 💛 💙 💜 💚 💖
 
-> Also contribute to our companion project, [EmojiBops: a listing of songs depicted via emojis](https://github.com/brittanyrw/emojibops/).
+## Also contribute to our companion project, [EmojiBops: a listing of songs depicted via emojis](https://github.com/brittanyrw/emojibops/).
 
 ## Contributing 🎁
 
