@@ -984,5 +984,13 @@ const emojiItems = [
         type: "movie",
         year: 1987,
         itemlink: "https://www.imdb.com/title/tt0093779/"
+    },
+    {
+        title: "Mr.Robot",
+        emojiImgs: "👨‍💻🤖⚔️😈",
+        genres:["crime", "drama" , "thriller"],
+        type: "tv",
+        year: 2015,
+        itemlink: "https://www.imdb.com/title/tt4158110/"
     }
 ]
