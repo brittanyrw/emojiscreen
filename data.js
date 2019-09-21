@@ -968,5 +968,13 @@ const emojiItems = [
         type: "tv",
         year: 2010,
         itemlink: "https://www.imdb.com/title/tt1475582/"
+    },
+    {
+        title: "Matilda The Musical",
+        emojiImgs: "👸💃🎼",
+        genres:["musical"],
+        type: "musical",
+        year: 2013,
+        itemlink: "http://www.playbill.com/production/matilda-the-musical-shubert-theatre-vault-0000013970"
     }
 ]
