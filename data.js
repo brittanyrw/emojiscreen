@@ -960,5 +960,12 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "Sherlock",
+        emojiImgs: "🕵️👨‍⚕️🚔⚔️😈",
+        genres:["crime", "drama" , "mystery"],
+        type: "tv",
+        year: 2010
     }
 ]
