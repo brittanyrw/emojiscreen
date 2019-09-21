@@ -966,6 +966,7 @@ const emojiItems = [
         emojiImgs: "🕵️👨‍⚕️🚔⚔️😈",
         genres:["crime", "drama" , "mystery"],
         type: "tv",
-        year: 2010
+        year: 2010,
+        itemlink: "https://www.imdb.com/title/tt1475582/"
     }
 ]
