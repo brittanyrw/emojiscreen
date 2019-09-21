@@ -976,5 +976,13 @@ const emojiItems = [
         type: "musical",
         year: 2013,
         itemlink: "http://www.playbill.com/production/matilda-the-musical-shubert-theatre-vault-0000013970"
+    },
+    {
+        title: "The Princess Bride",
+        emojiImgs: "🏴‍☠️💞👸👩‍❤️‍👨👦",
+        genres:["Adventure","Family","Fantasy"],
+        type: "movie",
+        year: 1987,
+        itemlink: "https://www.imdb.com/title/tt0093779/"
     }
 ]
