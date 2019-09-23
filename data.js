@@ -633,6 +633,14 @@ const emojiItems = [
         year: 1964
     },
     {
+        title: "Matilda The Musical",
+        emojiImgs: "👸💃🎼",
+        genres:["musical"],
+        type: "musical",
+        year: 2013,
+        itemlink: "http://www.playbill.com/production/matilda-the-musical-shubert-theatre-vault-0000013970"
+    },
+    {
         title: "Matrix",
         emojiImgs: "👨‍💻👩‍💻🔫🥋",
         genres: ["action", "sci-fi"],
@@ -652,6 +660,14 @@ const emojiItems = [
         genres: ["drama", "war", "musical"],
         type: "musical",
         year: 1991
+    },
+    {
+        title: "Mr.Robot",
+        emojiImgs: "👨‍💻🤖⚔️😈",
+        genres:["crime", "drama" , "thriller"],
+        type: "tv",
+        year: 2015,
+        itemlink: "https://www.imdb.com/title/tt4158110/"
     },
     {
         title: "Mulan",
@@ -814,6 +830,14 @@ const emojiItems = [
         year: 2007
     },
     {
+        title: "Sherlock",
+        emojiImgs: "🕵️👨‍⚕️🚔⚔️😈",
+        genres:["crime", "drama" , "mystery"],
+        type: "tv",
+        year: 2010,
+        itemlink: "https://www.imdb.com/title/tt1475582/"
+    },
+    {
         title: "Silence of the Lambs",
         emojiImgs: "🤐🐑🍷🦋",
         genres: ["crime", "drama", "thriller"],
@@ -960,37 +984,5 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    },
-    {
-        title: "Sherlock",
-        emojiImgs: "🕵️👨‍⚕️🚔⚔️😈",
-        genres:["crime", "drama" , "mystery"],
-        type: "tv",
-        year: 2010,
-        itemlink: "https://www.imdb.com/title/tt1475582/"
-    },
-    {
-        title: "Matilda The Musical",
-        emojiImgs: "👸💃🎼",
-        genres:["musical"],
-        type: "musical",
-        year: 2013,
-        itemlink: "http://www.playbill.com/production/matilda-the-musical-shubert-theatre-vault-0000013970"
-    },
-    {
-        title: "The Princess Bride",
-        emojiImgs: "🏴‍☠️💞👸👩‍❤️‍👨👦",
-        genres:["Adventure","Family","Fantasy"],
-        type: "movie",
-        year: 1987,
-        itemlink: "https://www.imdb.com/title/tt0093779/"
-    },
-    {
-        title: "Mr.Robot",
-        emojiImgs: "👨‍💻🤖⚔️😈",
-        genres:["crime", "drama" , "thriller"],
-        type: "tv",
-        year: 2015,
-        itemlink: "https://www.imdb.com/title/tt4158110/"
     }
 ]
