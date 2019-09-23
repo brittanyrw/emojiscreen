@@ -8,7 +8,7 @@
 - [ ] 5️⃣ I have a maximum of five emojis listed under `emojiImgs`.
 - [ ] 👍 My pull request has a descriptive title (such as `Added The Lion King` or `Added Black Panther, The Avengers: Endgame and Thor`).
 - [ ] ⭐ My genres are all inside of square brackets `[ ]` and each are individually wrapped in quotation marks and have a comma between each one. (such as submitting this `"genres": ["adventure","mystery","animation"]` and not this `"genres":["adventure, mystery, animation"]`).
-- [ ] 🖍️ I have placed the new show(s) or movie(s) in alphabetical order based on title.
+- [ ] 🖍️ I have placed the new show(s) or movie(s) in alphabetical order based on title. If the show or movie starts with 'the', then use the second word to alphabetize.
 
 <!-- 👋 If this pull request closes an issue, add Closes #--- to the bottom of the pull request (replace the --- with the issue number). -->
 
