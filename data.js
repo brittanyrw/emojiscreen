@@ -789,6 +789,7 @@ const emojiItems = [
         title: "RocketMan",
         emojiImgs: "🐱 📫",
         genres: ["drama", "musical"],
+        itemLink: "https://www.imdb.com/title/tt2066051/",
         type: "movie",
         year: 2019
     },
@@ -796,6 +797,7 @@ const emojiItems = [
         title: "School of Rock",
         emojiImgs: "🏫🎸🥁🎹",
         genres: ["comedy", "music"],
+        itemLink: "https://www.imdb.com/title/tt0332379/",
         type: "movie",
         year: 2003
     },
@@ -803,6 +805,7 @@ const emojiItems = [
         title: "See No Evil, Hear No Evil",
         emojiImgs: "🙈👹🙉👹",
         genres: ["comedy", "crime"],
+        itemLink: "https://www.imdb.com/title/tt0098282/",
         type: "movie",
         year: 1989
     },
@@ -814,9 +817,18 @@ const emojiItems = [
         year: 2007
     },
     {
+        title: "Sherlock",
+        emojiImgs: "🕵🔎👩" ,
+        genres: ["crime", "drama", "mystery"],
+        itemLink: "https://www.imdb.com/title/tt1475582/",
+        type: "tv",
+        year: 2010
+    },
+    {
         title: "Silence of the Lambs",
         emojiImgs: "🤐🐑🍷🦋",
         genres: ["crime", "drama", "thriller"],
+        itemLink: "https://www.imdb.com/title/tt0102926/",
         type: "movie",
         year: 1991
     },
@@ -831,6 +843,7 @@ const emojiItems = [
         title: "Sixth Sense",
         emojiImgs: "👻👦👀",
         genres: ["drama", "mystery", "thriller"],
+        itemLink: "https://www.imdb.com/title/tt0167404/",
         type: "movie",
         year: 1999
     },
@@ -845,6 +858,7 @@ const emojiItems = [
         title: "Space Jam",
         emojiImgs: "🏀🛸🚀",
         genres: ["action", "comedy", "musical"],
+        itemLink: "https://www.imdb.com/title/tt0117705/",
         type: "movie",
         year: 1994
     },
@@ -852,6 +866,7 @@ const emojiItems = [
         title: "Spiderman",
         emojiImgs: "😎🕷💪😍",
         genres: ["action", "adventure", "sci-fi"],
+        itemLink: "https://www.imdb.com/title/tt6320628/",
         type: "movie",
         year: 2019
     },
@@ -888,6 +903,7 @@ const emojiItems = [
         title: "Their Eyes Were Watching God",
         emojiImgs: "👀👼🎬",
         genres: ["drama", "romance"],
+        itemLink: "https://www.imdb.com/title/tt0406265/",
         type: "movie",
         year: 2005
     },
@@ -895,6 +911,7 @@ const emojiItems = [
         title: "Tropic Thunder",
         emojiImgs: "😼😽🙀😿😾",
         genres: ["action", "adventure", "comedy"],
+        itemLink: "https://www.imdb.com/title/tt0942385/",
         type: "movie",
         year: 2008
     },
@@ -902,6 +919,7 @@ const emojiItems = [
         title: "Up",
         emojiImgs: "🎈🏠🐶👴🏻",
         genres: ["action", "comedy", "musical"],
+        itemLink: "https://www.imdb.com/title/tt1049413/",
         type: "movie",
         year: 1994
     },
@@ -909,6 +927,7 @@ const emojiItems = [
         title: "Us",
         emojiImgs: "🎭🔮✂️🏚️🐰",
         genres: ["horror", "thriller"],
+        itemLink: "https://www.imdb.com/title/tt6857112/",
         type: "movie",
         year: 2019
     },
@@ -916,6 +935,7 @@ const emojiItems = [
         title: "Wall-E",
         emojiImgs: "📺❤️💻",
         genres: ["animation", "adventure", "family"],
+        itemLink: "https://www.imdb.com/title/tt0910970/",
         type: "movie",
         year: 2008
     },
@@ -944,6 +964,7 @@ const emojiItems = [
         title: "Willy Wonka & the Chocolate Factory",
         emojiImgs: "🧒🏻🍫🏭🎩️",
         genres: ["family", "fantasy", "musical"],
+        itemLink: "https://www.imdb.com/title/tt0067992/",
         type: "movie",
         year: 1971
     },
@@ -958,15 +979,8 @@ const emojiItems = [
         title: "Young Frankenstein",
         emojiImgs: "👶🌭🍺⚡️🧟‍",
         genres: ["comedy"],
+        itemLink: "https://www.imdb.com/title/tt0072431/",
         type: "movie",
         year: 1974
-    },
-    {
-        title: "Sherlock",
-        emojiImgs: "🕵🔎👩" ,
-        genres: ["crime", "drama", "mystery"],
-        itemLink: "https://www.imdb.com/title/tt1475582/",
-        type: "tv",
-        year: 2010
-      }
+    }
 ]
