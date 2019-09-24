@@ -4,7 +4,11 @@
 
 ![Screenshot of Emojiscreen homepage](readme/emoji-screen.png)
 
-## Also contribute to our companion project, [EmojiBops: a listing of songs depicted via emojis](https://github.com/brittanyrw/emojibops/).
+## Also contribute to our companion projects:
+
+## [EmojiBops: A listing of songs depicted via emojis](https://github.com/brittanyrw/emojibops/).
+
+## [EmojiPages: A listing of books and plays depicted via emojis](https://github.com/brittanyrw/emojipages/).
 
 > These projects were built to create a fun, judgement free space for those learning Git and Github to practice making pull requests, branches, adding features, and more. 💛 💙 💜 💚 💖
 
