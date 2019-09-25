@@ -36,7 +36,8 @@ const emojiItems = [
         emojiImgs: "🚀👽🍴🐈️",
         genres: ["comedy", "family", "sci-fi"],
         type: "tv",
-        year: 1986
+        year: 1986,
+	itemLink: "https://www.imdb.com/title/tt0090390/"
     },
     {
         title: "Alien",
@@ -51,7 +52,8 @@ const emojiItems = [
         emojiImgs: "🥋🌏🔥💧💨",
         genres: ["animation", "action", "adventure"],
         type: "tv",
-        year: 2005
+        year: 2005,
+	itemLink: "https://www.imdb.com/title/tt0417299/"
     },
     {
         title: "Beauty and the Beast",
@@ -66,7 +68,8 @@ const emojiItems = [
         emojiImgs: "🌍💻⚗🔭",
         genres: ["comedy","romance"],
         type: "tv",
-        year: 2007
+        year: 2007,
+	itemLink: "https://www.imdb.com/title/tt0898266/"
     },
     {
         title: "Black Panther",
@@ -89,49 +92,56 @@ const emojiItems = [
         emojiImgs: "😁😂🥰🌺🌼",
         genres: ["comedy", "crime", "drama"],
         type: "movie",
-        year: 2003
+        year: 2003,
+	itemLink: "https://www.imdb.com/title/tt0307987/"
     },
     {
         title: "Blazing Saddles",
         emojiImgs: "🔥🤠🐴🏇🏜️",
         genres: ["western", "comedy"],
         type: "movie",
-        year: 1974
+        year: 1974,
+	itemLink: "https://www.imdb.com/title/tt0071230/"
     },
     {
         title: "The Book of Mormon",
         emojiImgs: "👋🔔👨📖✝️",
         genres: ["comedy", "satire", "musical"],
         type: "musical",
-        year: 2011
+        year: 2011,
+	itemLink: "http://www.playbill.com/production/the-book-of-mormon-eugene-oneill-theatre-vault-0000013715"
     },
     {
         title: "Breaking Bad",
         emojiImgs: "🌵🤓🧪💊💰",
         genres: ["crime", "drama", "thriller"],
         type: "tv",
-        year: 2008
+        year: 2008,
+	itemLink: "https://www.imdb.com/title/tt0903747/"
     },
     {
         title: "Brooklyn Nine-Nine",
         emojiImgs: "🗽👮🏻‍♂️👮🏿‍👮🏻‍♀️👮🏾",
         genres: ["comedy", "crime"],
         type: "tv",
-        year: 2013
+        year: 2013,
+	itemLink: "https://www.imdb.com/title/tt2467372/"
     },
     {
         title: "Buffy the Vampire Slayer",
         emojiImgs: "🅾️🎃🧛‍",
         genres: ["drama", "fantasy", "romance", "action"],
         type: "tv",
-        year: 1997
+        year: 1997,
+	itemLink: "https://www.imdb.com/title/tt0118276/"
     },
     {
         title: "Bungou Stray Dogs: Dead Apple",
         emojiImgs: "🍎🗡🐶🇯🇵",
         genres: ["animation"],
         type: "movie",
-        year: 2018
+        year: 2018,
+	itemLink: "https://www.imdb.com/title/tt8391976/"
     },
     {
         title: "Cast Away",
