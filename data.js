@@ -324,6 +324,14 @@ const emojiItems = [
         year: 1978
     },
     {
+        title: "The Greatest Showman",
+        emojiImgs: "🎩🕺🎪🔥🎶",
+        genres: ["biography", "drama", "musical"],
+        type: "movie",
+        year: 2017,
+        itemLink: "https://www.imdb.com/title/tt1485796/"
+    },
+    {
         title: "Grey's Anatomy",
         emojiImgs: "💊💉🧪⚕🍷",
         genres: ["drama", "romance"],
