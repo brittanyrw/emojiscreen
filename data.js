@@ -744,6 +744,14 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "The Princess Diaries",
+        emojiImgs: "👩‍🦰✈️🏰👑👸",
+        genres: ["comedy", "family", "romance"],
+        type: "movie",
+        year: 2001,
+        itemLink: "https://www.imdb.com/title/tt0247638/"
+    },
+    {
         title: "Pulp Fiction",
         emojiImgs: "🔪🔫🍔🥊💊",
         genres: ["crime", "drama"],
@@ -960,13 +968,5 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    },
-    {
-        title: "The Princess Diaries",
-        emojiImgs: "👩‍🦰✈️🏰👑👸",
-        genres: ["comedy", "family", "romance"],
-        type: "movie",
-        year: 2001,
-        itemLink: "https://www.imdb.com/title/tt0247638/"
     }
 ]
