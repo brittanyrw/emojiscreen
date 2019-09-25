@@ -521,6 +521,14 @@ const emojiItems = [
         year: 2018
     },
     {
+        title: "The Karate Kid",
+        emojiImgs: "🧑🥋👊🤼‍",
+        genres: ["Action", "Drama", "Family"],
+        type: "movie",
+        year: 1984,
+        itemLink: "https://www.imdb.com/title/tt0087538/"
+    },
+    {
         title: "Kiki's Delivery Service",
         emojiImgs: "👧🐱🧹📫",
         genres: ["animated"],
