@@ -1,5 +1,5 @@
 const emojiItems = [
-    {
+  {
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
         genres: ["musical", "comedy"],
@@ -890,6 +890,14 @@ const emojiItems = [
         genres: ["drama", "romance"],
         type: "movie",
         year: 2005
+    },
+    {
+        title: "Titanic",
+        emojiImgs: "💑❄🚢⬇️",
+        genres: ["drama", "romance"],
+        type: "movie",
+        year: 1997,
+        itemLink: "https://www.imdb.com/title/tt0120338/"
     },
     {
         title: "Tropic Thunder",
