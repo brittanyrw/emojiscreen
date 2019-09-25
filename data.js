@@ -785,6 +785,14 @@ const emojiItems = [
         type: "movie",
         year: 1992
     },
+     {
+        title: "The Revenant",
+        emojiImgs: "🐻💥🤕❄️🥶",
+        genres: ["action", "adventure", "biography"],
+        itemLink: "https://www.imdb.com/title/tt1663202/",
+        type: "movie",
+        year: 2015
+    },
     {
         title: "RocketMan",
         emojiImgs: "🐱 📫",
