@@ -69,6 +69,14 @@ const emojiItems = [
         year: 2007
     },
     {
+        title: "Big Hero 6",
+        emojiImgs: "🦸🐻💥6️⃣",
+        genres: ["animation","action","adventure"],
+        type: "movie",
+        year: 2014,
+        itemLink: "https://www.imdb.com/title/tt2245084/?ref_=kw_li_tt"
+    },
+    {
         title: "Black Panther",
         emojiImgs: "😺🌍🏴💪🏿🦸🏿",
         genres: ["action", "adventure", "sci-fi"],
