@@ -953,20 +953,23 @@ const emojiItems = [
         emojiImgs: "🧒🏻🍫🏭🎩️",
         genres: ["family", "fantasy", "musical"],
         type: "movie",
-        year: 1971
+        year: 1971,
+        itemLink: "https://www.imdb.com/title/tt0067992/"
     },
     {
         title: "X-Files",
         emojiImgs: "👽🛸👦🏻👩‍🦰🔦",
         genres: ["sci-fi", "drama", "mystery"],
         type: "tv",
-        year: 1993
+        year: 1993,
+        itemLink: "https://www.imdb.com/title/tt0106179/?ref_=fn_al_tt_1"
     },
     {
         title: "Young Frankenstein",
         emojiImgs: "👶🌭🍺⚡️🧟‍",
         genres: ["comedy"],
         type: "movie",
-        year: 1974
+        year: 1974,
+        itemLink: "https://www.imdb.com/title/tt0072431/"
     }
 ]
