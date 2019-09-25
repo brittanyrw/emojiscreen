@@ -38,6 +38,7 @@ const emojiItems = [
         type: "tv",
         year: 1986
     },
+    
     {
         title: "Alien",
         emojiImgs: "🚀👾🔫👨‍🚀",
@@ -266,6 +267,13 @@ const emojiItems = [
         genres: ["animation"],
         type: "movie",
         year: 2003
+    },
+    {
+        title: "Five Feet Apart ",
+        emojiImgs: "🏣🧒5⃣👧💞",
+        genres: [ "Drama", "Romance","Comedy" ],
+        type: "movie",
+        year: 2019
     },
     {
         title: "Frozen",
@@ -961,4 +969,5 @@ const emojiItems = [
         type: "movie",
         year: 1974
     }
+    
 ]
