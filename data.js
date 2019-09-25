@@ -662,6 +662,14 @@ const emojiItems = [
         year: 1991
     },
     {
+        title: "Mr. Robot",
+        emojiImgs: "👨‍💻🤖🖥️⚙️",
+        genres: ["drama", "crime", "thriller"],
+        type: "tv",
+        year: 2015,
+        itemLink: "https://www.imdb.com/title/tt4158110/"
+    },
+    {
         title: "Mulan",
         emojiImgs: "🔫⚔️🎶🥁",
         genres: ["war", "music"],
