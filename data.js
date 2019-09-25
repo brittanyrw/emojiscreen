@@ -134,6 +134,14 @@ const emojiItems = [
         year: 2018
     },
     {
+        title: "Captain Marvel",
+        emojiImgs: "🙍‍♀️🛩🌌🦹‍♀️",
+        genres: ["action", "adventure", "sci-fi"],
+        type: "movie",
+        year: 2019,
+        itemLink: "https://www.imdb.com/title/tt4154664/"
+    },
+    {
         title: "Cast Away",
         emojiImgs: "🏐🥥🏝️",
         genres: ["action", "comedy", "musical"],
