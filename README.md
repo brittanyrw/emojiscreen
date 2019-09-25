@@ -21,7 +21,7 @@ For other ways to contribute, see the repo Issues [under the label 'enhancement'
 
 ## If you want to work on one of the Issues that are labeled with `enhancement` please comment in the Issue and wait for confirmation before you start working on it.
 
-## If someone else has commented inside of an Issue, choose something else to add. 
+### If someone else has commented inside of an Issue, choose something else to add. The maintainers will comment opening up the Issue again if it has been a while since the person commented. If you do not see such a comment, move on to a different Issue. 
 
 Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged and you can make multiple pull requests if you desire. If you run into trouble, feel free [to create an Issue](https://github.com/brittanyrw/emojiscreen/issues)!
 
@@ -160,6 +160,8 @@ For musicals link the [Playbill archive page](http://www.playbill.com/vault) for
   itemLink: "https://www.imdb.com/title/tt0101414/",
 }
 ```
+
+> Note: Make sure the IDMB link does not have `?ref_=[id number here]` at the end. If it does, delete that part of the link. This link should just be the base IMDB url.
 
 
 ### Type 🎬
