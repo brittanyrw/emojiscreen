@@ -47,6 +47,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0090390/?ref_=fn_al_tt_1"
     },
     {
+        title: "Ant-man",
+        emojiImgs: "🐜🦸‍♂️💪",
+        genres: ["action", "adventure", "comedy],
+        type: "movie",
+        year: 2015,
+        itemLink: "https://www.imdb.com/title/tt0478970/?ref_=fn_al_tt_1"
+    },
+    {
         title: "Avatar: The Last Airbender",
         emojiImgs: "🥋🌏🔥💧💨",
         genres: ["animation", "action", "adventure"],
