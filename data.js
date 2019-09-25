@@ -960,5 +960,13 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "The Fresh Prince of Bel-Air",
+        emojiImgs: "👑🛎💨‍",
+        genres: ["comedy"],
+        type: "tv",
+        year: 1990,
+        itemLink: "https://www.imdb.com/title/tt0098800/"
     }
 ]
