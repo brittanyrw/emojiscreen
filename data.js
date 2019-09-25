@@ -674,7 +674,6 @@ const emojiItems = [
         type: "tv",
         year: 2015
     },
-
     {
         title: "The Office",
         emojiImgs: "👔🤓📠📎💻",
