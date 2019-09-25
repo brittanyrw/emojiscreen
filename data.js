@@ -1,13 +1,5 @@
 const emojiItems = [
     {
-        title: "The Karate Kid",
-        emojiImgs: "🤼‍♂️👦🏻👘",
-        genres: ["action", "drama", "family"],
-        type: "movie",
-        year: 1984,
-        itemLink: "https://www.imdb.com/title/tt0087538/"
-    },
-    {
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
         genres: ["musical", "comedy"],
@@ -527,6 +519,14 @@ const emojiItems = [
         genres: ["action", "adventure", "Sci-Fi"],
         type: "movie",
         year: 2018
+    },
+    {
+        title: "The Karate Kid",
+        emojiImgs: "🤼‍♂️👦🏻👘",
+        genres: ["action", "drama", "family"],
+        type: "movie",
+        year: 1984,
+        itemLink: "https://www.imdb.com/title/tt0087538/"
     },
     {
         title: "Kiki's Delivery Service",
