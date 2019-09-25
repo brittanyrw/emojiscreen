@@ -801,7 +801,7 @@ const emojiItems = [
         type: "movie",
         year: 1992
     },
-     {
+    {
         title: "The Revenant",
         emojiImgs: "🐻💥🤕❄️🥶",
         genres: ["action", "adventure", "biography"],
