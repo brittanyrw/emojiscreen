@@ -226,6 +226,14 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "Doctor Strange",
+        emojiImgs: "👨‍⚕️💎🧙‍♂️",
+        genres: ["action", "adventure", "fantasy"],
+        type: "movie",
+        year: 1987,
+        itemLink: "https://www.imdb.com/title/tt1211837/"
+    },
+    {
         title: "Dora and the Lost City of Gold",
         emojiImgs: "👧🐒🏕️🏰💰",
         genres: ["fantasy", "adventure", "comedy"],
