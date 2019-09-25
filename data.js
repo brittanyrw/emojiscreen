@@ -268,6 +268,14 @@ const emojiItems = [
         year: 2003
     },
     {
+        title: "Forrest Gump",
+        emojiImgs: "🏃🏻🍫🍤",
+        genres: ["drama", "romance"],
+        itemLink: "https://www.imdb.com/title/tt0816692/",
+        type: "movie",
+        year: 1994
+    },
+    {
         title: "Frozen",
         emojiImgs: "👭☃️❄️",
         genres: ["animation", "adventure", "comedy"],
@@ -315,6 +323,14 @@ const emojiItems = [
         genres: ["adventure", "comedy", "family"],
         type: "movie",
         year: 1985
+    },
+    {
+        title: "Gravity",
+        emojiImgs: "🚀✨👩🏻‍🚀",
+        genres: ["drama", "sci-fi", "thriller"],
+        itemLink: "https://www.imdb.com/title/tt1454468/",
+        type: "movie",
+        year: 2013
     },
     {
         title: "Grease",
