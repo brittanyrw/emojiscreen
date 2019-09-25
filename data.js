@@ -885,6 +885,14 @@ const emojiItems = [
         year: 1990
     },
     {
+        title: "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+        emojiImgs: "🐱‍👤🐢🍕👊",
+        genres: ["action", "adventure", "comedy"],
+        itemLink: "https://www.imdb.com/title/tt0103060/",
+        type: "movie",
+        year: 1991
+    },
+    {
         title: "Their Eyes Were Watching God",
         emojiImgs: "👀👼🎬",
         genres: ["drama", "romance"],
