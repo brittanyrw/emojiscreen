@@ -318,6 +318,13 @@ const emojiItems = [
         year: 2000
     },
     {
+        title: "Glee",
+        emojiImgs: "👩🏻‍🏫💃🏻🕺🎤🌈",
+        genres: ["comedy", "drama", "music"],
+        type: "tv",
+        year: 2009
+    },
+    {
         title: "Goonies",
         emojiImgs: "🚴🚴‍♀️😲💍👨‍👩‍👧‍👦",
         genres: ["adventure", "comedy", "family"],
