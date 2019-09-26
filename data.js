@@ -231,6 +231,13 @@ const emojiItems = [
         genres: ["fantasy", "adventure", "comedy"],
         type: "movie",
         year: 2019
+    },{
+        title: "Dumbo",
+        emojiImgs: "🐘🎪🥜♥️",
+        genres: ["animation", "family"],
+        itemLink: "https://www.imdb.com/title/tt0033563/",
+        type: "movie",
+        year: 1941
     },
     {
         title: "E.T. the Extra-Terrestrial",
