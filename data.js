@@ -654,6 +654,13 @@ const emojiItems = [
         year: 1991
     },
     {
+        title: "Monty Python and the Holy Grail"
+        emojiImgs: "🤵🐍⛪🍷"
+        genres: ["comedy"]
+        type: "movie"
+        year: 1975
+    },
+    {
         title: "Mulan",
         emojiImgs: "🔫⚔️🎶🥁",
         genres: ["war", "music"],
@@ -961,4 +968,5 @@ const emojiItems = [
         type: "movie",
         year: 1974
     }
+
 ]
