@@ -251,9 +251,9 @@ const emojiItems = [
         title: "Edward Sicssorhands",
         emojiImgs: "👦✂🙌",
         genres: ["drama", "fantasy", "romance"],
+        itemLink: "https://www.imdb.com/title/tt0099487/",
         type: "movie",
         year: 1990,
-        itemLink: "https://www.imdb.com/title/tt0099487/"
     },
     {
         title: "Fargo",
