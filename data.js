@@ -276,6 +276,14 @@ const emojiItems = [
         year: 2003
     },
     {
+        title: "Flight of the Conchords",
+        emojiImgs: "🎵🦏🦛🥝🇳🇿",
+        genres: ["comedy", "musical", "adventure"],
+        type: "tv",
+        year: 2007,
+        itemLink: "https://www.imdb.com/title/tt0863046/"
+    },
+    {
         title: "Frozen",
         emojiImgs: "👭☃️❄️",
         genres: ["animation", "adventure", "comedy"],
