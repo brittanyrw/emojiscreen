@@ -149,6 +149,14 @@ const emojiItems = [
         year: 2000
     },
     {
+        title: "Cats",
+        emojiImgs: "😸 😹 😻 🙀 😿",
+        genres: ["drama","musical"],
+        itemLink: "https://www.http://www.playbill.com/production/cats-winter-garden-theatre-vault-0000011527.com/title/tt0357413/",
+        type: "musical",
+        year: 1982
+    },
+    {
         title: "The Cheetah Girls",
         emojiImgs: "🐆🐆🐆🐆🎶",
         genres: ["comedy", "drama", "musical"],
