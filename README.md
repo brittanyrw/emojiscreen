@@ -135,7 +135,7 @@ For movies and TV shows, go to the IMDB profile and find the genres listed under
 
 See the below screenshot for the location of the genre listing in IMDB profiles.
 
-![Screenshot of the Beauty and the Beast IDMB profile with the genres circled](readme/imdb-screenshot.png)
+![Screenshot of the Beauty and the Beast IMDB profile with the genres circled](readme/imdb-screenshot.png)
 
 
 For musicals, include the `musical` genre and any other genres from the list below that you think fit:
@@ -163,7 +163,7 @@ For musicals link the [Playbill archive page](http://www.playbill.com/vault) for
 }
 ```
 
-> Note: Make sure the IDMB link does not have `?ref_=[id number here]` at the end. If it does, delete that part of the link. This link should just be the base IMDB url.
+> Note: Make sure the IMDB link does not have `?ref_=[id number here]` at the end. If it does, delete that part of the link. This link should just be the base IMDB url.
 
 
 ### Type 🎬
@@ -265,7 +265,7 @@ Use the following object as a template:
 }
 ```
 
-8. If you would like to see what your addition will look like, open the `index.html` file that is in the `emojiscreen` folder in a web browser. The EmojiCards are added in a random order so it may take you a few seconds to find what you added. If you do not see any cards in the browser, this could mean that you have a typo in your `data.js` file. If that is the case, double check what you have added for missing commas and quotation marks.
+8. Save the file you are working on. If you would like to see what your addition will look like, open the `index.html` file that is in the `emojiscreen` folder in a web browser. The EmojiCards are added in a random order so it may take you a few seconds to find what you added. If you do not see any cards in the browser, this could mean that you have a typo in your `data.js` file. If that is the case, double check what you have added for missing commas and quotation marks.
 9. Once you are done, go to the terminal and type `git status`. You should see `data.js` as modified. If you don't see this, go back and make sure to save your `data.js` file.
 10. Run `git add -A` to add your changes.
 11. Add a commit message. Run the following command and replace with your movie or show name: `git commit -m "Added Harry Potter the movie"`.

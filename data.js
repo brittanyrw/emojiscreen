@@ -47,6 +47,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0090390/?ref_=fn_al_tt_1"
     },
     {
+        title: "Anchorman",
+        emojiImgs: "⚓️👨🏻",
+        genres: ["comedy"],
+        itemLink: "https://www.imdb.com/title/tt0357413/",
+        type: "movie",
+        year: 2004
+    },
+    {
         title: "Avatar: The Last Airbender",
         emojiImgs: "🥋🌏🔥💧💨",
         genres: ["animation", "action", "adventure"],
@@ -961,4 +969,5 @@ const emojiItems = [
         type: "movie",
         year: 1974
     }
+    
 ]
