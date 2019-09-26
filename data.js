@@ -878,6 +878,14 @@ const emojiItems = [
         year: 2013
     },
     {
+        title: "Supernatural",
+        emojiImgs: "👻🧂🔫👹😱",
+        genres: ["Drama, Fantasy, Horror"],
+        type: "tv",
+        year: 2005,
+        itemLink: "https://www.imdb.com/title/tt0460681/"
+    },
+    {
         title: "Sweeney Todd: The Demon Barber of Fleet Street",
         emojiImgs: "💈🔪☠️🍰",
         genres: ["drama", "horror", "musical"],
