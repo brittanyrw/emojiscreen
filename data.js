@@ -177,6 +177,14 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "Cinderella",
+        emojiImgs: "🤴👸👠🐭🧚‍♀️",
+        genres: ["animation", "family", "fantasy"],
+        type: "movie",
+        year: 1950,
+        itemLink: "https://www.imdb.com/title/tt0042332/"
+    },
+    {
         title: "Cloudy with a Chance of Meatballs",
         emojiImgs: " ☁️🥩⚽☂️",
         genres: ["animation", "adventure", "comedy"],
