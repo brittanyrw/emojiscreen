@@ -261,6 +261,14 @@ const emojiItems = [
         year: 1999
     },
     {
+        title: "Firefly",
+        emojiImgs: " 👉🚫👌🌌👍",
+        genres: ["action", "scifi"],
+        type: "tv",
+        year: 2002,
+        itemLink: "https://www.imdb.com/title/tt0303461/episodes"
+    },
+    {
         title: "Finding Nemo",
         emojiImgs: "🐟🦈🔭",
         genres: ["animation"],
