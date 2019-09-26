@@ -13,7 +13,7 @@ const emojiItems = [
         genres: ["action", "drama", "fantasy"],
         type: "movie",
         year: 2007,
-        itemLink: "https://www.imdb.com/title/tt0416449/?ref_=nv_sr_1?ref_=nv_sr_1"
+        itemLink: "https://www.imdb.com/title/tt0416449"
     },
     {
         title: "A Star is Born",
@@ -21,7 +21,7 @@ const emojiItems = [
         genres: ["drama", "music", "romance"],
         type: "movie",
         year: 2018,
-        itemLink: "https://www.imdb.com/title/tt1517451/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt1517451"
     },
     {
         title: "Aladdin",
@@ -29,7 +29,7 @@ const emojiItems = [
         genres: ["adventure", "family", "comedy"],
         type: "movie",
         year: 2019,
-        itemLink: "https://www.imdb.com/title/tt6139732/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt6139732"
     },
     {
         title: "Alf",
@@ -44,7 +44,7 @@ const emojiItems = [
         genres: ["suspense", "horror"],
         type: "movie",
         year: 1979,
-        itemLink: "https://www.imdb.com/title/tt0090390/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt0090390"
     },
     {
         title: "Avatar",
@@ -52,7 +52,7 @@ const emojiItems = [
         genres: ["action", "fantasy"],
         type: "movie",
         year: 2009,
-        itemLink: "https://www.imdb.com/title/tt0499549/?ref_=nv_sr_2?ref_=nv_sr_2"
+        itemLink: "https://www.imdb.com/title/tt0499549"
     },
     {
         title: "Avatar: The Last Airbender",
@@ -67,7 +67,7 @@ const emojiItems = [
         genres: ["animation", "family", "fantasy"],
         type: "movie",
         year: 1991,
-        itemLink: "https://www.imdb.com/title/tt2771200/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt2771200"
     },
     {
         title: "The Big Bang Theory",
@@ -82,7 +82,7 @@ const emojiItems = [
         genres: ["action", "adventure", "sci-fi"],
         type: "movie",
         year: 2018,
-        itemLink: "https://www.imdb.com/title/tt1825683/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt1825683"
     },
     {
         title: "Black Swan",
@@ -90,7 +90,7 @@ const emojiItems = [
         genres: ["drama", "thriller"],
         type: "movie",
         year: 2010,
-        itemLink: "https://www.imdb.com/title/tt0947798/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt0947798"
     },
     {
         title: "Bad Santa",
