@@ -252,7 +252,8 @@ const emojiItems = [
         emojiImgs: "👦✂🙌",
         genres: ["drama", "fantasy", "romance"],
         type: "movie",
-        year: 1990
+        year: 1990,
+        itemLink: "https://www.imdb.com/title/tt0099487/"
     },
     {
         title: "Fargo",
