@@ -880,7 +880,7 @@ const emojiItems = [
     {
         title: "Supernatural",
         emojiImgs: "👻🧂🔫👹😱",
-        genres: ["Drama, Fantasy, Horror"],
+        genres: ["Drama", "Fantasy", "Horror"],
         type: "tv",
         year: 2005,
         itemLink: "https://www.imdb.com/title/tt0460681/"
