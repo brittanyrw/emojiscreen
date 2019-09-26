@@ -976,5 +976,12 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "Finding Nemo",
+        emojiImgs: "🔎🐡",
+        genres: ["animation"],
+        type: "movie",
+        year: 2003
     }
 ]
