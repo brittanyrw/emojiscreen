@@ -124,3 +124,47 @@ $(document).ready(function() {
   }
 });
 
+var dark=true;
+        const btn= document.getElementById('switch');
+       
+       
+        btn.addEventListener('click',
+        function ifClicked(){
+           
+           if(!dark){
+            document.getElementById('bc').style.backgroundColor="#292932";
+            //document.getElementById('bc').style.color="white";
+            document.getElementById('head-txt').style.color = "white";
+            document.getElementById('con-card').style.color = "white";
+            document.getElementById('clc').style.color = "white";
+            var x = document.getElementById("last");
+            var y = x.getElementsByTagName("P");
+            var i;
+            for (i = 0; i < y.length; i++) {
+              y[i].style.color = "white";
+            } 
+            document.getElementById("last-link").style.color="white"; 
+            document.getElementById("filters").style.borderBottom="2px solid white";
+            document.getElementById("last").style.borderTop="2px solid white";
+            document.getElementById('bulb').style.color="white";
+            dark=true;
+           }
+           else{
+            document.getElementById('bc').style.backgroundColor="white";
+            //document.getElementById('bc').style.color="black";
+            document.getElementById('head-txt').style.color = "black";
+            document.getElementById('con-card').style.color = "black";
+            document.getElementById('clc').style.color = "black";
+            var x = document.getElementById("last");
+            var y = x.getElementsByTagName("P");
+            var i;
+            for (i = 0; i < y.length; i++) {
+              y[i].style.color = "black";
+            } 
+            document.getElementById("last-link").style.color="black"; 
+            document.getElementById("filters").style.borderBottom="2px solid black";
+            document.getElementById("last").style.borderTop="2px solid black";
+            document.getElementById('bulb').style.color="black";
+            dark=false;
+           }
+        });

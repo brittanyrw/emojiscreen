@@ -21,26 +21,28 @@
         <link rel="stylesheet" href="main.css">
         <link rel="icon" href="favicon.ico" type="image/gif" sizes="16x16">
     </head>
-    <body>
+    <body id="bc">
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
         <main>
             <header>
-                <h1>Emoji Screen</h1>
+                <button id="switch"><i id="bulb" class="fas fa-lightbulb fa-3x"></i></button>
+                <h1 id="head-txt">Emoji Screen</h1>
+               
                 <div class="heading-content">
                     <div class="header">
                         <h2>A listing of movies, TV shows and musicals depicted through emojis. 💖</h2>
                         <p>Click on the emojis to reveal the show or movie name!</p>
                     </div>
-                    <div class="contribute-callout">
-                        <p>Want to add to EmojiScreen? Head to Github! ✨</p>
+                    <div class="contribute-callout" >
+                        <p id="con-card">Want to add to EmojiScreen? Head to Github! ✨</p>
                         <a href="https://github.com/brittanyrw/emojiscreen" target="_blank">Contribute</a>
                     </div>
                 </div>
             </header>
             <section id="filters">
-                <p>Click to filter: </p>
+                <p id="clc">Click to filter: </p>
                 <button data-filter="musical" class="musical-filter">Musicals</button>
                 <button data-filter="movie" class="movie-filter">Movies</button>
                 <button data-filter="tv" class="tv-filter">TV Shows</button>
@@ -50,9 +52,9 @@
             <section id="message"></section>
             <section id="pagination"></section>
             <button class="btn-reveal-all" title="Reveal all"><i class="fa fa-eye"></i></button>
-            <footer>
+            <footer id="last">
                 <p class="item-count">EmojiScreen currently has <span></span> movies, TV shows and musicals. 💖</p>
-                <p class="companion-project-link">Music fan? Check out <a href="https://github.com/brittanyrw/emojibops" target="_blank">EmojiBops</a></p>
+                <p class="companion-project-link">Music fan? Check out <a id="last-link" href="https://github.com/brittanyrw/emojibops" target="_blank">EmojiBops</a></p>
             </footer>
         </main>
         <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
