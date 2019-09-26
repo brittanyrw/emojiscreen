@@ -658,7 +658,8 @@ const emojiItems = [
         emojiImgs: "🤵🐍⛪🍷",
         genres: ["comedy"],
         type: "movie",
-        year: 1975
+        year: 1975,
+        itemLink: "https://www.imdb.com/title/tt0071853/?ref_=nv_sr_1?ref_=nv_sr_1"
     },
     {
         title: "Mulan",
