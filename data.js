@@ -48,7 +48,7 @@ const emojiItems = [
     },
     {
         title: "Avatar",
-        emojiImgs: "👱‍♂️🔵👱‍♂️👩‍🦰🔵🔵",
+        emojiImgs: "👱‍♂️🔵👱‍♂️👩‍🦰🔵",
         genres: ["action", "fantasy"],
         type: "movie",
         year: 2009,
