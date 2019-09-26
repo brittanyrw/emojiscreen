@@ -1,0 +1,15 @@
+# Created by https://www.gitignore.io
+
+### Intellij ###
+# Ignores the whole .idea folder and all .iml files
+.idea/
+*.iml
+modules.xml
+.idea/misc.xml
+*.ipr
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
