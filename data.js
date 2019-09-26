@@ -7,6 +7,7 @@ const emojiItems = [
         year: 2005,
         itemLink: "http://www.playbill.com/production/the-25th-annual-putnam-county-spelling-bee-circle-in-the-square-theatre-vault-0000003219"
     },
+   
     {
         title: "300 ",
         emojiImgs: " 💪🤕👊🏻⚔️ 🛡",
@@ -226,6 +227,14 @@ const emojiItems = [
         type: "movie",
         year: 2006
     },
+     {
+          title: "Dinosaurs",
+          emojiImgs: "🦖⛰️😂",
+          genres: ["Comedy", "Family", "Fantasy "],
+          itemLink: "https://www.imdb.com/title/tt0101081/",
+          type: "tv",
+          year: 1991
+        },
     {
         title: "Dirty Dancing",
         emojiImgs: "🍉💃🕶🕺👶",
