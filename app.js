@@ -115,6 +115,26 @@ $(document).ready(function() {
       .toggleClass("hide-card");
   });
 
+  // Scroll to top by clicking a button
+  $(".btn-scroll-top").click(function() {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    });
+  });
+
+  window.addEventListener("scroll", scrollFunction);
+
+  function scrollFunction() {
+    var windowHeight = $(window).height();
+    if ($(document).scrollTop() > windowHeight / 2) {
+      $(".btn-scroll-top").show();
+    }
+    if ($(document).scrollTop() < 100) {
+      $(".btn-scroll-top").hide();
+    }
+  }
+
   function generateTitle(title, year, itemLink) {
     const titleElement = "<h3>" + title +" (" + year + ")</h3>"
     if(itemLink) {

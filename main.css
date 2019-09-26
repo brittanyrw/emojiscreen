@@ -317,28 +317,39 @@ i {
   visibility: visible;
 }
 
-.btn-reveal-all {
+.btn-reveal-all, .btn-scroll-top {
   outline: none;
   cursor: pointer;
   background-color: lavender;
   border: none;
   border-radius: 100%;
   position: fixed;
-  bottom: 20px;
   right: 30px;
   width: 50px;
   height: 50px;
   z-index: 9999;
 }
 
-@media screen and (max-width: 1024px){
+.btn-reveal-all {
+  bottom: 20px;
+}
+
+.btn-scroll-top {
+  bottom: 90px;
+}
+
+@media screen and (max-width: 1024px) {
   .btn-reveal-all {
     bottom: 5px;
     right: 5px;
   }
+  .btn-scroll-top {
+    bottom: 60px;
+    right: 5px;
+  }
 }
 
-.btn-reveal-all:before {
+.btn-reveal-all:before, .btn-scroll-top:before {
   content: '';
   border-radius: 100%;
   position: absolute;
@@ -357,13 +368,13 @@ i {
   transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
 }
 
-.btn-reveal-all:hover::before {
+.btn-reveal-all:hover::before, .btn-scroll-top:hover::before {
   opacity: 1;
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
 }
 
-.btn-reveal-all i {
+.btn-reveal-all i, .btn-scroll-top i {
   background: transparent;
   font-size: 2em;
 }
