@@ -654,10 +654,10 @@ const emojiItems = [
         year: 1991
     },
     {
-        title: "Monty Python and the Holy Grail"
-        emojiImgs: "🤵🐍⛪🍷"
-        genres: ["comedy"]
-        type: "movie"
+        title: "Monty Python and the Holy Grail",
+        emojiImgs: "🤵🐍⛪🍷",
+        genres: ["comedy"],
+        type: "movie",
         year: 1975
     },
     {
