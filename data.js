@@ -321,8 +321,9 @@ const emojiItems = [
         title: "Glee",
         emojiImgs: "👩🏻‍🏫💃🏻🕺🎤🌈",
         genres: ["comedy", "drama", "music"],
+        itemLink: "https://www.imdb.com/title/tt1327801/",
         type: "tv",
-        year: 2009
+        year: 2009,
     },
     {
         title: "Goonies",
