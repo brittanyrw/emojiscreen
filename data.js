@@ -248,6 +248,13 @@ const emojiItems = [
         year: 1982
     },
     {
+        title: "Edward Sicssorhands",
+        emojiImgs: "👦✂🙌",
+        genres: ["drama", "fantasy", "romance"],
+        type: "movie",
+        year: 1990
+    },
+    {
         title: "Fargo",
         emojiImgs: "🚔🌳👶🏻⚰️",
         genres: ["crime", "drama", "thriller"],
