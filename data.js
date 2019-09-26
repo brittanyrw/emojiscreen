@@ -214,7 +214,7 @@ const emojiItems = [
     },
     {
       title: 'Dark Phoenix',
-      emojiImgs: "",
+      emojiImgs: "🕶️☀️🔥 ",
       genres: ["sci-fi","action","adventure"],
       type: "movie",
       year: 2019,
