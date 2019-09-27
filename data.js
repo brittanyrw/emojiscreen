@@ -221,6 +221,22 @@ const emojiItems = [
       itemLink: "https://www.imdb.com/title/tt6565702/?ref_=ttls_li_tt"
     },
     {
+      title: "Deadpool",
+      emojiImgs:"⚰️🏊⚔️",
+      genres: ["action","adventure","comedy"],
+      type: "movie",
+      year: 2016,
+      itemLink:"https://www.imdb.com/title/tt1431045/?ref_=ttls_li_tt"
+    },
+    {
+      title: "Deadpool 2",
+      emojiImgs:"⚰️🏊2️⃣⚔️",
+      genres: ["action","adventure","comedy"],
+      type: "movie",
+      year: 2018,
+      itemLink:"https://www.imdb.com/title/tt5463162/?ref_=ttls_li_tt"
+    },
+    {
         title: "Dear Evan Hansen",
         emojiImgs: "💌⚰️👨‍👩‍👧‍👦💻💞",
         genres: ["drama", "musical"],
