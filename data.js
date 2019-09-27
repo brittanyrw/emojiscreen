@@ -1,13 +1,5 @@
 const emojiItems = [
     {
-        title: "The Karate Kid Part II",
-        emojiImgs: "🤼‍♂️👦🏻👘2️⃣",
-        genres: ["action", "drama", "family"],
-        type: "movie",
-        year: 1986,
-        itemLink: "https://www.imdb.com/title/tt0091326/"
-    },
-    {
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
         genres: ["musical", "comedy"],
@@ -543,6 +535,14 @@ const emojiItems = [
         genres: ["action", "adventure", "Sci-Fi"],
         type: "movie",
         year: 2018
+    },
+    {
+        title: "The Karate Kid Part II",
+        emojiImgs: "🤼‍♂️👦🏻👘2️⃣",
+        genres: ["action", "drama", "family"],
+        type: "movie",
+        year: 1986,
+        itemLink: "https://www.imdb.com/title/tt0091326/"
     },
     {
         title: "Kiki's Delivery Service",
