@@ -41,9 +41,9 @@ Read below for a detailed overview and walkthrough on how to add an `Emoji Card`
 
 ## Choosing a Movie, TV Show or Musical to Add
 
-Here are some links to lists of movies, TV shows and musicals in case you're having trouble thinking of something to add! 
+Here are some links to lists of movies, TV shows and musicals in case you're having trouble thinking of something to add!
 
-#### I have also [added Issues for individual movies, shows and series](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis) that I think would be fun to add to EmojiScreen. Feel free to add any of the movies or shows listed in Issues. Make sure to comment inside of the Issue if you plan on taking it and add the Issue number in your Pull Request.
+#### I have also [added Issues for individual movies, shows and series](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis) that I think would be fun to add to EmojiScreen. Feel free to add any of the movies or shows listed in Issues. Make sure to comment inside of the Issue if you plan on taking it and add the Issue number in your Pull Request. You can add movies or TV shows that are not listed as an Issue.
 
 ### View [Issues for Individual Movies](https://github.com/brittanyrw/emojiscreen/labels/movie)
 ### View [Issues for Movie Series](https://github.com/brittanyrw/emojiscreen/labels/add%20series)
