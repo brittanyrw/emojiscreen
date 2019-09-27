@@ -25,7 +25,7 @@ For other ways to contribute, see the repo Issues [under the label 'enhancement'
 ### If you want to work on one of the Issues that are labeled with `enhancement` 
 * Please comment in the Issue and wait for confirmation before you start working on it.
 
-### Please do not approve other people’s pull requests or request changes on other people’s pull requests. The maintainers are the only approvals needed, thanks!
+### 👉🏽Please do not approve other people’s pull requests or request changes on other people’s pull requests. The maintainers are the only approvals needed, thanks!
 
 Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged and you can make multiple pull requests if you desire. If you run into trouble, feel free [to create an Issue](https://github.com/brittanyrw/emojiscreen/issues)!
 
