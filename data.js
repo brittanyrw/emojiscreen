@@ -545,6 +545,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0091326/"
     },
     {
+        title: "The Karate Kid Part III",
+        emojiImgs: "🤼‍♂️👦🏻👘3️⃣",
+        genres: ["action", "drama", "family"],
+        type: "movie",
+        year: 1989,
+        itemLink: "https://www.imdb.com/title/tt0097647/"
+    },
+    {
         title: "Kiki's Delivery Service",
         emojiImgs: "👧🐱🧹📫",
         genres: ["animated"],
