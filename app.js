@@ -115,6 +115,20 @@ $(document).ready(function() {
       .toggleClass("hide-card");
   });
 
+  // Toggle to expand or shrink all of the emojis by clicking an icon
+  $(".btn-expand-all").click(function () {
+    var title = $(this).attr("title");
+    title =
+      title.search(/expand/i) === -1
+        ? title.replace(/shrink/i, "Expand")
+        : title.replace(/expand/i, "Shrink");
+    $(this).attr("title", title);
+
+    $(this)
+      .find("i")
+      .toggleClass(["fa-search-plus", "fa-search-minus"]);
+  });
+
   function generateTitle(title, year, itemLink) {
     const titleElement = "<h3>" + title +" (" + year + ")</h3>"
     if(itemLink) {

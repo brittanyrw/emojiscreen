@@ -318,13 +318,21 @@ i {
 }
 
 .btn-reveal-all {
+  bottom: 20px;
+}
+
+.btn-expand-all {
+  bottom: 82px;
+}
+
+.btn-reveal-all,
+.btn-expand-all {
   outline: none;
   cursor: pointer;
   background-color: lavender;
   border: none;
   border-radius: 100%;
   position: fixed;
-  bottom: 20px;
   right: 30px;
   width: 50px;
   height: 50px;
@@ -336,9 +344,15 @@ i {
     bottom: 5px;
     right: 5px;
   }
+
+  .btn-expand-all {
+    bottom: 67px;
+    right: 5px;
+  }
 }
 
-.btn-reveal-all:before {
+.btn-reveal-all:before,
+.btn-expand-all:before {
   content: '';
   border-radius: 100%;
   position: absolute;
@@ -357,13 +371,15 @@ i {
   transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
 }
 
-.btn-reveal-all:hover::before {
+.btn-reveal-all:hover::before,
+.btn-expand-all:hover::before {
   opacity: 1;
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
 }
 
-.btn-reveal-all i {
+.btn-reveal-all i,
+.btn-expand-all i {
   background: transparent;
   font-size: 2em;
 }
