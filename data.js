@@ -732,6 +732,14 @@ const emojiItems = [
         year: 1940
     },
     {
+        title: "Pippin",
+        emojiImgs: "🕰👦🏻👑👥🗣🤝⚔💞",
+        genres: ["musical", "history", "romance", "war", "drama"],
+        itemLink: "http://www.playbill.com/production/pippin-imperial-theatre-vault-0000006044",
+        type: "musical",
+        year: 1972
+    },
+    {
         title: "Pirates of the Caribbean",
         emojiImgs: "🍻🏴‍☠️🚢",
         genres: ["action", "comedy", "musical"],
