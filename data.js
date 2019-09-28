@@ -347,6 +347,13 @@ const emojiItems = [
         year: 2005
     },
     {
+        title: "The Girl with the Dragon Tattoo",
+        emojiImgs: "👧💉🐉",
+        genres: ["crime","drama","mystery"],
+        type: "movie",
+        year: 2009
+    },
+    {
         title: "Hachi: A Dog's Tale",
         emojiImgs: "👨‍🏫💔🚉🐕🌭",
         genres: ["family", "drama"],
