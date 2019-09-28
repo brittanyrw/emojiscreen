@@ -116,17 +116,10 @@ $(document).ready(function() {
   });
 
   // Toggle to expand or shrink all of the emojis by clicking an icon
-  $(".btn-expand-all").click(function () {
-    var title = $(this).attr("title");
-    title =
-      title.search(/expand/i) === -1
-        ? title.replace(/shrink/i, "Expand")
-        : title.replace(/expand/i, "Shrink");
-    $(this).attr("title", title);
+  $("#btn-expand-all").click(function () {
+  });
 
-    $(this)
-      .find("i")
-      .toggleClass(["fa-search-plus", "fa-search-minus"]);
+  $("#btn-shrink-all").click(function () {
   });
 
   function generateTitle(title, year, itemLink) {
