@@ -495,6 +495,13 @@ const emojiItems = [
         year: 1997
     },
     {
+        title: "James and the Giant Peach",
+        emojiImgs: "🍑👦🦗🐛🐞🕷",
+        genres: ["animation", "adventure", "family"],
+        type: "movie",
+        year: 1996
+    },
+    {
         title: "Jane the Virgin",
         emojiImgs: "💃🏽♍️🌴👶🏽💖",
         genres: ["comedy", "romance", "tele novella"],
