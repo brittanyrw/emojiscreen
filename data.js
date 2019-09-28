@@ -530,7 +530,7 @@ const emojiItems = [
         year: 1993
     },
     {
-        title: "Jurassic Park: Fallen Kingdom",
+        title: "Jurassic World: Fallen Kingdom",
         emojiImgs: "🦖🦕🐊🤯😫",
         genres: ["action", "adventure", "Sci-Fi"],
         type: "movie",
