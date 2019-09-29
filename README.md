@@ -23,6 +23,7 @@ For other ways to contribute, see the repo Issues [under the label 'enhancement'
 * Please comment in the Issue so that others know to not add that show or movie. You do not have to wait for confirmation for Issues adding shows or movies before creating a Pull Request. Your comment will just help 'bookmark' the Issue for you to prevent duplicate Pull Requests.
 
 ## To give many people a chance to contribute to this project, please limit yourself to adding up to 4 shows/movies or completing up to 4 show/movie Issues. Thanks!
+> Some Issues ask for multiple movies/shows to be added, that will count as 1 of your 4 additions to the project. 
 
 ### If you want to work on one of the Issues that are labeled with `enhancement` 
 * Please comment in the Issue and wait for confirmation before you start working on it.
