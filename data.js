@@ -816,6 +816,14 @@ const emojiItems = [
         year: 2003
     },
     {
+        title: "Scream",
+        emojiImgs: "📞😱🔪🎭",
+        genres: ["horror", "mystery"],
+        itemLink: "https://www.imdb.com/title/tt0117571/",
+        type: "movie",
+        year: 1996
+    },
+    {
         title: "See No Evil, Hear No Evil",
         emojiImgs: "🙈👹🙉👹",
         genres: ["comedy", "crime"],
