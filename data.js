@@ -72,7 +72,7 @@ const emojiItems = [
     {
         title: "The Big Bang Theory",
         emojiImgs: "🌍💻⚗🔭",
-        genres: ["comedy","romance"],
+        genres: ["comedy", "romance"],
         type: "tv",
         year: 2007
     },
@@ -615,7 +615,7 @@ const emojiItems = [
     {
         title: "The Little Mermaid",
         emojiImgs: "‍🧜🏽‍🤴🏽🐠🦞🐙",
-        genres: ["animation","family","fantasy"],
+        genres: ["animation", "family", "fantasy"],
         type: "movie",
         year: 1989,
         itemLink: "https://www.imdb.com/title/tt0097757/"
@@ -675,7 +675,7 @@ const emojiItems = [
         genres: ["war", "music"],
         type: "movie",
         year: 1998
-    },{
+    }, {
         title: "Narcos",
         emojiImgs: "🔫🗡💊💉💰",
         genres: ["crime", "drama"],
@@ -906,6 +906,14 @@ const emojiItems = [
         genres: ["drama", "romance"],
         type: "movie",
         year: 2005
+    },
+    {
+        title: "The Wizard of Oz",
+        emojiImgs: "🐶🌪️🤖🦁🧙‍",
+        genres: ["adventure", "family", "fantasy"],
+        itemLink: "https://www.imdb.com/title/tt0032138/",
+        type: "movie",
+        year: 1939
     },
     {
         title: "Tropic Thunder",
