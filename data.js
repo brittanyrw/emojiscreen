@@ -70,6 +70,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt2771200/?ref_=fn_al_tt_1"
     },
     {
+        title: "Bend It Like Beckham",
+        emojiImgs: "🇮🇳🙎🏽‍♀️🙍🏽‍♂️🇬🇧⚽",
+        genres: ["comedy","drama","romance"],
+        type: "movie",
+        year: 2002,
+        itemLink: "https://www.imdb.com/title/tt0286499/"
+    }
+    {
         title: "The Big Bang Theory",
         emojiImgs: "🌍💻⚗🔭",
         genres: ["comedy","romance"],
