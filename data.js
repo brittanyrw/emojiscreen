@@ -976,5 +976,13 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "The Breakfast Club",
+        emojiImgs: "🏫🧠🤾👸",
+        genres: ["comedy", "drama"],
+        type: "movie",
+        year: 1985,
+        itemLink: "https://www.imdb.com/title/tt0088847/"
     }
 ]
