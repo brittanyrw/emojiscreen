@@ -816,7 +816,7 @@ const emojiItems = [
         type: "movie",
         year: 1998
     },
-{
+    {
         title: "School of Rock",
         emojiImgs: "🏫🎸🥁🎹",
         genres: ["comedy", "music"],
