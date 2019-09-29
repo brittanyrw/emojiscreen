@@ -452,7 +452,7 @@ const emojiItems = [
         year: 2009
     },
     {
-        title: "Interestelar",
+        title: "Interstellar",
         emojiImgs: "🌍👨‍🚀🚀⏱️❤️",
         genres: ["adventure", "drama", "sci-fi"],
         type: "movie",
