@@ -16,7 +16,7 @@
 
 Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add an `Emoji Card` to the website. Each card should be added in the `data.js` file as an object. 
 
-## To give many people a chance to contribute to this project, please limit yourself to adding up to 5 items or completing up to 5 Issues. Thanks!
+## To give many people a chance to contribute to this project, please limit yourself to adding up to 5 shows/movies or completing up to 5 Issues. Thanks!
 
 ### Issues
 For other ways to contribute, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). You are also welcome to suggest other features [by adding an Issue](https://github.com/brittanyrw/emojiscreen/issues).
