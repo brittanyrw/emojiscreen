@@ -809,6 +809,14 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "Saving Private Ryan",
+        emojiImgs: "🇫🇷🔍🔫☠🎖️",
+        genres: ["drama", "war"],
+        itemLink: "https://www.imdb.com/title/tt0120815/",
+        type: "movie",
+        year: 1998
+    },
+{
         title: "School of Rock",
         emojiImgs: "🏫🎸🥁🎹",
         genres: ["comedy", "music"],
