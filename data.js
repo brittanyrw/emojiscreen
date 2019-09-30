@@ -213,6 +213,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0421715/"
     },
     {
+        title: "The Dark Knight",
+        emojiImgs: "😈🤡🃏🖤",
+        genres: ["action", "crime", "drama"],
+        itemLink: "https://www.imdb.com/title/tt0468569/",
+        type: "movie",
+        year: 2008
+    },
+    {
         title: "Dear Evan Hansen",
         emojiImgs: "💌⚰️👨‍👩‍👧‍👦💻💞",
         genres: ["drama", "musical"],
