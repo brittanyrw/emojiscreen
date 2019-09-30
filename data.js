@@ -227,6 +227,14 @@ const emojiItems = [
         year: 2006
     },
     {
+        title: "Dil Dhadakne Do",
+        emojiImgs: "♥️💓✌️",
+        genres: ["bollywood", "drama"],
+        type: "movie",
+        year: 2015,
+        itemLink: "https://www.imdb.com/title/tt4110568/"
+    },
+    {
         title: "Dirty Dancing",
         emojiImgs: "🍉💃🕶🕺👶",
         genres: ["drama", "music", "romance"],
