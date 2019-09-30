@@ -984,4 +984,5 @@ const emojiItems = [
         genres: ["drama"],
         type: "tv",
         year: 1960
+    }
 ]
