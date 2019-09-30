@@ -234,6 +234,13 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "Doctor Who",
+        emojiImgs: "👶⚡️🚀🌍‍",
+        genres: ["adventure", "drama", "family"],
+        type: "tv",
+        year: 2005
+    },
+    {
         title: "Dora and the Lost City of Gold",
         emojiImgs: "👧🐒🏕️🏰💰",
         genres: ["fantasy", "adventure", "comedy"],
