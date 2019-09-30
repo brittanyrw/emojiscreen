@@ -70,6 +70,14 @@ const emojiItems = [
         year: 2002
     },
     {
+        title: "The Bachelorette",
+        emojiImgs: "👰💑🧔🧔🤵",
+        genres: ["Drama"],
+        itemLink: "https://www.imdb.com/title/tt0348894/",
+        type: "tv",
+        year: 2002
+    },
+    {
         title: "Beauty and the Beast",
         emojiImgs: "🏰🥀🎶📚🕰️",
         genres: ["animation", "family", "fantasy"],
