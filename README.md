@@ -33,7 +33,7 @@ Below are some guidelines to follow when contributing to this project.
 * We are not accepting Pull Requests for things such as white space updates or README.md updates for Hacktoberfest. These types of Pull Requests will be marked as invalid. For Hacktoberfest, we would prefer that you add something to the project and not the documentation. 
 
 #### Please do not approve or make suggestions on other people's Pull Requests.
-* We do not need additional maintainers at this time. To avoid confusion and incorrect approvals, only maintainers approve or comment on Pull Requests. 
+* We do not need additional maintainers at this time. To avoid confusion and incorrect approvals, only maintainers approve Pull Requests. 
 
 ### Issues
 For other ways to contribute, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). You are also welcome to suggest other features [by adding an Issue](https://github.com/brittanyrw/emojiscreen/issues).
