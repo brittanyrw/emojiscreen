@@ -778,6 +778,13 @@
         year: 1979
     },
     {
+        title: "The Blair Witch",
+        emojiImgs: "🌲🎥😱🧙‍️",
+        genres: ["horror", "mystery"],
+        type: "movie",
+        year: 1999
+    },
+    {
         title: "Their Eyes Were Watching God",
         emojiImgs: "👀👼🎬",
         genres: ["drama", "romance"],
