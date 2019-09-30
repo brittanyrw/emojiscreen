@@ -1,5 +1,4 @@
-const emojiItems = [
-    {
+const emojiItems = [{
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
         genres: ["musical", "comedy"],
@@ -72,7 +71,7 @@ const emojiItems = [
     {
         title: "The Big Bang Theory",
         emojiImgs: "🌍💻⚗🔭",
-        genres: ["comedy","romance"],
+        genres: ["comedy", "romance"],
         type: "tv",
         year: 2007
     },
@@ -615,7 +614,7 @@ const emojiItems = [
     {
         title: "The Little Mermaid",
         emojiImgs: "‍🧜🏽‍🤴🏽🐠🦞🐙",
-        genres: ["animation","family","fantasy"],
+        genres: ["animation", "family", "fantasy"],
         type: "movie",
         year: 1989,
         itemLink: "https://www.imdb.com/title/tt0097757/"
@@ -675,7 +674,7 @@ const emojiItems = [
         genres: ["war", "music"],
         type: "movie",
         year: 1998
-    },{
+    }, {
         title: "Narcos",
         emojiImgs: "🔫🗡💊💉💰",
         genres: ["crime", "drama"],
@@ -976,5 +975,12 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "American Idol",
+        emojiImgs: "🇺🇸🗣🎤",
+        genres: ["game show", "musical", "reality"],
+        type: "tv",
+        year: 2002
     }
-]
+];
