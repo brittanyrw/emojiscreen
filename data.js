@@ -964,6 +964,14 @@ const emojiItems = [
         year: 1971
     },
     {
+        title: "Wonder Woman",
+        emojiImgs: "🤔🦸🏻‍♀️",
+        genres: ["action","adventure","fantasy","sci-fi"],
+        type: "movie",
+        year: 2017,
+        itemLink: "https://www.imdb.com/title/tt0451279/"
+    },
+    {
         title: "X-Files",
         emojiImgs: "👽🛸👦🏻👩‍🦰🔦",
         genres: ["sci-fi", "drama", "mystery"],
@@ -976,13 +984,5 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    },
-    {
-        title: "Wonder Woman",
-        emojiImgs: "🤔🦸🏻‍♀️",
-        genres: ["action","adventure","fantasy","sci-fi"],
-        type: "movie",
-        year: 2017,
-        itemLink: "https://www.imdb.com/title/tt0451279/"
     }
 ]
