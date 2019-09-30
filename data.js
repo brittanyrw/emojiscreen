@@ -985,4 +985,12 @@ const emojiItems = [
         year: 2010,
         itemLink: "https://www.imdb.com/title/tt1877368/"
     },
+    {
+        title: "Hackers",
+        emojiImgs: "👩🏻‍💻👨🏻‍💻📡🕵",
+        genres: ["Action & Adventure", "Mystery & Suspense", "Science Fiction & Fantasy"],
+        type: "movie",
+        year: 1995,
+        itemLink: "https://www.imdb.com/title/tt0113243/"
+    }
 ]
