@@ -42,6 +42,13 @@
         year: 1979
     },
     {
+        title: "America's Next Top Model",
+        emojiImgs: "👜👭👭",
+        genres: ["game-show", "reality"],
+        type: "tv-series",
+        year: 2003
+    },
+    {
         title: "Beauty and the Beast",
         emojiImgs: "🏰🥀🎶📚🕰️",
         genres: ["animation", "family", "fantasy"],
