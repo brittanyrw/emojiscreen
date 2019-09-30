@@ -976,5 +976,12 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    }
+    },
+    {
+        titlw: "Mad Men",
+        emojiImgs: "😠👬",
+        itemLink: "https://www.imdb.com/title/tt0804503/",
+        genres: ["drama"],
+        type: "tv",
+        year: 1960
 ]
