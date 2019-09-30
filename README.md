@@ -16,19 +16,33 @@
 
 Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add an `Emoji Card` to the website. Each card should be added in the `data.js` file as an object. 
 
+### Contribution Guidlines
+
+Below are some guidelines to follow when contributing to this project. 
+
+#### We are limiting contributions per person to 4 additions per project. 
+* Please limit yourself to adding 4 shows/movies and/or completing 4 Issues. This is due to the high level of activity on this project at the moment. Some Issues ask you to add multiple movies, those Issues count as 1 addition. We want to make sure many people have a chance to contribute to this project. The limit will be lifted once the activity has died down. 🙂
+
+#### Check Issues and current Pull Requests before contributing to avoid adding duplicates. 
+* If your Pull Request is a duplicate, we will let you know so that you can update it if you like. 
+ 
+#### If someone has commented inside of the Issue saying they are working on it, that item is reserved for them. 
+* Please choose something else to add if someone else has already said they will add something. We will close Pull Requests and mark them as invalid if you are purposely creating Pull Requests for Issues that someone else has reserved in an attempt to try to complete it first or try to race someone in adding something. 
+
+#### Please limit Pull Requests to adding a show/movie, completing an Issue or adding a feature. 
+* We are not accepting Pull Requests for things such as white space updates or README.md updates for Hacktoberfest. These types of Pull Requests will be marked as invalid. For Hacktoberfest, we would prefer that you add something to the project and not the documentation. 
+
+#### Please do not approve or make suggestions on other people's Pull Requests.
+* We do not need additional maintainers at this time. To avoid confusion and incorrect approvals, only maintainers approve or comment on Pull Requests. 
+
 ### Issues
 For other ways to contribute, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). You are also welcome to suggest other features [by adding an Issue](https://github.com/brittanyrw/emojiscreen/issues).
 
 ### If you want to work on one of the [Issues to add a TV show, movie or musical](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis)
 * Please comment in the Issue so that others know to not add that show or movie. You do not have to wait for confirmation for Issues adding shows or movies before creating a Pull Request. Your comment will just help 'bookmark' the Issue for you to prevent duplicate Pull Requests.
 
-## To give many people a chance to contribute to this project, please limit yourself to adding up to 4 shows/movies or completing up to 4 show/movie Issues. Thanks!
-> Some Issues ask for multiple movies/shows to be added, that will count as 1 of your 4 additions to the project. 
-
 ### If you want to work on one of the Issues that are labeled with `enhancement` 
 * Please comment in the Issue and wait for confirmation before you start working on it.
-
-### 👉🏽Please do not approve other people’s pull requests or request changes on other people’s pull requests. The maintainers are the only approvals needed, thanks!
 
 Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged and you can make multiple pull requests if you desire. If you run into trouble, feel free [to create an Issue](https://github.com/brittanyrw/emojiscreen/issues)!
 
@@ -36,7 +50,7 @@ Read below for a detailed overview and walkthrough on how to add an `Emoji Card`
 
 - [Choosing a Movie, TV Show or Musical to Add](#choosing-a-movie-tv-show-or-musical-to-add)
 - [Emoji Card Overview](#card-overview)
-- [Contribution Walkthroughs](#walkthrough)
+- [Contribution Guildlines](#walkthrough)
   - [Contribute using Github Website (no downloads required)](#github-ui)
   - [Contribute using your local development environment (downloads required)](#local-development)  
 - [Git & Github Resources](#other-resources-and-options)
