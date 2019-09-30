@@ -754,6 +754,14 @@ const emojiItems = [
         year: 1998
     },
     {
+        title: "Power Rangers",
+        emojiImgs: "🎨5️⃣🤖🔫⚖️",
+        genres: ["action", "adventure", "family"],
+        itemLink: "https://www.imdb.com/title/tt0106064/",
+        type: "tv",
+        year: 1993
+    },
+    {
         title: "Princess and the Frog",
         emojiImgs: "👸🏽🐸💋💒🥂",
         genres: ["animation", "adventure", "comedy"],
