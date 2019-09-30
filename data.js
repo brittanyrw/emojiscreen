@@ -45,7 +45,7 @@
         title: "America's Next Top Model",
         emojiImgs: "👜👭👭",
         genres: ["game-show", "reality"],
-        type: "tv-series",
+        type: "tv",
         year: 2003
     },
     {
