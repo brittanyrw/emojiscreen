@@ -621,7 +621,7 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0097757/"
     },
     {
-    title: "THe Lizzie McGuire Movie",
+    title: "The Lizzie McGuire Movie",
     emojiImgs: "🎓✈🇮🇹👯🎤",
     genres: ["adventure", "comedy", "family"],
     type: "movie",
