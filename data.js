@@ -612,6 +612,13 @@
         year: 2014
     },
     {
+        title: "The Mast",
+        emojiImgs: "😀🎭🐶",
+        genres: ["comedy", "crime", "fantasy"],
+        type: "movie",
+        year: 1994
+    },
+    {
         title: "The Other Side of Heaven",
         emojiImgs: "⛪🙏🏝🇹🇴😇",
         genres: ["adventure", "biography", "drama"],
