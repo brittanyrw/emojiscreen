@@ -291,6 +291,14 @@ const emojiItems = [
         year: 2013
     },
     {
+        title: "Gavin and Stacey",
+        emojiImgs: "🤵🏻👰🏼🙍🏻‍👱🏻‍👶🏼",
+        genres: ["comedy", "romance"],
+        itemLink: "https://www.imdb.com/title/tt0908454",
+        type: "tv",
+        year: 2007
+    },
+    {
         title: "Game of Thrones",
         emojiImgs: "🐉👑🗡️📚🧟",
         genres: ["action", "adventure", "drama"],
