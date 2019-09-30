@@ -976,5 +976,12 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "Mad Men",
+        emojiImgs: "‍😡 👨🏻 👨🏻 ",
+        genres: ["drama"],
+        type: "tv",
+        year: 2007
     }
 ]
