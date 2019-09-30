@@ -21,7 +21,7 @@ Below are instructions for how to contribute to this project. The easiest way to
 Below are some guidelines to follow when contributing to this project. 
 
 #### We are limiting contributions per person to 4 additions per project. 
-* Please limit yourself to adding 4 shows/movies and/or completing 4 Issues. This is due to the high level of activity on this project at the moment. Some Issues ask you to add multiple movies, those Issues count as 1 addition. We want to make sure many people have a chance to contribute to this project. The limit will be lifted once the activity has died down. 🙂
+* Please limit yourself to up to 4 additions to this project. (Example: Complete 1 feature and add three movies, complete 4 Issues for movies and add one feature, add four movies, etc). This is due to the high level of activity on this project at the moment. Some Issues ask you to add multiple movies, those Issues count as 1 addition. We want to make sure many people have a chance to contribute to this project. The limit will be lifted once the activity has died down. 🙂
 
 #### Check Issues and current Pull Requests before contributing to avoid adding duplicates. 
 * If your Pull Request is a duplicate, we will let you know so that you can update it if you like. 
