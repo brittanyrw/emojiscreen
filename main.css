@@ -410,9 +410,8 @@ footer a {
 }
 button{
   float:right;
- 
- background: none;
-border-style: none;
+  background: none;
+  border-style: none;
   
 }
 #bulb{
