@@ -621,6 +621,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0097757/"
     },
     {
+    title: "THe Lizzie McGuire Movie",
+    emojiImgs: "🎓✈🇮🇹👯🎤",
+    genres: ["adventure", "comedy", "family"],
+    type: "movie",
+    year: 2003,
+    itemLink: "https://www.imdb.com/title/tt0306841/"
+    },
+    {
         title: "The Lord of the Rings: The Fellowship of the Ring",
         emojiImgs: "💍🧝⚔️🧙",
         genres: ["adventure", "drama", "fantasy"],
