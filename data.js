@@ -1,5 +1,13 @@
 const emojiItems = [
     {
+        title: "10 Things I Hate About You",
+        emojiImgs: "🥰🏫😂",
+        genres: ["love", "comedy"],
+        type: "movie",
+        year: 1999,
+        itemLink: "https://www.imdb.com/title/tt0147800/?ref_=nv_sr_1?ref_=nv_sr_1"
+    },
+    {
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
         genres: ["musical", "comedy"],
