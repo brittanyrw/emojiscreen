@@ -788,6 +788,14 @@ const emojiItems = [
         year: 2018
     },
     {
+        title: "Remember the Titans",
+        emojiImgs: "🏉🏫🌍🔥",
+        genres: ["Biography", "Drama", "Sport"],
+        type: "movie",
+        year: 2000,
+        itemLink: "https://www.imdb.com/title/tt0210945/"
+    },
+    {
         title: "Rent",
         emojiImgs: "🍃🍂🍁♥️",
         genres: ["drama", "musical", "romance"],
