@@ -43,7 +43,8 @@ const emojiItems = [
         emojiImgs: "👱‍🐇⌚👑♥️",
         genres: ["animation", "adventure", "family"],
         type: "movie",
-        year: 1951
+        year: 1951,
+        itemLink: "https://www.imdb.com/title/tt0043274/"
     },
     {
         title: "Alien",
