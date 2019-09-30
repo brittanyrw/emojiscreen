@@ -10,12 +10,19 @@ $(document).ready(function() {
 
   // Loop through the data from the data.js file and insert parts of the data into HTML. On each loop, we are appending a new card with the HTML below.
   for (var i in emojiItems) {
+    const type = emojiItems[i].type
+    const emojiImgs = emojiItems[i].emojiImgs
+    const year = emojiItems[i].year
+    const title = emojiItems[i].title
+    const itemLink = emojiItems[i].itemLink
+
     emojiCard +=
-      "<div class='emoji-card' data-filter='" + emojiItems[i].type +
-    "'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + emojiItems[i].type +
-    "</span></p></div><div class='emoji-images'>" + emojiItems[i].emojiImgs +
-    "</div><div class='emoji-card-title hide-card'><h3>" + emojiItems[i].title +
-    " (" + emojiItems[i].year + ")" + "</h3></div></div>";
+      "<div class='emoji-card' data-filter='" + type +
+    "'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + type +
+    "</span></p></div><div class='emoji-images'>" + emojiImgs +
+    "</div><div class='emoji-card-title hide-card'>" +
+      generateTitle(title, year, itemLink) +
+    "</div></div>";
   }
 
   // Append the emoji card variable, which has all of the emoji cards to the initial variable we created that was for the container to hold the cards.
@@ -26,7 +33,7 @@ $(document).ready(function() {
 
   // Add the count of number of shows/movies to the footer.
   $("footer span").append(emojiItems.length);
-    
+
 
   // Display movies and show in a random order, the random order will refresh on page reload. This function is used above before the cards are rendered on the page.
   function shuffle(array) {
@@ -46,7 +53,7 @@ $(document).ready(function() {
   }
 
   // The code that runs the filter buttons at the top of the page. This currently allows users to filter by 'type' (ie musical, movie or tv show).
-  $("#filters button").each(function() { 
+  $("#filters button").each(function() {
     $(this).on("click", function() {
       var filtertag = $(this).attr("data-filter");
       $("#message").hide();
@@ -69,7 +76,7 @@ $(document).ready(function() {
       }
     });
   });
-  
+
   // Reveal the movie or show title when the user clicks on the emojis.
   $("#emojis").on("click", ".emoji-images", function() {
     $(this)
@@ -107,5 +114,13 @@ $(document).ready(function() {
       .find(".emoji-card-title")
       .toggleClass("hide-card");
   });
+
+  function generateTitle(title, year, itemLink) {
+    const titleElement = "<h3>" + title +" (" + year + ")</h3>"
+    if(itemLink) {
+      return "<a title='Go to website' href='" + itemLink + "' target='_blank'>" + titleElement + "</a>"
+    }
+    return titleElement
+  }
 });
 
