@@ -886,6 +886,14 @@ const emojiItems = [
         year: 2013
     },
     {
+        title: "Superbad",
+        emojiImgs: "🍺😂😂😂",        
+        genres: ["high school comedy", "comedy","teenage"],
+        type: "movie",
+        year: 2007,
+        itemLink: "https://www.imdb.com/title/tt0829482/?ref_=nv_sr_1?ref_=nv_sr_1"
+    },
+    {
         title: "Sweeney Todd: The Demon Barber of Fleet Street",
         emojiImgs: "💈🔪☠️🍰",
         genres: ["drama", "horror", "musical"],
@@ -933,7 +941,8 @@ const emojiItems = [
         emojiImgs: "📺❤️💻",
         genres: ["animation", "adventure", "family"],
         type: "movie",
-        year: 2008
+        year: 2008,
+        itemLink:"https://www.imdb.com/title/tt0910970/?ref_=nv_sr_1?ref_=nv_sr_1"
     },
     {
         title: "West Side Story",
@@ -947,7 +956,8 @@ const emojiItems = [
         emojiImgs: "🤔🌎🕵️‍♀️💄",
         genres: ["game show", "children"],
         type: "tv",
-        year: 1991
+        year: 1991,
+        itemLink:"https://www.imdb.com/title/tt0106172/?ref_=nv_sr_1?ref_=nv_sr_1"
     },
     {
         title: "Wicked",
@@ -961,20 +971,23 @@ const emojiItems = [
         emojiImgs: "🧒🏻🍫🏭🎩️",
         genres: ["family", "fantasy", "musical"],
         type: "movie",
-        year: 1971
+        year: 1971,
+        itemLink:"https://www.imdb.com/title/tt0067992/?ref_=nv_sr_1?ref_=nv_sr_1";
     },
     {
         title: "X-Files",
         emojiImgs: "👽🛸👦🏻👩‍🦰🔦",
         genres: ["sci-fi", "drama", "mystery"],
         type: "tv",
-        year: 1993
+        year: 1993,
+        itemLink:"https://www.imdb.com/title/tt0106179/?ref_=nv_sr_1?ref_=nv_sr_1"
     },
     {
         title: "Young Frankenstein",
         emojiImgs: "👶🌭🍺⚡️🧟‍",
         genres: ["comedy"],
         type: "movie",
-        year: 1974
+        year: 1974,
+        itemLink:"https://www.imdb.com/title/tt0072431/?ref_=nv_sr_1?ref_=nv_sr_1"
     }
 ]
