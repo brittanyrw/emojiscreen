@@ -844,6 +844,14 @@ const emojiItems = [
         year: 1998
     },
     {
+        title: "Short Circuit",
+        emojiImgs: "🤖5️⃣🔋⚡",
+        genres: ["comedy", "sci-fi"],
+        type: "movie",
+        year: 1986,
+        itemLink: "https://www.imdb.com/title/tt0091949/"
+    },
+    {
         title: "Sixth Sense",
         emojiImgs: "👻👦👀",
         genres: ["drama", "mystery", "thriller"],
