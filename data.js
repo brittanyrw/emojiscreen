@@ -865,6 +865,14 @@ const emojiItems = [
         year: 1994
     },
     {
+        title: "Speed",
+        emojiImgs: "🚍⏱💣",
+        genres: ["action", "adventure", "Thriller"],
+        type: "movie",
+        year: 1994,
+        itemLink: "https://www.imdb.com/title/tt1517451/?ref_=fn_al_tt_1"
+    },
+    {
         title: "Spiderman",
         emojiImgs: "😎🕷💪😍",
         genres: ["action", "adventure", "sci-fi"],
