@@ -670,6 +670,14 @@ const emojiItems = [
         year: 1991
     },
     {
+        title: "Moulin Rouge",
+        emojiImgs: "💃🇫🇷🎟🎭💋",
+        genres: ["drama", "musical", "romance"],
+        type: "movie",
+        year: 2001,
+        itemLink: "https://www.imdb.com/title/tt0203009/"
+    },
+    {
         title: "Mulan",
         emojiImgs: "🔫⚔️🎶🥁",
         genres: ["war", "music"],
