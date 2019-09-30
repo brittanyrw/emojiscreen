@@ -718,6 +718,14 @@ const emojiItems = [
         year: 2001
     },
     {
+        title: "Parks and Recreation",
+        emojiImgs: "🕳️🏞️🥳👩‍💼",
+        genres: ["comedy"],
+        itemLink: "https://www.imdb.com/title/tt1266020/",
+        type: "tv",
+        year: 2009
+    },
+    {
         title: "Pet Sematary",
         emojiImgs: "🐶🐱☠️⚰️",
         genres: ["horror", "thriller", "mystery"],
