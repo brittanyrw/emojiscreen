@@ -689,7 +689,7 @@ const emojiItems = [
     },
     {
         title: "On the Town",
-        emojiImgs: "⚓🚢",
+        emojiImgs: "⚓🚢👯",
         genres: ["comedy"],
         type: "play",
         year: 2014
@@ -787,7 +787,7 @@ const emojiItems = [
     },
     {
         title: "RocketMan",
-        emojiImgs: "🐱 📫",
+        emojiImgs: "🐱🚀📫",
         genres: ["drama", "musical"],
         type: "movie",
         year: 2019
