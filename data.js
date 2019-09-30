@@ -612,6 +612,13 @@
         year: 2014
     },
     {
+        title: "The Sister Act",
+        emojiImgs: "⛪👩‍👧‍👧🎶",
+        genres: ["comedy", "crime", "family"],
+        type: "movie",
+        year: 1992
+    },
+    {
         title: "The Other Side of Heaven",
         emojiImgs: "⛪🙏🏝🇹🇴😇",
         genres: ["adventure", "biography", "drama"],
