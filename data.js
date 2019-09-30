@@ -778,6 +778,13 @@
         year: 1979
     },
     {
+        title: "The Barber",
+        emojiImgs: "💈👨✂️",
+        genres: ["drama", "comedy"],
+        type: "movie",
+        year: 2002
+    },
+    {
         title: "Their Eyes Were Watching God",
         emojiImgs: "👀👼🎬",
         genres: ["drama", "romance"],
