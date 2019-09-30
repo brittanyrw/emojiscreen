@@ -248,6 +248,14 @@ const emojiItems = [
         year: 1982
     },
     {
+        title: "Falsettos",
+        emojiImgs: "❤️👯‍♂️👯‍♀️❤️",
+        genres: ["musical", "drama"],
+        type: "musical",
+        year: 1992,
+        itemLink: "http://www.playbill.com/production/falsettos-john-golden-theatre-vault-0000008390"
+    },
+    {
         title: "Fargo",
         emojiImgs: "🚔🌳👶🏻⚰️",
         genres: ["crime", "drama", "thriller"],
