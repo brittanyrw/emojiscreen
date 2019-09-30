@@ -46,6 +46,14 @@ const emojiItems = [{
         itemLink: "https://www.imdb.com/title/tt0090390/?ref_=fn_al_tt_1"
     },
     {
+        title: "American Idol",
+        emojiImgs: "🇺🇸🗣🎤",
+        genres: ["game show", "musical"],
+        type: "tv",
+        year: 2002,
+        itemLink: "https://www.imdb.com/title/tt0319931/",
+    },
+    {
         title: "Avatar",
         emojiImgs: "👱‍♂️🔵👱‍♂️👩‍🦰🔵",
         genres: ["action", "fantasy"],
@@ -975,12 +983,5 @@ const emojiItems = [{
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    },
-    {
-        title: "American Idol",
-        emojiImgs: "🇺🇸🗣🎤",
-        genres: ["game show", "musical"],
-        type: "tv",
-        year: 2002
     }
 ];
