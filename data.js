@@ -670,6 +670,14 @@ const emojiItems = [
         year: 1991
     },
     {
+        title: "Mrs. Doubtfire",
+        emojiImgs: "👨➡👵",
+        genres: ["comedy", "drama", "family"],
+        itemLink: "https://www.imdb.com/title/tt0107614/",
+        type: "movie",
+        year: 1993
+    },
+    {
         title: "Mulan",
         emojiImgs: "🔫⚔️🎶🥁",
         genres: ["war", "music"],
