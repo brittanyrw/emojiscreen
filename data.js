@@ -523,6 +523,13 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "Juno",
+        emojiImgs: "🏫🤰💉",
+        genres: ["comedy", "drama"],
+        type: "movie",
+        year: 2007
+    },
+    {
         title: "Jurassic Park",
         emojiImgs: "🔬🦖🏝",
         genres: ["action", "adventure", "sci-fi"],
