@@ -1,5 +1,13 @@
 const emojiItems = [
     {
+        title: "Mean Girls",
+        emojiImgs: "👚🏫📓🔥😏",
+        genres: ["movie", "comedy"],
+        type: "movie",
+        year: 2004,
+        itemLink: "https://www.imdb.com/title/tt0377092/"
+    },
+    {
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
         genres: ["musical", "comedy"],
