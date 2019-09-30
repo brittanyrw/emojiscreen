@@ -979,7 +979,7 @@ const emojiItems = [{
     {
         title: "American Idol",
         emojiImgs: "🇺🇸🗣🎤",
-        genres: ["game show", "musical", "reality"],
+        genres: ["game show", "musical"],
         type: "tv",
         year: 2002
     }
