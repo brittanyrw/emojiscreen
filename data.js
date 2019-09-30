@@ -72,7 +72,7 @@ const emojiItems = [
     {
         title: "The Big Bang Theory",
         emojiImgs: "🌍💻⚗🔭",
-        genres: ["comedy","romance"],
+        genres: ["comedy", "romance"],
         type: "tv",
         year: 2007
     },
@@ -615,7 +615,7 @@ const emojiItems = [
     {
         title: "The Little Mermaid",
         emojiImgs: "‍🧜🏽‍🤴🏽🐠🦞🐙",
-        genres: ["animation","family","fantasy"],
+        genres: ["animation", "family", "fantasy"],
         type: "movie",
         year: 1989,
         itemLink: "https://www.imdb.com/title/tt0097757/"
@@ -663,6 +663,14 @@ const emojiItems = [
         year: 2003
     },
     {
+        title: "Men in Black",
+        emojiImgs: "👨⤵◾",
+        genres: ["action", "adventure", "comedy"],
+        itemLink: "https://www.imdb.com/title/tt0119654/",
+        type: "movie",
+        year: 1997
+    },
+    {
         title: "Miss Saigon",
         emojiImgs: "🇻🇳💑🚁👶",
         genres: ["drama", "war", "musical"],
@@ -675,7 +683,7 @@ const emojiItems = [
         genres: ["war", "music"],
         type: "movie",
         year: 1998
-    },{
+    }, {
         title: "Narcos",
         emojiImgs: "🔫🗡💊💉💰",
         genres: ["crime", "drama"],
