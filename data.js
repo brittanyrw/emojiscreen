@@ -241,6 +241,14 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "Dude, Where's My Car?",
+        emojiImgs: "👨❓🚗",
+        gebres: ["comedy", "sci-fi"],
+        type: "movie",
+        year: 2000,
+        itemLink: "https://www.imdb.com/title/tt0242423/"
+    },
+    {
         title: "E.T. the Extra-Terrestrial",
         emojiImgs: "🌙🚲👉🏻👈🏻👽",
         genres: ["family", "sci-fi"],
