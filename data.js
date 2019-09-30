@@ -670,6 +670,14 @@ const emojiItems = [
         year: 1991
     },
     {
+        title: "Moonrise Kingdom",
+        emojiImgs: "⛺️🧳🌕👑",
+        genres: ["Comedy", "Drama", "Romance"],
+        itemLink: "https://www.imdb.com/title/tt1748122/",
+        type: "movie",
+        year: 2012
+    },
+    {
         title: "Mulan",
         emojiImgs: "🔫⚔️🎶🥁",
         genres: ["war", "music"],
