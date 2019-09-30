@@ -27,7 +27,7 @@ Below are some guidelines to follow when contributing to this project.
 * If your Pull Request is a duplicate, we will let you know so that you can update it if you like. 
  
 #### If someone has commented inside of the Issue saying they are working on it, that item is reserved for them. 
-* Please choose something else to add if someone else has already said they will add something. We will close Pull Requests and mark them as invalid if you are purposely creating Pull Requests for Issues that someone else has reserved in an attempt to try to complete it first or try to race someone in adding something. 
+* Please choose something else to add if someone else has already said they will add something. We will let you know if you accidently add something that someone else is assigned. It is easy to tell if someone is adding something accidently vs if they are ignoring our rules. We will mark Pull Requests as invalid (and therefore it will not count towards Hacktoberfest) if you are purposely creating multiple Pull Requests for Issues that someone else is assigned to or has reserved. 
 
 #### Please limit Pull Requests to adding a show/movie, completing an Issue or adding a feature. 
 * We are not accepting Pull Requests for things such as white space updates or README.md updates for Hacktoberfest. These types of Pull Requests will be marked as invalid. For Hacktoberfest, we would prefer that you add something to the project and not the documentation. 
