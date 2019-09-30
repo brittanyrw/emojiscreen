@@ -739,6 +739,14 @@ const emojiItems = [
         year: 1994
     },
     {
+        title: "Pokemon Detective Pikachu",
+        emojiImgs: "🕵️⛏️👟",
+        genres: ["action", "adventure", "comedy"],
+        type: "movie",
+        year: 2019,
+        itemLink: "https://www.imdb.com/title/tt5884052/?ref_=nv_sr_2?ref_=nv_sr_2"
+    },
+   {
         title: "Pokemon: The First Movie",
         emojiImgs: "👦️🐁️😭️",
         genres: ["animation"],
