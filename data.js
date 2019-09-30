@@ -976,5 +976,13 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    }
+    },
+    {
+        title: "Jersey Shore ",
+        emojiImgs: "😂🥺🙆‍💔",
+        genres: ["comedy", "drama", "reality"],
+        type: "tv",
+        year: 2009,
+        itemLink: "https://www.imdb.com/title/tt1563069/",
+    },
 ]
