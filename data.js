@@ -62,6 +62,14 @@ const emojiItems = [
         year: 2005
     },
     {
+        title: "The Bachelor",
+        emojiImgs: "🤵💑👩👩👰",
+        genres: ["Drama"],
+        itemLink: "https://www.imdb.com/title/tt0313038/",
+        type: "tv",
+        year: 2002
+    },
+    {
         title: "Beauty and the Beast",
         emojiImgs: "🏰🥀🎶📚🕰️",
         genres: ["animation", "family", "fantasy"],
