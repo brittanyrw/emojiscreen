@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: #292932;
   padding: 40px;
@@ -95,6 +99,21 @@ h2 {
   grid-template-columns: 1fr;
   grid-gap: 20px;
   border-bottom: 2px solid white;
+}
+
+#back-to-top-button{
+  cursor: pointer;
+  position: fixed;
+  bottom: 85px;
+  right: 30px;
+  width: 50px;
+  height: 50px;
+  z-index: 9999;
+}
+
+#back-to-top-button:hover{
+  opacity: 0.9;
+  transition: 0.2s;
 }
 
 @media screen and (min-width: 662px){
@@ -334,6 +353,11 @@ i {
 @media screen and (max-width: 1024px){
   .btn-reveal-all {
     bottom: 5px;
+    right: 5px;
+  }
+
+  #back-to-top-button{ 
+    bottom: 60px;
     right: 5px;
   }
 }
