@@ -663,6 +663,14 @@ const emojiItems = [
         year: 2003
     },
     {
+        title: "Men in Black: International",
+        emojiImgs: "👨⤵◾👽",
+        genres: ["action","sci-fi","comedy"],
+        type: "movie",
+        year: 2019,
+        itemLink : "imdb.com/title/tt2283336/"
+    },
+    {
         title: "Miss Saigon",
         emojiImgs: "🇻🇳💑🚁👶",
         genres: ["drama", "war", "musical"],
