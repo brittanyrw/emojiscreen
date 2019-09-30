@@ -663,6 +663,14 @@ const emojiItems = [
         year: 2003
     },
     {
+        title: "Merlin",
+        emojiImgs: "🧙🤴👑⚔️🐉",
+        genres: ["adventure", "drama", "fantasy "],
+        itemLink: "https://www.imdb.com/title/tt1199099/",
+        type: "tv",
+        year: 2008
+    },
+    {
         title: "Miss Saigon",
         emojiImgs: "🇻🇳💑🚁👶",
         genres: ["drama", "war", "musical"],
