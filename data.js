@@ -427,6 +427,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt4110568/"
     },
     {
+        title: "Dilwale Dulhania Le Jayenge",
+        emojiImgs: "💕👰🚗",
+        genres: ["drama", "romance"],
+        type: "movie",
+        year: 1995,
+        itemLink: "https://www.imdb.com/title/tt0112870/"
+    },
+    {
         title: "Dirty Dancing",
         emojiImgs: "🍉💃🕶🕺👶",
         genres: ["drama", "music", "romance"],
