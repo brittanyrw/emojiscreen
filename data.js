@@ -153,7 +153,8 @@ const emojiItems = [
         emojiImgs: "👋🏃‍🦹‍",
         genres: ["biography", "crime", "drama"],
         type: "movie",
-        year: 2002
+        year: 2002,
+        itemLink: "https://www.imdb.com/title/tt0264464/"
     },
     {
         title: "The Cheetah Girls",
