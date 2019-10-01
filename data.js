@@ -165,6 +165,13 @@ const emojiItems = [
         year: 2011
     },
     {
+        title: "Captain America: The Winter Soldier",
+        emojiImgs: "🇺🇸🛡❄👨‍✈️💪",
+        genres: ["action", "sci-fi", "adventure"],
+        type: "movie",
+        year: 2014
+    },
+    {
         title: "Cast Away",
         emojiImgs: "🏐🥥🏝️",
         genres: ["action", "comedy", "musical"],
