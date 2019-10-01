@@ -145,6 +145,7 @@ const emojiItems = [
         title: "Cast Away",
         emojiImgs: "🏐🥥🏝️",
         genres: ["action", "comedy", "musical"],
+        itemLink: "https://www.imdb.com/title/tt0162222/",
         type: "movie",
         year: 2000
     },
@@ -152,6 +153,7 @@ const emojiItems = [
         title: "The Cheetah Girls",
         emojiImgs: "🐆🐆🐆🐆🎶",
         genres: ["comedy", "drama", "musical"],
+        itemLink: "https://www.imdb.com/title/tt0338852/",
         type: "movie",
         year: 2003
     },
@@ -159,6 +161,7 @@ const emojiItems = [
         title: "Chernobyl",
         emojiImgs: "💥☢️🇺🇦",
         genres: ["drama", "history"],
+        itemLink: "https://www.imdb.com/title/tt7366338/",
         type: "tv",
         year: 2019
     },
@@ -166,6 +169,7 @@ const emojiItems = [
         title: "Chicago",
         emojiImgs: "🎷👯🔫👠🕺",
         genres: ["musical", "drama", "comedy"],
+        itemLink: "https://www.imdb.com/title/tt0299658/",
         type: "movie",
         year: 2002
     },
@@ -173,6 +177,7 @@ const emojiItems = [
         title: "Child's Play",
         emojiImgs: "👶😰😫☠",
         genres: ["action", "horror", "sci-fi"],
+        itemLink: "https://www.imdb.com/title/tt8663516/",
         type: "movie",
         year: 2019
     },
@@ -180,6 +185,7 @@ const emojiItems = [
         title: "Cloudy with a Chance of Meatballs",
         emojiImgs: " ☁️🥩⚽☂️",
         genres: ["animation", "adventure", "comedy"],
+        itemLink: "https://www.imdb.com/title/tt0844471/",
         type: "movie",
         year: 2009
     },
@@ -187,6 +193,7 @@ const emojiItems = [
         title: "Clueless",
         emojiImgs: "🛍️💅💞💋🗽",
         genres: ["comedy", "romance"],
+        itemLink: "https://www.imdb.com/title/tt0112697/",
         type: "movie",
         year: 1995
     },
@@ -194,6 +201,7 @@ const emojiItems = [
         title: "The Color Purple",
         emojiImgs: "💜🏃🏾‍♀️🧘🏾‍♀️",
         genres: ["drama"],
+        itemLink: "https://www.imdb.com/title/tt0088939/",
         type: "movie",
         year: 1986
     },
@@ -201,6 +209,7 @@ const emojiItems = [
         title: "Come From Away",
         emojiImgs: "🗽✈️🇨🇦🛄💞",
         genres: ["drama", "history"],
+        itemLink: "http://www.playbill.com/production/come-from-away-2016-2017",
         type: "musical",
         year: 2015
     },
