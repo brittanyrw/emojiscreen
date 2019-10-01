@@ -94,6 +94,13 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt2771200/?ref_=fn_al_tt_1"
     },
     {
+        title: "Be More Chill",
+        emojiImgs: "👾🎮😜🎤",
+        genres: ["sci-fi", "musical", "comedy", "drama"],
+        type: "musical",
+        year: 2015,
+        itemLink: "https://www.imdb.com/title/tt8804832/"
+    },{
         title: "Bend It Like Beckham",
         emojiImgs: "🇮🇳🙎🏽‍♀️🙍🏽‍♂️🇬🇧⚽",
         genres: ["comedy","drama","romance"],
