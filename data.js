@@ -1179,6 +1179,14 @@ const emojiItems = [
         year: 2005
     },
     {
+        title: "The Wizard of Oz",
+        emojiImgs: "🐶🌪️🤖🦁🧙‍",
+        genres: ["adventure", "family", "fantasy"],
+        itemLink: "https://www.imdb.com/title/tt0032138/",
+        type: "movie",
+        year: 1939
+    },
+    {
         title: "Tropic Thunder",
         emojiImgs: "😼😽🙀😿😾",
         genres: ["action", "adventure", "comedy"],
