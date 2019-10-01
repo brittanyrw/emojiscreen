@@ -830,6 +830,13 @@ const emojiItems = [
         year: 2007
     },
     {
+        title: "The Shawshank Redemption",
+        emojiImgs: "👮🧑🏾🔒🧑🏻👮",
+        genres: ["drama"],
+        type: "movie",
+        year: 1994
+    },
+    {
         title: "Silence of the Lambs",
         emojiImgs: "🤐🐑🍷🦋",
         genres: ["crime", "drama", "thriller"],
