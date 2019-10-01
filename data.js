@@ -776,6 +776,14 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "The Preacher's Wife",
+        emojiImgs: "👼🌎⛪👨‍👩‍",
+        genres: ["Comedy", "Drama", "Fantasy"],
+        type: "movie",
+        year: 1996,
+        itemLink: "https://www.imdb.com/title/tt0117372/"
+    },
+    {
         title: "Pulp Fiction",
         emojiImgs: "🔪🔫🍔🥊💊",
         genres: ["crime", "drama"],
