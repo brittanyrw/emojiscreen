@@ -1386,7 +1386,7 @@ const emojiItems = [
     },
     {
 	title: "Stargate",
-        emojiImgs: "🔼🛸⭕️👽",
+	emojiImgs: "🔼🛸⭕️👽",
 	genres: ["Action", "Adventure", "Sci-Fi"],
 	itemLink: "https://www.imdb.com/title/tt0111282/",
 	type: "movie",
