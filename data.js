@@ -265,6 +265,13 @@ const emojiItems = [
         year: 1982
     },
     {
+      title: "Falsettos",
+      emojiImgs: "❤️👯‍👯‍❤️",
+      genres: ["musical", "drama"],
+      type: "musical",
+      year: 1992
+    },
+    {
         title: "Fargo",
         emojiImgs: "🚔🌳👶🏻⚰️",
         genres: ["crime", "drama", "thriller"],
