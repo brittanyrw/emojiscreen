@@ -862,6 +862,13 @@ const emojiItems = [
         year: 2003
     },
     {
+        title: "Men in Black",
+        emojiImgs: "👨⤵◾",
+        genres: ["action", "adventure", "comedy"],
+        itemLink: "https://www.imdb.com/title/tt0119654/",
+        type: "movie",
+        year: 1997
+    },{
         title: "Men in Black 3",
         emojiImgs: "👨⤵◾👽",
         genres: ["action", "comedy","sci-fi"],
