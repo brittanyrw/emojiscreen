@@ -1052,6 +1052,14 @@ const emojiItems = [
         year: 1990
     },
     {
+        title: "The Hills",
+        emojiImgs: "👩‍🎓🌄👚📏",
+        genres: ["comedy", "drama"],
+        itemLink: "https://www.imdb.com/title/tt0489598/",
+        type: "tv",
+        year: 2006
+    },
+    {
         title: "Their Eyes Were Watching God",
         emojiImgs: "👀👼🎬",
         genres: ["drama", "romance"],
