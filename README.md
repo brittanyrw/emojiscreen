@@ -41,8 +41,10 @@ For other ways to contribute, see the repo Issues [under the label 'enhancement'
 ### If you want to work on one of the [Issues to add a TV show, movie or musical](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis)
 * Please comment in the Issue so that others know to not add that show or movie. You do not have to wait for confirmation for Issues adding shows or movies before creating a Pull Request. Your comment will just help 'bookmark' the Issue for you to prevent duplicate Pull Requests.
 
-### If you want to work on one of the Issues that are labeled with `enhancement`
-* Please comment in the Issue and wait for confirmation before you start working on it.
+* You do not have to add an Issue if you plan on adding a movie/show that is not listed in the Issues. You can just go ahead and create a Pull Request.
+
+### If you want to work on one of the Issues that are labeled with `enhancement` or are adding an Issue for a feature
+* Please comment in the Issue and **wait for confirmation** before you start working on it.
 
 Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged and you can make multiple pull requests if you desire. If you run into trouble, feel free [to create an Issue](https://github.com/brittanyrw/emojiscreen/issues)!
 
