@@ -366,6 +366,7 @@ const emojiItems = [
         genres: ["comedy", "drama", "musical"],
         type: "musical",
         year: 1979
+        itemLink: "https://www.imdb.com/title/tt00079261/"
     },
     {
         title: "Hairspray: The Musical",
