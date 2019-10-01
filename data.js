@@ -746,7 +746,7 @@ const emojiItems = [
     },
     {
         title: "James and the Giant Peach",
-        emojiImgs: "🍑👦🦗🐛🐞🕷",
+        emojiImgs: "🍑👦🦗🐛🐞",
         genres: ["animation", "adventure", "family"],
         type: "movie",
         year: 1996,
