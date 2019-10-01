@@ -130,6 +130,15 @@ const emojiItems = [
         year: 2011
     },
     {
+	title: "Boys over Flowers",
+	emojImgs: "👦🔼💮",
+	genres: ["comedy", "drama", "romance"],
+	type: "tv",
+	year: 2009,
+	itemLink: "https://www.imdb.com/title/tt1370334/",
+	    
+    },	
+    {
         title: "Brave",
         emojiImgs: "🏹🎯🛡️🐻",
         genres: ["animation", "adventure", "comedy"],
@@ -1304,11 +1313,5 @@ const emojiItems = [
         type: "movie",
         year: 1974
     },
-    {
-	title: "Boys over Flowers",
-	emojImgs: "👦🔼💮",
-	genres: ["comedy", "drama", "romance"],
-	type: "tv",
-	year: 2009
-    }	
+    
 ]
