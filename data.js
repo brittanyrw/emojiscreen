@@ -1249,6 +1249,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0247638/"
     },
     {
+        title: "Project Runway",
+        emojiImgs: "🧵⏱💃🏼👩🏼‍⚖️💰",
+        genres: ["reality","competition"],
+        type: "tv",
+        year: 2004,
+	itemLink: "https://www.imdb.com/title/tt0437741/"
+    },	
+    {
         title: "Pulp Fiction",
         emojiImgs: "🔪🔫🍔🥊💊",
         genres: ["crime", "drama"],
