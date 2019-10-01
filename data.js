@@ -158,6 +158,13 @@ const emojiItems = [
         year: 2018
     },
     {
+        title: "Captain America: The First Avenger",
+        emojiImgs: "👨‍✈️🇺🇸🛡💪👹",
+        genres: ["action", "sci-fi", "adventure"],
+        type: "movie",
+        year: 2011
+    },
+    {
         title: "Cast Away",
         emojiImgs: "🏐🥥🏝️",
         genres: ["action", "comedy", "musical"],
@@ -1027,7 +1034,7 @@ const emojiItems = [
         type: "tv",
         year: 1990,
         itemLink: "https://www.imdb.com/title/tt0101188/"
-    }, 
+    },
     {
         title: "School of Rock",
         emojiImgs: "🏫🎸🥁🎹",
@@ -1178,7 +1185,7 @@ const emojiItems = [
         genres: ["drama", "suspense", "horror"],
         type: "tv",
         year: 2010,
-        itemLink: "https://www.imdb.com/title/tt1520211" 
+        itemLink: "https://www.imdb.com/title/tt1520211"
     },
     {
         title: "Wall-E",
