@@ -1464,5 +1464,13 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    } 
+    },
+    {
+  	title: "Anastasia",
+  	emojiImgs: "🏰👸🧙🇷🇺💗",
+  	genres: ["animation", "adventure", "drama"],
+  	itemLink: "https://www.imdb.com/title/tt0118617/",
+  	type: "movie",
+  	year: 1997
+    }
 ]
