@@ -1593,5 +1593,12 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "Timecrimes",
+        emojiImgs: "🕒🤕🧥✂️",
+        genres: ["horror", "mystery", "sci-fi"],
+        type: "movie",
+        year: 2007
     }
 ]
