@@ -284,6 +284,13 @@ const emojiItems = [
         year: 2003
     },
     {
+        title: "Forrest Gump",
+        emojiImgs: "🏃🏻🍫🍤",
+        genres: ["drama", "romance"],
+        itemLink: "https://www.imdb.com/title/tt0816692/",
+        type: "movie",
+        year: 1994
+    },{
         title: "Flight of the Conchords",
         emojiImgs: "🎵🦏🦛🥝🇳🇿",
         genres: ["comedy", "musical", "adventure"],
@@ -339,6 +346,14 @@ const emojiItems = [
         genres: ["adventure", "comedy", "family"],
         type: "movie",
         year: 1985
+    },
+    {
+        title: "Gravity",
+        emojiImgs: "🚀✨👩🏻‍🚀",
+        genres: ["drama", "sci-fi", "thriller"],
+        itemLink: "https://www.imdb.com/title/tt1454468/",
+        type: "movie",
+        year: 2013
     },
     {
         title: "Grease",
@@ -808,6 +823,14 @@ const emojiItems = [
         genres: ["crime", "thriller"],
         type: "movie",
         year: 1992
+    },
+    {
+        title: "The Revenant",
+        emojiImgs: "🐻💥🤕❄️🥶",
+        genres: ["action", "adventure", "biography"],
+        itemLink: "https://www.imdb.com/title/tt1663202/",
+        type: "movie",
+        year: 2015
     },
     {
         title: "RocketMan",
