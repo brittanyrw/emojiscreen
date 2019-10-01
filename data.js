@@ -1086,7 +1086,7 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0120815/",
         type: "movie",
         year: 1998
-    }, 
+    },
     {
         title: "School of Rock",
         emojiImgs: "🏫🎸🥁🎹",
@@ -1253,7 +1253,7 @@ const emojiItems = [
         genres: ["drama", "suspense", "horror"],
         type: "tv",
         year: 2010,
-        itemLink: "https://www.imdb.com/title/tt1520211" 
+        itemLink: "https://www.imdb.com/title/tt1520211"
     },
     {
         title: "Wall-E",
@@ -1303,5 +1303,12 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    } 
+    },
+    {
+        title: "King Authur",
+        emojiImgs: "⚔️🤴🏼️️️⚔️",
+        genres: ["action", "sci-fi"],
+        type: "movie",
+        year: 2016
+    }
 ]
