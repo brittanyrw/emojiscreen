@@ -78,6 +78,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt2771200/?ref_=fn_al_tt_1"
     },
     {
+        title: "Bend It Like Beckham",
+        emojiImgs: "🇮🇳🙎🏽‍♀️🙍🏽‍♂️🇬🇧⚽",
+        genres: ["comedy","drama","romance"],
+        type: "movie",
+        year: 2002,
+        itemLink: "https://www.imdb.com/title/tt0286499/"
+    },
+    {
         title: "The Big Bang Theory",
         emojiImgs: "🌍💻⚗🔭",
         genres: ["comedy", "romance"],
@@ -184,6 +192,14 @@ const emojiItems = [
         genres: ["action", "comedy", "musical"],
         type: "movie",
         year: 2000
+    },
+    {
+        title: "Catch Me If You Can",
+        emojiImgs: "👋🏃‍🦹‍",
+        genres: ["biography", "crime", "drama"],
+        type: "movie",
+        year: 2002,
+        itemLink: "https://www.imdb.com/title/tt0264464/"
     },
     {
         title: "The Cheetah Girls",
@@ -471,6 +487,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0413573/"
     },
     {
+        title: "The Girl with the Dragon Tattoo",
+        emojiImgs: "👧💉🐉",
+        itemLink: "https://www.imdb.com/title/tt0000000001132620/",
+        genres: ["crime","drama","mystery"],
+        type: "movie",
+        year: 2009
+    },
+    {
         title: "Hachi: A Dog's Tale",
         emojiImgs: "👨‍🏫💔🚉🐕🌭",
         genres: ["family", "drama"],
@@ -627,6 +651,14 @@ const emojiItems = [
         genres: ["horror", "thriller"],
         type: "movie",
         year: 2019
+    },
+    {
+        title: "The IT Crowd",
+        emojiImgs: "🖥🤓👱🏼‍♀️👦🏼",
+        genres: ["comedy"],
+        itemLink: "https://www.imdb.com/title/tt0487831/?ref_=nv_sr_1?ref_=nv_sr_1",
+        type: "tv",
+        year: 2006
     },
     {
         title: "It's Always Sunny in Philadelphia",
@@ -881,28 +913,32 @@ const emojiItems = [
         emojiImgs: "👔🤓📠📎💻",
         genres: ["comedy", "sitcom", "mockumentary"],
         type: "tv",
-        year: 2005
+        year: 2005,
+        itemLink: "https://www.imdb.com/title/tt0386676/"
     },
     {
         title: "Office Space",
         emojiImgs: "👔🖨⚒💾💰",
         genres: ["comedy"],
         type: "movie",
-        year: 1999
+        year: 1999,
+        itemLink: "https://www.imdb.com/title/tt0151804/"
     },
     {
         title: "Once Upon a Time in Hollywood",
         emojiImgs: "🙍‍♂️🙍‍♂️🙎‍♀️🐕🎬",
         genres: ["drama", "comedy"],
         type: "film",
-        year: 2019
+        year: 2019,
+        itemLink: "https://www.imdb.com/title/tt7131622/"
     },
     {
         title: "On the Town",
         emojiImgs: "⚓🚢",
         genres: ["comedy"],
         type: "play",
-        year: 2014
+        year: 2014,
+        itemLink: "http://www.playbill.com/production/on-the-town-lyric-theatre-vault-0000014058"
     },
     {
         title: "Orange is the new Black",
@@ -917,14 +953,16 @@ const emojiItems = [
         emojiImgs: "⛪🙏🏝🇹🇴😇",
         genres: ["adventure", "biography", "drama"],
         type: "movie",
-        year: 2001
+        year: 2001,
+        itemLink: "https://www.imdb.com/title/tt0250371/"
     },
     {
         title: "Pet Sematary",
         emojiImgs: "🐶🐱☠️⚰️",
         genres: ["horror", "thriller", "mystery"],
         type: "movie",
-        year: 2019
+        year: 2019,
+        itemLink: "https://www.imdb.com/title/tt0837563/"
     },
     {
         title: "Pearl Harbor",
@@ -939,7 +977,8 @@ const emojiItems = [
         emojiImgs: "🤥👴🐋",
         genres: ["animation"],
         type: "movie",
-        year: 1940
+        year: 1940,
+        itemLink: "https://www.imdb.com/title/tt0032910/"
     },
     {
         title: "Pirates of the Caribbean",
@@ -949,25 +988,36 @@ const emojiItems = [
         year: 1994
     },
     {
+        title: "Phantom of the Opera",
+        emojiImgs: "🎭🌹🕯️🎶",
+        genres: ["drama", "romance"],
+        type: "musical",
+        year: 1988,
+        itemLink: "http://www.playbill.com/production/the-phantom-of-the-opera-majestic-theatre-vault-0000007818"
+    },
+    {
         title: "Pokemon: The First Movie",
         emojiImgs: "👦️🐁️😭️",
         genres: ["animation"],
         type: "movie",
-        year: 1998
+        year: 1998,
+        itemLink: "https://www.imdb.com/title/tt0190641/"
     },
     {
         title: "Princess and the Frog",
         emojiImgs: "👸🏽🐸💋💒🥂",
         genres: ["animation", "adventure", "comedy"],
         type: "movie",
-        year: 2009
+        year: 2009,
+        itemLink: "https://www.imdb.com/title/tt0780521/"
     },
     {
         title: "Princess Bride",
         emojiImgs: "🏴‍☠️👸🔥🤺",
         genres: ["adventure", "family"],
         type: "movie",
-        year: 1987
+        year: 1987,
+        itemLink: "https://www.imdb.com/title/tt0093779/"
     },
     {
         title: "The Preacher's Wife",
@@ -989,7 +1039,8 @@ const emojiItems = [
         emojiImgs: "🔪🔫🍔🥊💊",
         genres: ["crime", "drama"],
         type: "movie",
-        year: 1994
+        year: 1994,
+        itemLink: "https://www.imdb.com/title/tt0110912/"
     },
     {
         title: "Ratatouille",
@@ -1041,7 +1092,7 @@ const emojiItems = [
         type: "movie",
         year: 2019
     },
-    {
+      {
         title: "Rugrats",
         emojiImgs: "👶🏻👶🏼👶🏻👶🏻👧🏻",
         genres: ["animation", "comedy"],
@@ -1049,6 +1100,14 @@ const emojiItems = [
         year: 1990,
         itemLink: "https://www.imdb.com/title/tt0101188/"
     },
+    {
+        title: "Saving Private Ryan",
+        emojiImgs: "🇫🇷🔍🔫☠🎖️",
+        genres: ["drama", "war"],
+        itemLink: "https://www.imdb.com/title/tt0120815/",
+        type: "movie",
+        year: 1998
+    }, 
     {
         title: "School of Rock",
         emojiImgs: "🏫🎸🥁🎹",
@@ -1062,6 +1121,14 @@ const emojiItems = [
         genres: ["comedy", "crime"],
         type: "movie",
         year: 1989
+    },
+    {
+      title:"Seinfeld",
+      emojiImgs: "🎤👨👨‍🦲👩👨",
+      genres:["comedy"],
+      type:"tv",
+      year:1989,
+      itemLink:"https://www.imdb.com/title/tt0098904/"
     },
     {
         title: "Seven",
@@ -1173,6 +1240,14 @@ const emojiItems = [
         year: 2005
     },
     {
+        title: "The Wizard of Oz",
+        emojiImgs: "🐶🌪️🤖🦁🧙‍",
+        genres: ["adventure", "family", "fantasy"],
+        itemLink: "https://www.imdb.com/title/tt0032138/",
+        type: "movie",
+        year: 1939
+    },
+    {
         title: "Tropic Thunder",
         emojiImgs: "😼😽🙀😿😾",
         genres: ["action", "adventure", "comedy"],
@@ -1249,5 +1324,5 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    },
+    } 
 ]
