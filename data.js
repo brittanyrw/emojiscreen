@@ -295,7 +295,7 @@ const emojiItems = [
         title: "Forrest Gump",
         emojiImgs: "🏃🏻🍫🍤",
         genres: ["drama", "romance"],
-        itemLink: "https://www.imdb.com/title/tt0816692/",
+        itemLink: "https://www.imdb.com/title/tt0109830/",
         type: "movie",
         year: 1994
     },
