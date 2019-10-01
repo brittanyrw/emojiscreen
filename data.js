@@ -829,7 +829,7 @@ const emojiItems = [
         genres: ["comedy", "music"],
         type: "movie",
         year: 2003
-    }, 
+    },
     {
         title: "See No Evil, Hear No Evil",
         emojiImgs: "🙈👹🙉👹",
