@@ -905,7 +905,9 @@ const emojiItems = [
         emojiImgs: "📚🏃‍♂️🔫👮",
         genres: ["crime","drama", "horror"],
         type: "tv",
-        year: 2013
+        year: 2013,
+        itemLink: "https://www.imdb.com/title/tt2071645/"
+
     },
     {
         title: "Their Eyes Were Watching God",
@@ -920,8 +922,6 @@ const emojiItems = [
         genres: ["action", "adventure", "comedy"],
         type: "movie",
         year: 2008,
-        itemLink: "https://www.imdb.com/title/tt2071645/"
-
     },
     {
         title: "Up",
