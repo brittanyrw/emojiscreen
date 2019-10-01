@@ -78,6 +78,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt2771200/?ref_=fn_al_tt_1"
     },
     {
+        title: "Bettlejuice",
+        emojiImgs: "⚰️🧟‍👰📙",
+        genres: ["comedy", "fantasy"],
+        type: "movie",
+        year: 1988,
+        itemLink: "https://www.imdb.com/title/tt0094721/"
+    },
+    {
         title: "Bend It Like Beckham",
         emojiImgs: "🇮🇳🙎🏽‍♀️🙍🏽‍♂️🇬🇧⚽",
         genres: ["comedy","drama","romance"],
