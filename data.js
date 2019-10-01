@@ -965,7 +965,7 @@ const emojiItems = [
     },
     {
         title: "Wonder Woman",
-        emojiImgs: "🤔🦸🏻‍♀️",
+        emojiImgs: "🤔🦸🏻‍♀️🗡️",
         genres: ["action","adventure","fantasy","sci-fi"],
         type: "movie",
         year: 2017,
