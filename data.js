@@ -711,6 +711,14 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "Passaport to Paris",
+        emojiImgs: "🎟✈🗼",
+        genres: ["comedy", "romance"],
+        type: "movie",
+        year: 1999,
+        itemLink: "https://www.imdb.com/title/tt0202521/"
+    },
+    {
         title: "The Lion King",
         emojiImgs: "🦁👑🌍",
         genres: ["animation", "adventure", "drama"],
@@ -918,6 +926,13 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "The Preacher's Wife",
+        emojiImgs: "👼🌎⛪👨‍👩‍",
+        genres: ["Comedy", "Drama", "Fantasy"],
+        type: "movie",
+        year: 1996,
+        itemLink: "https://www.imdb.com/title/tt0117372/"
+    },{
         title: "The Princess Diaries",
         emojiImgs: "👩‍🦰✈️🏰👑👸",
         genres: ["comedy", "family", "romance"],
@@ -1190,5 +1205,5 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    }
+    },
 ]
