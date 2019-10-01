@@ -539,6 +539,14 @@ const emojiItems = [
         year: 2013
     },
     {
+        title: "Firebringer",
+        emojiImgs: "🦆🕊️⚔️🔥👽",
+        genres: ["musical", "comedy", "history"],
+        type: "musical",
+        year: 2016,
+        itemLink: "https://www.imdb.com/title/tt6395628/"
+    },
+    {
         title: "Game of Thrones",
         emojiImgs: "🐉👑🗡️📚🧟",
         genres: ["action", "adventure", "drama"],
