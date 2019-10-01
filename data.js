@@ -299,7 +299,7 @@ const emojiItems = [
         genres: ["animation", "adventure", "comedy"],
         type: "movie",
         year: 2016,
-        itemUrl: "https://www.imdb.com/title/tt2277860/"
+        itemLink: "https://www.imdb.com/title/tt2277860/"
     },
     {
         title: "Finding Nemo",
