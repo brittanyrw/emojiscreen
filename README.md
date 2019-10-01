@@ -20,14 +20,14 @@ Below are instructions for how to contribute to this project. The easiest way to
 
 Below are some guidelines to follow when contributing to this project. 
 
-#### We are limiting contributions per person to 4 additions per project. 
-* Please limit yourself to adding 4 shows/movies and/or completing 4 Issues. This is due to the high level of activity on this project at the moment. Some Issues ask you to add multiple movies, those Issues count as 1 addition. We want to make sure many people have a chance to contribute to this project. The limit will be lifted once the activity has died down. 🙂
+#### We are limiting contributions per person to 4 additions across EmojiScreen, EmojiBops and EmojiPages. 
+* Please limit yourself to up to 4 additions across the three emoji projects. (Example One: Complete 1 feature, add two movies, and add one song; Example Two: complete 4 Issues for movies; Example Three: add one song, 2 movies and one book, etc). This is due to the high level of activity on these projects at the moment. Some Issues ask you to add multiple movies, those Issues count as 1 addition. We want to make sure many people have a chance to contribute. The limit will be lifted once the activity has died down. 🙂
 
 #### Check Issues and current Pull Requests before contributing to avoid adding duplicates. 
 * If your Pull Request is a duplicate, we will let you know so that you can update it if you like. 
  
 #### If someone has commented inside of the Issue saying they are working on it, that item is reserved for them. 
-* Please choose something else to add if someone else has already said they will add something. We will close Pull Requests and mark them as invalid if you are purposely creating Pull Requests for Issues that someone else has reserved in an attempt to try to complete it first or try to race someone in adding something. 
+* Please choose something else to add if someone else has already said they will add something. We will let you know if you accidently add something that someone else is assigned. It is easy to tell if someone is adding something accidently vs if they are ignoring our rules. We will mark Pull Requests as invalid (and therefore it will not count towards Hacktoberfest) if you are purposely creating multiple Pull Requests for Issues that someone else is assigned to or has reserved. 
 
 #### Please limit Pull Requests to adding a show/movie, completing an Issue or adding a feature. 
 * We are not accepting Pull Requests for things such as white space updates or README.md updates for Hacktoberfest. These types of Pull Requests will be marked as invalid. For Hacktoberfest, we would prefer that you add something to the project and not the documentation. 
