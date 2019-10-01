@@ -1222,6 +1222,7 @@ const emojiItems = [
         title: "Schitt's Creek",
         emojiImgs: "💰💸🏨💅",
         genres: ["comedy", "drama", "romance"],
+        itemLink: "https://www.imdb.com/title/tt3526078/",
         type: "tv",
         year: 2015
     },
