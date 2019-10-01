@@ -269,6 +269,14 @@ const emojiItems = [
         year: 2015
     },
     {
+        title: "The Crown",
+        emojiImgs: "👑🤴👸🇬🇧",
+        genres: ["drama", "history"],
+        type: "tv",
+        year: 2016,
+        itemLink: "https://www.imdb.com/title/tt4786824/"
+    },
+    {
         title: "The Curious Case of Benjamin Button",
         emojiImgs: "👴🏻➡️🧔🏻➡️👶🏻",
         genres: ["drama", "fantasy", "romance"],
