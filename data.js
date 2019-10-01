@@ -1296,7 +1296,8 @@ const emojiItems = [
         emojiImgs: "🔫💪🏿🔪💰💎",
         genres: ["comedy", "crime"],
         type: "movie",
-        year: 2000
+        year: 2000,
+        itemLink: "https://www.imdb.com/title/tt0208092/"
     },
     {
         title: "Snow White",
