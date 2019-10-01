@@ -410,6 +410,14 @@ const emojiItems = [
         year: 2015
     },
     {
+        title: "Hair",
+        emojiImgs: "☮🎶🇻🇳🇺🇸⚰ ",
+        genres: ["comedy", "drama", "musical"],
+        type: "musical",
+        year: 1979
+        itemLink: "https://www.imdb.com/title/tt00079261/"
+    },
+    {
         title: "Hairspray: The Musical",
         emojiImgs: "💋💃👠👨🏽‍🦱👨🏻",
         genres: ["comedy", "drama", "musical"],
