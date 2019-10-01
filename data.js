@@ -104,6 +104,13 @@ const emojiItems = [
         year: 2002
     },
     {
+        title: "America's Next Top Model",
+        emojiImgs: "👜👭👭",
+        genres: ["game-show", "reality"],
+        type: "tv",
+        year: 2003
+    },
+    {
         title: "Beauty and the Beast",
         emojiImgs: "🏰🥀🎶📚🕰️",
         genres: ["animation", "family", "fantasy"],
