@@ -1009,6 +1009,14 @@ const emojiItems = [
         year: 2010
     },
     {
+        title: "M*A*S*H",
+        emojiImgs: "😷🎖️😂🇰🇷",
+        genres: ["comedy", "drama", "war"],
+        type: "tv",
+        year: 1972,
+        itemlink: "https://www.imdb.com/title/tt0068098/"
+    },
+    {
         title: "Mary Poppins",
         emojiImgs: "✨☂️✨👜✨",
         genres: ["comedy", "family", "fantasy"],
