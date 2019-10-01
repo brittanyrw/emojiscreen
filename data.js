@@ -1219,6 +1219,13 @@ const emojiItems = [
         year: 1998
     }, 
     {
+        title: "Schitt's Creek",
+        emojiImgs: "💰💸🏨💅",
+        genres: ["comedy", "drama", "romance"],
+        type: "tv",
+        year: 2015
+    },
+    {
         title: "School of Rock",
         emojiImgs: "🏫🎸🥁🎹",
         genres: ["comedy", "music"],
