@@ -1022,7 +1022,8 @@ const emojiItems = [
         type: "musical",
         year: 2013,
         itemlink: "http://www.playbill.com/production/matilda-the-musical-shubert-theatre-vault-0000013970"
-    },{
+    },
+    {
         title: "Mad Men",
         emojiImgs: "‍😡 👨🏻 👨🏻 ",
         genres: ["drama"],
@@ -1051,21 +1052,24 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0119654/",
         type: "movie",
         year: 1997
-    },{
+    },
+    {
         title: "Men in Black 3",
         emojiImgs: "👨⤵◾👽",
         genres: ["action", "comedy","sci-fi"],
         type: "movie",
         year: 2012,
         itemLink: "https://www.imdb.com/title/tt1409024/"
-    },{
+    },
+    {
         title: "Merlin",
         emojiImgs: "🧙🤴👑⚔️🐉",
         genres: ["adventure", "drama", "fantasy "],
         itemLink: "https://www.imdb.com/title/tt1199099/",
         type: "tv",
         year: 2008
-    },{
+    },
+    {
         title: "Mean Girls",
         emojiImgs: "👚🏫📓🔥😏",
         genres: ["movie", "comedy"],
@@ -1087,21 +1091,24 @@ const emojiItems = [
         type: "tv",
         year: 2015,
         itemlink: "https://www.imdb.com/title/tt4158110/"
-    },{
+    },
+    {
         title: "Mrs. Doubtfire",
         emojiImgs: "👨➡👵",
         genres: ["comedy", "drama", "family"],
         itemLink: "https://www.imdb.com/title/tt0107614/",
         type: "movie",
         year: 1993
-    },{
+    },
+    {
         title: "Moonrise Kingdom",
         emojiImgs: "⛺️🧳🌕👑",
         genres: ["Comedy", "Drama", "Romance"],
         itemLink: "https://www.imdb.com/title/tt1748122/",
         type: "movie",
         year: 2012
-    },{
+    },
+    {
         title: "Monty Python and the Holy Grail",
         emojiImgs: "🤵🐍⛪🍷",
         genres: ["comedy"],
@@ -1115,19 +1122,29 @@ const emojiItems = [
         genres: ["war", "music"],
         type: "movie",
         year: 1998
-    }, {
+    }, 
+    {
         title: "Narcos",
         emojiImgs: "🔫🗡💊💉💰",
         genres: ["crime", "drama"],
         type: "tv",
         year: 2015
-    },{
+    },
+    {
         title: "National Treasure",
         emojiImgs: "🇺🇸🗝🏺🧭💰",
         genres: ["action", "adventure", "mystery"],
         type: "movie",
         year: 2004,
         itemLink: "https://www.imdb.com/title/tt0368891/"
+    },
+    {
+        title: "Nightmare Before Christmas",
+        emojiImgs: "💀🎅🎃👻🐕",
+        genres: [ "animation", "family", "fantasy", "musical"],
+        type: "movie",
+        year: 1993,
+        itemLink: "https://www.imdb.com/title/tt0107688/"
     },
     {
         title: "The Office",
