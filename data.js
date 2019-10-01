@@ -51,6 +51,7 @@ const emojiItems = [{
         genres: ["game show", "musical"],
         type: "tv",
         year: 2002,
+        itemLink: "https://www.imdb.com/title/tt0319931/",
     },
     {
         title: "Avatar",
