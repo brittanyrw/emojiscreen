@@ -1244,18 +1244,26 @@ const emojiItems = [
     {
         title: "Pokemon: The First Movie",
         emojiImgs: "👦️🐁️😭️",
-        genres: ["animation"],
+        genres: ["animation", "action", "adventure", "family", "fantasy", "sci-fi", "sport"],
         type: "movie",
         year: 1998,
         itemLink: "https://www.imdb.com/title/tt0190641/"
     },
     {
+        title: "Pokemon Detective Pikachu",
+        emojiImgs: "🕵️⚡🐭⚡☕",
+        genres: ["action", "adventure", "comedy"],
+        type: "movie",
+        year: 2019,
+        itemLink: "https://www.imdb.com/title/tt5884052/"
+    },
+    {
         title: "Power Rangers",
         emojiImgs: "🎨5️⃣🤖🔫⚖️",
         genres: ["action", "adventure", "family"],
-        itemLink: "https://www.imdb.com/title/tt0106064/",
         type: "tv",
-        year: 1993
+        year: 1993,
+        itemLink: "https://www.imdb.com/title/tt0106064/",
     },
     {
         title: "Princess and the Frog",
