@@ -70,14 +70,6 @@ const emojiItems = [
         year: 2005
     },
     {
-        title: "Barbershop",
-        emojiImgs: "💈✂️😂",
-        genres: ["Comedy", "Drama"],
-        type: "movie",
-        year: 2002,
-        itemLink: "https://www.imdb.com/title/tt0303714/?ref_=nv_sr_2?ref_=nv_sr_2"
-    },
-    {
         title: "Beauty and the Beast",
         emojiImgs: "🏰🥀🎶📚🕰️",
         genres: ["animation", "family", "fantasy"],
@@ -516,6 +508,14 @@ const emojiItems = [
         genres: ["biography", "drama", "history"],
         type: "movie",
         year: 2016
+    },
+    {
+        title: "Holes",
+        emojiImgs: "0️⃣👟🦎🕳️☀️",
+        genres: ["Adventure", "Comedy", "Drama", "Family", "Mystery"],
+        type: "movie",
+        year: 2003,
+        itemLink: "https://www.imdb.com/title/tt0311289/?ref_=nv_sr_1?ref_=nv_sr_1"
     },
     {
         title: "Home Alone",
