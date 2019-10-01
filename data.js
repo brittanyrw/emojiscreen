@@ -868,28 +868,32 @@ const emojiItems = [
         emojiImgs: "👔🤓📠📎💻",
         genres: ["comedy", "sitcom", "mockumentary"],
         type: "tv",
-        year: 2005
+        year: 2005,
+        itemLink: "https://www.imdb.com/title/tt0386676/"
     },
     {
         title: "Office Space",
         emojiImgs: "👔🖨⚒💾💰",
         genres: ["comedy"],
         type: "movie",
-        year: 1999
+        year: 1999,
+        itemLink: "https://www.imdb.com/title/tt0151804/"
     },
     {
         title: "Once Upon a Time in Hollywood",
         emojiImgs: "🙍‍♂️🙍‍♂️🙎‍♀️🐕🎬",
         genres: ["drama", "comedy"],
         type: "film",
-        year: 2019
+        year: 2019,
+        itemLink: "https://www.imdb.com/title/tt7131622/"
     },
     {
         title: "On the Town",
         emojiImgs: "⚓🚢",
         genres: ["comedy"],
         type: "play",
-        year: 2014
+        year: 2014,
+        itemLink: "http://www.playbill.com/production/on-the-town-lyric-theatre-vault-0000014058"
     },
     {
         title: "Orange is the new Black",
@@ -904,14 +908,16 @@ const emojiItems = [
         emojiImgs: "⛪🙏🏝🇹🇴😇",
         genres: ["adventure", "biography", "drama"],
         type: "movie",
-        year: 2001
+        year: 2001,
+        itemLink: "https://www.imdb.com/title/tt0250371/"
     },
     {
         title: "Pet Sematary",
         emojiImgs: "🐶🐱☠️⚰️",
         genres: ["horror", "thriller", "mystery"],
         type: "movie",
-        year: 2019
+        year: 2019,
+        itemLink: "https://www.imdb.com/title/tt0837563/"
     },
     {
         title: "Pearl Harbor",
@@ -926,7 +932,8 @@ const emojiItems = [
         emojiImgs: "🤥👴🐋",
         genres: ["animation"],
         type: "movie",
-        year: 1940
+        year: 1940,
+        itemLink: "https://www.imdb.com/title/tt0032910/"
     },
     {
         title: "Pirates of the Caribbean",
@@ -940,21 +947,24 @@ const emojiItems = [
         emojiImgs: "👦️🐁️😭️",
         genres: ["animation"],
         type: "movie",
-        year: 1998
+        year: 1998,
+        itemLink: "https://www.imdb.com/title/tt0190641/"
     },
     {
         title: "Princess and the Frog",
         emojiImgs: "👸🏽🐸💋💒🥂",
         genres: ["animation", "adventure", "comedy"],
         type: "movie",
-        year: 2009
+        year: 2009,
+        itemLink: "https://www.imdb.com/title/tt0780521/"
     },
     {
         title: "Princess Bride",
         emojiImgs: "🏴‍☠️👸🔥🤺",
         genres: ["adventure", "family"],
         type: "movie",
-        year: 1987
+        year: 1987,
+        itemLink: "https://www.imdb.com/title/tt0093779/"
     },
     {
         title: "The Preacher's Wife",
@@ -976,7 +986,8 @@ const emojiItems = [
         emojiImgs: "🔪🔫🍔🥊💊",
         genres: ["crime", "drama"],
         type: "movie",
-        year: 1994
+        year: 1994,
+        itemLink: "https://www.imdb.com/title/tt0110912/"
     },
     {
         title: "Ratatouille",
