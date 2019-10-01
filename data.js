@@ -636,6 +636,13 @@ const emojiItems = [
         year: 2001
     },
     {
+        title: "Timecrimes",
+        emojiImgs: "⏲🔫☠👨↩",
+        genres: ["horror", "mystery", "sci-fi"],
+        type: "movie",
+        year: 2007
+    },
+    {
         title: "Lost",
         emojiImgs: "✈️🏝⛺🆘❓",
         genres: ["adventure", "drama", "fantasy"],
