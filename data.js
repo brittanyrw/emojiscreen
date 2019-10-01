@@ -358,6 +358,14 @@ const emojiItems = [
         year: 1986
     },
     {
+        title: "From Dusk Till Down",
+        emojiImgs: "🧛‍♀️🩸🦶🏻",
+        genres: ["action", "crime", "horror"],
+        itemLink: "https://www.imdb.com/title/tt0116367/",
+        type: "movie",
+        year: 1996
+    },
+    {
         title: "Come From Away",
         emojiImgs: "🗽✈️🇨🇦🛄💞",
         genres: ["drama", "history"],
