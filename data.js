@@ -114,6 +114,14 @@ const emojiItems = [
         year: 2011
     },
     {
+        title: "Brave",
+        emojiImgs: "🏹🎯🛡️🐻",
+        genres: ["animation", "adventure", "comedy"],
+        type: "movie",
+        year: 2012,
+        itemLink: "https://www.imdb.com/title/tt1217209/"
+    },
+    {
         title: "Breaking Bad",
         emojiImgs: "🌵🤓🧪💊💰",
         genres: ["crime", "drama", "thriller"],
