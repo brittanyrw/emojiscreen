@@ -70,6 +70,22 @@ const emojiItems = [
         year: 2005
     },
     {
+        title: "The Bachelor",
+        emojiImgs: "🤵💑👩👩👰",
+        genres: ["Drama"],
+        itemLink: "https://www.imdb.com/title/tt0313038/",
+        type: "tv",
+        year: 2002
+    },
+    {
+        title: "The Bachelorette",
+        emojiImgs: "👰💑🧔🧔🤵",
+        genres: ["Drama"],
+        itemLink: "https://www.imdb.com/title/tt0348894/",
+        type: "tv",
+        year: 2002
+    },
+    {
         title: "Beauty and the Beast",
         emojiImgs: "🏰🥀🎶📚🕰️",
         genres: ["animation", "family", "fantasy"],
@@ -823,7 +839,6 @@ const emojiItems = [
         type: "movie",
         year: 1964
     },
-    ,
     {
         title: "Mad Men",
         emojiImgs: "‍😡 👨🏻 👨🏻 ",
@@ -847,6 +862,13 @@ const emojiItems = [
         year: 2003
     },
     {
+        title: "Merlin",
+        emojiImgs: "🧙🤴👑⚔️🐉",
+        genres: ["adventure", "drama", "fantasy "],
+        itemLink: "https://www.imdb.com/title/tt1199099/",
+        type: "tv",
+        year: 2008
+    },{
         title: "Mean Girls",
         emojiImgs: "👚🏫📓🔥😏",
         genres: ["movie", "comedy"],
@@ -990,6 +1012,14 @@ const emojiItems = [
         type: "movie",
         year: 1998,
         itemLink: "https://www.imdb.com/title/tt0190641/"
+    },
+    {
+        title: "Power Rangers",
+        emojiImgs: "🎨5️⃣🤖🔫⚖️",
+        genres: ["action", "adventure", "family"],
+        itemLink: "https://www.imdb.com/title/tt0106064/",
+        type: "tv",
+        year: 1993
     },
     {
         title: "Princess and the Frog",
