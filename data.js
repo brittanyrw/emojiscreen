@@ -149,6 +149,13 @@ const emojiItems = [
         year: 2000
     },
     {
+        title: "Catch Me If You Can",
+        emojiImgs: "👋🏃‍🦹‍",
+        genres: ["biography", "crime", "drama"],
+        type: "movie",
+        year: 2002
+    },
+    {
         title: "The Cheetah Girls",
         emojiImgs: "🐆🐆🐆🐆🎶",
         genres: ["comedy", "drama", "musical"],
