@@ -783,6 +783,14 @@ const emojiItems = [
         year: 2014
     },
     {
+        title: "Orange is the new Black",
+        emojiImgs: "🔶⚫️⛓🙎🏻",
+        genres: ["comedy", "crime", "drama"],
+        itemLink: "https://www.imdb.com/title/tt2372162/",
+        type: "tv",
+        year: 2013
+    },
+    {
         title: "The Other Side of Heaven",
         emojiImgs: "⛪🙏🏝🇹🇴😇",
         genres: ["adventure", "biography", "drama"],
