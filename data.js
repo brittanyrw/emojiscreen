@@ -196,7 +196,7 @@ const emojiItems = [
 	type: "tv",
 	year: 2009,
 	itemLink: "https://www.imdb.com/title/tt1370334/"
-    },	
+    },
     {
         title: "Brave",
         emojiImgs: "🏹🎯🛡️🐻",
@@ -1041,6 +1041,13 @@ const emojiItems = [
         type: "movie",
         year: 2004,
         itemLink: "https://www.imdb.com/title/tt0377092/"
+    },{
+        title: "Midsommar",
+        emojiImgs: "🌞👩‍👧‍👧🌼🔥💀",
+        genres: ["Drama", "Thriller"],
+        type: "movie",
+        year: 2019,
+        itemLink: "https://www.imdb.com/title/tt8772262/"
     },
     {
         title: "Miss Saigon",
