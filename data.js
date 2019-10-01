@@ -196,7 +196,7 @@ const emojiItems = [
 	type: "tv",
 	year: 2009,
 	itemLink: "https://www.imdb.com/title/tt1370334/"
-    },	
+    },
     {
         title: "Brave",
         emojiImgs: "🏹🎯🛡️🐻",
@@ -601,6 +601,14 @@ const emojiItems = [
         type: "movie",
         year: 1978,
         itemLink: "https://www.imdb.com/title/tt0077631/"
+    },
+    {
+        title: "Great Expectations",
+        emojiImgs: "👸💞👨‍📚🕰️",
+        genres: ["drama", "romance"],
+        type: "movie",
+        year: 1998,
+        itemLink: "https://www.imdb.com/title/tt0119223/"
     },
     {
         title: "Grey's Anatomy",
