@@ -1441,6 +1441,14 @@ const emojiItems = [
         year: 1961
     },
     {
+  	title: "Westworld",
+  	emojiImgs: "🤠🚂🏜👨‍💻🤖",
+  	genres: ["drama", "mystery", "sci-fi"],
+  	itemLink: "https://www.imdb.com/title/tt0475784/",
+  	type: "tv",
+	year: 2016
+    },
+    {
         title: "Where in the World is Carmen Sandiego?",
         emojiImgs: "🤔🌎🕵️‍♀️💄",
         genres: ["game show", "children"],
