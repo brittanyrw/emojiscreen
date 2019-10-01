@@ -1472,6 +1472,14 @@ const emojiItems = [
         year: 1999
     },
     {
+        title: "Star Trek",
+        emojiImgs: "🖖👽🛸✨🌌",
+        genres: ["action", "adventure", "sci-fi"],
+	itemLink: "https://www.imdb.com/title/tt0060028/",
+        type: "tv",
+        year: 1966
+    },
+    {
         title: "Steven Universe",
         emojiImgs: "👦🏻💎💎💎🛡️",
         genres: ["comedy"],
