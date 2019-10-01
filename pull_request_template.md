@@ -12,7 +12,3 @@
 - [ ] 🖍️ I have placed the new show(s) or movie(s) in alphabetical order based on title. If the show or movie starts with 'the', then use the second word to alphabetize.
 
 <!-- 👋 If this pull request closes an issue, add Closes #--- to the bottom of the pull request (replace the --- with the issue number). -->
-
-<!-- 👋 If you would like me to Tweet about your contribution, add your Twitter handle to the bottom of this pull request. I will tweet a short summary and a screenshot of what you added. Example tweet: Congrats to @musicalwebdev for contributing to EmojiScreen with their first ever pull request! 🥳They added Legally Blonde, one of our favorite 2000s movies! 💅-->
-
-
