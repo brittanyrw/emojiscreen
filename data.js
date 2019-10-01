@@ -741,9 +741,10 @@ const emojiItems = [
     {
         title: "Pokemon: The First Movie",
         emojiImgs: "👦️🐁️😭️",
-        genres: ["animation"],
+        genres: ["animation", "action", "adventure", "family", "fantasy", "sci-fi", "sport"],
         type: "movie",
-        year: 1998
+        year: 1998,
+        itemLink: "https://www.imdb.com/title/tt0190641/"
     },
     {
         title: "Pokemon Detective Pikachu",
