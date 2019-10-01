@@ -867,6 +867,14 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "Pearl Harbor",
+        emojiImgs: "🇯🇵🛩💣🇺🇸🏝",
+        genres: ["Action", "Drama", "History", "Romance", "War"],
+        type: "movie",
+        year: 2001,
+        itemLink: "https://www.imdb.com/title/tt0213149/",
+    },
+    {
         title: "Pinocchio",
         emojiImgs: "🤥👴🐋",
         genres: ["animation"],
