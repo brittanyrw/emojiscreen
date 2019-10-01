@@ -1470,6 +1470,7 @@ const emojiItems = [
         emojiImgs: "✈💥🐰✈💥",
         genres: ["Drama","Sci-Fi","Thriller"],
         type: "movie",
-        year: 2001
+        year: 2001,
+	itemLink : "https://www.imdb.com/title/tt0246578/"
     } 
 ]
