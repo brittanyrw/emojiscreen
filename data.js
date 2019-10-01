@@ -225,7 +225,7 @@ const emojiItems = [
         emojiImgs: "🤠🔫⚰️",
         genres: ["drama", "crime", "history"],
         type: "tv",
-        year: 2004
+        year: 2004,
         itemLink: "https://www.imdb.com/title/tt0348914/"
     },
     {
@@ -429,7 +429,7 @@ const emojiItems = [
         emojiImgs: "☮🎶🇻🇳🇺🇸⚰ ",
         genres: ["comedy", "drama", "musical"],
         type: "musical",
-        year: 1979
+        year: 1979,
         itemLink: "https://www.imdb.com/title/tt00079261/"
     },
     {
