@@ -167,6 +167,15 @@ const emojiItems = [
 	      itemLink: "http://www.playbill.com/production/the-book-of-mormon-eugene-oneill-theatre-vault-0000013715"
     },
     {
+	title: "Boys over Flowers",
+	emojImgs: "👦🔼💮",
+	genres: ["comedy", "drama", "romance"],
+	type: "tv",
+	year: 2009,
+	itemLink: "https://www.imdb.com/title/tt1370334/",
+	    
+    },	
+    {
         title: "Brave",
         emojiImgs: "🏹🎯🛡️🐻",
         genres: ["animation", "adventure", "comedy"],
