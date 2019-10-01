@@ -1102,12 +1102,12 @@ const emojiItems = [
         year: 1989
     },
     {
-	title:"Seinfeld",
-	emojiImgs: "🎤👨👨‍🦲👩👨",
-	genres:["comedy"],
-	type:"tv",
-	year:1989,
-	itemLink:"https://www.imdb.com/title/tt0098904/"
+        title:"Seinfeld",
+        emojiImgs: "🎤👨👨‍🦲👩👨",
+        genres:["comedy"],
+        type:"tv",
+        year:1989,
+        itemLink:"https://www.imdb.com/title/tt0098904/"
     },
     {
         title: "Seven",
@@ -1130,6 +1130,14 @@ const emojiItems = [
         genres: ["crime", "drama", "thriller"],
         type: "movie",
         year: 1991
+    },
+    {
+        title: "Silicon Valley",
+        emojiImgs: "💻🤓💰🌐🕸",
+        genres: ["comedy"],
+        type: "tv",
+        year: 2014,
+        itemLink: "https://www.imdb.com/title/tt2575988/"
     },
     {
         title: "Sex and the City",
