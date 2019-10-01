@@ -47,6 +47,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0090390/?ref_=fn_al_tt_1"
     },
     {
+        title: "Avatar",
+        emojiImgs: "👱‍♂️🔵👱‍♂️👩‍🦰🔵",
+        genres: ["action", "fantasy"],
+        type: "movie",
+        year: 2009,
+        itemLink: "https://www.imdb.com/title/tt0499549/?ref_=nv_sr_2?ref_=nv_sr_2"
+    },
+    {
         title: "Avatar: The Last Airbender",
         emojiImgs: "🥋🌏🔥💧💨",
         genres: ["animation", "action", "adventure"],
@@ -219,6 +227,14 @@ const emojiItems = [
         year: 2006
     },
     {
+        title: "Dil Dhadakne Do",
+        emojiImgs: "♥️💓✌️",
+        genres: ["bollywood", "drama"],
+        type: "movie",
+        year: 2015,
+        itemLink: "https://www.imdb.com/title/tt4110568/"
+    },
+    {
         title: "Dirty Dancing",
         emojiImgs: "🍉💃🕶🕺👶",
         genres: ["drama", "music", "romance"],
@@ -276,6 +292,22 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0098800/"
     },
     {
+        title: "Forrest Gump",
+        emojiImgs: "🏃🏻🍫🍤",
+        genres: ["drama", "romance"],
+        itemLink: "https://www.imdb.com/title/tt0816692/",
+        type: "movie",
+        year: 1994
+    },
+    {
+        title: "Flight of the Conchords",
+        emojiImgs: "🎵🦏🦛🥝🇳🇿",
+        genres: ["comedy", "musical", "adventure"],
+        type: "tv",
+        year: 2007,
+        itemLink: "https://www.imdb.com/title/tt0863046/"
+    },
+    {
         title: "Frozen",
         emojiImgs: "👭☃️❄️",
         genres: ["animation", "adventure", "comedy"],
@@ -323,6 +355,14 @@ const emojiItems = [
         genres: ["adventure", "comedy", "family"],
         type: "movie",
         year: 1985
+    },
+    {
+        title: "Gravity",
+        emojiImgs: "🚀✨👩🏻‍🚀",
+        genres: ["drama", "sci-fi", "thriller"],
+        itemLink: "https://www.imdb.com/title/tt1454468/",
+        type: "movie",
+        year: 2013
     },
     {
         title: "Grease",
@@ -527,6 +567,14 @@ const emojiItems = [
         genres: ["action", "adventure", "Sci-Fi"],
         type: "movie",
         year: 2018
+    },
+    {
+        title: "The Karate Kid",
+        emojiImgs: "🤼‍♂️👦🏻👘",
+        genres: ["action", "drama", "family"],
+        type: "movie",
+        year: 1984,
+        itemLink: "https://www.imdb.com/title/tt0087538/"
     },
     {
         title: "Kiki's Delivery Service",
@@ -752,6 +800,14 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "The Princess Diaries",
+        emojiImgs: "👩‍🦰✈️🏰👑👸",
+        genres: ["comedy", "family", "romance"],
+        type: "movie",
+        year: 2001,
+        itemLink: "https://www.imdb.com/title/tt0247638/"
+    },
+    {
         title: "Pulp Fiction",
         emojiImgs: "🔪🔫🍔🥊💊",
         genres: ["crime", "drama"],
@@ -792,6 +848,14 @@ const emojiItems = [
         genres: ["crime", "thriller"],
         type: "movie",
         year: 1992
+    },
+    {
+        title: "The Revenant",
+        emojiImgs: "🐻💥🤕❄️🥶",
+        genres: ["action", "adventure", "biography"],
+        itemLink: "https://www.imdb.com/title/tt1663202/",
+        type: "movie",
+        year: 2015
     },
     {
         title: "RocketMan",
