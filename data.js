@@ -632,6 +632,14 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "The IT Crowd",
+        emojiImgs: "🖥🤓👱🏼‍♀️👦🏼",
+        genres: ["comedy"],
+        itemLink: "https://www.imdb.com/title/tt0487831/?ref_=nv_sr_1?ref_=nv_sr_1",
+        type: "tv",
+        year: 2006
+    },
+    {
         title: "It's Always Sunny in Philadelphia",
         emojiImgs: "🕐☀🏙🧀🥩",
         genres: ["comedy"],
