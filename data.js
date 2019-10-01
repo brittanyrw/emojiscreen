@@ -434,6 +434,14 @@ const emojiItems = [
         year: 2009
     },
     {
+        title: "Hannibal",
+        emojiImgs: "🔪🩸🥩👨‍⚕️",
+        genres: ["crime", "drama", "horror"],
+        type: "tv",
+        year: 2013,
+        itemLink: "https://www.imdb.com/title/tt2243973/"
+    },
+    {
         title: "Hamilton: The Musical",
         emojiImgs: "💵🖋️⚖️🎵📜",
         genres: ["drama", "comedy", "musical"],
