@@ -472,6 +472,22 @@ const emojiItems = [
         year: 1990,
     },
     {
+        title: "Fantastic Beasts and Where to Find Them",
+        emojiImgs: "🐉🐀🦉🔎💼",
+        genres: ["adventure", "family", "fantasy"],
+        itemLink: "https://www.imdb.com/title/tt3183660/",
+        type: "movie",
+        year: 2016
+    },
+    {
+        title: "Fantastic Beasts: The Crimes of Grindelwald",
+        emojiImgs: "🐉🦉🚔👨‍🦳🧙‍♂️",
+        genres: ["adventure", "family", "fantasy"],
+        itemLink: "https://www.imdb.com/title/tt4123430/",
+        type: "movie",
+        year: 2018
+    },
+    {
         title: "Fargo",
         emojiImgs: "🚔🌳👶🏻⚰️",
         genres: ["crime", "drama", "thriller"],
