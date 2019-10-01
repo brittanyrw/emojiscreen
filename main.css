@@ -195,6 +195,16 @@ h2 {
 	cursor: pointer;
 }
 
+.emoji-card:focus .emoji-images {
+	border: var(--focus-border);
+}
+
+.emoji-card:focus .emoji-card-title {
+	border-bottom: var(--focus-border);
+	border-right: var(--focus-border);
+	border-left: var(--focus-border);
+}
+
 .emoji-images img {
 	width: 42px;
 	margin-right: 5px;
