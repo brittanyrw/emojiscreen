@@ -1192,6 +1192,13 @@ const emojiItems = [
         year: 1944
     },
     {
+        title: "So You Think You Can Dance",
+        emojiImgs: "👦👧🎶💃🕺",
+        genres: ["reality-tv", "music", "game-show"],
+        type: "tv",
+        year: 2005,
+        itemLink: "https://www.imdb.com/title/tt0472023/"
+    },{
         title: "The Social Network",
         emojiImgs: "💻😐🌐👤",
         genres: ["biography", "drama"],
