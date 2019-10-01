@@ -84,7 +84,7 @@ const emojiItems = [
         type: "movie",
         year: 2002,
         itemLink: "https://www.imdb.com/title/tt0286499/"
-    }
+    },
     {
         title: "The Big Bang Theory",
         emojiImgs: "🌍💻⚗🔭",
@@ -1071,13 +1071,21 @@ const emojiItems = [
         type: "movie",
         year: 2019
     },
-    {
+      {
         title: "Rugrats",
         emojiImgs: "👶🏻👶🏼👶🏻👶🏻👧🏻",
         genres: ["animation", "comedy"],
         type: "tv",
         year: 1990,
         itemLink: "https://www.imdb.com/title/tt0101188/"
+    },
+    {
+        title: "Saving Private Ryan",
+        emojiImgs: "🇫🇷🔍🔫☠🎖️",
+        genres: ["drama", "war"],
+        itemLink: "https://www.imdb.com/title/tt0120815/",
+        type: "movie",
+        year: 1998
     }, 
     {
         title: "School of Rock",
