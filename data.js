@@ -47,6 +47,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0090390/?ref_=fn_al_tt_1"
     },
     {
+        title: "Avatar",
+        emojiImgs: "👱‍♂️🔵👱‍♂️👩‍🦰🔵",
+        genres: ["action", "fantasy"],
+        type: "movie",
+        year: 2009,
+        itemLink: "https://www.imdb.com/title/tt0499549/?ref_=nv_sr_2?ref_=nv_sr_2"
+    },
+    {
         title: "Avatar: The Last Airbender",
         emojiImgs: "🥋🌏🔥💧💨",
         genres: ["animation", "action", "adventure"],
@@ -219,6 +227,14 @@ const emojiItems = [
         year: 2006
     },
     {
+        title: "Dil Dhadakne Do",
+        emojiImgs: "♥️💓✌️",
+        genres: ["bollywood", "drama"],
+        type: "movie",
+        year: 2015,
+        itemLink: "https://www.imdb.com/title/tt4110568/"
+    },
+    {
         title: "Dirty Dancing",
         emojiImgs: "🍉💃🕶🕺👶",
         genres: ["drama", "music", "romance"],
@@ -274,6 +290,13 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0816692/",
         type: "movie",
         year: 1994
+    },{
+        title: "Flight of the Conchords",
+        emojiImgs: "🎵🦏🦛🥝🇳🇿",
+        genres: ["comedy", "musical", "adventure"],
+        type: "tv",
+        year: 2007,
+        itemLink: "https://www.imdb.com/title/tt0863046/"
     },
     {
         title: "Frozen",
