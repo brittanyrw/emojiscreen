@@ -1465,4 +1465,11 @@ const emojiItems = [
         type: "movie",
         year: 1974
     } 
+    {
+        title: "Donnie Darko",
+        emojiImgs: "✈💥🐰✈💥",
+        genres: ["Drama","Sci-Fi","Thriller"],
+        type: "movie",
+        year: 2001
+    } 
 ]
