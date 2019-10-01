@@ -303,6 +303,14 @@ const emojiItems = [
         year: 1982
     },
     {
+        title: "Edward Sicssorhands",
+        emojiImgs: "👦✂🙌",
+        genres: ["drama", "fantasy", "romance"],
+        itemLink: "https://www.imdb.com/title/tt0099487/",
+        type: "movie",
+        year: 1990,
+    },
+    {
         title: "Fargo",
         emojiImgs: "🚔🌳👶🏻⚰️",
         genres: ["crime", "drama", "thriller"],
