@@ -145,6 +145,14 @@ const emojiItems = [
         year: 2008
     },
     {
+        title: "Bring It On",
+        emojiImgs: "💃🤸‍♀️💗🤷‍♀️🧖‍♀️",
+        genres: ["comedy", "romance", "sport"],
+        type: "movie",
+        year: 2000,
+        itemLink: "https://www.imdb.com/title/tt0204946/"
+    },
+    {
         title: "Brooklyn Nine-Nine",
         emojiImgs: "🗽👮🏻‍♂️👮🏿‍👮🏻‍♀️👮🏾",
         genres: ["comedy", "crime"],
@@ -1086,7 +1094,7 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0120815/",
         type: "movie",
         year: 1998
-    }, 
+    },
     {
         title: "School of Rock",
         emojiImgs: "🏫🎸🥁🎹",
@@ -1253,7 +1261,7 @@ const emojiItems = [
         genres: ["drama", "suspense", "horror"],
         type: "tv",
         year: 2010,
-        itemLink: "https://www.imdb.com/title/tt1520211" 
+        itemLink: "https://www.imdb.com/title/tt1520211"
     },
     {
         title: "Wall-E",
@@ -1303,5 +1311,5 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    } 
+    }
 ]
