@@ -656,6 +656,14 @@ const emojiItems = [
         year: 2002
     },
     {
+        title: "Hereditary",
+        emojiImgs: "😱👑🚗 👨‍👩‍👧‍👧 🏡",
+        genres: ["drama", "horror", "mystery"],
+        type: "movie",
+        year: 2018,
+        itemLink: "https://www.imdb.com/title/tt7784604/"
+    },
+    {
         title: "The Hangover",
         emojiImgs: "🤵🎰🥃🍾🤕",
         genres: ["comedy"],
