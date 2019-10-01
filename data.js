@@ -237,6 +237,13 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0421715/"
     },
     {
+        title: "Dance Moms",
+        emojiImgs: "💃👯‍🙍‍",
+        genres: ["reality-tv"],
+        type: "tv",
+        year: 2011,
+        itemLink: "https://www.imdb.com/title/tt1991410/"
+    },{
         title: "Deadwood",
         emojiImgs: "🤠🔫⚰️",
         genres: ["drama", "crime", "history"],
