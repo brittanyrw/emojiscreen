@@ -20,14 +20,14 @@ Below are instructions for how to contribute to this project. The easiest way to
 
 Below are some guidelines to follow when contributing to this project. 
 
-#### We are limiting contributions per person to 4 additions per project. 
-* Please limit yourself to adding 4 shows/movies and/or completing 4 Issues. This is due to the high level of activity on this project at the moment. Some Issues ask you to add multiple movies, those Issues count as 1 addition. We want to make sure many people have a chance to contribute to this project. The limit will be lifted once the activity has died down. 🙂
+#### 🛑 We are limiting contributions per person to 3 additions across EmojiScreen, EmojiBops and EmojiPages. (Updated Oct 1)
+* Please limit yourself to up to 3 additions across the three emoji projects. (Example One: Complete 1 feature, add two movies; Example Two: add three songs; Example Three: add one song, one movie and one book, etc). This is due to the high level of activity on these projects at the moment. We want to make sure many people have a chance to contribute. The limit will be lifted once the activity has died down. 🙂
 
 #### Check Issues and current Pull Requests before contributing to avoid adding duplicates. 
 * If your Pull Request is a duplicate, we will let you know so that you can update it if you like. 
  
 #### If someone has commented inside of the Issue saying they are working on it, that item is reserved for them. 
-* Please choose something else to add if someone else has already said they will add something. We will close Pull Requests and mark them as invalid if you are purposely creating Pull Requests for Issues that someone else has reserved in an attempt to try to complete it first or try to race someone in adding something. 
+* Please choose something else to add if someone else has already said they will add something. We will let you know if you accidently add something that someone else is assigned. It is easy to tell if someone is adding something accidently vs if they are ignoring our rules. We will mark Pull Requests as invalid (and therefore it will not count towards Hacktoberfest) if you are purposely creating multiple Pull Requests for Issues that someone else is assigned to or has reserved. 
 
 #### Please limit Pull Requests to adding a show/movie, completing an Issue or adding a feature. 
 * We are not accepting Pull Requests for things such as white space updates or README.md updates for Hacktoberfest. These types of Pull Requests will be marked as invalid. For Hacktoberfest, we would prefer that you add something to the project and not the documentation. 
@@ -59,15 +59,6 @@ Read below for a detailed overview and walkthrough on how to add an `Emoji Card`
 ## Choosing a Movie, TV Show or Musical to Add
 
 Here are some links to lists of movies, TV shows and musicals in case you're having trouble thinking of something to add!
-
-#### I have also [added Issues for individual movies, shows and series](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis) that I think would be fun to add to EmojiScreen. Feel free to add any of the movies or shows listed in Issues. Make sure to comment inside of the Issue if you plan on taking it and add the Issue number in your Pull Request. You can add movies or TV shows that are not listed as an Issue.
-
-### View [Issues for Individual Movies](https://github.com/brittanyrw/emojiscreen/labels/movie)
-### View [Issues for Movie Series](https://github.com/brittanyrw/emojiscreen/labels/add%20series)
-### View [Issues for TV shows](https://github.com/brittanyrw/emojiscreen/labels/tv)
-### View [Issues for Musicals](https://github.com/brittanyrw/emojiscreen/labels/musical)
-
-Note: The issues to add movies or shows have links to IMDB, but many shows/movies have multiple versions. Feel free to add a different version than the link if you prefer. For series, adding just some of the movies in a series is okay if you cannot add every single one.
 
 ### Movies
 * [IMDB Disney list](https://www.imdb.com/search/keyword/?keywords=disney&ref_=fn_al_kw_1)
@@ -217,9 +208,7 @@ Follow these instructions to add a card. You can add a card using the Github web
 
 ### This method will use the Github website to contribute to this project. You will not need to download any programs to your computer using these instructions.
 
-1. Check the Issues to see if the [movie](https://github.com/brittanyrw/emojiscreen/labels/movie), [series of movies](https://github.com/brittanyrw/emojiscreen/labels/add%20series), [TV show](https://github.com/brittanyrw/emojiscreen/labels/tv), [or musical](https://github.com/brittanyrw/emojiscreen/labels/musical) is listed.
-- If it is not listed as an issue, continue to the next step.
-- If it is listed as an Issue, take note of the Issue number (the number next to the title of the Issue) so that you can add it to your pull request and write a comment in the Issue stating that you will be adding that particular movie or show. If there is already a comment in the Issue from someone saying that they will add that show or movie, choose something else to add. 
+1. Check the [Issues](https://github.com/brittanyrw/emojiscreen/issues) and [Pull Requests](https://github.com/brittanyrw/emojiscreen/pulls) to see if the what you would like to add is listed. If it is not listed as an Issue or Pull Request, continue to the next step. If it is listed as an Issue or Pull Request, choose something else to add. 
 2. Fork this repository. This will create a copy of the repository and create a new repository on your account. Note: the `Fork` button is located in the top right area of the repo.
 3. Once the repo is forked, you will be taken to the forked repo. Note: In the top left, the name of the repo should now include your username.
 4. Navigate to the `data.js` file in your forked repo by clicking on the file name.
@@ -261,9 +250,7 @@ Use the following object as a template:
 
 ### Local Development Instructions
 
-1. Check the Issues to see if the [movie](https://github.com/brittanyrw/emojiscreen/labels/movie), [series of movies](https://github.com/brittanyrw/emojiscreen/labels/add%20series), [TV show](https://github.com/brittanyrw/emojiscreen/labels/tv), [or musical](https://github.com/brittanyrw/emojiscreen/labels/musical) is listed.
-- If it is not listed as an Issue, continue to the next step.
-- If it is listed as an Issue, take note of the issue number (the number next to the title of the Issue) so that you can add it to your pull request and write a comment in the Issue stating that you will be adding that particular movie or show. If there is already a comment in the Issue from someone saying that they will add that show or movie, choose something else to add. 
+1. Check the [Issues](https://github.com/brittanyrw/emojiscreen/issues) and [Pull Requests](https://github.com/brittanyrw/emojiscreen/pulls) to see if the what you would like to add is listed. If it is not listed as an Issue or Pull Request, continue to the next step. If it is listed as an Issue or Pull Request, choose something else to add. 
 2. Fork this repository. This will create a copy of the repository and create a new repository on your account.
 3. Once the repo is forked, you will be taken to the forked repo. Note: In the top left, the name of the repo should now include your username.
 4. Download the project to your computer. Click on the `Clone or Download` button. Copy the HTTPS github repo link.
