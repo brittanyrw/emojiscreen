@@ -1385,6 +1385,14 @@ const emojiItems = [
         year: 1999
     },
     {
+	title: "Stargate",
+        emojiImgs: "🔼🛸⭕️👽",
+	genres: ["Action", "Adventure", "Sci-Fi"],
+	itemLink: "https://www.imdb.com/title/tt0111282/",
+	type: "movie",
+	year: 1994
+    },
+    {
         title: "Steven Universe",
         emojiImgs: "👦🏻💎💎💎🛡️",
         genres: ["comedy"],
