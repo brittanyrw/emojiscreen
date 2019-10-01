@@ -213,6 +213,13 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0421715/"
     },
     {
+        title: "Deadwood",
+        emojiImgs: "🤠🔫⚰️",
+        genres: ["drama", "crime", "history"],
+        type: "tv",
+        year: 2004
+    },
+    {
         title: "Dear Evan Hansen",
         emojiImgs: "💌⚰️👨‍👩‍👧‍👦💻💞",
         genres: ["drama", "musical"],
