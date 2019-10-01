@@ -990,6 +990,7 @@ const emojiItems = [
         emojiImgs: "🇯🇵🛩💣🇺🇸🏝",
         genres: ["Action", "Drama", "History", "Romance", "War"],
         type: "movie",
-        year: 2001
+        year: 2001,
+        itemLink: "https://www.imdb.com/title/tt0213149/",
     }
 ]
