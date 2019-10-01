@@ -817,19 +817,19 @@ const emojiItems = [
         year: 2019
     },
     {
-        title: "School of Rock",
-        emojiImgs: "🏫🎸🥁🎹",
-        genres: ["comedy", "music"],
-        type: "movie",
-        year: 2003
-    },
-    {
         title: "Rugrats",
         emojiImgs: "👶🏻👶🏼👶🏻👶🏻👧🏻🍼",
         genres: ["animation", "comedy"],
         type: "tv",
         year: 1990
-    },    
+    }, 
+    {
+        title: "School of Rock",
+        emojiImgs: "🏫🎸🥁🎹",
+        genres: ["comedy", "music"],
+        type: "movie",
+        year: 2003
+    },   
     {
         title: "See No Evil, Hear No Evil",
         emojiImgs: "🙈👹🙉👹",
