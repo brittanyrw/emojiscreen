@@ -249,6 +249,14 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "Dreams",
+        emojiImgs: "💤💭👺🇯🇵",
+        genres: ["drama", "fantasy"],
+        itemLink: "https://www.imdb.com/title/tt0100998/",
+        type: "movie",
+        year: 1990
+    },
+    {
         title: "E.T. the Extra-Terrestrial",
         emojiImgs: "🌙🚲👉🏻👈🏻👽",
         genres: ["family", "sci-fi"],
