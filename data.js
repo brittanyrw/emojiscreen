@@ -231,6 +231,30 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0317219/"
     },
     {
+        title: "Captain America: Civil War",
+        emojiImgs: "🇺🇸🛡🤜🔫🔥",
+        genres: ["action", "sci-fi", "adventure"],
+        type: "movie",
+        year: 2016,
+        itemLink: "https://www.imdb.com/title/tt3498820/"
+    },
+    {
+        title: "Captain America: The First Avenger",
+        emojiImgs: "👨‍✈️🇺🇸🛡💪👹",
+        genres: ["action", "sci-fi", "adventure"],
+        type: "movie",
+        year: 2011,
+        itemLink: "https://www.imdb.com/title/tt0458339/"
+    },
+    {
+        title: "Captain America: The Winter Soldier",
+        emojiImgs: "🇺🇸🛡❄👨‍✈️💪",
+        genres: ["action", "sci-fi", "adventure"],
+        type: "movie",
+        year: 2014,
+        itemLink: "https://www.imdb.com/title/tt1843866/"
+    },
+    {
         title: "Cast Away",
         emojiImgs: "🏐🥥🏝️",
         genres: ["action", "comedy", "musical"],
@@ -1275,7 +1299,7 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0120815/",
         type: "movie",
         year: 1998
-    }, 
+    },
     {
         title: "School of Rock",
         emojiImgs: "🏫🎸🥁🎹",
@@ -1299,12 +1323,12 @@ const emojiItems = [
         year: 1989
     },
     {
-	title:"Seinfeld",
-	emojiImgs: "🎤👨👨‍🦲👩👨",
-	genres:["comedy"],
-	type:"tv",
-	year:1989,
-	itemLink:"https://www.imdb.com/title/tt0098904/"
+      title:"Seinfeld",
+      emojiImgs: "🎤👨👨‍🦲👩👨",
+      genres:["comedy"],
+      type:"tv",
+      year:1989,
+      itemLink:"https://www.imdb.com/title/tt0098904/"
     },
     {
         title: "Seven",
@@ -1472,7 +1496,7 @@ const emojiItems = [
         genres: ["drama", "suspense", "horror"],
         type: "tv",
         year: 2010,
-        itemLink: "https://www.imdb.com/title/tt1520211" 
+        itemLink: "https://www.imdb.com/title/tt1520211"
     },
     {
         title: "Wall-E",
