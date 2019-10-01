@@ -767,7 +767,7 @@ const emojiItems = [
         year: 1994
     },
     {
-        title: "Queer Eye (original)",
+        title: "Queer Eye",
         emojiImgs: "🏳️‍🌈👁️👬🚶‍👬",
         genres: ["comedy", "reality-tv"],
         type: "tv",
