@@ -607,6 +607,13 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "Passaporte para Paris",
+        emojiImgs: "🎟✈🗼",
+        genres: ["comedy", "romance"],
+        type: "movie",
+        year: 1999
+    },
+    {
         title: "The Lion King",
         emojiImgs: "🦁👑🌍",
         genres: ["animation", "adventure", "drama"],
@@ -984,12 +991,5 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    },
-    {
-        title: "Passaporte para Paris",
-        emojiImgs: "🎟✈🗼",
-        genres: ["comedy", "romance"],
-        type: "movie",
-        year: 1999
     },
 ]
