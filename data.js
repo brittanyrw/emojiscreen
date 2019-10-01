@@ -238,7 +238,8 @@ const emojiItems = [
         emojiImgs: "👶⚡️🚀🌍‍",
         genres: ["adventure", "drama", "family"],
         type: "tv",
-        year: 2005
+        year: 2005,
+	itemLink: "https://www.imdb.com/title/tt0436992/"
     },
     {
         title: "Dora and the Lost City of Gold",
