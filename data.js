@@ -450,6 +450,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0413573/"
     },
     {
+        title: "The Girl with the Dragon Tattoo",
+        emojiImgs: "👧💉🐉",
+        itemLink: "https://www.imdb.com/title/tt0000000001132620/",
+        genres: ["crime","drama","mystery"],
+        type: "movie",
+        year: 2009
+    },
+    {
         title: "Hachi: A Dog's Tale",
         emojiImgs: "👨‍🏫💔🚉🐕🌭",
         genres: ["family", "drama"],
