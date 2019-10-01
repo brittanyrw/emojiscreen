@@ -921,7 +921,7 @@ const emojiItems = [
         emojiImgs: "😼😽🙀😿😾",
         genres: ["action", "adventure", "comedy"],
         type: "movie",
-        year: 2008,
+        year: 2008
     },
     {
         title: "Up",
