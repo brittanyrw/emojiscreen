@@ -147,7 +147,8 @@ const emojiItems = [
         emojiImgs: "🚗🍃🏁⛽️",
         genres: ["animation", "comedy", "family"],
         type: "movie",
-        year: 2006
+        year: 2006,
+        itemLink: "https://www.imdb.com/title/tt0317219/"
     },
     {
         title: "Cast Away",
