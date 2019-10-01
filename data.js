@@ -1,5 +1,5 @@
 const emojiItems = [
-    {
+  {
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
         genres: ["musical", "comedy"],
@@ -7,7 +7,6 @@ const emojiItems = [
         year: 2005,
         itemLink: "http://www.playbill.com/production/the-25th-annual-putnam-county-spelling-bee-circle-in-the-square-theatre-vault-0000003219"
     },
-   
     {
         title: "300 ",
         emojiImgs: " 💪🤕👊🏻⚔️ 🛡",
@@ -48,6 +47,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0090390/?ref_=fn_al_tt_1"
     },
     {
+        title: "American Idol",
+        emojiImgs: "🇺🇸🗣🎤",
+        genres: ["game show", "musical"],
+        type: "tv",
+        year: 2002,
+        itemLink: "https://www.imdb.com/title/tt0319931/",
+    },
+    {
         title: "Avatar",
         emojiImgs: "👱‍♂️🔵👱‍♂️👩‍🦰🔵",
         genres: ["action", "fantasy"],
@@ -73,7 +80,7 @@ const emojiItems = [
     {
         title: "The Big Bang Theory",
         emojiImgs: "🌍💻⚗🔭",
-        genres: ["comedy","romance"],
+        genres: ["comedy", "romance"],
         type: "tv",
         year: 2007
     },
@@ -688,7 +695,7 @@ const emojiItems = [
     {
         title: "The Little Mermaid",
         emojiImgs: "‍🧜🏽‍🤴🏽🐠🦞🐙",
-        genres: ["animation","family","fantasy"],
+        genres: ["animation", "family", "fantasy"],
         type: "movie",
         year: 1989,
         itemLink: "https://www.imdb.com/title/tt0097757/"
@@ -771,7 +778,7 @@ const emojiItems = [
         genres: ["war", "music"],
         type: "movie",
         year: 1998
-    },{
+    }, {
         title: "Narcos",
         emojiImgs: "🔫🗡💊💉💰",
         genres: ["crime", "drama"],
@@ -1129,5 +1136,4 @@ const emojiItems = [
         type: "movie",
         year: 1974
     }
-
 ]
