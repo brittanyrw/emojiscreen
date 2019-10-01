@@ -55,6 +55,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0319931/",
     },
     {
+        title: "American Made",
+        emojiImgs: "🕶️🛩️💵🧳",
+        genres: ["action", "biography", "comedy"],
+        itemLink: "https://www.imdb.com/title/tt3532216/",
+        type: "movie",
+        year: 2017
+    },
+    {
         title: "Avatar",
         emojiImgs: "👱‍♂️🔵👱‍♂️👩‍🦰🔵",
         genres: ["action", "fantasy"],
