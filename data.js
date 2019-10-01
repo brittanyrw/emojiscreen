@@ -913,6 +913,14 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "Rugrats",
+        emojiImgs: "👶🏻👶🏼👶🏻👶🏻👧🏻",
+        genres: ["animation", "comedy"],
+        type: "tv",
+        year: 1990,
+        itemLink: "https://www.imdb.com/title/tt0101188/"
+    }, 
+    {
         title: "School of Rock",
         emojiImgs: "🏫🎸🥁🎹",
         genres: ["comedy", "music"],
