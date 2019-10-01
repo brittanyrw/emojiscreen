@@ -8,12 +8,20 @@ const emojiItems = [
         itemLink: "http://www.playbill.com/production/the-25th-annual-putnam-county-spelling-bee-circle-in-the-square-theatre-vault-0000003219"
     },
     {
+        title: "The Mask ",
+        emojiImgs: "🐶🤓👺🤪🕺",
+        genres: ["comedy", "crime", "fantasy"],
+        type: "movie",
+        year: 1994,
+        itemLink: "https://www.imdb.com/title/tt0110475/?ref_=nv_sr_1?ref_=nv_sr_1"
+    },
+    {
         title: "300 ",
         emojiImgs: " 💪🤕👊🏻⚔️ 🛡",
         genres: ["action", "drama", "fantasy"],
         type: "movie",
         year: 2007,
-        itemLink: "https://www.imdb.com/title/tt0416449/?ref_=nv_sr_1?ref_=nv_sr_1"
+        itemLink: "https://www.imdb.com/title/tt0416449"
     },
     {
         title: "A Star is Born",
@@ -21,7 +29,7 @@ const emojiItems = [
         genres: ["drama", "music", "romance"],
         type: "movie",
         year: 2018,
-        itemLink: "https://www.imdb.com/title/tt1517451/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt1517451"
     },
     {
         title: "Aladdin",
@@ -29,14 +37,15 @@ const emojiItems = [
         genres: ["adventure", "family", "comedy"],
         type: "movie",
         year: 2019,
-        itemLink: "https://www.imdb.com/title/tt6139732/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt6139732"
     },
     {
         title: "Alf",
         emojiImgs: "🚀👽🍴🐈️",
         genres: ["comedy", "family", "sci-fi"],
         type: "tv",
-        year: 1986
+        year: 1986,
+        itemLink: "https://www.imdb.com/title/tt0090390"
     },
     {
         title: "Alien",
@@ -44,7 +53,7 @@ const emojiItems = [
         genres: ["suspense", "horror"],
         type: "movie",
         year: 1979,
-        itemLink: "https://www.imdb.com/title/tt0090390/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt0078748/"
     },
     {
         title: "American Idol",
@@ -55,19 +64,36 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0319931/",
     },
     {
+  	title: "Anastasia",
+  	emojiImgs: "🏰👸🧙🇷🇺💗",
+  	genres: ["animation", "adventure", "drama"],
+  	itemLink: "https://www.imdb.com/title/tt0118617/",
+  	type: "movie",
+  	year: 1997
+    },
+    {
         title: "Avatar",
         emojiImgs: "👱‍♂️🔵👱‍♂️👩‍🦰🔵",
         genres: ["action", "fantasy"],
         type: "movie",
         year: 2009,
-        itemLink: "https://www.imdb.com/title/tt0499549/?ref_=nv_sr_2?ref_=nv_sr_2"
+        itemLink: "https://www.imdb.com/title/tt0499549"
+    },
+    {
+        title: "Ant-Man and the Wasp",
+        emojiImgs: "🐜🙍‍♂️🐝🙎‍♀️👻",
+        genres: ["action", "adventure", "comedy"],
+        type: "movie",
+        year: 2018,
+        itemLink: "https://www.imdb.com/title/tt5095030/?ref_=fn_al_tt_1"
     },
     {
         title: "Avatar: The Last Airbender",
         emojiImgs: "🥋🌏🔥💧💨",
         genres: ["animation", "action", "adventure"],
         type: "tv",
-        year: 2005
+        year: 2005,
+	      itemLink: "https://www.imdb.com/title/tt0417299/"
     },
     {
         title: "The Bachelor",
@@ -86,12 +112,19 @@ const emojiItems = [
         year: 2002
     },
     {
+        title: "America's Next Top Model",
+        emojiImgs: "👜👭👭",
+        genres: ["game-show", "reality"],
+        type: "tv",
+        year: 2003
+    },
+    {
         title: "Beauty and the Beast",
         emojiImgs: "🏰🥀🎶📚🕰️",
         genres: ["animation", "family", "fantasy"],
         type: "movie",
         year: 1991,
-        itemLink: "https://www.imdb.com/title/tt2771200/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt2771200"
     },
     {
         title: "Be More Chill",
@@ -113,7 +146,8 @@ const emojiItems = [
         emojiImgs: "🌍💻⚗🔭",
         genres: ["comedy", "romance"],
         type: "tv",
-        year: 2007
+        year: 2007,
+	      itemLink: "https://www.imdb.com/title/tt0898266/"
     },
     {
         title: "Black Panther",
@@ -121,7 +155,7 @@ const emojiItems = [
         genres: ["action", "adventure", "sci-fi"],
         type: "movie",
         year: 2018,
-        itemLink: "https://www.imdb.com/title/tt1825683/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt1825683"
     },
     {
         title: "Black Swan",
@@ -129,29 +163,40 @@ const emojiItems = [
         genres: ["drama", "thriller"],
         type: "movie",
         year: 2010,
-        itemLink: "https://www.imdb.com/title/tt0947798/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt0947798"
     },
     {
         title: "Bad Santa",
         emojiImgs: "😁😂🥰🌺🌼",
         genres: ["comedy", "crime", "drama"],
         type: "movie",
-        year: 2003
+        year: 2003,
+	      itemLink: "https://www.imdb.com/title/tt0307987/"
     },
     {
         title: "Blazing Saddles",
         emojiImgs: "🔥🤠🐴🏇🏜️",
         genres: ["western", "comedy"],
         type: "movie",
-        year: 1974
+        year: 1974,
+	      itemLink: "https://www.imdb.com/title/tt0071230/"
     },
     {
         title: "The Book of Mormon",
         emojiImgs: "👋🔔👨📖✝️",
         genres: ["comedy", "satire", "musical"],
         type: "musical",
-        year: 2011
+        year: 2011,
+	      itemLink: "http://www.playbill.com/production/the-book-of-mormon-eugene-oneill-theatre-vault-0000013715"
     },
+    {
+	title: "Boys over Flowers",
+	emojiImgs: "👦🔼💮",
+	genres: ["comedy", "drama", "romance"],
+	type: "tv",
+	year: 2009,
+	itemLink: "https://www.imdb.com/title/tt1370334/"
+    },	
     {
         title: "Brave",
         emojiImgs: "🏹🎯🛡️🐻",
@@ -165,28 +210,32 @@ const emojiItems = [
         emojiImgs: "🌵🤓🧪💊💰",
         genres: ["crime", "drama", "thriller"],
         type: "tv",
-        year: 2008
+        year: 2008,
+	      itemLink: "https://www.imdb.com/title/tt0903747/"
     },
     {
         title: "Brooklyn Nine-Nine",
         emojiImgs: "🗽👮🏻‍♂️👮🏿‍👮🏻‍♀️👮🏾",
         genres: ["comedy", "crime"],
         type: "tv",
-        year: 2013
+        year: 2013,
+	      itemLink: "https://www.imdb.com/title/tt2467372/"
     },
     {
         title: "Buffy the Vampire Slayer",
         emojiImgs: "🅾️🎃🧛‍",
         genres: ["drama", "fantasy", "romance", "action"],
         type: "tv",
-        year: 1997
+        year: 1997,
+	      itemLink: "https://www.imdb.com/title/tt0118276/"
     },
     {
         title: "Bungou Stray Dogs: Dead Apple",
         emojiImgs: "🍎🗡🐶🇯🇵",
         genres: ["animation"],
         type: "movie",
-        year: 2018
+        year: 2018,
+	      itemLink: "https://www.imdb.com/title/tt8391976/"
     },
     {
         title: "Cars",
@@ -195,6 +244,30 @@ const emojiItems = [
         type: "movie",
         year: 2006,
         itemLink: "https://www.imdb.com/title/tt0317219/"
+    },
+    {
+        title: "Captain America: Civil War",
+        emojiImgs: "🇺🇸🛡🤜🔫🔥",
+        genres: ["action", "sci-fi", "adventure"],
+        type: "movie",
+        year: 2016,
+        itemLink: "https://www.imdb.com/title/tt3498820/"
+    },
+    {
+        title: "Captain America: The First Avenger",
+        emojiImgs: "👨‍✈️🇺🇸🛡💪👹",
+        genres: ["action", "sci-fi", "adventure"],
+        type: "movie",
+        year: 2011,
+        itemLink: "https://www.imdb.com/title/tt0458339/"
+    },
+    {
+        title: "Captain America: The Winter Soldier",
+        emojiImgs: "🇺🇸🛡❄👨‍✈️💪",
+        genres: ["action", "sci-fi", "adventure"],
+        type: "movie",
+        year: 2014,
+        itemLink: "https://www.imdb.com/title/tt1843866/"
     },
     {
         title: "Cast Away",
@@ -718,6 +791,14 @@ const emojiItems = [
         year: 1997
     },
     {
+        title: "James and the Giant Peach",
+        emojiImgs: "🍑👦🦗🐛🐞",
+        genres: ["animation", "adventure", "family"],
+        type: "movie",
+        year: 1996,
+        itemLink: "https://www.imdb.com/title/tt0116683/"
+    },
+    {
         title: "Jane the Virgin",
         emojiImgs: "💃🏽♍️🌴👶🏽💖",
         genres: ["comedy", "romance", "tele novella"],
@@ -1152,6 +1233,22 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0110912/"
     },
     {
+        title: "Queer Eye",
+        emojiImgs: "🏳️‍🌈👁️👬🚶‍👬",
+        genres: ["comedy", "reality-tv"],
+        type: "tv",
+        year: 2003,
+        itemLink: "https://www.imdb.com/title/tt0358332/"
+    },
+    {
+        title: "Queer Eye",
+        emojiImgs: "🏳️‍🌈👁️👬👬🤸‍",
+        genres: ["comedy", "reality-tv"],
+        type: "tv",
+        year: 2018,
+        itemLink: "https://www.imdb.com/title/tt7259746/"
+    },
+    {
         title: "Ratatouille",
         emojiImgs: "🐀👨‍🍳🔪",
         genres: ["animation", "comedy", "family"],
@@ -1225,7 +1322,7 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0120815/",
         type: "movie",
         year: 1998
-    }, 
+    },
     {
         title: "School of Rock",
         emojiImgs: "🏫🎸🥁🎹",
@@ -1249,12 +1346,12 @@ const emojiItems = [
         year: 1989
     },
     {
-	title:"Seinfeld",
-	emojiImgs: "🎤👨👨‍🦲👩👨",
-	genres:["comedy"],
-	type:"tv",
-	year:1989,
-	itemLink:"https://www.imdb.com/title/tt0098904/"
+        title:"Seinfeld",
+        emojiImgs: "🎤👨👨‍🦲👩👨",
+        genres:["comedy"],
+        type:"tv",
+        year:1989,
+        itemLink:"https://www.imdb.com/title/tt0098904/"
     },
     {
         title: "Seven",
@@ -1422,7 +1519,7 @@ const emojiItems = [
         genres: ["drama", "suspense", "horror"],
         type: "tv",
         year: 2010,
-        itemLink: "https://www.imdb.com/title/tt1520211" 
+        itemLink: "https://www.imdb.com/title/tt1520211"
     },
     {
         title: "Wall-E",
@@ -1472,6 +1569,4 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    } 
-    
 ]
