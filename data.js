@@ -629,13 +629,6 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0097757/"
     },
     {
-        title: "The Lord of the Rings: The Fellowship of the Ring",
-        emojiImgs: "💍🧝⚔️🧙",
-        genres: ["adventure", "drama", "fantasy"],
-        type: "movie",
-        year: 2001
-    },
-    {
         title: "Lost",
         emojiImgs: "✈️🏝⛺🆘❓",
         genres: ["adventure", "drama", "fantasy"],
@@ -1006,4 +999,5 @@ const emojiItems = [
         type: "movie",
         year: 2002
     }
+
 ]
