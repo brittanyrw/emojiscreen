@@ -316,6 +316,14 @@ const emojiItems = [
         year: 2007,
         itemLink: "https://www.imdb.com/title/tt0863046/"
     },
+     {
+        title: "Four Weddings and a Funeral",
+        emojiImgs: "4️⃣💒💑⚰️",
+        genres: ["Comedy", "Drama", "Romance"],
+        type: "movie",
+        year: 1994,
+        itemLink: "https://www.imdb.com/title/tt0109831/"
+    },
     {
         title: "Frozen",
         emojiImgs: "👭☃️❄️",
