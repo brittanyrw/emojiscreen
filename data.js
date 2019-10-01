@@ -587,6 +587,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0238784/"
     },
     {
+        title: "The Girl Next Door ",
+        emojiImgs: "👩👉🚪",
+        genres: ["comedy", "drama","romance" ],
+        type: "movie",
+        year: 2004,
+        itemLink: "https://www.imdb.com/title/tt0265208/"
+    },
+    {
         title: "Gladiator",
         emojiImgs: "🤺⚔️🛡️",
         genres: ["action", "adventure", "drama"],
@@ -879,6 +887,14 @@ const emojiItems = [
         type: "movie",
         year: 1984,
         itemLink: "https://www.imdb.com/title/tt0087538/"
+    },
+    {
+        title: "Kingsman: The Secret Service ",
+        emojiImgs: "👑👨👮🤵🐕",
+        genres: ["action", "adventure", "comedy"],
+        type: "movie",
+        year: 2014,
+        itemLink: "https://www.imdb.com/title/tt2802144/"
     },
     {
         title: "Kiki's Delivery Service",
