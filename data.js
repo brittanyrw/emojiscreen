@@ -629,6 +629,30 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0097757/"
     },
     {
+        title: "The Lord of the Rings: The Fellowship of the Ring",
+        emojiImgs: "💍🧝⚔️👨‍👩‍👧‍👦💍",
+        genres: [ "Adventure", "Drama", "Fantasy"],
+        itemLink: "https://www.imdb.com/title/tt0120737/",
+        type: "movie",
+        year: 2001
+    },
+    {
+        title: "The Lord of the Rings: The Return of the King",
+        emojiImgs: "💍🧝↩️👑🤴",
+        genres: [ "Adventure", "Drama", "Fantasy"],
+        itemLink: "https://www.imdb.com/title/tt0167260/",
+        type: "movie",
+        year: 2003
+    },
+    {
+        title: " The Lord of the Rings: The Two Towers",
+        emojiImgs: "💍🧝️2⃣🗼🗼🗼🗼",
+        genres: [ "Adventure", "Drama", "Fantasy"],
+        itemLink: "https://www.imdb.com/title/tt0167261/",
+        type: "movie",
+        year: 2002
+    },
+    {
         title: "Lost",
         emojiImgs: "✈️🏝⛺🆘❓",
         genres: ["adventure", "drama", "fantasy"],
@@ -977,30 +1001,6 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    },
-    {
-        title: "The Lord of the Rings: The Fellowship of the Ring",
-        emojiImgs: "💍🧝⚔️👨‍👩‍👧‍👦💍",
-        genres: [ "Adventure", "Drama", "Fantasy"],
-        itemLink: "https://www.imdb.com/title/tt0120737/",
-        type: "movie",
-        year: 2001
-    },
-    {
-        title: "The Lord of the Rings: The Return of the King",
-        emojiImgs: "💍🧝↩️👑🤴",
-        genres: [ "Adventure", "Drama", "Fantasy"],
-        itemLink: "https://www.imdb.com/title/tt0167260/",
-        type: "movie",
-        year: 2003
-    },
-    {
-        title: " The Lord of the Rings: The Two Towers",
-        emojiImgs: "💍🧝️2⃣🗼🗼🗼🗼",
-        genres: [ "Adventure", "Drama", "Fantasy"],
-        itemLink: "https://www.imdb.com/title/tt0167261/",
-        type: "movie",
-        year: 2002
     }
 
 ]
