@@ -821,7 +821,8 @@ const emojiItems = [
         emojiImgs: "👶🏻👶🏼👶🏻👶🏻👧🏻",
         genres: ["animation", "comedy"],
         type: "tv",
-        year: 1990
+        year: 1990,
+        itemLink: "https://www.imdb.com/title/tt0101188/"
     }, 
     {
         title: "School of Rock",
