@@ -13,7 +13,7 @@ const emojiItems = [
         genres: ["action", "drama", "fantasy"],
         type: "movie",
         year: 2007,
-        itemLink: "https://www.imdb.com/title/tt0416449/?ref_=nv_sr_1?ref_=nv_sr_1"
+        itemLink: "https://www.imdb.com/title/tt0416449"
     },
     {
         title: "A Star is Born",
@@ -21,7 +21,7 @@ const emojiItems = [
         genres: ["drama", "music", "romance"],
         type: "movie",
         year: 2018,
-        itemLink: "https://www.imdb.com/title/tt1517451/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt1517451"
     },
     {
         title: "Aladdin",
@@ -29,7 +29,7 @@ const emojiItems = [
         genres: ["adventure", "family", "comedy"],
         type: "movie",
         year: 2019,
-        itemLink: "https://www.imdb.com/title/tt6139732/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt6139732"
     },
     {
         title: "Alf",
@@ -37,7 +37,7 @@ const emojiItems = [
         genres: ["comedy", "family", "sci-fi"],
         type: "tv",
         year: 1986,
-	itemLink: "https://www.imdb.com/title/tt0090390/"
+        itemLink: "https://www.imdb.com/title/tt0090390"
     },
     {
         title: "Alien",
@@ -45,7 +45,7 @@ const emojiItems = [
         genres: ["suspense", "horror"],
         type: "movie",
         year: 1979,
-        itemLink: "https://www.imdb.com/title/tt0090390/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt0078748/"
     },
     {
         title: "American Idol",
@@ -61,7 +61,7 @@ const emojiItems = [
         genres: ["action", "fantasy"],
         type: "movie",
         year: 2009,
-        itemLink: "https://www.imdb.com/title/tt0499549/?ref_=nv_sr_2?ref_=nv_sr_2"
+        itemLink: "https://www.imdb.com/title/tt0499549"
     },
     {
         title: "Avatar: The Last Airbender",
@@ -69,7 +69,7 @@ const emojiItems = [
         genres: ["animation", "action", "adventure"],
         type: "tv",
         year: 2005,
-	itemLink: "https://www.imdb.com/title/tt0417299/"
+	      itemLink: "https://www.imdb.com/title/tt0417299/"
     },
     {
         title: "The Bachelor",
@@ -93,7 +93,7 @@ const emojiItems = [
         genres: ["animation", "family", "fantasy"],
         type: "movie",
         year: 1991,
-        itemLink: "https://www.imdb.com/title/tt2771200/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt2771200"
     },
     {
         title: "Be More Chill",
@@ -116,7 +116,7 @@ const emojiItems = [
         genres: ["comedy", "romance"],
         type: "tv",
         year: 2007,
-	itemLink: "https://www.imdb.com/title/tt0898266/"
+	      itemLink: "https://www.imdb.com/title/tt0898266/"
     },
     {
         title: "Black Panther",
@@ -124,7 +124,7 @@ const emojiItems = [
         genres: ["action", "adventure", "sci-fi"],
         type: "movie",
         year: 2018,
-        itemLink: "https://www.imdb.com/title/tt1825683/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt1825683"
     },
     {
         title: "Black Swan",
@@ -132,7 +132,7 @@ const emojiItems = [
         genres: ["drama", "thriller"],
         type: "movie",
         year: 2010,
-        itemLink: "https://www.imdb.com/title/tt0947798/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt0947798"
     },
     {
         title: "Bad Santa",
@@ -140,7 +140,7 @@ const emojiItems = [
         genres: ["comedy", "crime", "drama"],
         type: "movie",
         year: 2003,
-	itemLink: "https://www.imdb.com/title/tt0307987/"
+	      itemLink: "https://www.imdb.com/title/tt0307987/"
     },
     {
         title: "Blazing Saddles",
@@ -148,7 +148,7 @@ const emojiItems = [
         genres: ["western", "comedy"],
         type: "movie",
         year: 1974,
-	itemLink: "https://www.imdb.com/title/tt0071230/"
+	      itemLink: "https://www.imdb.com/title/tt0071230/"
     },
     {
         title: "The Book of Mormon",
@@ -156,7 +156,7 @@ const emojiItems = [
         genres: ["comedy", "satire", "musical"],
         type: "musical",
         year: 2011,
-	itemLink: "http://www.playbill.com/production/the-book-of-mormon-eugene-oneill-theatre-vault-0000013715"
+	      itemLink: "http://www.playbill.com/production/the-book-of-mormon-eugene-oneill-theatre-vault-0000013715"
     },
     {
         title: "Brave",
@@ -172,7 +172,7 @@ const emojiItems = [
         genres: ["crime", "drama", "thriller"],
         type: "tv",
         year: 2008,
-	itemLink: "https://www.imdb.com/title/tt0903747/"
+	      itemLink: "https://www.imdb.com/title/tt0903747/"
     },
     {
         title: "Brooklyn Nine-Nine",
@@ -180,7 +180,7 @@ const emojiItems = [
         genres: ["comedy", "crime"],
         type: "tv",
         year: 2013,
-	itemLink: "https://www.imdb.com/title/tt2467372/"
+	      itemLink: "https://www.imdb.com/title/tt2467372/"
     },
     {
         title: "Buffy the Vampire Slayer",
@@ -188,7 +188,7 @@ const emojiItems = [
         genres: ["drama", "fantasy", "romance", "action"],
         type: "tv",
         year: 1997,
-	itemLink: "https://www.imdb.com/title/tt0118276/"
+	      itemLink: "https://www.imdb.com/title/tt0118276/"
     },
     {
         title: "Bungou Stray Dogs: Dead Apple",
@@ -196,7 +196,7 @@ const emojiItems = [
         genres: ["animation"],
         type: "movie",
         year: 2018,
-	itemLink: "https://www.imdb.com/title/tt8391976/"
+	      itemLink: "https://www.imdb.com/title/tt8391976/"
     },
     {
         title: "Cars",
