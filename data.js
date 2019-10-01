@@ -62,14 +62,6 @@ const emojiItems = [
         year: 2005
     },
     {
-        title: "Barbershop",
-        emojiImgs: "💈✂️😂",
-        genres: ["Comedy", "Drama"],
-        type: "movie",
-        year: 2002,
-        itemLink: "https://www.imdb.com/title/tt0303714/?ref_=nv_sr_2?ref_=nv_sr_2"
-    },
-    {
         title: "Beauty and the Beast",
         emojiImgs: "🏰🥀🎶📚🕰️",
         genres: ["animation", "family", "fantasy"],
