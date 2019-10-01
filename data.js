@@ -182,6 +182,14 @@ const emojiItems = [
         year: 2018
     },
     {
+        title: "Cars",
+        emojiImgs: "🚗🍃🏁⛽️",
+        genres: ["animation", "comedy", "family"],
+        type: "movie",
+        year: 2006,
+        itemLink: "https://www.imdb.com/title/tt0317219/"
+    },
+    {
         title: "Cast Away",
         emojiImgs: "🏐🥥🏝️",
         genres: ["action", "comedy", "musical"],
