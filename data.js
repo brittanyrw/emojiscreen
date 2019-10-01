@@ -922,6 +922,14 @@ const emojiItems = [
         year: 1944
     },
     {
+        title: "The Social Network",
+        emojiImgs: "💻😐🌐👤",
+        genres: ["biography", "drama"],
+        type: "movie",
+        year: 2010,
+        itemLink: "https://www.imdb.com/title/tt1285016/"
+    },
+    {
         title: "Space Jam",
         emojiImgs: "🏀🛸🚀",
         genres: ["action", "comedy", "musical"],
