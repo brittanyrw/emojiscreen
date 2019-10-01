@@ -176,12 +176,11 @@ const emojiItems = [
     },
     {
 	title: "Boys over Flowers",
-	emojImgs: "👦🔼💮",
+	emojiImgs: "👦🔼💮",
 	genres: ["comedy", "drama", "romance"],
 	type: "tv",
 	year: 2009,
-	itemLink: "https://www.imdb.com/title/tt1370334/",
-	    
+	itemLink: "https://www.imdb.com/title/tt1370334/"
     },	
     {
         title: "Brave",
