@@ -455,6 +455,13 @@ const emojiItems = [
         type: "movie",
         year: 2000,
         itemLink: "https://www.imdb.com/title/tt0242423/"
+    },{
+        title: "Eragon",
+        emojiImgs: "👦🏼🐉🥚⚔️👑",
+        genres: ["action", "adventure", "family"],
+        itemLink: "https://www.imdb.com/title/tt0449010/",
+        type: "movie",
+        year: 2006
     },
     {
         title: "E.T. the Extra-Terrestrial",
