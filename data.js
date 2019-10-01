@@ -334,6 +334,15 @@ const emojiItems = [
         year: 2000
     },
     {
+        title: "The Golden Girls",
+        emojiImgs: "🥇🥇👧👧👧",
+        genres: [ "Comedy", "Drama"],
+        itemLink:"https://www.imdb.com/title/tt0088526/releaseinfo?ref_=tt_ov_inf",
+        type: "tv",
+        year: 1985
+    },
+    
+    {
         title: "Goonies",
         emojiImgs: "🚴🚴‍♀️😲💍👨‍👩‍👧‍👦",
         genres: ["adventure", "comedy", "family"],
