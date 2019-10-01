@@ -720,6 +720,14 @@ const emojiItems = [
         year: 2003
     },
     {
+        title: "Mean Girls",
+        emojiImgs: "👚🏫📓🔥😏",
+        genres: ["movie", "comedy"],
+        type: "movie",
+        year: 2004,
+        itemLink: "https://www.imdb.com/title/tt0377092/"
+    },
+    {
         title: "Miss Saigon",
         emojiImgs: "🇻🇳💑🚁👶",
         genres: ["drama", "war", "musical"],
