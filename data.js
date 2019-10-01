@@ -1263,6 +1263,14 @@ const emojiItems = [
         year: 2008
     },
     {
+        title: "War Horse",
+        emojiImgs: "🐎👦⚔️🎖️",
+        genres: ["action", "adventure", "drama"],
+        type: "movie",
+        year: 2011,
+        itemLink: "https://www.imdb.com/title/tt1568911/"
+    },
+    {
         title: "West Side Story",
         emojiImgs: "🗽✈️⚔️🦈💔",
         genres: ["musical", "romance", "drama", "crime"],
