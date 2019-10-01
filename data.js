@@ -990,6 +990,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0190641/"
     },
     {
+        title: "The Powerpuff Girls",
+        emojiImgs: "💪💨👭",
+        genres: ["animation", "action", "comedy"],
+        type: "tv",
+        year: 1998,
+        itemLink: "https://www.imdb.com/title/tt0175058/"
+    },
+    {
         title: "Princess and the Frog",
         emojiImgs: "👸🏽🐸💋💒🥂",
         genres: ["animation", "adventure", "comedy"],
