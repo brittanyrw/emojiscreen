@@ -20,7 +20,7 @@ Below are instructions for how to contribute to this project. The easiest way to
 
 Below are some guidelines to follow when contributing to this project. 
 
-#### We are limiting contributions per person to 3 additions across EmojiScreen, EmojiBops and EmojiPages. (Updated Oct 1)
+#### 🛑 We are limiting contributions per person to 3 additions across EmojiScreen, EmojiBops and EmojiPages. (Updated Oct 1)
 * Please limit yourself to up to 3 additions across the three emoji projects. (Example One: Complete 1 feature, add two movies; Example Two: add three songs; Example Three: add one song, one movie and one book, etc). This is due to the high level of activity on these projects at the moment. We want to make sure many people have a chance to contribute. The limit will be lifted once the activity has died down. 🙂
 
 #### Check Issues and current Pull Requests before contributing to avoid adding duplicates. 
