@@ -1170,6 +1170,22 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0110912/"
     },
     {
+        title: "Queer Eye",
+        emojiImgs: "🏳️‍🌈👁️👬🚶‍👬",
+        genres: ["comedy", "reality-tv"],
+        type: "tv",
+        year: 2003,
+        itemLink: "https://www.imdb.com/title/tt0358332/"
+    },
+    {
+        title: "Queer Eye",
+        emojiImgs: "🏳️‍🌈👁️👬👬🤸‍",
+        genres: ["comedy", "reality-tv"],
+        type: "tv",
+        year: 2018,
+        itemLink: "https://www.imdb.com/title/tt7259746/"
+    },
+    {
         title: "Ratatouille",
         emojiImgs: "🐀👨‍🍳🔪",
         genres: ["animation", "comedy", "family"],
