@@ -353,6 +353,14 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "Donnie Darko",
+        emojiImgs: "✈💥🐰✈💥",
+        genres: ["Drama","Sci-Fi","Thriller"],
+        type: "movie",
+        year: 2001,
+	itemLink : "https://www.imdb.com/title/tt0246578/"
+    }, 
+    {
         title: "Dora and the Lost City of Gold",
         emojiImgs: "👧🐒🏕️🏰💰",
         genres: ["fantasy", "adventure", "comedy"],
@@ -1465,12 +1473,5 @@ const emojiItems = [
         type: "movie",
         year: 1974
     } 
-    {
-        title: "Donnie Darko",
-        emojiImgs: "✈💥🐰✈💥",
-        genres: ["Drama","Sci-Fi","Thriller"],
-        type: "movie",
-        year: 2001,
-	itemLink : "https://www.imdb.com/title/tt0246578/"
-    } 
+    
 ]
