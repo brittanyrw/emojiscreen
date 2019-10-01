@@ -119,6 +119,15 @@ const emojiItems = [
         year: 2003
     },
     {
+	title: "Battleship Potemkin",
+        emojiImgs: "👶🤓😱🔫🛳",
+        genres: ["drama", "history"],
+        type: "movie",
+        year: 1925,
+        itemLink: "https://www.imdb.com/title/tt0015648/"	
+		
+    },
+    {
         title: "Beauty and the Beast",
         emojiImgs: "🏰🥀🎶📚🕰️",
         genres: ["animation", "family", "fantasy"],
