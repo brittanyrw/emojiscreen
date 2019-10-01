@@ -218,6 +218,7 @@ const emojiItems = [
         genres: ["drama", "crime", "history"],
         type: "tv",
         year: 2004
+        itemLink: "https://www.imdb.com/title/tt0348914/"
     },
     {
         title: "Dear Evan Hansen",
