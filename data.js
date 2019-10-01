@@ -484,7 +484,7 @@ const emojiItems = [
         year: 2009
     },
     {
-        title: "Interestelar",
+        title: "Interstellar",
         emojiImgs: "🌍👨‍🚀🚀⏱️❤️",
         genres: ["adventure", "drama", "sci-fi"],
         type: "movie",
@@ -948,6 +948,14 @@ const emojiItems = [
         genres: ["comedy"],
         type: "tv",
         year: 2013
+    },
+    {
+        title: "Supernatural",
+        emojiImgs: "👻🧂🔫👹😱",
+        genres: ["Drama", "Fantasy", "Horror"],
+        type: "tv",
+        year: 2005,
+        itemLink: "https://www.imdb.com/title/tt0460681/"
     },
     {
         title: "Sweeney Todd: The Demon Barber of Fleet Street",
