@@ -767,6 +767,14 @@ const emojiItems = [
         year: 1994
     },
     {
+        title: "Queer Eye (original)",
+        emojiImgs: "🏳️‍🌈👁️👬🚶‍👬",
+        genres: ["comedy", "reality-tv"],
+        type: "tv",
+        year: 2003,
+        itemLink: "https://www.imdb.com/title/tt0358332/"
+    },
+    {
         title: "Ratatouille",
         emojiImgs: "🐀👨‍🍳🔪",
         genres: ["animation"],
