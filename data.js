@@ -533,7 +533,7 @@ const emojiItems = [
     },
 	{
         title: "The Fox and the Hound",
-        emojiImgs: "🦊🐶",
+        emojiImgs: "🦊🐶🍝",
         genres: ["animation", "drama", "adventure"],
         type: "movie",
         year: 1981,
