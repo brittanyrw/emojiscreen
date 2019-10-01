@@ -710,6 +710,14 @@ const emojiItems = [
         year: 1991
     },
     {
+        title: "Monty Python and the Holy Grail",
+        emojiImgs: "🤵🐍⛪🍷",
+        genres: ["comedy"],
+        type: "movie",
+        year: 1975,
+        itemLink: "https://www.imdb.com/title/tt0071853/?ref_=nv_sr_1?ref_=nv_sr_1"
+    },
+    {
         title: "Mulan",
         emojiImgs: "🔫⚔️🎶🥁",
         genres: ["war", "music"],
@@ -1033,4 +1041,5 @@ const emojiItems = [
         type: "movie",
         year: 1974
     }
+
 ]
