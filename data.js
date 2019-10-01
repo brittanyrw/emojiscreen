@@ -13,7 +13,7 @@ const emojiItems = [
         genres: ["comedy", "crime", "fantasy"],
         type: "movie",
         year: 1994,
-        itemLink: "https://www.imdb.com/title/tt0110475/?ref_=nv_sr_1?ref_=nv_sr_1"
+        itemLink: "https://www.imdb.com/title/tt0110475/"
     },
     {
         title: "300 ",
@@ -85,7 +85,7 @@ const emojiItems = [
         genres: ["action", "adventure", "comedy"],
         type: "movie",
         year: 2018,
-        itemLink: "https://www.imdb.com/title/tt5095030/?ref_=fn_al_tt_1"
+        itemLink: "https://www.imdb.com/title/tt5095030/"
     },
     {
         title: "Avatar: The Last Airbender",
@@ -196,7 +196,7 @@ const emojiItems = [
 	type: "tv",
 	year: 2009,
 	itemLink: "https://www.imdb.com/title/tt1370334/"
-    },	
+    },
     {
         title: "Brave",
         emojiImgs: "🏹🎯🛡️🐻",
@@ -739,7 +739,7 @@ const emojiItems = [
         genres: ["Adventure", "Comedy", "Drama", "Family", "Mystery"],
         type: "movie",
         year: 2003,
-        itemLink: "https://www.imdb.com/title/tt0311289/?ref_=nv_sr_1?ref_=nv_sr_1"
+        itemLink: "https://www.imdb.com/title/tt0311289/"
     },
     {
         title: "Home Alone",
@@ -796,7 +796,7 @@ const emojiItems = [
         title: "The IT Crowd",
         emojiImgs: "🖥🤓👱🏼‍♀️👦🏼",
         genres: ["comedy"],
-        itemLink: "https://www.imdb.com/title/tt0487831/?ref_=nv_sr_1?ref_=nv_sr_1",
+        itemLink: "https://www.imdb.com/title/tt0487831/",
         type: "tv",
         year: 2006
     },
@@ -1084,7 +1084,7 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1975,
-        itemLink: "https://www.imdb.com/title/tt0071853/?ref_=nv_sr_1?ref_=nv_sr_1"
+        itemLink: "https://www.imdb.com/title/tt0071853/"
     },
     {
         title: "Mulan",
@@ -1470,7 +1470,7 @@ const emojiItems = [
         genres: ["animation", "adventure", "family"],
         type: "movie",
         year: 2001,
-        itemLink: "https://www.imdb.com/title/tt0245429/?ref_=nv_sr_1?ref_=nv_sr_1"
+        itemLink: "https://www.imdb.com/title/tt0245429/"
     },
     {
         title: "SpongeBob SquarePants",
