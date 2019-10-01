@@ -976,5 +976,12 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "Something Rotten",
+        emojiImgs: "🎭",
+        genres: ["comedy","musical"],
+        type: "movie",
+        year: 2015
     }
 ]
