@@ -746,6 +746,14 @@ const emojiItems = [
         year: 1998
     },
     {
+        title: "Pokemon Detective Pikachu",
+        emojiImgs: "🕵️⚡🐭⚡☕",
+        genres: ["action", "adventure", "comedy"],
+        type: "movie",
+        year: 2019,
+        itemLink: "https://www.imdb.com/title/tt5884052/"
+    },
+    {
         title: "Princess and the Frog",
         emojiImgs: "👸🏽🐸💋💒🥂",
         genres: ["animation", "adventure", "comedy"],
