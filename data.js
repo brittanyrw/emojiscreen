@@ -741,6 +741,14 @@ const emojiItems = [
         year: 1990
     },
     {
+	title: "The Incredible Hulk",
+	emojiImgs: "🤢💪🦍",
+        genres: ["action", "adventure", "sci-fi"],
+        type: "movie",
+        year: 2008,
+	itemLink: "https://www.imdb.com/title/tt0800080/"
+    },
+    {
         title: "Inglorious Basterds",
         emojiImgs: "💀🔪🎖️📽️🔥",
         genres: ["war", "history"],
