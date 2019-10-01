@@ -1385,6 +1385,14 @@ const emojiItems = [
         itemlink: "https://www.imdb.com/title/tt1475582/"
     },
     {
+        title: "Shrek",
+        emojiImgs: "🤴🤝🧟‍♂️👉👸",
+        genres: ["animation", "adventure", "comedy"],
+        type: "movie",
+        year: 2001,
+        itemLink: "https://m.imdb.com/title/tt0126029/"
+    },
+    {
         title: "Shrek 2",
         emojiImgs: "🤴👸😨🧟‍♂️🧟‍♀️",
         genres: ["animation", "adventure", "comedy"],
