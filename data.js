@@ -865,9 +865,10 @@ const emojiItems = [
     {
         title: "Ratatouille",
         emojiImgs: "🐀👨‍🍳🔪",
-        genres: ["animation"],
+        genres: ["animation", "comedy", "family"],
         type: "movie",
-        year: 2007
+        year: 2007,
+        itemLink: "https://www.imdb.com/title/tt0382932/"
     },
     {
         title: "Rocky",
