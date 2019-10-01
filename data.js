@@ -1043,6 +1043,14 @@ const emojiItems = [
         year: 1989
     },
     {
+	title:"Seinfeld",
+	emojiImgs: "🎤👨👨‍🦲👩👨",
+	genres:["comedy"],
+	type:"tv",
+	year:1989,
+	itemLink:"https://www.imdb.com/title/tt0098904/"
+    },
+    {
         title: "Seven",
         emojiImgs: "🕵🔪👮‍♂️😈",
         genres: ["drama"],
@@ -1228,5 +1236,5 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    },
+    } 
 ]
