@@ -1292,6 +1292,13 @@ const emojiItems = [
         year: 1999
     },
     {
+        title: "Snatch",
+        emojiImgs: "🔫💪🏿🔪💰💎",
+        genres: ["comedy", "crime"],
+        type: "movie",
+        year: 2000
+    },
+    {
         title: "Snow White",
         emojiImgs: "🍎👸💤🤴💋",
         genres: ["musical", "animated", "romance"],
