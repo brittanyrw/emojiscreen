@@ -814,6 +814,14 @@ const emojiItems = [
         year: 2007
     },
     {
+        title: "Sherlock",
+        emojiImgs: "🕵️👨‍⚕️🚔⚔️😈",
+        genres:["crime", "drama" , "mystery"],
+        type: "tv",
+        year: 2010,
+        itemlink: "https://www.imdb.com/title/tt1475582/"
+    },
+    {
         title: "Silence of the Lambs",
         emojiImgs: "🤐🐑🍷🦋",
         genres: ["crime", "drama", "thriller"],
@@ -960,13 +968,5 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    },
-    {
-        title: "Sherlock",
-        emojiImgs: "🕵️👨‍⚕️🚔⚔️😈",
-        genres:["crime", "drama" , "mystery"],
-        type: "tv",
-        year: 2010,
-        itemlink: "https://www.imdb.com/title/tt1475582/"
     }
 ]
