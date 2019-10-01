@@ -1179,7 +1179,8 @@ const emojiItems = [
         emojiImgs: "👧🏮🐷👵🐉",
         genres: ["animation", "adventure", "family"],
         type: "movie",
-        year: 2001
+        year: 2001,
+        itemLink: "https://www.imdb.com/title/tt0245429/?ref_=nv_sr_1?ref_=nv_sr_1"
     },
     {
         title: "SpongeBob SquarePants",
