@@ -675,12 +675,21 @@ const emojiItems = [
         genres: ["war", "music"],
         type: "movie",
         year: 1998
-    },{
+    },
+    {
         title: "Narcos",
         emojiImgs: "🔫🗡💊💉💰",
         genres: ["crime", "drama"],
         type: "tv",
         year: 2015
+    },
+    {
+        title: "Nightmare Before Christmas",
+        emojiImgs: "💀🎅🎃👻🐕",
+        genres: [ "animation", "family", "fantasy", "musical"],
+        type: "movie",
+        year: 1993,
+        itemLink: "https://www.imdb.com/title/tt0107688/"
     },
     {
         title: "The Office",
