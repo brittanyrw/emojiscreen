@@ -967,6 +967,14 @@ const emojiItems = [
         year: 1994
     },
     {
+        title: "Phantom of the Opera",
+        emojiImgs: "🎭🌹🕯️🎶",
+        genres: ["drama", "romance"],
+        type: "musical",
+        year: 1988,
+        itemLink: "http://www.playbill.com/production/the-phantom-of-the-opera-majestic-theatre-vault-0000007818"
+    },
+    {
         title: "Pokemon: The First Movie",
         emojiImgs: "👦️🐁️😭️",
         genres: ["animation"],
