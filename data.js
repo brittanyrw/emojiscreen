@@ -1517,6 +1517,14 @@ const emojiItems = [
         year: 1939
     },
     {
+        title: "This Is Us",
+        emojiImgs: "👨🏻👩🏻👶🏻👶🏻👶🏿",
+        genres: ["drama", "family"],
+        itemLink: "https://www.imdb.com/title/tt5555260/",
+        type: "tv",
+        year: 2016
+    },
+    {
         title: "Tropic Thunder",
         emojiImgs: "😼😽🙀😿😾",
         genres: ["action", "adventure", "comedy"],
