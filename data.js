@@ -284,13 +284,22 @@ const emojiItems = [
         year: 2003
     },
     {
+        title: "The Fresh Prince of Bel-Air",
+        emojiImgs: "👑🛎💨‍",
+        genres: ["comedy"],
+        type: "tv",
+        year: 1990,
+        itemLink: "https://www.imdb.com/title/tt0098800/"
+    },
+    {
         title: "Forrest Gump",
         emojiImgs: "🏃🏻🍫🍤",
         genres: ["drama", "romance"],
         itemLink: "https://www.imdb.com/title/tt0816692/",
         type: "movie",
         year: 1994
-    },{
+    },
+    {
         title: "Flight of the Conchords",
         emojiImgs: "🎵🦏🦛🥝🇳🇿",
         genres: ["comedy", "musical", "adventure"],
