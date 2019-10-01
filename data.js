@@ -824,6 +824,13 @@ const emojiItems = [
         year: 2003
     },
     {
+        title: "Rugrats",
+        emojiImgs: "👶🏻👶🏼👶🏻👶🏻👧🍼",
+        genres: ["animation", "comedy"],
+        type: "tv",
+        year: 1990
+    },    
+    {
         title: "See No Evil, Hear No Evil",
         emojiImgs: "🙈👹🙉👹",
         genres: ["comedy", "crime"],
