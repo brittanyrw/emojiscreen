@@ -8,6 +8,14 @@ const emojiItems = [
         itemLink: "http://www.playbill.com/production/the-25th-annual-putnam-county-spelling-bee-circle-in-the-square-theatre-vault-0000003219"
     },
     {
+        title: "The Great British Bake Off",
+        emojiImgs: "👍🇬🇧🍞🎂🥐",
+        genres: ["baking","reality"],
+        type: "tv",
+        year: 2010,
+        itemLink: "https://www.imdb.com/title/tt1877368/"
+    },
+    {
         title: "300 ",
         emojiImgs: " 💪🤕👊🏻⚔️ 🛡",
         genres: ["action", "drama", "fantasy"],
@@ -554,6 +562,14 @@ const emojiItems = [
         type: "movie",
         year: 2009
     },
+    {
+        title: "Hackers",
+        emojiImgs: "👩🏻‍💻👨🏻‍💻📡🕵",
+        genres: ["action-adventure", "mystery", "fiction-fantasy"],
+        type: "movie",
+        year: 1995,
+        itemLink: "https://www.imdb.com/title/tt0113243/"
+    }
     {
         title: "Hannibal",
         emojiImgs: "🔪🩸🥩👨‍⚕️",
@@ -1506,13 +1522,5 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    },
-    {
-        title: "The Great British Bake Off",
-        emojiImgs: "👍🇬🇧🍞🎂🥐",
-        genres: ["baking","reality"],
-        type: "tv",
-        year: 2010,
-        itemLink: "https://www.imdb.com/title/tt1877368/"
-    },
+    }
 ]
