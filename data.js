@@ -382,42 +382,48 @@ const emojiItems = [
         emojiImgs: "🐉👑🗡️📚🧟",
         genres: ["action", "adventure", "drama"],
         type: "tv",
-        year: 2011
+        year: 2011,
+        itemLink: "https://www.imdb.com/title/tt0944947/"
     },
     {
         title: "Get Out",
         emojiImgs: "😮😱💪🏿🦸🏿",
         genres: ["horror", "sci-fi"],
         type: "movie",
-        year: 2018
+        year: 2018,
+        itemLink: "https://www.imdb.com/title/tt5052448/"
     },
     {
         title: "Ghostbusters",
         emojiImgs: "👻🔫👨‍🚒️",
         genres: ["comedy", "action", "fantasy"],
         type: "movie",
-        year: 1984
+        year: 1984,
+        itemLink: "https://www.imdb.com/title/tt1289401/"
     },
     {
         title: "Gilmore Girls",
         emojiImgs: "👩‍👧☕🧢👩‍⚖️👨‍⚖️",
         genres: ["comedy", "drama"],
         type: "tv",
-        year: 2000
+        year: 2000,
+        itemLink: "https://www.imdb.com/title/tt0238784/"
     },
     {
         title: "Gladiator",
         emojiImgs: "🤺⚔️🛡️",
         genres: ["action", "adventure", "drama"],
         type: "movie",
-        year: 2000
+        year: 2000,
+        itemLink: "https://www.imdb.com/title/tt0172495/"
     },
     {
         title: "Goonies",
         emojiImgs: "🚴🚴‍♀️😲💍👨‍👩‍👧‍👦",
         genres: ["adventure", "comedy", "family"],
         type: "movie",
-        year: 1985
+        year: 1985,
+        itemLink: "https://www.imdb.com/title/tt0089218/"
     },
     {
         title: "Gravity",
@@ -431,15 +437,17 @@ const emojiItems = [
         title: "Grease",
         emojiImgs: "🌅👸💞👨‍🎤🚘",
         genres: ["musical", "romance"],
-        type: "musical",
-        year: 1978
+        type: "movie",
+        year: 1978,
+        itemLink: "https://www.imdb.com/title/tt0077631/"
     },
     {
         title: "Grey's Anatomy",
         emojiImgs: "💊💉🧪⚕🍷",
         genres: ["drama", "romance"],
         type: "tv",
-        year: 2005
+        year: 2005,
+        itemLink: "https://www.imdb.com/title/tt0413573/"
     },
     {
         title: "Hachi: A Dog's Tale",
