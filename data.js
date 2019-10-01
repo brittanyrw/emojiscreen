@@ -825,7 +825,7 @@ const emojiItems = [
     },
     {
         title: "Rugrats",
-        emojiImgs: "👶🏻👶🏼👶🏻👶🏻👧🍼",
+        emojiImgs: "👶🏻👶🏼👶🏻👶🏻👧🏻🍼",
         genres: ["animation", "comedy"],
         type: "tv",
         year: 1990
