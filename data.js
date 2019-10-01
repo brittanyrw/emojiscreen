@@ -1217,7 +1217,7 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0120815/",
         type: "movie",
         year: 1998
-    }, 
+    },
     {
         title: "School of Rock",
         emojiImgs: "🏫🎸🥁🎹",
@@ -1241,12 +1241,12 @@ const emojiItems = [
         year: 1989
     },
     {
-	title:"Seinfeld",
-	emojiImgs: "🎤👨👨‍🦲👩👨",
-	genres:["comedy"],
-	type:"tv",
-	year:1989,
-	itemLink:"https://www.imdb.com/title/tt0098904/"
+        title:"Seinfeld",
+        emojiImgs: "🎤👨👨‍🦲👩👨",
+        genres:["comedy"],
+        type:"tv",
+        year:1989,
+        itemLink:"https://www.imdb.com/title/tt0098904/"
     },
     {
         title: "Seven",
@@ -1256,12 +1256,20 @@ const emojiItems = [
         year: 2007
     },
     {
+        title: "Shaun Of The Dead",
+        emojiImgs: "🧟🏏🍦🍺",
+        genres:["comedy", "horror"],
+        type: "movie",
+        year: 2004,
+        itemLink: "https://www.imdb.com/title/tt0365748/"
+    },
+    {
         title: "Sherlock",
         emojiImgs: "🕵️👨‍⚕️🚔⚔️😈",
         genres:["crime", "drama" , "mystery"],
         type: "tv",
         year: 2010,
-        itemlink: "https://www.imdb.com/title/tt1475582/"
+        itemLink: "https://www.imdb.com/title/tt1475582/"
     },{
         title: "Shrek the Musical",
         emojiImgs: "🗡👸🐴🏰",
@@ -1414,7 +1422,7 @@ const emojiItems = [
         genres: ["drama", "suspense", "horror"],
         type: "tv",
         year: 2010,
-        itemLink: "https://www.imdb.com/title/tt1520211" 
+        itemLink: "https://www.imdb.com/title/tt1520211"
     },
     {
         title: "Wall-E",
@@ -1464,5 +1472,5 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    } 
+    }
 ]
