@@ -1175,6 +1175,13 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "Spirited Away",
+        emojiImgs: "👧🏮🐷👵🐉",
+        genres: ["animation", "adventure", "family"],
+        type: "movie",
+        year: 2001
+    },
+    {
         title: "SpongeBob SquarePants",
         emojiImgs: "🦀🍔🌊🍍🐿",
         genres: ["family", "animation"],
