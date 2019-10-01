@@ -24,6 +24,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0416449"
     },
     {
+        title: "A Bug's Life",
+        emojiImgs: "🐜🍃🦗🐦",
+        genres: ["animation", "adventure", "comedy"],
+        type: "movie",
+        year: 1998,
+        itemLink: "https://www.imdb.com/title/tt0120623/"
+    },
+    {
         title: "A Star is Born",
         emojiImgs: "🎤👩👨🎸⭐",
         genres: ["drama", "music", "romance"],
