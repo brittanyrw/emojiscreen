@@ -834,7 +834,8 @@ const emojiItems = [
         emojiImgs: "👮🧑🏾🔒🧑🏻👮",
         genres: ["drama"],
         type: "movie",
-        year: 1994
+        year: 1994,
+        itemLink: "https://www.imdb.com/title/tt0111161/",
     },
     {
         title: "Silence of the Lambs",
