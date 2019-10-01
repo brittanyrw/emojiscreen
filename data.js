@@ -454,6 +454,14 @@ const emojiItems = [
         year: 2016
     },
     {
+        title: "Holes",
+        emojiImgs: "0️⃣👟🦎🕳️☀️",
+        genres: ["Adventure", "Comedy", "Drama", "Family", "Mystery"],
+        type: "movie",
+        year: 2003,
+        itemLink: "https://www.imdb.com/title/tt0311289/?ref_=nv_sr_1?ref_=nv_sr_1"
+    },
+    {
         title: "Home Alone",
         emojiImgs: "🏠🙈🎄",
         genres: ["comedy", "family"],
