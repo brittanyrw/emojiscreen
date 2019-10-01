@@ -1,4 +1,4 @@
-# EmojiScreen 📺 
+# EmojiScreen 📺
 ## A listing of movies, TV shows and musicals depicted through emojis.
 [Visit emojiscreen.com](https://emojiscreen.com)
 
@@ -14,26 +14,26 @@
 
 ## Contributing 🎁
 
-Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add an `Emoji Card` to the website. Each card should be added in the `data.js` file as an object. 
+Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add an `Emoji Card` to the website. Each card should be added in the `data.js` file as an object.
 
 ### Contribution Guidlines
 
-Below are some guidelines to follow when contributing to this project. 
+Below are some guidelines to follow when contributing to this project.
 
 #### 🛑 We are limiting contributions per person to 3 additions across EmojiScreen, EmojiBops and EmojiPages. (Updated Oct 1)
 * Please limit yourself to up to 3 additions across the three emoji projects. (Example One: Complete 1 feature, add two movies; Example Two: add three songs; Example Three: add one song, one movie and one book, etc). This is due to the high level of activity on these projects at the moment. We want to make sure many people have a chance to contribute. The limit will be lifted once the activity has died down. 🙂
 
-#### Check Issues and current Pull Requests before contributing to avoid adding duplicates. 
-* If your Pull Request is a duplicate, we will let you know so that you can update it if you like. 
- 
-#### If someone has commented inside of the Issue saying they are working on it, that item is reserved for them. 
-* Please choose something else to add if someone else has already said they will add something. We will let you know if you accidently add something that someone else is assigned. It is easy to tell if someone is adding something accidently vs if they are ignoring our rules. We will mark Pull Requests as invalid (and therefore it will not count towards Hacktoberfest) if you are purposely creating multiple Pull Requests for Issues that someone else is assigned to or has reserved. 
+#### Check Issues and current Pull Requests before contributing to avoid adding duplicates.
+* If your Pull Request is a duplicate, we will let you know so that you can update it if you like.
 
-#### Please limit Pull Requests to adding a show/movie, completing an Issue or adding a feature. 
-* We are not accepting Pull Requests for things such as white space updates or README.md updates for Hacktoberfest. These types of Pull Requests will be marked as invalid. For Hacktoberfest, we would prefer that you add something to the project and not the documentation. 
+#### If someone has commented inside of the Issue saying they are working on it, that item is reserved for them.
+* Please choose something else to add if someone else has already said they will add something. We will let you know if you accidently add something that someone else is assigned. It is easy to tell if someone is adding something accidently vs if they are ignoring our rules. We will mark Pull Requests as invalid (and therefore it will not count towards Hacktoberfest) if you are purposely creating multiple Pull Requests for Issues that someone else is assigned to or has reserved.
+
+#### Please limit Pull Requests to adding a show/movie, completing an Issue or adding a feature.
+* We are not accepting Pull Requests for things such as white space updates or README.md updates for Hacktoberfest. These types of Pull Requests will be marked as invalid. For Hacktoberfest, we would prefer that you add something to the project and not the documentation.
 
 #### Please do not approve or make suggestions on other people's Pull Requests.
-* We do not need additional maintainers at this time. To avoid confusion and incorrect approvals, only maintainers approve Pull Requests. 
+* We do not need additional maintainers at this time. To avoid confusion and incorrect approvals, only maintainers approve Pull Requests.
 
 ### Issues
 For other ways to contribute, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). You are also welcome to suggest other features [by adding an Issue](https://github.com/brittanyrw/emojiscreen/issues).
@@ -41,7 +41,7 @@ For other ways to contribute, see the repo Issues [under the label 'enhancement'
 ### If you want to work on one of the [Issues to add a TV show, movie or musical](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis)
 * Please comment in the Issue so that others know to not add that show or movie. You do not have to wait for confirmation for Issues adding shows or movies before creating a Pull Request. Your comment will just help 'bookmark' the Issue for you to prevent duplicate Pull Requests.
 
-### If you want to work on one of the Issues that are labeled with `enhancement` 
+### If you want to work on one of the Issues that are labeled with `enhancement`
 * Please comment in the Issue and wait for confirmation before you start working on it.
 
 Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged and you can make multiple pull requests if you desire. If you run into trouble, feel free [to create an Issue](https://github.com/brittanyrw/emojiscreen/issues)!
@@ -52,7 +52,7 @@ Read below for a detailed overview and walkthrough on how to add an `Emoji Card`
 - [Emoji Card Overview](#card-overview)
 - [Contribution Guildlines](#walkthrough)
   - [Contribute using Github Website (no downloads required)](#github-ui)
-  - [Contribute using your local development environment (downloads required)](#local-development)  
+  - [Contribute using your local development environment (downloads required)](#local-development)
 - [Git & Github Resources](#other-resources-and-options)
 - [Credits](#credits)
 
@@ -125,7 +125,7 @@ Using JavaScript, the emojis are converted into [Twemoji (Twitter's emoji versio
 
 Here are a few resources to find emojis to copy:
 
-- [Twitter Emojis](https://www.piliapp.com/twitter-symbols/) - Shows you what each Twitter emoji looks like. 
+- [Twitter Emojis](https://www.piliapp.com/twitter-symbols/) - Shows you what each Twitter emoji looks like.
 - [Get Emoji](https://getemoji.com/) and [EmojiCopy](https://www.emojicopy.com/) are tools to copy regular emojis easily from one page. Note: The initial homepage does not display all skin color versions of each emoji so you will need to search in Emojipedia for those.
 - [Emojipedia](https://emojipedia.org/) - A directory of all emojis.
 
@@ -133,11 +133,22 @@ Note when you copy these emojis and paste them into your text editor or Github, 
 
 ### Genres 🔍
 
-The genres should be added as an array (the square [] brackets indicates an array or list). Separate each genre with a comma and each genre should be wrapped in quotes. There is no limit to the number of genres but try not to add too many.
+- The genres should be added as an array (the square [] brackets indicates an array or list).
+- Separate each genre with a comma and each genre should be wrapped in quotes.
+- There is no limit to the number of genres but try not to add too many.
+- Genres should be all lowercase.
+- If genres are two words, they should be separated with a hyphen.
 
+Correct genre formatting:
 ```
 {
-  genres: ["animation", "family", "fantasy"],
+  genres: ["action", "true-crime",  "adventure", "sci-fi"]
+}
+```
+Incorrect genre formatting:
+```
+{
+  genres: ["Action", "True Crime",  "Adventure", "Sci Fi"]
 }
 ```
 
@@ -178,7 +189,7 @@ For musicals link the [Playbill archive page](http://www.playbill.com/vault) for
 
 ### Type 🎬
 
-Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one type per card. 
+Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one type per card.
 
 `musical` under type is referring to live musicals performed on Broadway, the West End, local theaters etc. If you are adding a **movie** musical, please choose `movie` as the type and indicate it is a musical via genres.
 
@@ -190,7 +201,7 @@ Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one t
 
 ### Year 📆
 
-Specify the year the movie or show was released or first aired. Or the first performance year for a musical. This should be a  single number (no quotations around the year). Do not add ranges such as 2017-2019. 
+Specify the year the movie or show was released or first aired. Or the first performance year for a musical. This should be a  single number (no quotations around the year). Do not add ranges such as 2017-2019.
 
 ```
 {
@@ -208,7 +219,7 @@ Follow these instructions to add a card. You can add a card using the Github web
 
 ### This method will use the Github website to contribute to this project. You will not need to download any programs to your computer using these instructions.
 
-1. Check the [Issues](https://github.com/brittanyrw/emojiscreen/issues) and [Pull Requests](https://github.com/brittanyrw/emojiscreen/pulls) to see if the what you would like to add is listed. If it is not listed as an Issue or Pull Request, continue to the next step. If it is listed as an Issue or Pull Request, choose something else to add. 
+1. Check the [Issues](https://github.com/brittanyrw/emojiscreen/issues) and [Pull Requests](https://github.com/brittanyrw/emojiscreen/pulls) to see if the what you would like to add is listed. If it is not listed as an Issue or Pull Request, continue to the next step. If it is listed as an Issue or Pull Request, choose something else to add.
 2. Fork this repository. This will create a copy of the repository and create a new repository on your account. Note: the `Fork` button is located in the top right area of the repo.
 3. Once the repo is forked, you will be taken to the forked repo. Note: In the top left, the name of the repo should now include your username.
 4. Navigate to the `data.js` file in your forked repo by clicking on the file name.
@@ -240,7 +251,7 @@ Use the following object as a template:
 
 ## Local Development
 
-### This method will use your local machine to contribute to the project. This will require you to download multiple programs onto your computer. This is the method most programmers use when working on projects. 
+### This method will use your local machine to contribute to the project. This will require you to download multiple programs onto your computer. This is the method most programmers use when working on projects.
 
 ### Required Downloads & Tools
 
@@ -250,13 +261,13 @@ Use the following object as a template:
 
 ### Local Development Instructions
 
-1. Check the [Issues](https://github.com/brittanyrw/emojiscreen/issues) and [Pull Requests](https://github.com/brittanyrw/emojiscreen/pulls) to see if the what you would like to add is listed. If it is not listed as an Issue or Pull Request, continue to the next step. If it is listed as an Issue or Pull Request, choose something else to add. 
+1. Check the [Issues](https://github.com/brittanyrw/emojiscreen/issues) and [Pull Requests](https://github.com/brittanyrw/emojiscreen/pulls) to see if the what you would like to add is listed. If it is not listed as an Issue or Pull Request, continue to the next step. If it is listed as an Issue or Pull Request, choose something else to add.
 2. Fork this repository. This will create a copy of the repository and create a new repository on your account.
 3. Once the repo is forked, you will be taken to the forked repo. Note: In the top left, the name of the repo should now include your username.
 4. Download the project to your computer. Click on the `Clone or Download` button. Copy the HTTPS github repo link.
 5. In your terminal, navigate to where you would like to save the project (such as `cd Desktop`). Run the following command in the terminal, replacing the following link with your copied link: `git clone https://github.com/your-username-will-be-here/emojiscreen.git`;
 6. After the command has been run, in the terminal, navigate into the EmojiScreen project folder: `cd emojiscreen`.
-7. Open the `emojiscreen` project in your text editor of choice. Edit the `data.js` file and add a new object for your movie, TV show or musical in alphabetical order. **Note: If the movie title starts with 'The' then use the next word for alphabetical order.**. Make sure there is a comma between your object and the objects above and below. Refer to the card overview above for requirements for the different object keys.  Make sure to save your file after you have made changes. 
+7. Open the `emojiscreen` project in your text editor of choice. Edit the `data.js` file and add a new object for your movie, TV show or musical in alphabetical order. **Note: If the movie title starts with 'The' then use the next word for alphabetical order.**. Make sure there is a comma between your object and the objects above and below. Refer to the card overview above for requirements for the different object keys.  Make sure to save your file after you have made changes.
 
 Use the following object as a template:
 

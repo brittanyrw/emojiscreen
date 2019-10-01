@@ -58,7 +58,7 @@ const emojiItems = [
     {
         title: "American Idol",
         emojiImgs: "🇺🇸🗣🎤",
-        genres: ["game show", "musical"],
+        genres: ["game-show", "musical"],
         type: "tv",
         year: 2002,
         itemLink: "https://www.imdb.com/title/tt0319931/",
@@ -98,7 +98,7 @@ const emojiItems = [
     {
         title: "The Bachelor",
         emojiImgs: "🤵💑👩👩👰",
-        genres: ["Drama"],
+        genres: ["drama"],
         itemLink: "https://www.imdb.com/title/tt0313038/",
         type: "tv",
         year: 2002
@@ -106,7 +106,7 @@ const emojiItems = [
     {
         title: "The Bachelorette",
         emojiImgs: "👰💑🧔🧔🤵",
-        genres: ["Drama"],
+        genres: ["drama"],
         itemLink: "https://www.imdb.com/title/tt0348894/",
         type: "tv",
         year: 2002
@@ -136,7 +136,7 @@ const emojiItems = [
     },{
         title: "Bend It Like Beckham",
         emojiImgs: "🇮🇳🙎🏽‍♀️🙍🏽‍♂️🇬🇧⚽",
-        genres: ["comedy","drama","romance"],
+        genres: ["comedy", "drama", "romance"],
         type: "movie",
         year: 2002,
         itemLink: "https://www.imdb.com/title/tt0286499/"
@@ -196,7 +196,7 @@ const emojiItems = [
 	type: "tv",
 	year: 2009,
 	itemLink: "https://www.imdb.com/title/tt1370334/"
-    },	
+    },
     {
         title: "Brave",
         emojiImgs: "🏹🎯🛡️🐻",
@@ -413,7 +413,7 @@ const emojiItems = [
      {
           title: "Dinosaurs",
           emojiImgs: "🦖⛰️😂",
-          genres: ["Comedy", "Family", "Fantasy "],
+          genres: ["comedy", "family", "fantasy "],
           itemLink: "https://www.imdb.com/title/tt0101081/",
           type: "tv",
           year: 1991
@@ -526,7 +526,7 @@ const emojiItems = [
      {
         title: "Four Weddings and a Funeral",
         emojiImgs: "4️⃣💒💑⚰️",
-        genres: ["Comedy", "Drama", "Romance"],
+        genres: ["comedy", "drama", "romance"],
         type: "movie",
         year: 1994,
         itemLink: "https://www.imdb.com/title/tt0109831/"
@@ -728,7 +728,7 @@ const emojiItems = [
     {
         title: "Holes",
         emojiImgs: "0️⃣👟🦎🕳️☀️",
-        genres: ["Adventure", "Comedy", "Drama", "Family", "Mystery"],
+        genres: ["adventure", "comedy", "drama", "family", "mystery"],
         type: "movie",
         year: 2003,
         itemLink: "https://www.imdb.com/title/tt0311289/?ref_=nv_sr_1?ref_=nv_sr_1"
@@ -817,7 +817,7 @@ const emojiItems = [
     {
         title: "Jane the Virgin",
         emojiImgs: "💃🏽♍️🌴👶🏽💖",
-        genres: ["comedy", "romance", "tele novella"],
+        genres: ["comedy", "romance", "tele-novella"],
         type: "tv",
         year: 2014
     },
@@ -852,7 +852,7 @@ const emojiItems = [
     {
         title: "Jurassic Park: Fallen Kingdom",
         emojiImgs: "🦖🦕🐊🤯😫",
-        genres: ["action", "adventure", "Sci-Fi"],
+        genres: ["action", "adventure", "sci-fi"],
         type: "movie",
         year: 2018
     },
@@ -1030,7 +1030,7 @@ const emojiItems = [
     },{
         title: "Merlin",
         emojiImgs: "🧙🤴👑⚔️🐉",
-        genres: ["adventure", "drama", "fantasy "],
+        genres: ["adventure", "drama", "fantasy"],
         itemLink: "https://www.imdb.com/title/tt1199099/",
         type: "tv",
         year: 2008
@@ -1066,7 +1066,7 @@ const emojiItems = [
     },{
         title: "Moonrise Kingdom",
         emojiImgs: "⛺️🧳🌕👑",
-        genres: ["Comedy", "Drama", "Romance"],
+        genres: ["comedy", "drama", "romance"],
         itemLink: "https://www.imdb.com/title/tt1748122/",
         type: "movie",
         year: 2012
@@ -1165,7 +1165,7 @@ const emojiItems = [
     {
         title: "Pearl Harbor",
         emojiImgs: "🇯🇵🛩💣🇺🇸🏝",
-        genres: ["Action", "Drama", "History", "Romance", "War"],
+        genres: ["action", "drama", "history", "romance", "war"],
         type: "movie",
         year: 2001,
         itemLink: "https://www.imdb.com/title/tt0213149/",
@@ -1236,7 +1236,7 @@ const emojiItems = [
     {
         title: "The Preacher's Wife",
         emojiImgs: "👼🌎⛪👨‍👩‍",
-        genres: ["Comedy", "Drama", "Fantasy"],
+        genres: ["comedy", "drama", "fantasy"],
         type: "movie",
         year: 1996,
         itemLink: "https://www.imdb.com/title/tt0117372/"
@@ -1297,7 +1297,7 @@ const emojiItems = [
     {
         title: "Remember the Titans",
         emojiImgs: "🏉🏫🌍🔥",
-        genres: ["Biography", "Drama", "Sport"],
+        genres: ["biography", "drama", "sport"],
         type: "movie",
         year: 2000,
         itemLink: "https://www.imdb.com/title/tt0210945/"
@@ -1481,7 +1481,7 @@ const emojiItems = [
     {
         title: "Supernatural",
         emojiImgs: "👻🧂🔫👹😱",
-        genres: ["Drama", "Fantasy", "Horror"],
+        genres: ["drama", "fantasy", "horror"],
         type: "tv",
         year: 2005,
         itemLink: "https://www.imdb.com/title/tt0460681/"
@@ -1562,7 +1562,7 @@ const emojiItems = [
     {
         title: "Where in the World is Carmen Sandiego?",
         emojiImgs: "🤔🌎🕵️‍♀️💄",
-        genres: ["game show", "children"],
+        genres: ["game-show", "children"],
         type: "tv",
         year: 1991
     },
