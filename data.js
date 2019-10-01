@@ -178,6 +178,14 @@ const emojiItems = [
         year: 2002
     },
     {
+        title: "Chicken Little",
+        emojiImgs: "🐓👽🌎",
+        genres: ["family", "comedy", "animated"],
+        itemLink: "https://www.imdb.com/title/tt0371606/",
+        type: "movie",
+        year: 2005
+    },
+    {
         title: "Child's Play",
         emojiImgs: "👶😰😫☠",
         genres: ["action", "horror", "sci-fi"],
