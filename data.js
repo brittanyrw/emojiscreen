@@ -984,5 +984,12 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "Pearl Harbor",
+        emojiImgs: "🇯🇵🛩💣🇺🇸🏝",
+        genres: ["Action", "Drama", "History", "Romance", "War"],
+        type: "movie",
+        year: 2001
     }
 ]
