@@ -919,7 +919,9 @@ const emojiItems = [
         emojiImgs: "😼😽🙀😿😾",
         genres: ["action", "adventure", "comedy"],
         type: "movie",
-        year: 2008
+        year: 2008,
+        itemLink: "https://www.imdb.com/title/tt2071645/"
+
     },
     {
         title: "Up",
