@@ -1117,6 +1117,38 @@ const emojiItems = [
         year: 2007
     },
     {
+        title: "Shrek",
+        emojiImgs: "🤴🤝🧟‍♂️👉👸",
+        genres: ["animation", "adventure", "comedy"],
+        type: "movie",
+        year: 2001,
+        itemLink: "https://m.imdb.com/title/tt0126029/"
+    },
+    {
+        title: "Shrek 2",
+        emojiImgs: "🤴👸😨🧟‍♂️🧟‍♀️",
+        genres: ["animation", "adventure", "comedy"],
+        type: "movie",
+        year: 2004,
+        itemLink: "https://m.imdb.com/title/tt0298148/"
+    },
+    {
+        title: "Shrek the Third",
+        emojiImgs: "🤴☠🧟‍♂️🔎🤴",
+        genres: ["animation", "adventure", "comedy"],
+        type: "movie",
+        year: 2007,
+        itemLink: "https://m.imdb.com/title/tt0413267/"
+    },
+    {
+        title: "Shrek Forever After",
+        emojiImgs: "🧝‍♂️✍🧟‍♂️🔥🤴",
+        genres: ["animation", "adventure", "comedy"],
+        type: "movie",
+        year: 2010,
+        itemLink: "https://www.imdb.com/title/tt0892791/"
+    },
+    {
         title: "Shrek the Musical",
         emojiImgs: "🗡👸🐴🏰",
         genres: ["comedy", "family", "fantasy"],
