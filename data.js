@@ -984,5 +984,12 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    }
+    },
+    {
+        title: "Passaporte para Paris",
+        emojiImgs: "🎟✈🗼",
+        genres: ["comedy", "romance"],
+        type: "movie",
+        year: 1999
+    },
 ]
