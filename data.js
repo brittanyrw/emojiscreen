@@ -1192,10 +1192,10 @@ const emojiItems = [
         year: 1974
     },
     {
-        title: "The Raid: Redemption",
-        emojiImgs: "👮‍♂ 🤼‍♂ 🔫 🚓",
-        genres: ["Action","Thriller"],
-        type: "Movie",
-        year: 2012
+        title: "Silicon Valley",
+        emojiImgs: "👨‍💻 😂 🚀 🗽",
+        genres: ["Comedy"],
+        type: "TV Series",
+        year: 2014
     }
 ]
