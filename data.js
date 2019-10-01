@@ -1494,6 +1494,14 @@ const emojiItems = [
         year: 1990
     },
     {
+        title: "The West Wing",
+        emojiImgs: "💼💥🥋",
+        genres: ["drama"],
+        itemLink: "https://www.imdb.com/title/tt0200276/",
+        type: "tv",
+        year: 1999
+    },
+    {
         title: "Their Eyes Were Watching God",
         emojiImgs: "👀👼🎬",
         genres: ["drama", "romance"],
