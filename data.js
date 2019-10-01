@@ -1303,5 +1303,19 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    } 
+    },
+    {
+        title: "Sherlock Holmes",
+        emojiImgs: "🕵️‍♂️ 🕵️‍♂️ 🔍 👁️‍🗨️",
+        genres: ["Action", "Adventure", "Crime"],
+        type: "movie",
+        year: 2009
+    },
+    {
+        title: "Pirates of the Caribbean: The Curse of the Black Pearl",
+        emojiImgs: "🏴‍☠️ 🦜 🔑 🚢",
+        genres: ["Action", "Adventure", "Fantasy"],
+        type: "movie",
+        year: 2003
+    }
 ]
