@@ -1190,5 +1190,12 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "The Raid: Redemption",
+        emojiImgs: "👮‍♂ 🤼‍♂ 🔫 🚓",
+        genres: ["Action","Thriller"],
+        type: "Movie",
+        year: 2012
     }
 ]
