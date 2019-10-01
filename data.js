@@ -47,6 +47,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0090390/?ref_=fn_al_tt_1"
     },
     {
+        title: "An Adventure in Space and Time",
+        emojiImgs: "🎥🧓🧣📘",
+        genres: ["documentary", "sci-fi", "drama"],
+        type: "movie",
+        year: 2013,
+        itemLink: "https://www.imdb.com/title/tt2663812/"
+    },
+    {
         title: "Avatar",
         emojiImgs: "👱‍♂️🔵👱‍♂️👩‍🦰🔵",
         genres: ["action", "fantasy"],
@@ -239,6 +247,38 @@ const emojiItems = [
         genres: ["fantasy", "adventure", "comedy"],
         type: "movie",
         year: 2019
+    },
+    {
+        title: "Doctor Who",
+        emojiImgs: "🧓🧣📘👽🌌",
+        genres: ["sci-fi", "adventure", "drama"],
+        type: "tv",
+        year: 1963,
+        itemLink: "https://www.imdb.com/title/tt0056751/"
+    },
+    {
+        title: "Doctor Who",
+        emojiImgs: "💏📘👽🔫",
+        genres: ["sci-fi", "adventure", "drama"],
+        type: "movie",
+        year: 1996,
+        itemLink: "https://www.imdb.com/title/tt0116118/"
+    },
+    {
+        title: "Doctor Who",
+        emojiImgs: "👨👱‍♀️📘🧂",
+        genres: ["sci-fi", "adventure", "drama"],
+        type: "tv",
+        year: 2005,
+        itemLink: "https://www.imdb.com/title/tt0436992/"
+    },
+    {
+        title: "Doctor Who - The Day of The Doctor",
+        emojiImgs: "👨🧑🧔📘👑",
+        genres: ["sci-fi", "adventure", "drama"],
+        type: "movie",
+        year: 2013,
+        itemLink: "https://www.imdb.com/title/tt2779318/"
     },
     {
         title: "E.T. the Extra-Terrestrial",
