@@ -170,21 +170,24 @@ const emojiItems = [
         emojiImgs: "🇺🇸🛡🤜🔫🔥",
         genres: ["action", "sci-fi", "adventure"],
         type: "movie",
-        year: 2016
+        year: 2016,
+        itemLink: "https://www.imdb.com/title/tt3498820/"
     },
     {
         title: "Captain America: The First Avenger",
         emojiImgs: "👨‍✈️🇺🇸🛡💪👹",
         genres: ["action", "sci-fi", "adventure"],
         type: "movie",
-        year: 2011
+        year: 2011,
+        itemLink: "https://www.imdb.com/title/tt0458339/"
     },
     {
         title: "Captain America: The Winter Soldier",
         emojiImgs: "🇺🇸🛡❄👨‍✈️💪",
         genres: ["action", "sci-fi", "adventure"],
         type: "movie",
-        year: 2014
+        year: 2014,
+        itemLink: "https://www.imdb.com/title/tt1843866/"
     },
     {
         title: "Cast Away",
@@ -1107,7 +1110,7 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0120815/",
         type: "movie",
         year: 1998
-    }, 
+    },
     {
         title: "School of Rock",
         emojiImgs: "🏫🎸🥁🎹",
@@ -1324,5 +1327,5 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    } 
+    }
 ]
