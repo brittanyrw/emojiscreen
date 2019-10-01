@@ -683,7 +683,16 @@ const emojiItems = [
         genres: ["war", "music"],
         type: "movie",
         year: 1998
-    },{
+    },
+    {
+        title: "National Treasure: Book of Secrets",
+        emojiImgs: "🏴💎📘❓❗",
+        genres: ["action", "adventure", "mystery"],
+        itemLink: "https://m.imdb.com/title/tt0465234/",
+        type: "movie",
+        year: 2007
+    },
+    {
         title: "Narcos",
         emojiImgs: "🔫🗡💊💉💰",
         genres: ["crime", "drama"],
