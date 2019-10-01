@@ -1009,6 +1009,14 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "The Walking Dead",
+        emojiImgs: "👮🏻🏃🧟‍⚔️🚗",
+        genres: ["drama", "suspense", "horror"],
+        type: "tv",
+        year: 2010,
+        itemLink: "https://www.imdb.com/title/tt1520211" 
+    },
+    {
         title: "Wall-E",
         emojiImgs: "📺❤️💻",
         genres: ["animation", "adventure", "family"],
