@@ -158,6 +158,13 @@ const emojiItems = [
         year: 2018
     },
     {
+        title: "Captain America: Civil War",
+        emojiImgs: "🇺🇸🛡🤜🔫🔥",
+        genres: ["action", "sci-fi", "adventure"],
+        type: "movie",
+        year: 2016
+    },
+    {
         title: "Captain America: The First Avenger",
         emojiImgs: "👨‍✈️🇺🇸🛡💪👹",
         genres: ["action", "sci-fi", "adventure"],
@@ -170,13 +177,6 @@ const emojiItems = [
         genres: ["action", "sci-fi", "adventure"],
         type: "movie",
         year: 2014
-    },
-    {
-        title: "Captain America: Civil War",
-        emojiImgs: "🇺🇸🛡🤜🔫🔥",
-        genres: ["action", "sci-fi", "adventure"],
-        type: "movie",
-        year: 2016
     },
     {
         title: "Cast Away",
