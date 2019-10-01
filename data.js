@@ -24,6 +24,13 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt1517451/?ref_=fn_al_tt_1"
     },
     {
+        title: "A View to a Kill",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"]],
+        type: "movie",
+        year: 1985
+    },  
+    {
         title: "Aladdin",
         emojiImgs: "🧞‍♂️💞👸👳🏰",
         genres: ["adventure", "family", "comedy"],
@@ -197,6 +204,13 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0317219/"
     },
     {
+        title: "Casino Royale",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 2006
+    },
+    {
         title: "Cast Away",
         emojiImgs: "🏐🥥🏝️",
         genres: ["action", "comedy", "musical"],
@@ -329,6 +343,21 @@ const emojiItems = [
         type: "movie",
         year: 2006
     },
+    {
+        title: "Diamonds Are Forever",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1971
+    },
+    {
+        title: "Die Another Day",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 2002
+    },
+
      {
           title: "Dinosaurs",
           emojiImgs: "🦖⛰️😂",
@@ -359,6 +388,14 @@ const emojiItems = [
         type: "movie",
         year: 2019
     },
+    {
+        title: "Dr. No",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1962
+    },
+
     {
         title: "Dude, Where's My Car?",
         emojiImgs: "👨❓🚗",
@@ -449,6 +486,13 @@ const emojiItems = [
         type: "movie",
         year: 2013
     },
+   {
+        title: "From Russia with Love",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1963
+    },
     {
         title: "Game of Thrones",
         emojiImgs: "🐉👑🗡️📚🧟",
@@ -489,6 +533,21 @@ const emojiItems = [
         year: 2000,
         itemLink: "https://www.imdb.com/title/tt0172495/"
     },
+    {
+        title: "GoldenEye",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1995
+    },
+    {
+        title: "Goldfinger ",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1964
+    },
+
     {
         title: "Goonies",
         emojiImgs: "🚴🚴‍♀️😲💍👨‍👩‍👧‍👦",
@@ -822,6 +881,14 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "Live and Let Die",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1973
+    },
+
+    {
         title: "Passaport to Paris",
         emojiImgs: "🎟✈🗼",
         genres: ["comedy", "romance"],
@@ -829,6 +896,14 @@ const emojiItems = [
         year: 1999,
         itemLink: "https://www.imdb.com/title/tt0202521/"
     },
+    {
+        title: "Licence to Kill",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"]],
+        type: "movie",
+        year: 1989
+    },   
+ 
     {
         title: "The Lion King",
         emojiImgs: "🦁👑🌍",
@@ -852,6 +927,13 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0097757/"
     },
     {
+        title: "The Living Daylights",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"]],
+        type: "movie",
+        year: 1987
+    },
+    {
         title: "The Lord of the Rings: The Fellowship of the Ring",
         emojiImgs: "💍🧝⚔️🧙",
         genres: ["adventure", "drama", "fantasy"],
@@ -871,6 +953,13 @@ const emojiItems = [
         genres: ["romance", "drama", "comedy"],
         type: "movie",
         year: 2010
+    },
+    {
+        title: "The Man with the Golden Gun",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1974
     },
     {
         title: "Mary Poppins",
@@ -945,6 +1034,13 @@ const emojiItems = [
         year: 1991
     },
     {
+        title: "Moonraker",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1981
+    },
+    {
         title: "Mr.Robot",
         emojiImgs: "👨‍💻🤖⚔️😈",
         genres:["crime", "drama" , "thriller"],
@@ -994,6 +1090,21 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0368891/"
     },
     {
+        title: "Never Say Never Again",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1983
+    },
+    {
+        title: "Octopussy",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1983
+    },
+
+    {
         title: "The Office",
         emojiImgs: "👔🤓📠📎💻",
         genres: ["comedy", "sitcom", "mockumentary"],
@@ -1008,6 +1119,13 @@ const emojiItems = [
         type: "movie",
         year: 1999,
         itemLink: "https://www.imdb.com/title/tt0151804/"
+    },
+    {
+        title: "On Her Majesty's Secret Service",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1969
     },
     {
         title: "Once Upon a Time in Hollywood",
@@ -1142,6 +1260,13 @@ const emojiItems = [
         type: "movie",
         year: 1994,
         itemLink: "https://www.imdb.com/title/tt0110912/"
+    },
+    {
+        title: "Quantum of Solace",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 2008
     },
     {
         title: "Ratatouille",
@@ -1320,6 +1445,13 @@ const emojiItems = [
         type: "movie",
         year: 1994
     },
+        {
+        title: "Spectre",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 2015
+    },
     {
         title: "Spiderman",
         emojiImgs: "😎🕷💪😍",
@@ -1341,6 +1473,13 @@ const emojiItems = [
         genres: ["family", "animation"],
         type: "tv",
         year: 1999
+    },
+    {
+        title: "The Spy Who Loved Me",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1977
     },
     {
         title: "Steven Universe",
@@ -1378,6 +1517,20 @@ const emojiItems = [
         genres: ["drama", "romance"],
         type: "movie",
         year: 2005
+    },
+    {
+        title: "Thunderball",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1965
+    },
+    {
+        title: "Tomorrow Never Dies",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1997
     },
     {
         title: "The Wizard of Oz",
@@ -1452,6 +1605,13 @@ const emojiItems = [
         year: 1971
     },
     {
+        title: "The World is Not Enough",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1999
+    },
+    {
         title: "X-Files",
         emojiImgs: "👽🛸👦🏻👩‍🦰🔦",
         genres: ["sci-fi", "drama", "mystery"],
@@ -1459,10 +1619,17 @@ const emojiItems = [
         year: 1993
     },
     {
+        title: "You Only Live Twice",
+        emojiImgs: "⚡️🇬🇧🔫❤️🤵",
+        genres: ["action","adventure","thriller"],
+        type: "movie",
+        year: 1967
+    },
+    {
         title: "Young Frankenstein",
         emojiImgs: "👶🌭🍺⚡️🧟‍",
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    } 
+    }
 ]
