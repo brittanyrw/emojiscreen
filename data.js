@@ -172,6 +172,13 @@ const emojiItems = [
         year: 2014
     },
     {
+        title: "Captain America: Civil War",
+        emojiImgs: "🇺🇸🛡🤜🔫🔥",
+        genres: ["action", "sci-fi", "adventure"],
+        type: "movie",
+        year: 2016
+    },
+    {
         title: "Cast Away",
         emojiImgs: "🏐🥥🏝️",
         genres: ["action", "comedy", "musical"],
