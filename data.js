@@ -540,7 +540,7 @@ const emojiItems = [
     },
     {
         title: "Firebringer",
-        emojiImgs: "🧙‍♀️🦆🕊️⚔️🔥👽",
+        emojiImgs: "🦆🕊️⚔️🔥👽",
         genres: ["musical", "comedy", "history"],
         type: "musical",
         year: 2016,
