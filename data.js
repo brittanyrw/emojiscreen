@@ -988,6 +988,14 @@ const emojiItems = [
         year: 2007
     },
     {
+        title: "Shrek the Musical",
+        emojiImgs: "🗡👸🐴🏰",
+        genres: ["comedy", "family", "fantasy"],
+        type: "musical",
+        year: 2013,
+        itemLink: "https://www.imdb.com/title/tt3070936/"
+    },
+    {
         title: "Silence of the Lambs",
         emojiImgs: "🤐🐑🍷🦋",
         genres: ["crime", "drama", "thriller"],
