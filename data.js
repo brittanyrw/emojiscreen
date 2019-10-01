@@ -534,6 +534,13 @@ const emojiItems = [
         year: 2016
     },
     {
+        title: "The Hills Have Eyes",
+        emojiImgs: "👨‍👩‍👧‍👦🚐🏔👀",
+        genres: ["horror", "thriller"],
+        type: "movie",
+        year: 2006
+    },
+    {
         title: "Holes",
         emojiImgs: "0️⃣👟🦎🕳️☀️",
         genres: ["Adventure", "Comedy", "Drama", "Family", "Mystery"],
