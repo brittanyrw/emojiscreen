@@ -266,7 +266,7 @@ const emojiItems = [
     },
     {
       title: "Falsettos",
-      emojiImgs: "❤️👯‍👯‍❤️",
+      emojiImgs: "❤️👯‍♂️👯‍♀️❤️",
       genres: ["musical", "drama"],
       type: "musical",
       year: 1992,
