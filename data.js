@@ -531,6 +531,15 @@ const emojiItems = [
         year: 1994,
         itemLink: "https://www.imdb.com/title/tt0109831/"
     },
+	{
+        title: "The Fox and the Hound",
+        emojiImgs: "🦊🐶",
+        genres: ["animation", "drama", "adventure"],
+        type: "movie",
+        year: 1981,
+        itemLink: "https://www.imdb.com/title/tt0082406/"
+    },
+	
     {
         title: "Frozen",
         emojiImgs: "👭☃️❄️",
