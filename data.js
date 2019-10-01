@@ -80,6 +80,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0499549"
     },
     {
+        title: "Ant-Man and the Wasp",
+        emojiImgs: "🐜🙍‍♂️🐝🙎‍♀️👻",
+        genres: ["action", "adventure", "comedy"],
+        type: "movie",
+        year: 2018,
+        itemLink: "https://www.imdb.com/title/tt5095030/?ref_=fn_al_tt_1"
+    },
+    {
         title: "Avatar: The Last Airbender",
         emojiImgs: "🥋🌏🔥💧💨",
         genres: ["animation", "action", "adventure"],
