@@ -792,6 +792,13 @@ const emojiItems = [
         genres: ["crime", "drama"],
         type: "tv",
         year: 2015
+    },{
+        title: "National Treasure",
+        emojiImgs: "🇺🇸🗝🏺🧭💰",
+        genres: ["action", "adventure", "mystery"],
+        type: "movie",
+        year: 2004,
+        itemLink: "https://www.imdb.com/title/tt0368891/"
     },
     {
         title: "The Office",
