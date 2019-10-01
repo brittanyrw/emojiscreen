@@ -917,6 +917,14 @@ const emojiItems = [
         year: 2005
     },
     {
+        title: "This is Us",
+        emojiImgs: "🤣💏🎭",
+        genres: ["comedy", "drama", "romance"],
+        type: "tv",
+        year: 2016,
+        itemLink: "https://www.imdb.com/title/tt5555260/?ref_=nv_sr_1?ref_=nv_sr_1"
+    },
+    {
         title: "Tropic Thunder",
         emojiImgs: "😼😽🙀😿😾",
         genres: ["action", "adventure", "comedy"],
