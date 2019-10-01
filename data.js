@@ -871,6 +871,13 @@ const emojiItems = [
         year: 1964
     },
     {
+        title: "Matilda The Musical",
+        emojiImgs: "👸💃🎼",
+        genres:["musical"],
+        type: "musical",
+        year: 2013,
+        itemlink: "http://www.playbill.com/production/matilda-the-musical-shubert-theatre-vault-0000013970"
+    },{
         title: "Mad Men",
         emojiImgs: "‍😡 👨🏻 👨🏻 ",
         genres: ["drama"],
@@ -929,6 +936,13 @@ const emojiItems = [
         year: 1991
     },
     {
+        title: "Mr.Robot",
+        emojiImgs: "👨‍💻🤖⚔️😈",
+        genres:["crime", "drama" , "thriller"],
+        type: "tv",
+        year: 2015,
+        itemlink: "https://www.imdb.com/title/tt4158110/"
+    },{
         title: "Mrs. Doubtfire",
         emojiImgs: "👨➡👵",
         genres: ["comedy", "drama", "family"],
@@ -1233,6 +1247,13 @@ const emojiItems = [
         year: 2007
     },
     {
+        title: "Sherlock",
+        emojiImgs: "🕵️👨‍⚕️🚔⚔️😈",
+        genres:["crime", "drama" , "mystery"],
+        type: "tv",
+        year: 2010,
+        itemlink: "https://www.imdb.com/title/tt1475582/"
+    },{
         title: "Shrek the Musical",
         emojiImgs: "🗡👸🐴🏰",
         genres: ["comedy", "family", "fantasy"],
