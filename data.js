@@ -1358,6 +1358,13 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0368891/"
     },
     {
+        title: "No Country for Old Men",
+        emojiImgs: "⛔️🇺🇸👴💰",
+        genres: ["crime", "drama", "thriller"],
+        type: "movie",
+        year: 2007,
+        itemLink: "https://www.imdb.com/title/tt0477348/"
+    },{
         title: "Nightmare Before Christmas",
         emojiImgs: "💀🎅🎃👻🐕",
         genres: [ "animation", "family", "fantasy", "musical"],
