@@ -1358,6 +1358,13 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0368891/"
     },
     {
+        title: "National Treasure: Book of Secrets",
+        emojiImgs: "🇱🇷💎📘❓❗",
+        genres: ["action", "adventure", "mystery"],
+        itemLink: "https://m.imdb.com/title/tt0465234/",
+        type: "movie",
+        year: 2007
+    },{  
         title: "No Country for Old Men",
         emojiImgs: "⛔️🇺🇸👴💰",
         genres: ["crime", "drama", "thriller"],
