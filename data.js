@@ -57,6 +57,46 @@ const emojiItems = [
     },
     
     {
+        title:"American Horror Story: Asylum",
+        emojiImgs:"🇺🇸👽👡😈",
+        genres: ["drama","horror","thriller"],
+        itemLink: "https://www.imdb.com/title/tt1844624/",
+        type:"tv",
+        year: 2011
+    },
+    {
+        title:"American Horror Story: Coven",
+        emojiImgs:"🇺🇸✡🕌🐍",
+        genres: ["drama","horror","thriller"],
+        itemLink: "https://www.imdb.com/title/tt1844624/",
+        type:"tv",
+        year: 2011
+    },
+    {
+        title:"American Horror Story: Freak Show",
+        emojiImgs:"🇺🇸🎪🎠👢",
+        genres: ["drama","horror","thriller"],
+        itemLink: "https://www.imdb.com/title/tt1844624/",
+        type:"tv",
+        year: 2011
+    },
+    {
+        title:"American Horror Story: Hotel",
+        emojiImgs:"🇺🇸💊💉🏨",
+        genres: ["drama","horror","thriller"],
+        itemLink: "https://www.imdb.com/title/tt1844624/",
+        type:"tv",
+        year: 2011
+    },
+    {
+        title:"American Horror Story: Murder House",
+        emojiImgs:"🇺🇸👪💀🔫",
+        genres: ["drama","horror","thriller"],
+        itemLink: "https://www.imdb.com/title/tt1844624/",
+        type:"tv",
+        year: 2011
+    },
+    {
         title: "Alien",
         emojiImgs: "🚀👾🔫👨‍🚀",
         genres: ["suspense", "horror"],
