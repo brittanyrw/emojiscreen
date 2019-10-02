@@ -1,5 +1,14 @@
 const emojiItems = [
-  {
+  
+   {
+	title: "7 khoon maaf",
+	emojiImgs: "7⃣🔪🙏",
+	genres: ["drama", "mystery", "thriller"],
+	type: "movie",
+	year: 2011,
+	itemLink: "https://www.imdb.com/title/tt1629376/"
+    },
+    {
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
         genres: ["musical", "comedy"],
@@ -1446,7 +1455,15 @@ const emojiItems = [
         type: "movie",
         year: 2019
     },
-      {
+    {
+	 title: "Rockstar",
+	 emojiImgs: "🤘⭐🎸",
+	 genres: ["drama", "music", "musical"],
+	 type: "movie",
+	 year: 2011,
+	 itemLink: "https://www.imdb.com/title/tt1839596/"
+    },
+    {
         title: "Rugrats",
         emojiImgs: "👶🏻👶🏼👶🏻👶🏻👧🏻",
         genres: ["animation", "comedy"],
@@ -1656,6 +1673,14 @@ const emojiItems = [
         type: "movie",
         year: 2005
     },
+   {
+	    title: "Titanic",
+	    emojiImgs: "⛴👫👧",
+	    genres: ["drama", "tragedy"],
+	    type: "movie",
+	    year: 1997,
+	    itemLink: "https://www.imdb.com/title/tt0120338/"
+    },
     {
         title: "The Wizard of Oz",
         emojiImgs: "🐶🌪️🤖🦁🧙‍",
@@ -1806,4 +1831,5 @@ const emojiItems = [
         type: "movie",
         year: 1974
     }
+  
 ]
