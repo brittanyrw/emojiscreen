@@ -911,6 +911,7 @@ const emojiItems = [
         title: "Top Gun",
         emojiImgs: "🔝🔫🛩️🕶️",
         genres: ["action", "drama"],
+	itemLink: "https://www.imdb.com/title/tt0092099/",
         type: "movie",
         year: 1986
     },
