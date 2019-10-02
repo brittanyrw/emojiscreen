@@ -896,6 +896,13 @@ const emojiItems = [
         year: 1990
     },
     {
+        title: "Independence Day",
+        emojiImgs: "🛸👽🌎🛩️",
+        genres: ["war", "adventure", "drama", "sci-fi"],
+        type: "movie",
+        year: 1996,
+        itemLink: "https://www.imdb.com/title/tt0116629/"
+    },{
         title: "The Incredible Hulk",
         emojiImgs: "🤢💪🦍",
         genres: ["action", "adventure", "sci-fi"],
