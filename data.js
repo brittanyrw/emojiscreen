@@ -486,7 +486,16 @@ const emojiItems = [
         type: "movie",
         year: 2000,
         itemLink: "https://www.imdb.com/title/tt0242423/"
-    },{
+    },
+    {
+	title: "The Emoji Movie",
+        emojiImgs: "😀😒✋💩",
+        genres: ["animation", "adventure", "comedy"],
+	itemLink: "https://www.imdb.com/title/tt4877122/",
+        type: "movie",
+        year: 2017
+    },
+    {
         title: "Eragon",
         emojiImgs: "👦🏼🐉🥚⚔️👑",
         genres: ["action", "adventure", "family"],
@@ -1649,14 +1658,6 @@ const emojiItems = [
         type: "movie",
         year: 1990
     },
-    {
-	title: "The Emoji Movie",
-        emojiImgs: "😀😒✋💩",
-        genres: ["animation", "adventure", "comedy"],
-	itemLink: "https://www.imdb.com/title/tt4877122/",
-        type: "movie",
-        year: 2017
-    },    
     {
         title: "Their Eyes Were Watching God",
         emojiImgs: "👀👼🎬",
