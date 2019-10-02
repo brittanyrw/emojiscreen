@@ -1670,8 +1670,14 @@ const emojiItems = [
         genres: ["drama", "romance"],
         type: "movie",
         year: 2005
-    },
-    {
+    },{
+        title: "Titanic",
+        emojiImgs: "💑❄🚢⬇️",
+        genres: ["drama", "romance"],
+        type: "movie",
+        year: 1997,
+        itemLink: "https://www.imdb.com/title/tt0120338/"
+    },{
         title: "The Wizard of Oz",
         emojiImgs: "🐶🌪️🤖🦁🧙‍",
         genres: ["adventure", "family", "fantasy"],
