@@ -143,6 +143,16 @@
         "type":"movie",
         "year":1986
      },{
+         "title":"The Departed",
+         "emojiImgs":"🐀 👮 👩 👨 🔫 ☘️",
+         "genres":[
+            "crime",
+            "drama",
+            "thriler"
+         ],
+         "type":"movie",
+         "year":2006
+     },{
         "title":"Devil Wears Prada",
         "emojiImgs":"😈💄👠🧣👓",
         "genres":[
@@ -155,7 +165,7 @@
          "title":"E.T. the Extra-Terrestrial",
          "emojiImgs":"🌙🚲👉🏻👈🏻👽",
          "genres":[
-             "Family", 
+             "Family",
              "Sci-Fi"
          ],
          "type":"movie",
