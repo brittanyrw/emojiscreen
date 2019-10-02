@@ -1665,6 +1665,14 @@ const emojiItems = [
         year: 1939
     },
     {
+        title: "Timecrimes",
+        emojiImgs: "🕒🤕🧥✂️",
+        genres: ["horror", "mystery", "sci-fi"],
+        type: "movie",
+        year: 2007,
+        itemLink: "https://www.imdb.com/title/tt0480669/"
+    },
+    {
         title: "Tropic Thunder",
         emojiImgs: "😼😽🙀😿😾",
         genres: ["action", "adventure", "comedy"],
