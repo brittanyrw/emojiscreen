@@ -144,14 +144,15 @@
         "year":1986
      },{
          "title":"The Departed",
-         "emojiImgs":"🐀 👮 👩 👨 🔫 ☘️",
+         "emojiImgs":"🐀 👮 👩 👨 ☘️",
          "genres":[
             "crime",
             "drama",
             "thriler"
          ],
          "type":"movie",
-         "year":2006
+         "year":2006,
+         "itemLink": "https://www.imdb.com/title/tt0407887/"
      },{
         "title":"Devil Wears Prada",
         "emojiImgs":"😈💄👠🧣👓",
