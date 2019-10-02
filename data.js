@@ -1711,6 +1711,14 @@ const emojiItems = [
         year: 1979
     },
     {
+        title: "Taxi Driver",
+        emojiImgs: "🚕🙎‍♂️👮‍♂️🤬",
+        genres: ["crime", "drama"],
+        type: "movie",
+        year: 1976,
+        itemLink: "https://www.imdb.com/title/tt0075314/"
+    },
+    {
         title: "Teenage Mutant Ninja Turtles",
         emojiImgs: "🐀🐢🎭🥋",
         genres: ["animation", "adventure", "comedy"],
@@ -1897,5 +1905,4 @@ const emojiItems = [
         type: "movie",
         year: 1974
     }
-    
 ]
