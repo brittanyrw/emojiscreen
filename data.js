@@ -1147,19 +1147,19 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0097757/"
     },
     {
-      title: 'Logan',
-      emojiImgs: "❌🐺👨‍🦱🖐️",
-      genres: ["sci-fi","action","adventure"],
-      type: "movie",
-      year: 2017,
-      itemLink: "https://www.imdb.com/title/tt3315342/?ref_=ttls_li_tt"
+        title: 'Logan',
+        emojiImgs: "❌🐺👨‍🦱🖐️",
+        genres: ["sci-fi","action","adventure"],
+        type: "movie",
+        year: 2017,
+        itemLink: "https://www.imdb.com/title/tt3315342/?ref_=ttls_li_tt"
     },{
-    title: "The Lizzie McGuire Movie",
-    emojiImgs: "🎓✈🇮🇹👯🎤",
-    genres: ["adventure", "comedy", "family"],
-    type: "movie",
-    year: 2003,
-    itemLink: "https://www.imdb.com/title/tt0306841/"
+        title: "The Lizzie McGuire Movie",
+        emojiImgs: "🎓✈🇮🇹👯🎤",
+        genres: ["adventure", "comedy", "family"],
+        type: "movie",
+        year: 2003,
+        itemLink: "https://www.imdb.com/title/tt0306841/"
     },
     {
         title: "The Lord of the Rings: The Fellowship of the Ring",
@@ -1467,13 +1467,13 @@ const emojiItems = [
         type: "tv",
         year: 1993,
         itemLink: "https://www.imdb.com/title/tt0106064/",
-    },
-    {
-        title: "Powerpuff Girls",
-        emojiImgs: "👧👧👧🐒",
-        genres: ["animation"],
+    },{
+        title: "The Powerpuff Girls",
+        emojiImgs: "💪💨👭",
+        genres: ["animation", "action", "comedy"],
         type: "tv",
-        year: 1998
+        year: 1998,
+        itemLink: "https://www.imdb.com/title/tt0175058/"
     },
     {
         title: "Princess and the Frog",
@@ -1981,12 +1981,12 @@ const emojiItems = [
       itemLink: "https://www.imdb.com/title/tt3385516/?ref_=ttls_li_tt"
     },
     {
-      title: 'X2: X-Men United ',
-      emojiImgs: "❌✌👨‍👨‍👧‍👧",
-      genres: ["sci-fi","action","thriller"],
-      type: "movie",
-      year: 2003,
-      itemLink: "https://www.imdb.com/title/tt0290334/?ref_=ttls_li_tt"
+        title: 'X2: X-Men United ',
+        emojiImgs: "❌✌👨‍👨‍👧‍👧",
+        genres: ["sci-fi","action","thriller"],
+        type: "movie",
+        year: 2003,
+        itemLink: "https://www.imdb.com/title/tt0290334/?ref_=ttls_li_tt"
     },  
     {
         title: "Young Frankenstein",
