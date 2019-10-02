@@ -1650,6 +1650,14 @@ const emojiItems = [
         year: 1990
     },
     {
+	title: "The Emoji Movie",
+        emojiImgs: "😀😒✋💩",
+        genres: ["animation", "adventure", "comedy"],
+	itemLink: "https://www.imdb.com/title/tt4877122/",
+        type: "movie",
+        year: 2017
+    },    
+    {
         title: "Their Eyes Were Watching God",
         emojiImgs: "👀👼🎬",
         genres: ["drama", "romance"],
