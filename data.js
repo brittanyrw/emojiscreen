@@ -97,6 +97,14 @@ const emojiItems = [
         year: 2011
     },
     {
+        title: "Alice in Wonderland",
+        emojiImgs: "👱‍🐇⌚👑♥️",
+        genres: ["animation", "adventure", "family"],
+        type: "movie",
+        year: 1951,
+        itemLink: "https://www.imdb.com/title/tt0043274/"
+    },
+    {
         title: "Alien",
         emojiImgs: "🚀👾🔫👨‍🚀",
         genres: ["suspense", "horror"],
