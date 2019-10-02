@@ -1686,6 +1686,14 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "Vinci Da",
+        emojiImgs: "👮👨‍🎨⚖️🔪",
+        genres: ["crime","mystery","thriller"],
+        type: "movie",
+        year: 2019,
+	itemLink: "https://www.imdb.com/title/tt10217550/?ref_=fn_al_tt_1"    
+    },
+    {
         title: "The Walking Dead",
         emojiImgs: "👮🏻🏃🧟‍⚔️🚗",
         genres: ["drama", "suspense", "horror"],
