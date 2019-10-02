@@ -1,3 +1,6 @@
+/* =========================
+* ===== GENERAL STYLES =====
+==========================*/
 * {
   box-sizing: border-box;
 }
@@ -8,12 +11,6 @@ body {
   font-family: 'Open Sans', sans-serif;
   margin: 0;
 }
-
-header {
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
 
 h1 {
   font-family: 'Londrina Solid', cursive;
@@ -26,6 +23,25 @@ h1 {
   h1 {
     font-size: 50px;
   }
+}
+
+h2 {
+  color: #292932;
+}
+
+i {
+  font-size: 17px;
+  background-color: white;
+  border-radius: 50%;
+  color: #292932;
+}
+
+/* =========================
+* ===== HEADER STYLES =====
+==========================*/
+header {
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 header img {
@@ -42,6 +58,13 @@ header img {
   .heading-content {
     grid-template-columns: 2.5fr 1fr;
   }
+}
+
+.header {
+  background-color: lavender;
+  margin: 20px 0 0 0;
+  border: 1px solid lavender;
+  padding: 10px 20px;
 }
 
 .contribute-callout {
@@ -76,17 +99,9 @@ header img {
   height: 27px;
 }
 
-.header {
-  background-color: lavender;
-  margin: 20px 0 0 0;
-  border: 1px solid lavender;
-  padding: 10px 20px;
-}
-
-h2 {
-  color: #292932;
-}
-
+/* =========================
+* ===== FILTER STYLES ======
+==========================*/
 #filters {
   max-width: 1200px;
   margin: 0 auto 30px auto;
@@ -95,6 +110,12 @@ h2 {
   grid-template-columns: 1fr;
   grid-gap: 20px;
   border-bottom: 2px solid white;
+}
+
+#filters p {
+  color: white;
+  font-size: 18px;
+  text-align: center;
 }
 
 @media screen and (min-width: 662px){
@@ -112,12 +133,6 @@ h2 {
   }
 }
 
-#filters p {
-  color: white;
-  font-size: 18px;
-  text-align: center;
-}
-
 #filters button {
   border: 0;
   border-radius: 0;
@@ -127,6 +142,11 @@ h2 {
   padding: 15px;
   font-weight: 900;
   text-transform: uppercase;
+  transition: .5s;
+}
+
+#filters button:hover {
+  background-color: gold;
   transition: .5s;
 }
 
@@ -146,11 +166,9 @@ h2 {
   background-color: #e6f6fa;
 }
 
-#filters button:hover {
-  background-color: gold;
-  transition: .5s;
-}
-
+/* ==============================
+* ====== EMOJI CARD STYLES ======
+===============================*/
 #emojis {
     display: grid;
     grid-template-columns: 1fr;
@@ -187,21 +205,6 @@ h2 {
     cursor: pointer;
 }
 
-.emoji-images img {
-    width: 42px;
-    margin-right: 5px;
-}
-
-@media screen and (max-width: 992px){
-  .emoji-images img {
-    width: 48px;
-  }
-}
-
-.emoji-images img:last-child {
-  margin-right: 0;
-}
-
 .emoji-images {
   border-radius: 5px 5px 0 0;
   box-shadow: 5px 5px 10px rgba(0,0,0,.1);
@@ -209,6 +212,21 @@ h2 {
   background-color: white;
   padding: 20px 15px;
   border-bottom: 2px solid #292932;
+}
+
+.emoji-images img {
+    width: 42px;
+    margin-right: 5px;
+}
+
+.emoji-images img:last-child {
+  margin-right: 0;
+}
+
+@media screen and (max-width: 992px){
+  .emoji-images img {
+    width: 48px;
+  }
 }
 
 .emoji-card-title {
@@ -243,12 +261,10 @@ h2 {
     background-color: #faefe6;
 }
 
-
 .emoji-card-title > a {
   text-decoration: none;
   color: #292932;
 }
-
 
 .emoji-card-title > a:hover {
   color: #535379;
@@ -280,13 +296,6 @@ h2 {
   width: 30px;
   overflow: visible;
   z-index: 9999;
-}
-
-i {
-  font-size: 17px;
-  background-color: white;
-  border-radius: 50%;
-  color: #292932;
 }
 
 .hint-symbol {
@@ -331,13 +340,6 @@ i {
   z-index: 9999;
 }
 
-@media screen and (max-width: 1024px){
-  .btn-reveal-all {
-    bottom: 5px;
-    right: 5px;
-  }
-}
-
 .btn-reveal-all:before {
   content: '';
   border-radius: 100%;
@@ -363,11 +365,21 @@ i {
   transform: translate3d(0, 0, 0);
 }
 
+@media screen and (max-width: 1024px){
+  .btn-reveal-all {
+    bottom: 5px;
+    right: 5px;
+  }
+}
+
 .btn-reveal-all i {
   background: transparent;
   font-size: 2em;
 }
 
+/* =========================
+* ===== FOOTER STYLES ======
+==========================*/
 footer {
   text-align: center;
   max-width: 1000px;
