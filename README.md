@@ -29,11 +29,14 @@ Below are some guidelines to follow when contributing to this project.
 #### If someone has commented inside of the Issue saying they are working on it, that item is reserved for them.
 * Please choose something else to add if someone else has already said they will add something. We will let you know if you accidently add something that someone else is assigned. It is easy to tell if someone is adding something accidently vs if they are ignoring our rules. We will mark Pull Requests as invalid (and therefore it will not count towards Hacktoberfest) if you are purposely creating multiple Pull Requests for Issues that someone else is assigned to or has reserved.
 
-#### Please limit Pull Requests to adding a show/movie, completing an Issue or adding a feature.
-* We are not accepting Pull Requests for things such as white space updates or README.md updates for Hacktoberfest. These types of Pull Requests will be marked as invalid. For Hacktoberfest, we would prefer that you add something to the project and not the documentation.
+#### Please limit Pull Requests to adding a show/movie, completing an Issue or adding a feature. 
+* We are not accepting Pull Requests for things such as white space updates or README.md updates for Hacktoberfest. These types of Pull Requests will be marked as invalid. For Hacktoberfest, we would prefer that you add something to the project. 
 
 #### Please do not approve or make suggestions on other people's Pull Requests.
 * We do not need additional maintainers at this time. To avoid confusion and incorrect approvals, only maintainers approve Pull Requests.
+
+#### Please do not create Pull Requests for new features without creating an Issue first.
+* Do not start work on a new feature without getting confirmation from the maintainers via an Issue. We need to approve all new features first. This also goes for Issues that are for features, please wait for confirmation from the maintainers before working on those types of Issues.
 
 ### Issues
 For other ways to contribute, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). You are also welcome to suggest other features [by adding an Issue](https://github.com/brittanyrw/emojiscreen/issues).
