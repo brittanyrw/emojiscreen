@@ -395,6 +395,29 @@ const emojiItems = [
         type: "tv",
         year: 2004,
         itemLink: "https://www.imdb.com/title/tt0348914/"
+    },{
+      title: 'Dark Phoenix',
+      emojiImgs: "🕶️☀️🔥 ",
+      genres: ["sci-fi","action","adventure"],
+      type: "movie",
+      year: 2019,
+      itemLink: "https://www.imdb.com/title/tt6565702/?ref_=ttls_li_tt"
+    },
+    {
+      title: "Deadpool",
+      emojiImgs:"⚰️🏊⚔️",
+      genres: ["action","adventure","comedy"],
+      type: "movie",
+      year: 2016,
+      itemLink:"https://www.imdb.com/title/tt1431045/?ref_=ttls_li_tt"
+    },
+    {
+      title: "Deadpool 2",
+      emojiImgs:"⚰️🏊2️⃣⚔️",
+      genres: ["action","adventure","comedy"],
+      type: "movie",
+      year: 2018,
+      itemLink:"https://www.imdb.com/title/tt5463162/?ref_=ttls_li_tt"
     },
     {
         title: "Dear Evan Hansen",
@@ -749,12 +772,12 @@ const emojiItems = [
         year: 1990
     },
     {
-	title: "The Incredible Hulk",
-	emojiImgs: "🤢💪🦍",
+        title: "The Incredible Hulk",
+        emojiImgs: "🤢💪🦍",
         genres: ["action", "adventure", "sci-fi"],
         type: "movie",
         year: 2008,
-	itemLink: "https://www.imdb.com/title/tt0800080/"
+        itemLink: "https://www.imdb.com/title/tt0800080/"
     },
     {
         title: "Inglorious Basterds",
@@ -963,6 +986,14 @@ const emojiItems = [
         type: "movie",
         year: 1989,
         itemLink: "https://www.imdb.com/title/tt0097757/"
+    },
+    {
+      title: 'Logan',
+      emojiImgs: "❌🐺👨‍🦱🖐️",
+      genres: ["sci-fi","action","adventure"],
+      type: "movie",
+      year: 2017,
+      itemLink: "https://www.imdb.com/title/tt3315342/?ref_=ttls_li_tt"
     },
     {
         title: "The Lord of the Rings: The Fellowship of the Ring",
@@ -1587,6 +1618,70 @@ const emojiItems = [
         type: "tv",
         year: 1993
     },
+    {
+      title: 'X-Men',
+      emojiImgs: "❌🧲💭👨‍🦽",
+      genres: ["sci-fi","action","adventure"],
+      type: "movie",
+      year: 2000,
+      itemLink: "https://www.imdb.com/title/tt0120903/?ref_=ttls_li_tt"
+    },
+    {
+      title: 'X-Men: First Class',
+      emojiImgs: "❌🥇👨‍🏫",
+      genres: ["sci-fi","action","adventure"],
+      type: "movie",
+      year: 2011,
+      itemLink: "https://www.imdb.com/title/tt1270798/?ref_=ttls_li_tt"
+    },
+    {
+      title: 'X-Men Origins: Wolverine',
+      emojiImgs: "❌🖐️⚙️👨‍🦱",
+      genres: ["sci-fi","action","adventure"],
+      type: "movie",
+      year: 2009,
+      itemLink: "https://www.imdb.com/title/tt0458525/?ref_=ttls_li_tt"
+    },
+    {
+      title: 'X-Men: The Last Stand ',
+      emojiImgs: "❌🧍‍♂️🧍‍♀️",
+      genres: ["sci-fi","action"],
+      type: "movie",
+      year: 2006,
+      itemLink: "https://www.imdb.com/title/tt0376994/?ref_=ttls_li_tt"
+    },
+    {
+      title: 'The Wolverine',
+      emojiImgs: "❌🐺👨‍🦱🖐️",
+      genres: ["sci-fi","action","adventure"],
+      type: "movie",
+      year: 2013,
+      itemLink: "https://www.imdb.com/title/tt1430132/?ref_=ttls_li_tt"
+    },
+    {
+      title: 'X-Men: Days of Future Past',
+      emojiImgs: "❌📅🔮",
+      genres: ["sci-fi","action","adventure"],
+      type: "movie",
+      year: 2014,
+      itemLink: "https://www.imdb.com/title/tt1877832/?ref_=ttls_li_tt"
+    },
+    {
+      title: 'X-Men: Apocalypse',
+      emojiImgs: "❌🌎🔥",
+      genres: ["sci-fi","action","adventure"],
+      type: "movie",
+      year: 2016,
+      itemLink: "https://www.imdb.com/title/tt3385516/?ref_=ttls_li_tt"
+    },
+    {
+      title: 'X2: X-Men United ',
+      emojiImgs: "❌✌👨‍👨‍👧‍👧",
+      genres: ["sci-fi","action","thriller"],
+      type: "movie",
+      year: 2003,
+      itemLink: "https://www.imdb.com/title/tt0290334/?ref_=ttls_li_tt"
+    },  
     {
         title: "Young Frankenstein",
         emojiImgs: "👶🌭🍺⚡️🧟‍",
