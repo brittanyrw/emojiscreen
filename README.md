@@ -32,7 +32,7 @@ Below are some guidelines to follow when contributing to this project.
 #### Please do not approve or make suggestions on other people's Pull Requests.
 * We do not need additional maintainers at this time. To avoid confusion and incorrect approvals, only maintainers approve Pull Requests. 
 
-#### Please do not create Pull Requests without creating an Issue first.
+#### Please do not create Pull Requests unless you are working on an Issue.
 * Do not start work on a new feature or adding a show/movie without getting confirmation from the maintainers via an Issue. Please wait for confirmation from the maintainers before working on those types of Issues.
 
 ### Issues
