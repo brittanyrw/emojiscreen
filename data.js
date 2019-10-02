@@ -566,6 +566,13 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "Dreams",
+        emojiImgs: "💤💭👺🇯🇵",
+        genres: ["drama", "fantasy"],
+        itemLink: "https://www.imdb.com/title/tt0100998/",
+        type: "movie",
+        year: 1990
+    },{
         title: "Dude, Where's My Car?",
         emojiImgs: "👨❓🚗",
         gebres: ["comedy", "sci-fi"],
