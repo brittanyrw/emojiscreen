@@ -1307,14 +1307,14 @@ const emojiItems = [
     {
         title: "Sherlock Holmes",
         emojiImgs: "🕵️‍♂️ 🕵️‍♂️ 🔍 👁️‍🗨️",
-        genres: ["Action", "Adventure", "Crime"],
+        genres: ["action", "adventure", "crime"],
         type: "movie",
         year: 2009
     },
     {
         title: "Pirates of the Caribbean: The Curse of the Black Pearl",
         emojiImgs: "🏴‍☠️ 🦜 🔑 🚢",
-        genres: ["Action", "Adventure", "Fantasy"],
+        genres: ["action", "adventure", "fantasy"],
         type: "movie",
         year: 2003
     }
