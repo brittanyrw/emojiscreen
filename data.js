@@ -55,6 +55,7 @@ const emojiItems = [
         year: 1986,
         itemLink: "https://www.imdb.com/title/tt0090390"
     },
+    
     {
         title: "Alien",
         emojiImgs: "🚀👾🔫👨‍🚀",
@@ -198,12 +199,12 @@ const emojiItems = [
 	      itemLink: "http://www.playbill.com/production/the-book-of-mormon-eugene-oneill-theatre-vault-0000013715"
     },
     {
-	title: "Boys over Flowers",
-	emojiImgs: "👦🔼💮",
-	genres: ["comedy", "drama", "romance"],
-	type: "tv",
-	year: 2009,
-	itemLink: "https://www.imdb.com/title/tt1370334/"
+      title: "Boys over Flowers",
+      emojiImgs: "👦🔼💮",
+      genres: ["comedy", "drama", "romance"],
+      type: "tv",
+      year: 2009,
+      itemLink: "https://www.imdb.com/title/tt1370334/"
     },	
     {
         title: "Brave",
@@ -554,6 +555,12 @@ const emojiItems = [
         year: 2003
     },
     {
+        title: "Five Feet Apart ",
+        emojiImgs: "🏣🧒5⃣👧💞",
+        genres: [ "Drama", "Romance","Comedy" ],
+        type: "movie",
+        year: 2019
+    },{
         title: "The Fresh Prince of Bel-Air",
         emojiImgs: "👑🛎💨‍",
         genres: ["comedy"],
@@ -1822,4 +1829,5 @@ const emojiItems = [
         type: "movie",
         year: 1974
     }
+    
 ]
