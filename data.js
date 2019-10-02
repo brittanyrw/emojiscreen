@@ -279,6 +279,14 @@ const emojiItems = [
 	      itemLink: "https://www.imdb.com/title/tt0903747/"
     },
     {
+        title: "Bring It On",
+        emojiImgs: "💃🤸‍♀️💗🤷‍♀️🧖‍♀️",
+        genres: ["comedy", "romance", "sport"],
+        type: "movie",
+        year: 2000,
+        itemLink: "https://www.imdb.com/title/tt0204946/"
+    },
+    {
         title: "Brooklyn Nine-Nine",
         emojiImgs: "🗽👮🏻‍♂️👮🏿‍👮🏻‍♀️👮🏾",
         genres: ["comedy", "crime"],
