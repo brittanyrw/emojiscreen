@@ -1867,6 +1867,14 @@ const emojiItems = [
         type: "movie",
         year: 2007,
         itemLink: "https://www.imdb.com/title/tt0480669/"
+    }, 
+    {
+        title: "Top Gun",
+        emojiImgs: "🔝🔫🛩️🕶️",
+        genres: ["action", "drama"],
+	    itemLink: "https://www.imdb.com/title/tt0092099/",
+        type: "movie",
+        year: 1986
     },
     {
         title: "Tropic Thunder",
