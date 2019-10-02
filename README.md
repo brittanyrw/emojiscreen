@@ -20,7 +20,7 @@ Below are instructions for how to contribute to this project. The easiest way to
 
 Below are some guidelines to follow when contributing to this project. 
 
-#### 🛑 We are limiting contributions per person to 3 additions across EmojiScreen, EmojiBops and EmojiPages. (Updated Oct 1)
+#### 🛑 We are limiting contributions per person to 3 additions across EmojiScreen, EmojiBops and EmojiPages. 
 * Please limit yourself to up to 3 additions across the three emoji projects. (Example One: Complete 1 feature, add two movies; Example Two: add three songs; Example Three: add one song, one movie and one book, etc). This is due to the high level of activity on these projects at the moment. We want to make sure many people have a chance to contribute. The limit will be lifted once the activity has died down. 🙂
 
 #### Check Issues and current Pull Requests before contributing to avoid adding duplicates. 
@@ -29,22 +29,19 @@ Below are some guidelines to follow when contributing to this project.
 #### If someone has commented inside of the Issue saying they are working on it, that item is reserved for them. 
 * Please choose something else to add if someone else has already said they will add something. We will let you know if you accidently add something that someone else is assigned. It is easy to tell if someone is adding something accidently vs if they are ignoring our rules. We will mark Pull Requests as invalid (and therefore it will not count towards Hacktoberfest) if you are purposely creating multiple Pull Requests for Issues that someone else is assigned to or has reserved. 
 
-#### Please limit Pull Requests to adding a show/movie, completing an Issue or adding a feature. 
-* We are not accepting Pull Requests for things such as white space updates or README.md updates for Hacktoberfest. These types of Pull Requests will be marked as invalid. For Hacktoberfest, we would prefer that you add something to the project. 
-
 #### Please do not approve or make suggestions on other people's Pull Requests.
 * We do not need additional maintainers at this time. To avoid confusion and incorrect approvals, only maintainers approve Pull Requests. 
 
-#### Please do not create Pull Requests for new features without creating an Issue first.
-* Do not start work on a new feature without getting confirmation from the maintainers via an Issue. We need to approve all new features first. This also goes for Issues that are for features, please wait for confirmation from the maintainers before working on those types of Issues.
+#### Please do not create Pull Requests without creating an Issue first.
+* Do not start work on a new feature or adding a show/movie without getting confirmation from the maintainers via an Issue. Please wait for confirmation from the maintainers before working on those types of Issues.
 
 ### Issues
-For other ways to contribute, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). You are also welcome to suggest other features [by adding an Issue](https://github.com/brittanyrw/emojiscreen/issues).
+For adding features, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). You are also welcome to suggest other features [by adding an Issue](https://github.com/brittanyrw/emojiscreen/issues).
 
 ### If you want to work on one of the [Issues to add a TV show, movie or musical](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis)
 * Please comment in the Issue so that others know to not add that show or movie. You do not have to wait for confirmation for Issues adding shows or movies before creating a Pull Request. Your comment will just help 'bookmark' the Issue for you to prevent duplicate Pull Requests.
 
-* You do not have to add an Issue if you plan on adding a movie/show that is not listed in the Issues. You can just go ahead and create a Pull Request.
+* We are only accepting Pull Requests for movies/shows that are listed as an Issue and approved by the maintainers.
 
 ### If you want to work on one of the Issues that are labeled with `enhancement` or are adding an Issue for a feature
 * Please comment in the Issue and **wait for confirmation** before you start working on it.
