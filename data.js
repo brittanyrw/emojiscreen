@@ -867,6 +867,13 @@ const emojiItems = [
         year: 2016
     },
     {
+        title: "The Hills",
+        emojiImgs: "👩‍🎓🌄👚📏",
+        genres: ["comedy", "drama"],
+        itemLink: "https://www.imdb.com/title/tt0489598/",
+        type: "tv",
+        year: 2006
+    },{
         title: "Holes",
         emojiImgs: "0️⃣👟🦎🕳️☀️",
         genres: ["Adventure", "Comedy", "Drama", "Family", "Mystery"],
