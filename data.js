@@ -577,7 +577,7 @@ const emojiItems = [
         year: 2007,
         itemLink: "https://www.imdb.com/title/tt0863046/"
     },
-     {
+    {
         title: "Four Weddings and a Funeral",
         emojiImgs: "4️⃣💒💑⚰️",
         genres: ["Comedy", "Drama", "Romance"],
@@ -1135,6 +1135,14 @@ const emojiItems = [
         year: 2008
     },
     {
+        title: "Mermaid Down",
+        emojiImgs: "👨👑️🧒🐠️️",
+        genres: ["horror"],
+        itemLink: "https://www.imdb.com/title/tt3584496/",
+        type: "movie",
+        year: 2019
+    },
+    {
         title: "Mean Girls",
         emojiImgs: "👚🏫📓🔥😏",
         genres: ["movie", "comedy"],
@@ -1189,7 +1197,7 @@ const emojiItems = [
         type: "movie",
         year: 1998,
         itemLink: "https://www.imdb.com/title/tt0120762/"
-    }, 
+    },
     {
         title: "Narcos",
         emojiImgs: "🔫🗡💊💉💰",
@@ -1370,7 +1378,7 @@ const emojiItems = [
         type: "tv",
         year: 2004,
 	itemLink: "https://www.imdb.com/title/tt0437741/"
-    },	
+    },
     {
         title: "Pulp Fiction",
         emojiImgs: "🔪🔫🍔🥊💊",
@@ -1806,7 +1814,7 @@ const emojiItems = [
       type: "movie",
       year: 2003,
       itemLink: "https://www.imdb.com/title/tt0290334/?ref_=ttls_li_tt"
-    },  
+    },
     {
         title: "Young Frankenstein",
         emojiImgs: "👶🌭🍺⚡️🧟‍",
