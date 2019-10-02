@@ -906,7 +906,7 @@ const emojiItems = [
         genres: ["drama", "romance"],
         type: "movie",
         year: 2005
-    },
+    }, 
     {
         title: "Top Gun",
         emojiImgs: "🔝🔫🛩️🕶️",
