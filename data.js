@@ -514,6 +514,13 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "Doctor Who",
+        emojiImgs: "👶⚡️🚀🌍‍",
+        genres: ["adventure", "drama", "family"],
+        type: "tv",
+        year: 2005,
+	      itemLink: "https://www.imdb.com/title/tt0436992/"
+    },{
         title: "Doctor Strange",
         emojiImgs: "👨‍⚕️💎🧙‍♂️",
         genres: ["action", "adventure", "fantasy"],
