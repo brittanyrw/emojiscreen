@@ -1553,7 +1553,7 @@ const emojiItems = [
     },
     {
         title: "The West Wing",
-        emojiImgs: "💼💥🥋",
+        emojiImgs: "🇺🇸🌎📄",
         genres: ["drama"],
         itemLink: "https://www.imdb.com/title/tt0200276/",
         type: "tv",
