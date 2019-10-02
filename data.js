@@ -902,6 +902,14 @@ const emojiItems = [
         year: 2013
     },
     {
+        title: "Suits",
+        emojiImgs: "👨👦⚖️👔",
+        genres: ["drama", "crime"],        
+        itemLink: "https://www.imdb.com/title/tt1632701/",
+        type: "tv",
+        year: 2011
+    },
+    {
         title: "Sweeney Todd: The Demon Barber of Fleet Street",
         emojiImgs: "💈🔪☠️🍰",
         genres: ["drama", "horror", "musical"],
