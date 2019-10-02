@@ -1690,5 +1690,13 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "Enemy at the Gates",
+        emojiImgs: "👶🌭🍺⚡️🧟‍",
+        genres: ["drama", "war"],
+        type: "movie",
+	itemLink: "https://www.imdb.com/title/tt0215750"
+        year: 2001
     }
 ]
