@@ -3,6 +3,8 @@
 ## 🚧 October 2 Update: 
 ### Due to the high volume of activity from Hacktoberfest we are pausing contributions to this project while we review the current backlog of Pull Requests. You will not be able to make any new Pull Requests or Issues at the moment. Please feel free to contribute to other projects on GitHub during this time. Thanks!
 
+If you are working on an Issue, you can work on it in your forked repo and you will be able to create a Pull Request once we open this project again.
+
 ## A listing of movies, TV shows and musicals depicted through emojis.
 [Visit emojiscreen.com](https://emojiscreen.com)
 
