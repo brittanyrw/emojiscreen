@@ -8,12 +8,12 @@ const emojiItems = [
         itemLink: "http://www.playbill.com/production/the-25th-annual-putnam-county-spelling-bee-circle-in-the-square-theatre-vault-0000003219"
     },
     {
-        title: "The Mask ",
-        emojiImgs: "🐶🤓👺🤪🕺",
-        genres: ["comedy", "crime", "fantasy"],
-        type: "movie",
-        year: 1994,
-        itemLink: "https://www.imdb.com/title/tt0110475/?ref_=nv_sr_1?ref_=nv_sr_1"
+        title: "The Great British Bake Off",
+        emojiImgs: "👍🇬🇧🍞🎂🥐",
+        genres: ["baking","reality"],
+        type: "tv",
+        year: 2010,
+        itemLink: "https://www.imdb.com/title/tt1877368/"
     },
     {
         title: "300 ",
@@ -743,6 +743,14 @@ const emojiItems = [
         year: 2009
     },
     {
+        title: "Hackers",
+        emojiImgs: "👩🏻‍💻👨🏻‍💻📡🕵",
+        genres: ["action-adventure", "mystery", "fiction-fantasy"],
+        type: "movie",
+        year: 1995,
+        itemLink: "https://www.imdb.com/title/tt0113243/"
+    },
+    {
         title: "Hannibal",
         emojiImgs: "🔪🩸🥩👨‍⚕️",
         genres: ["crime", "drama", "horror"],
@@ -1123,6 +1131,13 @@ const emojiItems = [
         type: "tv",
         year: 1972,
         itemlink: "https://www.imdb.com/title/tt0068098/"
+    },{
+        title: "The Mask ",
+        emojiImgs: "🐶🤓👺🤪🕺",
+        genres: ["comedy", "crime", "fantasy"],
+        type: "movie",
+        year: 1994,
+        itemLink: "https://www.imdb.com/title/tt0110475/?ref_=nv_sr_1?ref_=nv_sr_1"
     },
     {
         title: "Mary Poppins",
