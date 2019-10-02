@@ -1,4 +1,7 @@
 # EmojiScreen 📺 
+
+## Due to the high volume of activity from Hacktoberfest we are pausing contributions to this project at the moment while we review the current backlog of Pull Request. Please feel free to contribute to other projects on GitHub during this time. Thanks!
+
 ## A listing of movies, TV shows and musicals depicted through emojis.
 [Visit emojiscreen.com](https://emojiscreen.com)
 
@@ -30,10 +33,13 @@ Below are some guidelines to follow when contributing to this project.
 * Please choose something else to add if someone else has already said they will add something. We will let you know if you accidently add something that someone else is assigned. It is easy to tell if someone is adding something accidently vs if they are ignoring our rules. We will mark Pull Requests as invalid (and therefore it will not count towards Hacktoberfest) if you are purposely creating multiple Pull Requests for Issues that someone else is assigned to or has reserved. 
 
 #### Please limit Pull Requests to adding a show/movie, completing an Issue or adding a feature. 
-* We are not accepting Pull Requests for things such as white space updates or README.md updates for Hacktoberfest. These types of Pull Requests will be marked as invalid. For Hacktoberfest, we would prefer that you add something to the project and not the documentation. 
+* We are not accepting Pull Requests for things such as white space updates or README.md updates for Hacktoberfest. These types of Pull Requests will be marked as invalid. For Hacktoberfest, we would prefer that you add something to the project. 
 
 #### Please do not approve or make suggestions on other people's Pull Requests.
 * We do not need additional maintainers at this time. To avoid confusion and incorrect approvals, only maintainers approve Pull Requests. 
+
+#### Please do not create Pull Requests for new features without creating an Issue first.
+* Do not start work on a new feature without getting confirmation from the maintainers via an Issue. We need to approve all new features first. This also goes for Issues that are for features, please wait for confirmation from the maintainers before working on those types of Issues.
 
 ### Issues
 For other ways to contribute, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). You are also welcome to suggest other features [by adding an Issue](https://github.com/brittanyrw/emojiscreen/issues).
@@ -41,8 +47,10 @@ For other ways to contribute, see the repo Issues [under the label 'enhancement'
 ### If you want to work on one of the [Issues to add a TV show, movie or musical](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis)
 * Please comment in the Issue so that others know to not add that show or movie. You do not have to wait for confirmation for Issues adding shows or movies before creating a Pull Request. Your comment will just help 'bookmark' the Issue for you to prevent duplicate Pull Requests.
 
-### If you want to work on one of the Issues that are labeled with `enhancement` 
-* Please comment in the Issue and wait for confirmation before you start working on it.
+* You do not have to add an Issue if you plan on adding a movie/show that is not listed in the Issues. You can just go ahead and create a Pull Request.
+
+### If you want to work on one of the Issues that are labeled with `enhancement` or are adding an Issue for a feature
+* Please comment in the Issue and **wait for confirmation** before you start working on it.
 
 Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged and you can make multiple pull requests if you desire. If you run into trouble, feel free [to create an Issue](https://github.com/brittanyrw/emojiscreen/issues)!
 
