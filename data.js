@@ -1025,6 +1025,13 @@ const emojiItems = [
       type: "movie",
       year: 2017,
       itemLink: "https://www.imdb.com/title/tt3315342/?ref_=ttls_li_tt"
+    },{
+    title: "The Lizzie McGuire Movie",
+    emojiImgs: "🎓✈🇮🇹👯🎤",
+    genres: ["adventure", "comedy", "family"],
+    type: "movie",
+    year: 2003,
+    itemLink: "https://www.imdb.com/title/tt0306841/"
     },
     {
         title: "The Lord of the Rings: The Fellowship of the Ring",
@@ -1162,6 +1169,13 @@ const emojiItems = [
         type: "movie",
         year: 1975,
         itemLink: "https://www.imdb.com/title/tt0071853/?ref_=nv_sr_1?ref_=nv_sr_1"
+    },{
+        title: "Moulin Rouge",
+        emojiImgs: "💃🇫🇷🎟🎭💋",
+        genres: ["drama", "musical", "romance"],
+        type: "movie",
+        year: 2001,
+        itemLink: "https://www.imdb.com/title/tt0203009/"
     },
     {
         title: "Mulan",
