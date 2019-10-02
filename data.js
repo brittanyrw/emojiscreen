@@ -1665,6 +1665,14 @@ const emojiItems = [
         year: 1939
     },
     {
+        title: "Titanic",
+        emojiImgs: "🚢⚓️👩👨❤️",
+        genres: ["drama", "romance"],
+        itemLink: "https://www.imdb.com/title/tt0120338/",
+        type: "movie",
+        year: 1997
+    },
+    {
         title: "Tropic Thunder",
         emojiImgs: "😼😽🙀😿😾",
         genres: ["action", "adventure", "comedy"],
