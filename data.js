@@ -24,6 +24,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0416449"
     },
     {
+        title: "A Bug's Life",
+        emojiImgs: "🐜🍃🦗🐦",
+        genres: ["animation", "adventure", "comedy"],
+        type: "movie",
+        year: 1998,
+        itemLink: "https://www.imdb.com/title/tt0120623/"
+    },
+    {
         title: "A Star is Born",
         emojiImgs: "🎤👩👨🎸⭐",
         genres: ["drama", "music", "romance"],
@@ -478,6 +486,13 @@ const emojiItems = [
         type: "movie",
         year: 2000,
         itemLink: "https://www.imdb.com/title/tt0242423/"
+    },{
+        title: "Eragon",
+        emojiImgs: "👦🏼🐉🥚⚔️👑",
+        genres: ["action", "adventure", "family"],
+        itemLink: "https://www.imdb.com/title/tt0449010/",
+        type: "movie",
+        year: 2006
     },
     {
         title: "E.T. the Extra-Terrestrial",
@@ -493,6 +508,22 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0099487/",
         type: "movie",
         year: 1990,
+    },
+    {
+        title: "Fantastic Beasts and Where to Find Them",
+        emojiImgs: "🐉🐀🦉🔎💼",
+        genres: ["adventure", "family", "fantasy"],
+        itemLink: "https://www.imdb.com/title/tt3183660/",
+        type: "movie",
+        year: 2016
+    },
+    {
+        title: "Fantastic Beasts: The Crimes of Grindelwald",
+        emojiImgs: "🐉🦉🚔👨‍🦳🧙‍♂️",
+        genres: ["adventure", "family", "fantasy"],
+        itemLink: "https://www.imdb.com/title/tt4123430/",
+        type: "movie",
+        year: 2018
     },
     {
         title: "Fargo",
@@ -1017,6 +1048,14 @@ const emojiItems = [
         year: 2010
     },
     {
+        title: "M*A*S*H",
+        emojiImgs: "😷🎖️😂🇰🇷",
+        genres: ["comedy", "drama", "war"],
+        type: "tv",
+        year: 1972,
+        itemlink: "https://www.imdb.com/title/tt0068098/"
+    },
+    {
         title: "Mary Poppins",
         emojiImgs: "✨☂️✨👜✨",
         genres: ["comedy", "family", "fantasy"],
@@ -1030,7 +1069,8 @@ const emojiItems = [
         type: "musical",
         year: 2013,
         itemlink: "http://www.playbill.com/production/matilda-the-musical-shubert-theatre-vault-0000013970"
-    },{
+    },
+    {
         title: "Mad Men",
         emojiImgs: "‍😡 👨🏻 👨🏻 ",
         genres: ["drama"],
@@ -1059,21 +1099,24 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0119654/",
         type: "movie",
         year: 1997
-    },{
+    },
+    {
         title: "Men in Black 3",
         emojiImgs: "👨⤵◾👽",
         genres: ["action", "comedy","sci-fi"],
         type: "movie",
         year: 2012,
         itemLink: "https://www.imdb.com/title/tt1409024/"
-    },{
+    },
+    {
         title: "Merlin",
         emojiImgs: "🧙🤴👑⚔️🐉",
         genres: ["adventure", "drama", "fantasy "],
         itemLink: "https://www.imdb.com/title/tt1199099/",
         type: "tv",
         year: 2008
-    },{
+    },
+    {
         title: "Mean Girls",
         emojiImgs: "👚🏫📓🔥😏",
         genres: ["movie", "comedy"],
@@ -1095,21 +1138,24 @@ const emojiItems = [
         type: "tv",
         year: 2015,
         itemlink: "https://www.imdb.com/title/tt4158110/"
-    },{
+    },
+    {
         title: "Mrs. Doubtfire",
         emojiImgs: "👨➡👵",
         genres: ["comedy", "drama", "family"],
         itemLink: "https://www.imdb.com/title/tt0107614/",
         type: "movie",
         year: 1993
-    },{
+    },
+    {
         title: "Moonrise Kingdom",
         emojiImgs: "⛺️🧳🌕👑",
         genres: ["Comedy", "Drama", "Romance"],
         itemLink: "https://www.imdb.com/title/tt1748122/",
         type: "movie",
         year: 2012
-    },{
+    },
+    {
         title: "Monty Python and the Holy Grail",
         emojiImgs: "🤵🐍⛪🍷",
         genres: ["comedy"],
@@ -1123,19 +1169,29 @@ const emojiItems = [
         genres: ["war", "music"],
         type: "movie",
         year: 1998
-    }, {
+    }, 
+    {
         title: "Narcos",
         emojiImgs: "🔫🗡💊💉💰",
         genres: ["crime", "drama"],
         type: "tv",
         year: 2015
-    },{
+    },
+    {
         title: "National Treasure",
         emojiImgs: "🇺🇸🗝🏺🧭💰",
         genres: ["action", "adventure", "mystery"],
         type: "movie",
         year: 2004,
         itemLink: "https://www.imdb.com/title/tt0368891/"
+    },
+    {
+        title: "Nightmare Before Christmas",
+        emojiImgs: "💀🎅🎃👻🐕",
+        genres: [ "animation", "family", "fantasy", "musical"],
+        type: "movie",
+        year: 1993,
+        itemLink: "https://www.imdb.com/title/tt0107688/"
     },
     {
         title: "The Office",
@@ -1235,18 +1291,26 @@ const emojiItems = [
     {
         title: "Pokemon: The First Movie",
         emojiImgs: "👦️🐁️😭️",
-        genres: ["animation"],
+        genres: ["animation", "action", "adventure", "family", "fantasy", "sci-fi", "sport"],
         type: "movie",
         year: 1998,
         itemLink: "https://www.imdb.com/title/tt0190641/"
     },
     {
+        title: "Pokemon Detective Pikachu",
+        emojiImgs: "🕵️⚡🐭⚡☕",
+        genres: ["action", "adventure", "comedy"],
+        type: "movie",
+        year: 2019,
+        itemLink: "https://www.imdb.com/title/tt5884052/"
+    },
+    {
         title: "Power Rangers",
         emojiImgs: "🎨5️⃣🤖🔫⚖️",
         genres: ["action", "adventure", "family"],
-        itemLink: "https://www.imdb.com/title/tt0106064/",
         type: "tv",
-        year: 1993
+        year: 1993,
+        itemLink: "https://www.imdb.com/title/tt0106064/",
     },
     {
         title: "Princess and the Frog",
@@ -1422,7 +1486,40 @@ const emojiItems = [
         type: "tv",
         year: 2010,
         itemlink: "https://www.imdb.com/title/tt1475582/"
-    },{
+    },
+    {
+        title: "Shrek",
+        emojiImgs: "🤴🤝🧟‍♂️👉👸",
+        genres: ["animation", "adventure", "comedy"],
+        type: "movie",
+        year: 2001,
+        itemLink: "https://m.imdb.com/title/tt0126029/"
+    },
+    {
+        title: "Shrek 2",
+        emojiImgs: "🤴👸😨🧟‍♂️🧟‍♀️",
+        genres: ["animation", "adventure", "comedy"],
+        type: "movie",
+        year: 2004,
+        itemLink: "https://m.imdb.com/title/tt0298148/"
+    },
+    {
+        title: "Shrek the Third",
+        emojiImgs: "🤴☠🧟‍♂️🔎🤴",
+        genres: ["animation", "adventure", "comedy"],
+        type: "movie",
+        year: 2007,
+        itemLink: "https://m.imdb.com/title/tt0413267/"
+    },
+    {
+        title: "Shrek Forever After",
+        emojiImgs: "🧝‍♂️✍🧟‍♂️🔥🤴",
+        genres: ["animation", "adventure", "comedy"],
+        type: "movie",
+        year: 2010,
+        itemLink: "https://www.imdb.com/title/tt0892791/"
+    },
+    {
         title: "Shrek the Musical",
         emojiImgs: "🗡👸🐴🏰",
         genres: ["comedy", "family", "fantasy"],
