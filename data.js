@@ -1636,7 +1636,7 @@ const emojiItems = [
     },
     {
         title: "Sweeney Todd: The Demon Barber of Fleet Street",
-        emojiImgs: "💈🔪☠️🍰",
+        emojiImgs: "💈🔪☠️🥧",
         genres: ["drama", "horror", "musical"],
         type: "musical",
         year: 1979
