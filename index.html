@@ -1,70 +1,73 @@
 <!doctype html>
 <html class="no-js" lang="">
-    <head>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-97195950-4"></script>
-        <script>
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-97195950-4"></script>
+    <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+        function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
-
         gtag('config', 'UA-97195950-4');
-        </script>
+    </script>
 
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Emoji Screen</title>
-        <meta name="description" content="A listing of movies, TV shows and musicals depicted through emojis. Click on the emojis to reveal the show or movie name!">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
-        <link href="https://fonts.googleapis.com/css?family=Londrina+Solid:400,900|Open+Sans:400,800" rel="stylesheet">
-        <link rel="stylesheet" href="main.css">
-        <link rel="icon" href="favicon.ico" type="image/gif" sizes="16x16">
-    </head>
-    <body>
-        <!--[if lt IE 8]>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Emoji Screen</title>
+    <meta name="description"
+        content="A listing of movies, TV shows and musicals depicted through emojis. Click on the emojis to reveal the show or movie name!">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
+        integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Londrina+Solid:400,900|Open+Sans:400,800" rel="stylesheet">
+    <link rel="stylesheet" href="main.css">
+    <link rel="icon" href="favicon.ico" type="image/gif" sizes="16x16">
+</head>
+
+<body>
+    <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-        <main>
-            <header>
-                <h1>Emoji Screen</h1>
-                <div class="heading-content">
-                    <div class="header">
-                        <h2>A listing of movies, TV shows and musicals depicted through emojis. 💖</h2>
-                        <p>Click on the emojis to reveal the show or movie name!</p>
-                    </div>
-                    <div class="contribute-callout">
-                        <p>Want to add to EmojiScreen? Head to Github! ✨</p>
-                        <a href="https://github.com/brittanyrw/emojiscreen" target="_blank">Contribute</a>
-                    </div>
+    <main>
+        <header>
+            <h1>Emoji Screen</h1>
+            <div class="heading-content">
+                <div class="header">
+                    <h2>A listing of movies, TV shows and musicals depicted through emojis. 💖</h2>
+                    <p>Click on the emojis to reveal the show or movie name!</p>
                 </div>
-            </header>
-            <section id="filters">
-                <p>Click to filter: </p>
-                <button data-filter="musical" class="musical-filter">Musicals</button>
-                <button data-filter="movie" class="movie-filter">Movies</button>
-                <button data-filter="tv" class="tv-filter">TV Shows</button>
-                <button data-filter="view-all" class="all-filter">View All</button>
-            </section>
-            <section id="emojis"></section>
-            <section id="message"></section>
-            <section id="pagination"></section>
-            <button class="btn-reveal-all" title="Reveal all"><i class="fa fa-eye"></i></button>
-            <footer>
-                <p class="item-count">EmojiScreen currently has <span></span> movies, TV shows and musicals. 💖</p>
-                <ul class="footer-list">
-                    <li>
-                        <p class="companion-project-link">Music fan? Check out <a href="https://emojibops.com" target="_blank">EmojiBops</a> 🎶</p> 
-                    </li>
-                    <li>
-                        <p class="companion-project-link">Book lover? Check out <a href="https://emojipages.com" target="_blank">EmojiPages</a> 📚</p>
-                    </li>
-                </ul>
-            </footer>
-        </main>
-        <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
-        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-        <script src="data.js"></script>
-        <script src="app.js"></script>
-    </body>
+                <div class="contribute-callout">
+                    <p>Want to add to EmojiScreen? Head to Github! ✨</p>
+                    <a href="https://github.com/brittanyrw/emojiscreen" target="_blank">Contribute</a>
+                </div>
+            </div>
+        </header>
+        <section id="filters">
+            <p>Click to filter: </p>
+            <button data-filter="musical" class="musical-filter">Musicals</button>
+            <button data-filter="movie" class="movie-filter">Movies</button>
+            <button data-filter="tv" class="tv-filter">TV Shows</button>
+            <button data-filter="view-all" class="all-filter">View All</button>
+        </section>
+        <section id="emojis"></section>
+        <section id="message"></section>
+        <section id="pagination"></section>
+        <button class="btn-reveal-all" title="Reveal all"><i class="fa fa-eye"></i></button>
+        <footer>
+            <p class="item-count">EmojiScreen currently has <span></span> movies, TV shows and musicals. 💖</p>
+            <ul class="footer-list">
+                <li>
+                    <p class="companion-project-link">Music fan? Check out <a href="https://emojibops.com" target="_blank">EmojiBops</a> 🎶</p> 
+                </li>
+                <li>
+                    <p class="companion-project-link">Book lover? Check out <a href="https://emojipages.com" target="_blank">EmojiPages</a> 📚</p>
+                </li>
+            </ul>
+        </footer>
+    </main>
+    <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
 </html>
