@@ -64,6 +64,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0078748/"
     },
     {
+        title: "Alita: Battle Angel",
+        emojiImgs: "👩🏻🤖💚👦🏻🤺",
+        genres: ["action","adventure","sci-fi"],
+        type: "movie",
+        year: 2019,
+        itemLink: "https://www.imdb.com/title/tt0437086/"
+    },
+    {
         title: "American Idol",
         emojiImgs: "🇺🇸🗣🎤",
         genres: ["game show", "musical"],
