@@ -936,34 +936,39 @@ const emojiItems = [
         emojiImgs: "💃🐶🍝",
         genres: ["animation", "romance"],
         type: "movie",
-        year: 1955
+        year: 1955,
+        itemLink: "https://www.imdb.com/title/tt0048280/"
     }, {
         title: "La La Land",
         emojiImgs: "👩👮💓",
         genres: ["romance", "drama", "musical"],
         type: "movie",
-        year: 2016
+        year: 2016,
+        itemLink: "https://www.imdb.com/title/tt3783958/"
     },
     {
         title: "Legally Blonde",
         emojiImgs: "👩‍⚖️👠💘🏫🐶",
         genres: ["romance", "comedy"],
         type: "movie",
-        year: 2001
+        year: 2001,
+        itemLink: "https://www.imdb.com/title/tt0250494/"
     },
     {
         title: "Leon: The Professional",
         emojiImgs: "🧒🔫🧔🌷‍",
         genres: ["thriller"],
         type: "movie",
-        year: 1994
+        year: 1994,
+        itemLink: "https://www.imdb.com/title/tt0110413/"
     },
     {
         title: "Les Misérables",
         emojiImgs: "🇫🇷🥖👮🏻",
         genres: ["drama", "history", "musical"],
         type: "musical",
-        year: 1987
+        year: 1987,
+        itemLink: "https://www.playbill.com/production/les-miserables-broadway-theatre-vault-0000012257"
     },
     {
         title: "Passaport to Paris",
@@ -1007,14 +1012,16 @@ const emojiItems = [
         emojiImgs: "✈️🏝⛺🆘❓",
         genres: ["adventure", "drama", "fantasy"],
         type: "tv",
-        year: 2004
+        year: 2004,
+        itemLink: "https://www.imdb.com/title/tt0411008/"
     },
     {
         title: "Love and Other Drugs",
         emojiImgs: "😍🆘💊💔💏",
         genres: ["romance", "drama", "comedy"],
         type: "movie",
-        year: 2010
+        year: 2010,
+        itemLink: "https://www.imdb.com/title/tt0758752/"
     },
     {
         title: "M*A*S*H",
@@ -1029,7 +1036,8 @@ const emojiItems = [
         emojiImgs: "✨☂️✨👜✨",
         genres: ["comedy", "family", "fantasy"],
         type: "movie",
-        year: 1964
+        year: 1964,
+        itemLinks: "https://www.imdb.com/title/tt00000000058331/"
     },
     {
         title: "Matilda The Musical",
@@ -1052,14 +1060,16 @@ const emojiItems = [
         emojiImgs: "👨‍💻👩‍💻🔫🥋",
         genres: ["action", "sci-fi"],
         type: "movie",
-        year: 1999
+        year: 1999,
+        itemLink: "https://www.imdb.com/title/tt0133093/"
     },
     {
         title: "Matrix Revolutions",
         emojiImgs: "📞💻🕶️",
         genres: ["action", "sci-fi"],
         type: "movie",
-        year: 2003
+        year: 2003,
+        itemLink: "https://www.imdb.com/title/tt0242653/"
     },
     {
         title: "Men in Black",
@@ -1098,7 +1108,8 @@ const emojiItems = [
         emojiImgs: "🇻🇳💑🚁👶",
         genres: ["drama", "war", "musical"],
         type: "musical",
-        year: 1991
+        year: 1991,
+        itemLink: "http://www.playbill.com/production/miss-saigon-broadway-theatre-vault-0000012256"
     },
     {
         title: "Mr.Robot",
@@ -1137,7 +1148,8 @@ const emojiItems = [
         emojiImgs: "🔫⚔️🎶🥁",
         genres: ["war", "music"],
         type: "movie",
-        year: 1998
+        year: 1998,
+        itemLink: "https://www.imdb.com/title/tt0120762/"
     }, 
     {
         title: "Narcos",
