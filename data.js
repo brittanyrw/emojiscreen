@@ -121,12 +121,12 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0319931/",
     },
     {
-  	title: "Anastasia",
-  	emojiImgs: "🏰👸🧙🇷🇺💗",
-  	genres: ["animation", "adventure", "drama"],
-  	itemLink: "https://www.imdb.com/title/tt0118617/",
-  	type: "movie",
-  	year: 1997
+        title: "Anastasia",
+        emojiImgs: "🏰👸🧙🇷🇺💗",
+        genres: ["animation", "adventure", "drama"],
+        itemLink: "https://www.imdb.com/title/tt0118617/",
+        type: "movie",
+        year: 1997
     },
     {
         title: "Avatar",
@@ -167,8 +167,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0348894/",
         type: "tv",
         year: 2002
-    },
-    {
+    },{
+    title: 'The Breakfast Club',
+    emojiImgs: '🏫🧠🤾👸',
+    genres: ['comedy', 'drama'],
+    type: 'movie',
+    year: 1985,
+    itemLink: 'https://www.imdb.com/title/tt0088847/',
+  },{
         title: "America's Next Top Model",
         emojiImgs: "👜👭👭",
         genres: ["game-show", "reality"],
