@@ -724,6 +724,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt1289401/"
     },
     {
+        title: "The Shining",
+        emojiImgs: "👭🔪🚪🆘",
+        genres: ["drama", "horror"],
+        type: "movie",
+        year : 1980,
+        itemLink: "https://www.imdb.com/title/tt0081505/?ref_=nv_sr_1?ref_=nv_sr_1"
+    },
+    {
         title: "Gilmore Girls",
         emojiImgs: "👩‍👧☕🧢👩‍⚖️👨‍⚖️",
         genres: ["comedy", "drama"],
