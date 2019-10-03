@@ -1,8 +1,5 @@
 # EmojiScreen 📺 
 
-## 🚧 October 2 Update: 
-### Due to the high volume of activity from Hacktoberfest we are pausing contributions to this project while we review the current backlog of Pull Requests. You will not be able to make any new Pull Requests or Issues at the moment. Please feel free to contribute to other projects on GitHub during this time. Thanks!
-
 ## A listing of movies, TV shows and musicals depicted through emojis.
 [Visit emojiscreen.com](https://emojiscreen.com)
 
@@ -14,74 +11,30 @@
 
 Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add an `Emoji Card` to the website. Each card should be added in the `data.js` file as an object. 
 
-### Contribution Guidlines
+## Hacktoberfest Note
+Due to Hacktoberfest, this project is experiencing a lot of activity. 
+
+### Contribution Guidelines
 
 Below are some guidelines to follow when contributing to this project. 
-
-#### 🛑 We are limiting contributions per person to 3 additions across EmojiScreen, EmojiBops and EmojiPages. (Updated Oct 1)
-* Please limit yourself to up to 3 additions across the three emoji projects. (Example One: Complete 1 feature, add two movies; Example Two: add three songs; Example Three: add one song, one movie and one book, etc). This is due to the high level of activity on these projects at the moment. We want to make sure many people have a chance to contribute. The limit will be lifted once the activity has died down. 🙂
-
-#### Check Issues and current Pull Requests before contributing to avoid adding duplicates. 
-* If your Pull Request is a duplicate, we will let you know so that you can update it if you like. 
- 
-#### If someone has commented inside of the Issue saying they are working on it, that item is reserved for them. 
-* Please choose something else to add if someone else has already said they will add something. We will let you know if you accidently add something that someone else is assigned. It is easy to tell if someone is adding something accidently vs if they are ignoring our rules. We will mark Pull Requests as invalid (and therefore it will not count towards Hacktoberfest) if you are purposely creating multiple Pull Requests for Issues that someone else is assigned to or has reserved. 
-
-#### Please limit Pull Requests to adding a show/movie, completing an Issue or adding a feature. 
-* We are not accepting Pull Requests for things such as white space updates or README.md updates for Hacktoberfest. These types of Pull Requests will be marked as invalid. For Hacktoberfest, we would prefer that you add something to the project. 
-
-#### Please do not approve or make suggestions on other people's Pull Requests.
-* We do not need additional maintainers at this time. To avoid confusion and incorrect approvals, only maintainers approve Pull Requests. 
-
-#### Please do not create Pull Requests for new features without creating an Issue first.
-* Do not start work on a new feature without getting confirmation from the maintainers via an Issue. We need to approve all new features first. This also goes for Issues that are for features, please wait for confirmation from the maintainers before working on those types of Issues.
 
 ### Issues
 For other ways to contribute, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). You are also welcome to suggest other features [by adding an Issue](https://github.com/brittanyrw/emojiscreen/issues).
 
-### If you want to work on one of the [Issues to add a TV show, movie or musical](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis)
-* Please comment in the Issue so that others know to not add that show or movie. You do not have to wait for confirmation for Issues adding shows or movies before creating a Pull Request. Your comment will just help 'bookmark' the Issue for you to prevent duplicate Pull Requests.
-
-* You do not have to add an Issue if you plan on adding a movie/show that is not listed in the Issues. You can just go ahead and create a Pull Request.
-
-### If you want to work on one of the Issues that are labeled with `enhancement` or are adding an Issue for a feature
-* Please comment in the Issue and **wait for confirmation** before you start working on it.
-
-Read below for a detailed overview and walkthrough on how to add an `Emoji Card` to this project. First time pull-requests are encouraged and you can make multiple pull requests if you desire. If you run into trouble, feel free [to create an Issue](https://github.com/brittanyrw/emojiscreen/issues)!
-
 ## Table of Contents
 
-- [Choosing a Movie, TV Show or Musical to Add](#choosing-a-movie-tv-show-or-musical-to-add)
 - [Emoji Card Overview](#card-overview)
-- [Contribution Guildlines](#walkthrough)
-  - [Contribute using Github Website (no downloads required)](#github-ui)
-  - [Contribute using your local development environment (downloads required)](#local-development)  
+- [Add Card Walkthrough](#walkthrough)
+  - [Add a card using Github Website (no downloads required)](#github-ui)
+  - [Add a card using your local development environment (downloads required)](#local-development)  
 - [Git & Github Resources](#other-resources-and-options)
 - [Credits](#credits)
 
-## Choosing a Movie, TV Show or Musical to Add
-
-Here are some links to lists of movies, TV shows and musicals in case you're having trouble thinking of something to add!
-
-### Movies
-* [IMDB Disney list](https://www.imdb.com/search/keyword/?keywords=disney&ref_=fn_al_kw_1)
-* [IMDB Top 100 drama list](https://www.imdb.com/search/title/?genres=drama&groups=top_250&sort=user_rating,desc)
-* [IMDB Top 100 thriller list](https://www.imdb.com/search/title/?genres=thriller&groups=top_250&sort=user_rating,desc)
-* [IMDB Top 100 comedy list](https://www.imdb.com/list/ls055851487/)
-* [IMDB Top 100 animated list](https://www.imdb.com/list/ls075496365/)
-
-### TV
-* [IMDB Top TV Shows](https://www.imdb.com/chart/toptv/)
-* [Most Popular on Rotten Tomatoes](https://www.rottentomatoes.com/browse/tv-list-2/)
-* [ING Top 100 TV Shows](https://www.ign.com/lists/top-100-tv-shows)
-* [IMDB Disney list](https://www.imdb.com/search/keyword/?keywords=disney&ref_=fn_al_kw_1)
-
-### Musicals
-* [IMDB 100 Greatest Musicals](https://www.imdb.com/list/ls000071646/)
-* [Greatest Musicals Ever Performed](https://www.ranker.com/crowdranked-list/best-musicals)
-* [100 Top Musicals of All Time](https://www.whatsonstage.com/london-theatre/news/wos100-the-top-100-musicals-of-all-time_34333.html)
-
 ## Card Overview
+
+Below is a detailed overview of how to add an `Emoji Card` to the project if you are completing [one of the add emoji Issues](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3A%22add+emojis%22). 
+
+> Reminder: Please only add a card if you have been assigned an Issue to add a show or movie.
 
 On the website, each `Emoji Card` displays 1) images of the emojis, 2) a hint icon that will show the type (musical, movie or TV show) when the user hovers and 3) the name of the show (which appears when the user clicks on a card).
 
