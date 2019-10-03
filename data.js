@@ -1972,6 +1972,14 @@ const emojiItems = [
         year: 1961
     },
     {
+        title: "The West Wing",
+        emojiImgs: "🇺🇸🌎📄",
+        genres: ["drama"],
+        itemLink: "https://www.imdb.com/title/tt0200276/",
+        type: "tv",
+        year: 1999
+    },
+    {
         title: "Where in the World is Carmen Sandiego?",
         emojiImgs: "🤔🌎🕵️‍♀️💄",
         genres: ["game show", "children"],
