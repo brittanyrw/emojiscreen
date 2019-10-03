@@ -25,6 +25,8 @@ Therefore, if you would like to add to this project, please follow these steps:
 
 Please do not submit Pull Requests unless you have been assigned an Issue to complete. Thanks! 
 
+We will accept contributions for new movies and shows that are not listed as an Issue after Hacktoberfest is over or when activity has slowed down again. 
+
 ## Other Contribution Guidelines
 
 Below are some additional guidelines to follow when contributing to this project. 
