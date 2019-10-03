@@ -6,7 +6,7 @@ Below is a detailed overview of how to add an `Emoji Card` to the project if you
 
 On the website, each `Emoji Card` displays 1) images of the emojis, 2) a hint icon that will show the type (musical, movie or TV show) when the user hovers and 3) the name of the show (which appears when the user clicks on a card).
 
-![Screenshot of Beauty and the Beast Emoji Card](readme/emoji-card.png)
+![Screenshot of Beauty and the Beast Emoji Card](../readme/emoji-card.png)
 
 In the `data.js` file, each `Emoji Card` consists of the following object:
 
@@ -69,7 +69,7 @@ For movies and TV shows, go to the IMDB profile and find the genres listed under
 
 See the below screenshot for the location of the genre listing in IMDB profiles.
 
-![Screenshot of the Beauty and the Beast IDMB profile with the genres circled](readme/imdb-screenshot.png)
+![Screenshot of the Beauty and the Beast IDMB profile with the genres circled](../readme/imdb-screenshot.png)
 
 
 For musicals, include the `musical` genre and any other genres from the list below that you think fit:
