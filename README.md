@@ -12,11 +12,11 @@
 Below are instructions for how to contribute to this project. Read through the contribution guidelines before opening a Pull Request on this project. 
 
 ## Hacktoberfest Note
-Due to Hacktoberfest, this project is experiencing a lot of activity! To manage the amount of contributions to this project, we are now only accepting Pull Requests that are closing Issues.
+Due to Hacktoberfest, this project started experiencing a lot of activity! To manage the amount of contributions to this project, we are now only accepting Pull Requests that are closing Issues.
 
 Therefore, if you would like to add to this project, please follow these steps:
 
-* [Find an Issue](https://github.com/brittanyrw/emojiscreen/issues) that you would like to complete.
+* [Find an Issue](https://github.com/brittanyrw/emojiscreen/issues) that you would like to complete. Make sure the Issue does not have a `needs review` label. This label means that the Issue has been added by someone that is not a maintainer and has not been approved yet.
 * If someone is already assigned an Issue or has already commented inside of the Issue, please move on to another Issue. If the Issue has not been assigned and there are no comments yet, comment inside of the Issue stating that you would like to work on that item. 
 * Wait for confirmation from the maintainers before working on the Issue. 
 * After you recieve confirmation, complete the Issue and submit a Pull Request.
@@ -45,12 +45,10 @@ If you are working on an ([Issue to add a show or movie](https://github.com/brit
 
 * View [detailed overview of requirements for an Emoji Card](/docs/card_overview.md).
 
-If you need instructions on how to use Git and Github
+If you need instructions on how to use Git and Github we have created two walkthroughs for you:
+* Adding an Emoji Card using the [Github Website Walkthrough](/docs/github_ui_walkthrough.md)
+* Adding an Emoji Card using your [local developer environment](/docs/local_dev_walkthrough.md)
 
-
-[Add a Card](/docs/card_overview.md).
-
-Walkthroughs: 
 
 ## Git and GitHub Resources
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
