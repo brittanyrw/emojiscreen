@@ -33,7 +33,7 @@ For other ways to contribute, see the repo Issues [under the label 'enhancement'
 
 Walkthroughs: 
 
-## Other Resources and Options
+## Git and GitHub Resources
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Additional Git/Github Practice](https://try.github.io/)
 * [Visualizing Git Commands Tool](https://git-school.github.io/visualizing-git/)
