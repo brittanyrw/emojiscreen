@@ -161,21 +161,25 @@ h2 {
     margin-bottom: 30px;
 }
 
+#emojis.expanded {
+  grid-template-columns: 1fr;
+}
+
 @media screen and (min-width: 662px){
   #emojis {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media screen and (min-width: 992px){
   #emojis {
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
 @media screen and (min-width: 1200px){
   #emojis {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 
@@ -359,6 +363,13 @@ i {
     bottom: 129px;
     right: 5px;
   }
+}
+
+#btn-expand-all.active,
+#btn-shrink-all.active,
+#btn-expand-all.active:before,
+#btn-shrink-all.active:before {
+  background: gold;
 }
 
 .btn-reveal-all:before,

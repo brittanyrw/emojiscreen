@@ -115,12 +115,68 @@ $(document).ready(function() {
       .toggleClass("hide-card");
   });
 
-  // Toggle to expand or shrink all of the emojis by clicking an icon
-  $("#btn-expand-all").click(function () {
-  });
+  var update = updateEmojisWidthBy(10);
+  // Expand all emojis by 10% when expand button is clicked
+  $("#btn-expand-all").click(update);
+  // Shrink all emojis by 10% when expand button is clicked
+  $("#btn-shrink-all").click(update);
 
-  $("#btn-shrink-all").click(function () {
-  });
+  /*
+   * Values are "cached" in closure to keep track of the
+   * initial state. Increment argument can be changed above
+   * on line 118, where updateEmojisWidthBy is called.
+   */
+  function updateEmojisWidthBy (increment) {
+    var initialWidth = Number($(".emoji-images img").css("width").slice(0, -2)),
+        percentage = 100,
+        expandTitle = $("#btn-expand-all").attr("title"),
+        shrinkTitle = $("#btn-shrink-all").attr("title");
+    return function update () {
+      var role = $(this)[0].id.split('-')[1],
+          $emojisContainer = $("#emojis"),
+          $emojiImage = $(".emoji-images img"),
+          $btnExpandAll = $("#btn-expand-all"),
+          $btnShrinkAll = $("#btn-shrink-all");
+
+      switch (role) {
+        case "expand":
+          percentage += increment;
+          if (
+            !$emojisContainer.hasClass("expanded") &&
+            percentage > 100
+          ) {
+            $emojisContainer.addClass("expanded");
+            $btnExpandAll.addClass("active");
+          }
+          break;
+        case "shrink":
+          percentage -= increment;
+          if (
+            !$btnShrinkAll.hasClass("active") &&
+            percentage < 100
+          ) {
+            $btnShrinkAll.addClass("active");
+          }
+          break;
+      }
+
+      $btnExpandAll.attr("title", percentage + '%');
+      $btnShrinkAll.attr("title", percentage + '%');
+      $emojiImage.css('width', `${Math.round(initialWidth * percentage / 100)}`);
+
+      if (percentage == 100) {
+        $btnExpandAll.attr("title", expandTitle);
+        $btnShrinkAll.attr("title", shrinkTitle);
+        if ($emojisContainer.hasClass("expanded")) {
+          $emojisContainer.removeClass("expanded");
+          $btnExpandAll.removeClass("active");
+        }
+        if ($btnShrinkAll.hasClass("active")) {
+          $btnShrinkAll.removeClass("active");
+        }
+      }
+    }
+  }
 
   function generateTitle(title, year, itemLink) {
     const titleElement = "<h3>" + title +" (" + year + ")</h3>"
