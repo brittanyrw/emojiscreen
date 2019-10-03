@@ -23,7 +23,7 @@ Below are some guidelines to follow when contributing to this project.
 The current contributions that can be made to this project are the following. Click on the label links below to see what Issues are avaliable for each type of contributiion:
 
 * Add a new feature (new feature label)
-* Update an existing feature ([enhancement label](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement))
+* Update an existing feature ([view Issues here](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement))
 * Update current website styling, accessibility, or structure (updates label)
 * Add a show or movie (add emojis label)
 
