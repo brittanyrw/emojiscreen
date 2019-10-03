@@ -18,7 +18,7 @@
 4. Download the project to your computer. Click on the `Clone or Download` button. Copy the HTTPS github repo link.
 5. In your terminal, navigate to where you would like to save the project (such as `cd Desktop`). Run the following command in the terminal, replacing the following link with your copied link: `git clone https://github.com/your-username-will-be-here/emojiscreen.git`;
 6. After the command has been run, in the terminal, navigate into the EmojiScreen project folder: `cd emojiscreen`.
-7. Open the `emojiscreen` project in your text editor of choice. Edit the `data.js` file and add a new object for your movie, TV show or musical in alphabetical order. **Note: If the movie title starts with 'The' then use the next word for alphabetical order.**. Make sure there is a comma between your object and the objects above and below. Refer to the card overview above for requirements for the different object keys.  Make sure to save your file after you have made changes. 
+7. Open the `emojiscreen` project in your text editor of choice. Edit the `data.js` file and add a new object for your movie, TV show or musical in alphabetical order. Make sure there is a comma between your object and the objects above and below. Refer to [the card overview section](/card_overview.md) for requirements for the different object keys.  Make sure to save your file after you have made changes. 
 
 Use the following object as a template:
 
@@ -51,5 +51,5 @@ Then re-run the commit command. Remember to replace with your show or movie: `gi
 
 ![Screenshot of a Pull Request on the Github website](../readme/pull-request.png)
 
-15. Review your changes and then click `Create Pull Request`. Add any additional comments, go through the checklist within the Pull Request and add an Issue number if applicable, then click on `Create Pull Request`.
+15. Review your changes and then click `Create Pull Request`. Review the [Pull Request checklist](/docs/card_overview.md#card-pull-request-checklist) to check that you have completed everything for your `Emoji Card`. Then click on `Create Pull Request`.
 16. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com) and you will officially have contributed to the project! 🎉
