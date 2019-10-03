@@ -31,7 +31,7 @@ Below are some additional guidelines to follow when contributing to this project
 
 ### Avaliable Contributions
 
-The current contributions that can be made to this project are the following. Click on the label links below to see what Issues are avaliable for each type of contributiion:
+The current contributions that can be made to this project are the following. Click on the label links below to see what Issues are avaliable for each type of contribution:
 
 * Add a new feature ([view Issues here](https://github.com/brittanyrw/emojiscreen/labels/new%20feature))
 * Update an existing feature, website styling, accessibility or structure ([view Issues here](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement))
