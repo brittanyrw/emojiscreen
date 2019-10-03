@@ -1,6 +1,6 @@
-## Github Website
+# Github Website
 
-> This is a walkthrough of how to add an `Emoji Card` to this project using the GitHub Website.
+> This is a walkthrough of how to add an `Emoji Card` to this project.
 
 ### This method will use the Github website to contribute to this project. You will not need to download any programs to your computer using these instructions.
 
