@@ -23,7 +23,7 @@ Therefore, if you would like to add to this project, please follow these steps:
 
 ### We will add Issues to this project throughout the month but there will be many times where there are no Issues avaliable. When that happens, we ask that you move on to another project for Hacktoberfest. 
 
-Do not submit Pull Requests unless you have been assigned an Issue to complete. Please respect these guidelines. Thanks! 
+Please do not submit Pull Requests unless you have been assigned an Issue to complete. Thanks! 
 
 ## Other Contribution Guidelines
 
@@ -41,7 +41,7 @@ If someone is assigned an Issue and doesn't complete it after a while, we will o
 
 ### Adding a Card
 
-If you are working on an ([Issue to add a show or movie](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis)), you will be adding an `Emoji Card` to the project. This is a JavaScript object that you will add into the `data.js` file. Review the overview below for instructions and templates for an `Emoji Card`.
+If you are working on an [Issue to add a show or movie](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis), you will be adding an `Emoji Card` to the project. This is a JavaScript object that you will add into the `data.js` file. Review the overview below for instructions and templates for an `Emoji Card`.
 
 * View [detailed overview of requirements for an Emoji Card](/docs/card_overview.md).
 
