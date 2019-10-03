@@ -1597,6 +1597,14 @@ const emojiItems = [
         year: 1976
     },
     {
+        title: "The Room",
+        emojiImgs: "🏠💔🏈",
+        genres: ["drama"],
+        type: "movie",
+        year: 2003,
+        itemLink: "https://www.imdb.com/title/tt0368226/"
+    },
+    {
         title: "Ready Player One",
         emojiImgs: "🏁🕹1️⃣",
         genres: ["action", "adventure", "sci-fi"],
