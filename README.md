@@ -29,7 +29,7 @@ The current contributions that can be made to this project are the following. Cl
 
 For other ways to contribute, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). You are also welcome to suggest other features [by adding an Issue](https://github.com/brittanyrw/emojiscreen/issues).
 
-[Add a Card](/card_overview.md).
+[Add a Card](/docs/card_overview.md).
 
 ## Walkthrough
 
