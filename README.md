@@ -11,7 +11,7 @@
 
 Below are instructions for how to contribute to this project. Read through the contribution guidelines before opening a Pull Request on this project. 
 
-## Note
+## Important Note
 Due to high activity, to manage the amount of contributions to this project, we are now only accepting Pull Requests that are closing Issues for adding/updating features.
 
 Therefore, if you would like to add to this project, please follow these steps:
