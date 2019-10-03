@@ -23,7 +23,7 @@ Therefore, if you would like to add to this project, please follow these steps:
 * Wait for confirmation from the maintainers before working on the Issue. 
 * After you recieve confirmation, complete the Issue and submit a Pull Request.
 
-### We will add Issues to this project throughout the month but there will be many times where there are no Issues avaliable. When that happens, we ask that you move on to another project for Hacktoberfest. 
+### We will add Issues for features to this project but there will be many times where there are no Issues avaliable. When that happens, we ask that you move on to another project for Hacktoberfest. 
 
 Please do not submit Pull Requests unless you have been assigned an Issue to complete. Thanks! 
 
