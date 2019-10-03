@@ -18,16 +18,14 @@ Due to Hacktoberfest, this project is experiencing a lot of activity.
 
 Below are some guidelines to follow when contributing to this project. 
 
-### Issues
+### Avaliable Contributions
 
 The current contributions that can be made to this project are the following. Click on the label links below to see what Issues are avaliable for each type of contributiion:
 
 * Add a new feature (new feature label)
-* Update an existing feature (enhancement label)
+* Update an existing feature ([enhancement label](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement))
 * Update current website styling, accessibility, or structure (updates label)
 * Add a show or movie (add emojis label)
-
-For other ways to contribute, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). You are also welcome to suggest other features [by adding an Issue](https://github.com/brittanyrw/emojiscreen/issues).
 
 [Add a Card](/docs/card_overview.md).
 
