@@ -1,5 +1,7 @@
 # EmojiScreen 📺 
 
+## 🚧 Contributions are paused for this project at the moment due to high activity. 
+
 ## A listing of movies, TV shows and musicals depicted through emojis.
 [Visit emojiscreen.com](https://emojiscreen.com)
 
