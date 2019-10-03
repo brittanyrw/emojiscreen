@@ -46,4 +46,4 @@ Walkthroughs:
 
 Emoji graphics are by Twitter and are licensed under CC-BY 4.0. Review the [Attribution Requirements](https://github.com/twitter/twemoji#attribution-requirements) for more information.
 
-> Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
+> Please note that this project is released with a [Contributor Code of Conduct](/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
