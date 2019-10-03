@@ -1942,6 +1942,14 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "The Voice (TV Show)",
+        emojiImgs: "😎🎙🎶📺",
+        genres: ["game-show", "music", "reality-tv"],
+        type: "tv",
+        year: 2011,
+        itemLink: "https://www.imdb.com/title/tt1839337/"
+    },
+    {
         title: "The Walking Dead",
         emojiImgs: "👮🏻🏃🧟‍⚔️🚗",
         genres: ["drama", "suspense", "horror"],
