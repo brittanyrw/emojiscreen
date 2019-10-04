@@ -1365,6 +1365,14 @@ const emojiItems = [
         year: 2001
     },
     {
+        title: "The Lord of the Rings: The Return of the King",
+        emojiImgs: "💍🌋🦅",
+        genres: ["adventure", "drama", "fantasy"],
+        type: "movie",
+        year: 2003,
+        itemLink: "https://www.imdb.com/title/tt0167260"
+    },
+    {
         title: "Lost",
         emojiImgs: "✈️🏝⛺🆘❓",
         genres: ["adventure", "drama", "fantasy"],
