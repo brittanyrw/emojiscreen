@@ -804,6 +804,13 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0077631/"
     },
     {
+      title: "Great Expectations",
+      emojiImgs: "👫🛫💏🎨💔",
+      genres: ["drama", "romance"],
+      type: "movie",
+      year: 1998,
+      itemLink: "https://www.imdb.com/title/tt0119223/"
+    },{
         title: "The Greatest Showman",
         emojiImgs: "🎩🕺🎪🔥🎶",
         genres: ["biography", "drama", "musical"],
