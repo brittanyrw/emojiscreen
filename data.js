@@ -962,7 +962,7 @@ const emojiItems = [
         genres: ["Adventure", "Comedy", "Drama", "Family", "Mystery"],
         type: "movie",
         year: 2003,
-        itemLink: "https://www.imdb.com/title/tt0311289/?ref_=nv_sr_1?ref_=nv_sr_1"
+        itemLink: "https://www.imdb.com/title/tt0311289/"
     },
     {
         title: "Home Alone",
@@ -1026,7 +1026,7 @@ const emojiItems = [
         title: "The IT Crowd",
         emojiImgs: "🖥🤓👱🏼‍♀️👦🏼",
         genres: ["comedy"],
-        itemLink: "https://www.imdb.com/title/tt0487831/?ref_=nv_sr_1?ref_=nv_sr_1",
+        itemLink: "https://www.imdb.com/title/tt0487831/",
         type: "tv",
         year: 2006
     },
@@ -1423,7 +1423,7 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1975,
-        itemLink: "https://www.imdb.com/title/tt0071853/?ref_=nv_sr_1?ref_=nv_sr_1"
+        itemLink: "https://www.imdb.com/title/tt0071853/"
     },
     {
         title: "Mulan",
@@ -1936,7 +1936,7 @@ const emojiItems = [
         genres: ["animation", "adventure", "family"],
         type: "movie",
         year: 2001,
-        itemLink: "https://www.imdb.com/title/tt0245429/?ref_=nv_sr_1?ref_=nv_sr_1"
+        itemLink: "https://www.imdb.com/title/tt0245429/"
     },
     {
         title: "SpongeBob SquarePants",
