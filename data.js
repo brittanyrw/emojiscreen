@@ -757,6 +757,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0944947/"
     },
     {
+        title: "Gavin and Stacey",
+        emojiImgs: "🤵🏻👰🏼🙍🏻‍👱🏻‍👶🏼",
+        genres: ["comedy", "romance"],
+        itemLink: "https://www.imdb.com/title/tt0908454",
+        type: "tv",
+        year: 2007
+    },
+    {
         title: "Get Out",
         emojiImgs: "😮😱💪🏿🦸🏿",
         genres: ["horror", "sci-fi"],
