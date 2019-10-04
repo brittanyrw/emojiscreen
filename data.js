@@ -1713,6 +1713,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0032910/"
   },
   {
+    title: "Pippin",
+    emojiImgs: "🕰👦🏻🤝⚔💞",
+    genres: ["musical", "history", "romance", "war", "drama"],
+    itemLink: "http://www.playbill.com/production/pippin-imperial-theatre-vault-0000006044",
+    type: "musical",
+    year: 1972
+    },
+  {
     title: "Pirates of the Caribbean",
     emojiImgs: "🍻🏴‍☠️🚢",
     genres: ["action", "comedy"],
