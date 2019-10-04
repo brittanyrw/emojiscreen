@@ -1835,6 +1835,14 @@ const emojiItems = [
         year: 1991
     },
     {
+        title: "Silicon Valley",
+        emojiImgs: "💻🤓💰🌐🕸",
+        genres: ["comedy"],
+        type: "tv",
+        year: 2014,
+        itemLink: "https://www.imdb.com/title/tt2575988/"
+    },
+    {
         title: "Sex and the City",
         emojiImgs: "🍸👠👩🏼‍🦱💄🗽",
         genres: ["comedy", "drama", "romance"],
