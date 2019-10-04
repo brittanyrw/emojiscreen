@@ -1936,6 +1936,14 @@ const emojiItems = [
         year: 1999
     },
     {
+        title: "Snatch",
+        emojiImgs: "🔫💪🏿🔪💰💎",
+        genres: ["comedy", "crime"],
+        type: "movie",
+        year: 2000,
+        itemLink: "https://www.imdb.com/title/tt0208092/"
+    },
+    {
         title: "Snow White",
         emojiImgs: "🍎👸💤🤴💋",
         genres: ["musical", "animated", "romance"],
