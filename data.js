@@ -2258,5 +2258,13 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "Your Name",
+        emojiImgs: "👦⏱️👧🇯🇵⛰️",
+        genres: ["animation", "drama", "fantasy"],
+        itemLink: "https://www.imdb.com/title/tt5311514/",
+        type: "movie",
+        year: 2016
     }
 ]
