@@ -2115,6 +2115,13 @@ const emojiItems = [
         year: 2008
     },
     {
+        title: "War for the Planet of the Apes",
+        emojiImgs: "⚔🔥🌍🦍",
+        genres: ["Action", "Adventure", "Drama", "Sci-Fi", "Thriller"],
+        type: "movie",
+        year: 2017,
+        itemLink: "https://www.imdb.com/title/tt3450958/?ref_=fn_al_tt_1"
+    },{
         title: "War Horse",
         emojiImgs: "🐎👦⚔️🎖️",
         genres: ["action", "adventure", "drama"],
