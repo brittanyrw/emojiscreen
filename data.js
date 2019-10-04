@@ -1194,6 +1194,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0202521/"
     },
     {
+        title: "The Fox and the Hound",
+        emojiImgs: "🦊🔫👨🏼‍🦳🐶",
+        genres: ["animation", "adventure", "drama"],
+        type: "movie", 
+        year: 1981,
+        itemLink: "https://www.imdb.com/title/tt0082406/"
+    },
+    {
         title: "The Lion King",
         emojiImgs: "🦁👑🌍",
         genres: ["animation", "adventure", "drama"],
