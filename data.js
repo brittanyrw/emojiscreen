@@ -2013,20 +2013,30 @@ const emojiItems = [
         genres: ["drama", "romance"],
         type: "movie",
         year: 2005
-    },{
+    },
+    {
         title: "Titanic",
         emojiImgs: "💑❄🚢⬇️",
         genres: ["drama", "romance"],
         type: "movie",
         year: 1997,
         itemLink: "https://www.imdb.com/title/tt0120338/"
-    },{
+    },
+    {
         title: "The Wizard of Oz",
         emojiImgs: "🐶🌪️🤖🦁🧙‍",
         genres: ["adventure", "family", "fantasy"],
         itemLink: "https://www.imdb.com/title/tt0032138/",
         type: "movie",
         year: 1939
+    },
+    {
+        title: "This Is Us",
+        emojiImgs: "👨🏻👩🏻👶🏻👶🏻👶🏿",
+        genres: ["drama", "family"],
+        itemLink: "https://www.imdb.com/title/tt5555260/",
+        type: "tv",
+        year: 2016
     },
     {
         title: "Timecrimes",
