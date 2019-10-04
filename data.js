@@ -16,6 +16,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt1877368/"
     },
     {
+        title: "2001: A Space Odyssey ",
+        emojiImgs: "🐵🌖👨‍🚀🤖👴",
+        genres: ["adventure, sci-fi"],
+        type: "movie",
+        year: 1968,
+        itemLink: "https://www.imdb.com/title/tt0062622/?ref_=nv_sr_1?ref_=nv_sr_1"
+    },
+    {
         title: "300 ",
         emojiImgs: " 💪🤕👊🏻⚔️ 🛡",
         genres: ["action", "drama", "fantasy"],
