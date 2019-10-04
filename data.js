@@ -1795,7 +1795,7 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0120815/",
         type: "movie",
         year: 1998
-    }, 
+    },
     {
         title: "Schitt's Creek",
         emojiImgs: "💰💸🏨💅",
@@ -1842,6 +1842,14 @@ const emojiItems = [
         year: 2007
     },
     {
+        title: "Shaun Of The Dead",
+        emojiImgs: "🧟🏏🍦🍺",
+        genres:["comedy", "horror"],
+        type: "movie",
+        year: 2004,
+        itemLink: "https://www.imdb.com/title/tt0365748/"
+    },
+    {
         title: "The Shawshank Redemption",
         emojiImgs: "👮🧑🏾🔒🧑🏻👮",
         genres: ["drama"],
@@ -1854,9 +1862,8 @@ const emojiItems = [
         genres:["crime", "drama" , "mystery"],
         type: "tv",
         year: 2010,
-        itemlink: "https://www.imdb.com/title/tt1475582/"
-    },
-    {
+        itemLink: "https://www.imdb.com/title/tt1475582/"
+    },{
         title: "Shrek",
         emojiImgs: "🤴🤝🧟‍♂️👉👸",
         genres: ["animation", "adventure", "comedy"],
@@ -2152,7 +2159,7 @@ const emojiItems = [
         genres: ["drama", "suspense", "horror"],
         type: "tv",
         year: 2010,
-        itemLink: "https://www.imdb.com/title/tt1520211" 
+        itemLink: "https://www.imdb.com/title/tt1520211"
     },
     {
         title: "Wall-E",
