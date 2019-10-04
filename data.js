@@ -1039,6 +1039,14 @@ const emojiItems = [
         year: 2004
     },
     {
+        title: "Haunting of Hill House",
+        emojiImgs: "🏠🚪👻👨‍👩‍👧⚰️",
+        genres: ["horror", "mystery", "drama"],
+        itemLink: "https://www.imdb.com/title/tt6763664/",
+        type: "tv",
+        year: 2018
+    },
+    {
         title: "Hidden Figures",
         emojiImgs: "🚀👩🏽‍💻🧮👨🏻‍🦳👨🏻‍🚀",
         genres: ["biography", "drama", "history"],
