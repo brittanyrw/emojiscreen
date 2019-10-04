@@ -5,28 +5,47 @@ $(document).ready(function() {
   // Create a variable for the emoji cards.
   var emojiCard = "";
 
+  // Select container for genre options
+  const genreSelect = document.getElementById('genre-select');
+
+  // Variable for genres.
+  var moviesByGenre = {};
+
   // Run the random order function below on the data inside data.js. This will display the cards in a random order on the page every time the page is refreshed.
   shuffle(emojiItems);
 
-  // Loop through the data from the data.js file and insert parts of the data into HTML. On each loop, we are appending a new card with the HTML below.
-  for (var i in emojiItems) {
-    emojiCard +=
-      "<div class='emoji-card' year-filter='" + chopYear(emojiItems[i].year) + "s' data-filter='" + emojiItems[i].type +
-    "'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + emojiItems[i].type +
-    "</span></p></div><div class='emoji-images'>" + emojiItems[i].emojiImgs +
-    "</div><div class='emoji-card-title hide-card'><h3>" + emojiItems[i].title +
-    " (" + emojiItems[i].year + ")" + "</h3></div></div>";
-  }
-
-  // Append the emoji card variable, which has all of the emoji cards to the initial variable we created that was for the container to hold the cards.
-  emojiCardContainer.html(emojiCard);
-
-  // Run Twemoji to change all emojis to Twitter emojis.
-  twemoji.parse(document.body);
+  renderAllCards(true);
 
   // Add the count of number of shows/movies to the footer.
   $("footer span").append(emojiItems.length);
-    
+
+  /**
+   * Iterate through card data,
+   * Cache movies by genre,
+   * Append card HTML to body,
+   * Convert emojis to Twitter emojis.
+   * 
+   * Pass optional boolean value to re-parse the genres.
+   * Defaults to false.
+   * 
+   * @param |boolean| willParseGenres 
+   */
+  function renderAllCards(willParseGenres = false) {
+    emojiCard = '';
+    for (var i in emojiItems) {
+      emojiCard +=
+        "<div class='emoji-card' year-filter='" + chopYear(emojiItems[i].year) + "s' data-filter='" + emojiItems[i].type +
+      "'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + emojiItems[i].type +
+      "</span></p></div><div class='emoji-images'>" + emojiItems[i].emojiImgs +
+      "</div><div class='emoji-card-title hide-card'><h3>" + emojiItems[i].title +
+      " (" + emojiItems[i].year + ")" + "</h3></div></div>";
+
+      willParseGenres && parseGenres(emojiItems[i]);
+    }
+
+    emojiCardContainer.html(emojiCard);
+    twemoji.parse(document.body);
+  }    
 
   // Display movies and show in a random order, the random order will refresh on page reload. This function is used above before the cards are rendered on the page.
   function shuffle(array) {
@@ -45,6 +64,26 @@ $(document).ready(function() {
     return array;
   }
 
+  /**
+   * Function assumes data set contains no duplicates
+   * 
+   * @param {Object} emojiItem 
+   */
+  function parseGenres(emojiItem) {
+    let newOption;
+    emojiItem.genres.forEach(genre => {
+      if (moviesByGenre.hasOwnProperty(genre)) {
+        moviesByGenre[genre].push(emojiItem);
+      } else {
+        moviesByGenre[genre] = [emojiItem];
+        newOption = document.createElement('option');
+        newOption.value = genre;
+        newOption.label = genre.toUpperCase();
+        genreSelect.appendChild(newOption);
+      };
+    });
+  }
+
   // Truncates a full year to the decade value
   function chopYear(year) {
     year = year.toString();
@@ -57,8 +96,8 @@ $(document).ready(function() {
       var filtertag = $(this).attr("data-filter");
       $("#message").hide();
       $("div.emoji-card-title").addClass("hide-card");
-      if (filtertag == "view-all") { // If the user clicks on view all, show all cards.
-        $("div.emoji-card").show();
+      if (filtertag == "view-all") { // If the user clicks on view all, re-render all cards.
+        renderAllCards();
       } else if ( // If the user clicks on movies, musicals or tv shows, show the cards that fall into that category and hide all cards that do not fall into that category.
         $("div.emoji-card[data-filter='" + filtertag + "']").length > 0
       ) {
@@ -88,10 +127,14 @@ $(document).ready(function() {
       const className = target.className;
       if (target === showFiltersBtn || className === 'fas fa-angle-down') {
         document.getElementById('year-filter').classList.toggle('shown');
+        document.getElementById('genre-filter').classList.toggle('shown');
         showFiltersBtn.children[0].classList.toggle('rotate');
-      } else {
+      } else if (target !== showFiltersBtn && className.match(/filter-\d+s/g)) {        
         document.getElementById('year-filter').classList.toggle('shown');
+        document.getElementById('genre-filter').classList.toggle('shown');
         showFiltersBtn.children[0].classList.toggle('rotate');
+
+        // year filter code
         var decade = event.target.attributes['data-filter'].value;
         $("#message").hide();
         document.querySelectorAll('div.emoji-card-title').forEach(card => {
@@ -111,6 +154,27 @@ $(document).ready(function() {
         }
       }
   });
+
+  // Genre filter re-renders all the cards;
+  genreSelect.addEventListener('change', function(event) {
+    const movies = moviesByGenre[event.target.value];
+    const showFiltersBtn = document.querySelector('button.show-advanced-filters');
+    document.getElementById('year-filter').classList.toggle('shown');
+    document.getElementById('genre-filter').classList.toggle('shown');
+    showFiltersBtn.children[0].classList.toggle('rotate');
+    emojiCard = '';
+    movies.forEach(movie => {
+      emojiCard +=
+        "<div class='emoji-card' year-filter='" + chopYear(movie.year) + "s' data-filter='" + movie.type +
+      "'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + movie.type +
+      "</span></p></div><div class='emoji-images'>" + movie.emojiImgs +
+      "</div><div class='emoji-card-title hide-card'><h3>" + movie.title +
+      " (" + movie.year + ")" + "</h3></div></div>";
+    });
+    
+    emojiCardContainer.html(emojiCard);
+    twemoji.parse(document.body);
+  })
 
   // Reveal the movie or show title when the user clicks on the emojis.
   $("#emojis").on("click", ".emoji-images", function() {

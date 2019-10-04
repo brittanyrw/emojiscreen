@@ -62,11 +62,16 @@ footer {
   position: relative;
 }
 
-#year-filter {
+#year-filter,
+#genre-filter {
   max-height: 0;
   overflow: hidden;
-  grid-area: 3 / 1 / 2 / 6;
+  grid-area: 2 / 1 / 3 / 6;
   transition: max-height 0.25s;
+}
+
+#genre-filter {
+  grid-area: 3 / 1 / 4 / 6;
 }
 
 #emojis {
@@ -512,7 +517,8 @@ footer img {
   visibility: visible;
 }
 
-#year-filter.shown {
+#year-filter.shown,
+#genre-filter.shown {
   max-height: 25rem;
   transition: max-height 0.25s;
 }
