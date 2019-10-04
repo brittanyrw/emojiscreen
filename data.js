@@ -741,6 +741,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0098800/"
     },
     {
+        title: "From Dusk Till Down",
+        emojiImgs: "🧛‍♀️🩸🦶🏻",
+        genres: ["action", "crime", "horror"],
+        itemLink: "https://www.imdb.com/title/tt0116367/",
+        type: "movie",
+        year: 1996
+    },
+    {
         title: "Forrest Gump",
         emojiImgs: "🏃🏻🍫🍤",
         genres: ["drama", "romance"],
