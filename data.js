@@ -1996,6 +1996,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt1285016/"
     },
     {
+	title: "Spaceballs",
+	emojiImgs: "🚀🛸⚽🏀",
+	genres: ["adventure", "comedy", "sci-fi"],
+	type: "movie",
+	year: "1987",
+	itemLink: "https://www.imdb.com/title/tt0094012/"
+    },
+    {
         title: "Space Jam",
         emojiImgs: "🏀🛸🚀",
         genres: ["action", "comedy", "musical"],
