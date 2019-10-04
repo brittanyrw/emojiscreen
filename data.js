@@ -1923,6 +1923,13 @@ const emojiItems = [
         year: 2013
     },
     {
+        title: "Suits",
+        emojiImgs: "👨👦⚖️👔",
+        genres: ["drama", "crime"],        
+        itemLink: "https://www.imdb.com/title/tt1632701/",
+        type: "tv",
+        year: 2011
+    },{
         title: "Supernatural",
         emojiImgs: "👻🧂🔫👹😱",
         genres: ["Drama", "Fantasy", "Horror"],
