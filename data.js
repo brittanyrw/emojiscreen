@@ -1787,6 +1787,13 @@ const emojiItems = [
         year: 2007
     },
     {
+        title: "The Shawshank Redemption",
+        emojiImgs: "👮🧑🏾🔒🧑🏻👮",
+        genres: ["drama"],
+        type: "movie",
+        year: 1994,
+        itemLink: "https://www.imdb.com/title/tt0111161/",
+    },{
         title: "Sherlock",
         emojiImgs: "🕵️👨‍⚕️🚔⚔️😈",
         genres:["crime", "drama" , "mystery"],
