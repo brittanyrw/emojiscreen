@@ -286,6 +286,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0947798"
     },
     {
+        title: "Blade Runner",
+        emojiImgs: "🗡️🏃🌕",
+        genres: ["action", "thriller", "sci-fi"],
+        itemLink: "https://www.imdb.com/title/tt0083658/",
+        type: "movie",
+        year: 1982
+    },
+    {
         title: "Bad Santa",
         emojiImgs: "😁😂🥰🌺🌼",
         genres: ["comedy", "crime", "drama"],
