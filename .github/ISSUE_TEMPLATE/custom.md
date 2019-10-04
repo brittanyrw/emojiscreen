@@ -3,7 +3,7 @@ name: Custom issue template
 about: Suggest a movie, TV show or musical to be added
 title: ''
 labels: needs review
-assignees: brittanyrw
+assignees: ''
 
 ---
 
