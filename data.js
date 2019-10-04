@@ -1687,9 +1687,16 @@ const emojiItems = [
     {
         title: "Pirates of the Caribbean",
         emojiImgs: "🍻🏴‍☠️🚢",
-        genres: ["action", "comedy", "musical"],
+        genres: ["action", "comedy"],
         type: "movie",
-        year: 1994
+        year: 2006
+    },{
+        title: "Pirates of the Caribbean: The Curse of the Black Pearl",
+        emojiImgs: "🏴‍☠️ 🦜 🔑 🚢",
+        genres: ["Action", "Adventure", "Fantasy"],
+        itemLink: "https://www.imdb.com/title/tt0325980/",
+        type: "movie",
+        year: 2003
     },
     {
         title: "Phantom of the Opera",
@@ -1943,6 +1950,13 @@ const emojiItems = [
         type: "tv",
         year: 2010,
         itemLink: "https://www.imdb.com/title/tt1475582/"
+    },{
+        title: "Sherlock Holmes",
+        emojiImgs: "🕵️‍♂️ 🕵️‍♂️ 🔍 👁️‍🗨️",
+        genres: ["Action", "Adventure", "Crime"],
+        itemLink: "https://www.imdb.com/title/tt0988045/",
+        type: "movie",
+        year: 2009
     },{
         title: "Shrek",
         emojiImgs: "🤴🤝🧟‍♂️👉👸",
@@ -2422,8 +2436,7 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
-    },
-    {
+    },{
         title: "Your Name",
         emojiImgs: "👦⏱️👧🇯🇵⛰️",
         genres: ["animation", "drama", "fantasy"],
