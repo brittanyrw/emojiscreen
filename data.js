@@ -2036,6 +2036,14 @@ const emojiItems = [
         year: 1939
     },
     {
+        title: "Tron: Legacy",
+        emojiImgs: "📟🕹🤖🏍️⭕",
+        genres: ["action", "adventure", "sci-fi"],
+        type: "movie",
+        year: 2010,
+	itemLink: "https://www.imdb.com/title/tt1104001"
+    },
+    {
         title: "Tropic Thunder",
         emojiImgs: "😼😽🙀😿😾",
         genres: ["action", "adventure", "comedy"],
