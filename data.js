@@ -1036,6 +1036,41 @@ const emojiItems = [
         year: 1976
     },
     {
+        title: "Rocky II",
+        emojiImgs: "🏃‍♂️🥊🕴️",
+        genres: ["drama", "sport"],
+        type: "movie",
+        year: 1979
+    },
+    {
+        title: "Rocky III",
+        emojiImgs: "🏃‍♂️🥊🕴️",
+        genres: ["drama", "sport"],
+        type: "movie",
+        year: 1982
+    },
+    {
+        title: "Rocky IV",
+        emojiImgs: "🏃‍♂️🥊🕴️",
+        genres: ["drama", "sport"],
+        type: "movie",
+        year: 1985
+    },
+    {
+        title: "Rocky V",
+        emojiImgs: "🏃‍♂️🥊🕴️",
+        genres: ["drama", "sport"],
+        type: "movie",
+        year: 1990
+    },
+    {
+        title: "Rocky Balboa",
+        emojiImgs: "🏃‍♂️🥊🕴️",
+        genres: ["drama", "sport"],
+        type: "movie",
+        year: 2006
+    },
+    {
         title: "Ready Player One",
         emojiImgs: "🏁🕹1️⃣",
         genres: ["action", "adventure", "sci-fi"],
