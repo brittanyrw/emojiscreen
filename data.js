@@ -1210,13 +1210,15 @@ const emojiItems = [
     title: "Jurassic Park",
     emojiImgs: "🔬🦖🏝",
     genres: ["action", "adventure", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt0107290",
     type: "movie",
     year: 1993
   },
   {
-    title: "Jurassic Park: Fallen Kingdom",
+    title: "Jurassic World: Fallen Kingdom",
     emojiImgs: "🦖🦕🐊🤯😫",
     genres: ["action", "adventure", "Sci-Fi"],
+    itemLink: "https://www.imdb.com/title/tt4881806",
     type: "movie",
     year: 2018
   },
