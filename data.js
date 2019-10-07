@@ -1215,8 +1215,32 @@ const emojiItems = [
     year: 1993
   },
   {
+    title: "The Lost World: Jurassic Park",
+    emojiImgs: "🦖🏝🚢🏙",
+    genres: ["action", "adventure", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt0119567",
+    type: "movie",
+    year: 1997
+  },
+  {
+    title: "Jurassic Park III",
+    emojiImgs: "🛩🏝🧒🏼🦖🦕",
+    genres: ["action", "adventure", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt0163025",
+    type: "movie",
+    year: 2001
+  },
+  {
+    title: "Jurassic World",
+    emojiImgs: "🎡🦖🦕🏍",
+    genres: ["action", "adventure", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt0369610",
+    type: "movie",
+    year: 2015
+  },
+  {
     title: "Jurassic World: Fallen Kingdom",
-    emojiImgs: "🦖🦕🐊🤯😫",
+    emojiImgs: "🦖🦕🐊🌋😫",
     genres: ["action", "adventure", "Sci-Fi"],
     itemLink: "https://www.imdb.com/title/tt4881806",
     type: "movie",
