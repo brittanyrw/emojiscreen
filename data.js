@@ -1,4 +1,5 @@
 const emojiItems = [
+<<<<<<< HEAD
   {
     title: "The 25th Annual Putnum County Spelling Bee",
     emojiImgs: "🔤🐝😂",
@@ -2230,6 +2231,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0100758/",
     type: "movie",
     year: 1990
+  },
+  {
+    title: "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+    emojiImgs: "🐱‍👤🐢🍕👊",
+    genres: ["action", "adventure", "comedy"],
+    itemLink: "https://www.imdb.com/title/tt0103060/",
+    type: "movie",
+    year: 1991
   },
   {
     title: "The Following",
