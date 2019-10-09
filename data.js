@@ -257,14 +257,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0286499/"
   },
   {
-    title: "Bend It Like Beckham",
-    emojiImgs: "🇮🇳🙎🏽‍♀️🙍🏽‍♂️🇬🇧⚽",
-    genres: ["comedy", "drama", "romance"],
-    type: "movie",
-    year: 2002,
-    itemLink: "https://www.imdb.com/title/tt0286499/"
-  },
-  {
     title: "The Big Bang Theory",
     emojiImgs: "🌍💻⚗🔭",
     genres: ["comedy", "romance"],
@@ -328,14 +320,6 @@ const emojiItems = [
     type: "tv",
     year: 2009,
     itemLink: "https://www.imdb.com/title/tt1370334/"
-  },
-  {
-    title: "Brave",
-    emojiImgs: "🏹🎯🛡️🐻",
-    genres: ["animation", "adventure", "comedy"],
-    type: "movie",
-    year: 2012,
-    itemLink: "https://www.imdb.com/title/tt1217209/"
   },
   {
     title: "Brave",
@@ -1127,14 +1111,14 @@ const emojiItems = [
     year: 1987
   },
   {
-    title: "It",
+    title: "IT",
     emojiImgs: "🎈🤡☔🚲",
     genres: ["horror", "thriller"],
     type: "movie",
     year: 2017
   },
   {
-    title: "It Chapter Two",
+    title: "IT: Chapter Two",
     emojiImgs: "🤡🎈🤡🎈🤡",
     genres: ["horror", "thriller"],
     type: "movie",
@@ -1322,14 +1306,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0202521/"
   },
   {
-    title: "Passaport to Paris",
-    emojiImgs: "🎟✈🗼",
-    genres: ["comedy", "romance"],
-    type: "movie",
-    year: 1999,
-    itemLink: "https://www.imdb.com/title/tt0202521/"
-  },
-  {
     title: "The Fox and the Hound",
     emojiImgs: "🦊🔫👨🏼‍🦳🐶",
     genres: ["animation", "adventure", "drama"],
@@ -1436,8 +1412,7 @@ const emojiItems = [
     genres: ["musical"],
     type: "musical",
     year: 2013,
-    itemlink:
-      "http://www.playbill.com/production/matilda-the-musical-shubert-theatre-vault-0000013970"
+    itemLink: "http://www.playbill.com/production/matilda-the-musical-shubert-theatre-vault-0000013970"
   },
   {
     title: "Mad Men",
@@ -1496,14 +1471,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0377092/"
   },
   {
-    title: "Mean Girls",
-    emojiImgs: "👚🏫📓🔥😏",
-    genres: ["movie", "comedy"],
-    type: "movie",
-    year: 2004,
-    itemLink: "https://www.imdb.com/title/tt0377092/"
-  },
-  {
     title: "Midsommar",
     emojiImgs: "🌞👩‍👧‍👧🌼🔥💀",
     genres: ["Drama", "Thriller"],
@@ -1517,8 +1484,7 @@ const emojiItems = [
     genres: ["drama", "war", "musical"],
     type: "musical",
     year: 1991,
-    itemLink:
-      "http://www.playbill.com/production/miss-saigon-broadway-theatre-vault-0000012256"
+    itemLink: "http://www.playbill.com/production/miss-saigon-broadway-theatre-vault-0000012256"
   },
   {
     title: "Mr.Robot",
@@ -1526,7 +1492,7 @@ const emojiItems = [
     genres: ["crime", "drama", "thriller"],
     type: "tv",
     year: 2015,
-    itemlink: "https://www.imdb.com/title/tt4158110/"
+    itemLink: "https://www.imdb.com/title/tt4158110/"
   },
   {
     title: "Mrs. Doubtfire",
@@ -1600,14 +1566,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0368891/"
   },
   {
-    title: "National Treasure",
-    emojiImgs: "🇺🇸🗝🏺🧭💰",
-    genres: ["action", "adventure", "mystery"],
-    type: "movie",
-    year: 2004,
-    itemLink: "https://www.imdb.com/title/tt0368891/"
-  },
-  {
     title: "National Treasure: Book of Secrets",
     emojiImgs: "🇱🇷💎📘❓❗",
     genres: ["action", "adventure", "mystery"],
@@ -1656,11 +1614,11 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt7131622/"
   },
   {
-      title: "On the Town",
-      emojiImgs: "⚓🚢👯",
-      genres: ["comedy"],
-      type: "play",
-      year: 2014
+    title: "On the Town",
+    emojiImgs: "⚓🚢👯",
+    genres: ["comedy"],
+    type: "play",
+    year: 2014
   },
   {
     title: "Orange is the new Black",
@@ -1739,8 +1697,7 @@ const emojiItems = [
     genres: ["drama", "romance"],
     type: "musical",
     year: 1988,
-    itemLink:
-      "http://www.playbill.com/production/the-phantom-of-the-opera-majestic-theatre-vault-0000007818"
+    itemLink: "http://www.playbill.com/production/the-phantom-of-the-opera-majestic-theatre-vault-0000007818"
   },
   {
     title: "Pokemon: The First Movie",
@@ -1899,11 +1856,11 @@ const emojiItems = [
     year: 2015
   },
   {
-      title: "RocketMan",
-      emojiImgs: "🐱🚀📫",
-      genres: ["drama", "musical"],
-      type: "movie",
-      year: 2019
+    title: "RocketMan",
+    emojiImgs: "🐱🚀📫",
+    genres: ["drama", "musical"],
+    type: "movie",
+    year: 2019
   },
   {
     title: "Rugrats",
@@ -2251,14 +2208,6 @@ const emojiItems = [
     type: "movie",
     year: 1997,
     itemLink: "https://www.imdb.com/title/tt0120338/"
-  },
-  {
-    title: "The Wizard of Oz",
-    emojiImgs: "🐶🌪️🤖🦁🧙‍",
-    genres: ["adventure", "family", "fantasy"],
-    itemLink: "https://www.imdb.com/title/tt0032138/",
-    type: "movie",
-    year: 1939
   },
   {
     title: "This Is Us",
