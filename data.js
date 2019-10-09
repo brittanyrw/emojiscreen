@@ -107,7 +107,7 @@ const emojiItems = [
   },
   {
     title: "Anchorman",
-    emojiImgs: "⚓️👨🏻",
+    emojiImgs: "⚓️👨🏻📰",
     genres: ["comedy"],
     itemLink: "https://www.imdb.com/title/tt0357413/",
     type: "movie",
@@ -424,6 +424,14 @@ const emojiItems = [
     type: "movie",
     year: 2002,
     itemLink: "https://www.imdb.com/title/tt0264464/"
+  },
+  {
+    title: "Cats",
+    emojiImgs: "😸 😹 😻 🙀 😿",
+    genres: ["drama","musical"],
+    itemLink: "https://www.http://www.playbill.com/production/cats-winter-garden-theatre-vault-0000011527.com/title/tt0357413/",
+    type: "musical",
+    year: 1982
   },
   {
     title: "The Cheetah Girls",
