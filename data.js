@@ -1,5 +1,4 @@
 const emojiItems = [
-<<<<<<< HEAD
   {
     title: "The 25th Annual Putnum County Spelling Bee",
     emojiImgs: "🔤🐝😂",
@@ -1657,13 +1656,11 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt7131622/"
   },
   {
-    title: "On the Town",
-    emojiImgs: "⚓🚢",
-    genres: ["comedy"],
-    type: "play",
-    year: 2014,
-    itemLink:
-      "http://www.playbill.com/production/on-the-town-lyric-theatre-vault-0000014058"
+      title: "On the Town",
+      emojiImgs: "⚓🚢👯",
+      genres: ["comedy"],
+      type: "play",
+      year: 2014
   },
   {
     title: "Orange is the new Black",
@@ -1748,15 +1745,7 @@ const emojiItems = [
   {
     title: "Pokemon: The First Movie",
     emojiImgs: "👦️🐁️😭️",
-    genres: [
-      "animation",
-      "action",
-      "adventure",
-      "family",
-      "fantasy",
-      "sci-fi",
-      "sport"
-    ],
+    genres: ["animation","action","adventure","family"],
     type: "movie",
     year: 1998,
     itemLink: "https://www.imdb.com/title/tt0190641/"
@@ -1910,11 +1899,11 @@ const emojiItems = [
     year: 2015
   },
   {
-    title: "RocketMan",
-    emojiImgs: "🐱 📫",
-    genres: ["drama", "musical"],
-    type: "movie",
-    year: 2019
+      title: "RocketMan",
+      emojiImgs: "🐱🚀📫",
+      genres: ["drama", "musical"],
+      type: "movie",
+      year: 2019
   },
   {
     title: "Rugrats",
