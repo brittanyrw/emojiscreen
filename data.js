@@ -1,5 +1,4 @@
 const emojiItems = [
-<<<<<<< HEAD
   {
     title: "The 25th Annual Putnum County Spelling Bee",
     emojiImgs: "🔤🐝😂",
