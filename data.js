@@ -2491,5 +2491,13 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt5311514/",
     type: "movie",
     year: 2016
+  },
+  {
+    title: "Parasite: 2019",
+    emojiImgs: "😵😱😥",
+    genres: ["comedy", "drama", "thriller"],
+    itemLink: "https://www.imdb.com/title/tt6751668/",
+    type: "movie",
+    year: 2019
   }
 ];
