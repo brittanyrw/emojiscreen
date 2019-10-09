@@ -1,5 +1,13 @@
 const emojiItems = [
   {
+      title: "Anchorman",
+      emojiImgs: "⚓️👨🏻",
+      genres: ["comedy"],
+      itemLink: "https://www.imdb.com/title/tt0357413/",
+      type: "movie",
+      year: 2004
+  },
+  {
     title: "The 25th Annual Putnum County Spelling Bee",
     emojiImgs: "🔤🐝😂",
     genres: ["musical", "comedy"],
