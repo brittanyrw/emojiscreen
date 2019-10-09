@@ -48,7 +48,7 @@ const emojiItems = [
     },
     {
         title: "Anchorman",
-        emojiImgs: "⚓️👨🏻",
+        emojiImgs: "⚓️👨🏻📰",
         genres: ["comedy"],
         itemLink: "https://www.imdb.com/title/tt0357413/",
         type: "movie",
