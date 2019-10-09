@@ -146,14 +146,6 @@ const emojiItems = [
     year: 1997
   },
   {
-    title: "American Idol",
-    emojiImgs: "🇺🇸🗣🎤",
-    genres: ["game show", "musical"],
-    type: "tv",
-    year: 2002,
-    itemLink: "https://www.imdb.com/title/tt0319931/"
-  },
-  {
     title: "American Made",
     emojiImgs: "🕶️🛩️💵🧳",
     genres: ["action", "biography", "comedy"],
