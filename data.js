@@ -1,13 +1,5 @@
 const emojiItems = [
   {
-      title: "Anchorman",
-      emojiImgs: "⚓️👨🏻",
-      genres: ["comedy"],
-      itemLink: "https://www.imdb.com/title/tt0357413/",
-      type: "movie",
-      year: 2004
-  },
-  {
     title: "The 25th Annual Putnum County Spelling Bee",
     emojiImgs: "🔤🐝😂",
     genres: ["musical", "comedy"],
@@ -112,6 +104,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt1844624/",
     type: "tv",
     year: 2011
+  },
+  {
+    title: "Anchorman",
+    emojiImgs: "⚓️👨🏻",
+    genres: ["comedy"],
+    itemLink: "https://www.imdb.com/title/tt0357413/",
+    type: "movie",
+    year: 2004
   },
   {
     title: "Alice in Wonderland",
@@ -1056,6 +1056,13 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0489598/",
     type: "tv",
     year: 2006
+  },    
+  {
+    title: "The Hills Have Eyes",
+    emojiImgs: "👨‍👩‍👧‍👦🚐🏔👀",
+    genres: ["horror", "thriller"],
+    type: "movie",
+    year: 2006
   },
   {
     title: "Holes",
@@ -1675,7 +1682,7 @@ const emojiItems = [
     itemLink: "http://www.playbill.com/production/pippin-imperial-theatre-vault-0000006044",
     type: "musical",
     year: 1972
-    },
+  },
   {
     title: "Pirates of the Caribbean",
     emojiImgs: "🍻🏴‍☠️🚢",
