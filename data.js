@@ -1228,6 +1228,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0087538/"
   },
   {
+    title: "King Authur",
+    emojiImgs: "⚔️🤴🏼️️️⚔️",
+    genres: ["action", "sci-fi"],
+    type: "movie",
+    year: 2017,
+    itemLink: "https://www.imdb.com/title/tt1972591/"
+  },
+  {
     title: "Kingsman: The Secret Service ",
     emojiImgs: "👑👨👮🤵🐕",
     genres: ["action", "adventure", "comedy"],
