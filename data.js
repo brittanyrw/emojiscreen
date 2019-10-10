@@ -419,7 +419,7 @@ const emojiItems = [
   },
   {
     title: "Catch Me If You Can",
-    emojiImgs: "🕵️‍♂️🏃‍♂️👨‍✈️🏃‍♂️‍",
+    emojiImgs: "🕵️‍🏃‍👨‍✈️🏃‍‍",
     genres: ["biography", "crime", "drama"],
     type: "movie",
     year: 2002,
@@ -1120,7 +1120,7 @@ const emojiItems = [
   },
   {
     title: "Into the Woods",
-    emojiImgs: "➡️🌲🌲🔥🎶🎤",
+    emojiImgs: "➡️🌲🌲🔥🎶",
     genres: ["drama", "musical"],
     type: "musical",
     year: 1987
@@ -1858,7 +1858,7 @@ const emojiItems = [
   },
   {
     title: "Rent",
-    emojiImgs: "👨👧👭💊💉🎶",
+    emojiImgs: "👨👭💊💉🎶",
     genres: ["drama", "musical", "romance"],
     type: "movie",
     year: 2005
@@ -1887,7 +1887,7 @@ const emojiItems = [
   },
   {
     title: "Rugrats",
-    emojiImgs: "👶👶👧👶🍼🐁",
+    emojiImgs: "👶👧👶🍼🐁",
     genres: ["animation", "comedy"],
     type: "tv",
     year: 1990,
@@ -2274,7 +2274,7 @@ const emojiItems = [
   },
   {
     title: "Tropic Thunder",
-    emojiImgs: "🚁🌲🌲🌲🔫⛈️",
+    emojiImgs: "🚁🌲🌲🔫⛈️",
     genres: ["action", "adventure", "comedy"],
     type: "movie",
     year: 2008
