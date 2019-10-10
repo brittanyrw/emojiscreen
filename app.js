@@ -100,6 +100,14 @@ $(document).ready(function() {
 
   // Toggle to expand or hide all of the movie/show names by clicking an icon
   $(".btn-reveal-all").click(function() {
+    $(this).toggleClass(["revealed"])
+    var emojis = $("#emojis")
+      .find(".emoji-card-title");
+    if($(this).hasClass("revealed")){
+      emojis.removeClass("hide-card");
+    } else {
+      emojis.addClass("hide-card");
+    }
     var title = $(this).attr("title");
     title =
       title.search(/reveal/i) === -1
@@ -110,9 +118,6 @@ $(document).ready(function() {
     $(this)
       .find("i")
       .toggleClass(["fa-eye", "fa-eye-slash"]);
-    $("#emojis")
-      .find(".emoji-card-title")
-      .toggleClass("hide-card");
   });
 
   // Scroll to top by clicking a button
@@ -143,4 +148,3 @@ $(document).ready(function() {
     return titleElement
   }
 });
-

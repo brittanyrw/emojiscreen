@@ -1,0 +1,4 @@
+enabled: true
+label: "needs review"
+delay: 0
+skip_when_has_labels: ["add emojis", "enhancement"]
