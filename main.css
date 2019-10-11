@@ -421,3 +421,26 @@ footer a {
   font-size: 18px;
   text-align: center;
 }
+
+.imdb-link {
+  display: block;
+  margin-top: 8px;
+}
+
+.imdb-link-item {
+  border: 3px solid #352649;
+  padding: 8px;
+  margin-right: 8px;
+  margin-top: 8px;
+  color: #352649;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.imdb-link-item i {
+  background: none;
+  margin-right: 8px;
+  font-size: 24px;
+  color: #3c3a4a;
+}
