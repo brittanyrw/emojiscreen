@@ -8,14 +8,6 @@ const emojiItems = [
         itemLink: "http://www.playbill.com/production/the-25th-annual-putnam-county-spelling-bee-circle-in-the-square-theatre-vault-0000003219"
     },
     {
-        title: "The Great British Bake Off",
-        emojiImgs: "👍🇬🇧🍞🎂🥐",
-        genres: ["baking","reality"],
-        type: "tv",
-        year: 2010,
-        itemLink: "https://www.imdb.com/title/tt1877368/"
-    },
-    {
         title: "2001: A Space Odyssey ",
         emojiImgs: "🐵🌖👨‍🚀🤖👴",
         genres: ["adventure, sci-fi"],
@@ -532,20 +524,22 @@ const emojiItems = [
         type: "tv",
         year: 2011,
         itemLink: "https://www.imdb.com/title/tt1991410/"
-    },{
-        title: "Deadwood",
-        emojiImgs: "🤠🔫⚰️",
-        genres: ["drama", "crime", "history"],
-        type: "tv",
-        year: 2004,
-        itemLink: "https://www.imdb.com/title/tt0348914/"
-    },{
+    },
+    {
       title: 'Dark Phoenix',
       emojiImgs: "🕶️☀️🔥 ",
       genres: ["sci-fi","action","adventure"],
       type: "movie",
       year: 2019,
       itemLink: "https://www.imdb.com/title/tt6565702/?ref_=ttls_li_tt"
+    },
+    {
+      title: 'The Dark Knight',
+      emojiImgs: "🦇👦🤡🏥🔥",
+      genres: ["action","crime","drama"],
+      type: "movie",
+      year: 2008,
+      itemLink: "https://www.imdb.com/title/tt0468569/"
     },
     {
       title: "Deadpool",
@@ -562,6 +556,14 @@ const emojiItems = [
       type: "movie",
       year: 2018,
       itemLink:"https://www.imdb.com/title/tt5463162/?ref_=ttls_li_tt"
+    },
+    {
+        title: "Deadwood",
+        emojiImgs: "🤠🔫⚰️",
+        genres: ["drama", "crime", "history"],
+        type: "tv",
+        year: 2004,
+        itemLink: "https://www.imdb.com/title/tt0348914/"
     },
     {
         title: "Dear Evan Hansen",
@@ -849,6 +851,14 @@ const emojiItems = [
         type: "movie",
         year: 1978,
         itemLink: "https://www.imdb.com/title/tt0077631/"
+    },
+    {
+        title: "The Great British Bake Off",
+        emojiImgs: "👍🇬🇧🍞🎂🥐",
+        genres: ["baking","reality"],
+        type: "tv",
+        year: 2010,
+        itemLink: "https://www.imdb.com/title/tt1877368/"
     },
     {
       title: "Great Expectations",
