@@ -527,7 +527,8 @@ const emojiItems = [
         emojiImgs: "🏫🤰💉",
         genres: ["comedy", "drama"],
         type: "movie",
-        year: 2007
+        year: 2007,
+        itemLink: "https://imdb.com/title/tt0467406/"
     },
     {
         title: "Jurassic Park",
