@@ -1865,35 +1865,35 @@ const emojiItems = [
   },
   {
     title: "Rocky II",
-    emojiImgs: "🏃‍♂️🥊🕴️",
+    emojiImgs: "👊🏆🥊",
     genres: ["drama", "sport"],
     type: "movie",
     year: 1979
 },
 {
     title: "Rocky III",
-    emojiImgs: "🏃‍♂️🥊🕴️",
+    emojiImgs: "🏃‍👊🥊",
     genres: ["drama", "sport"],
     type: "movie",
     year: 1982
 },
 {
     title: "Rocky IV",
-    emojiImgs: "🏃‍♂️🥊🕴️",
+    emojiImgs: "🥊🤼‍️💪‍",
     genres: ["drama", "sport"],
     type: "movie",
     year: 1985
 },
 {
     title: "Rocky V",
-    emojiImgs: "🏃‍♂️🥊🕴️",
+    emojiImgs: "🏃‍🥊🏋️‍",
     genres: ["drama", "sport"],
     type: "movie",
     year: 1990
 },
 {
     title: "Rocky Balboa",
-    emojiImgs: "🏃‍♂️🥊🕴️",
+    emojiImgs: "💪‍🥊🕴️",
     genres: ["drama", "sport"],
     type: "movie",
     year: 2006
