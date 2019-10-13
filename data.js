@@ -929,6 +929,7 @@ const emojiItems = [
   {
     title: "Hachi: A Dog's Tale",
     emojiImgs: "👨‍🏫💔🚉🐕🌭",
+    itemLink: "https://www.imdb.com/title/tt1028532/"
     genres: ["family", "drama"],
     type: "movie",
     year: 2009
@@ -954,6 +955,7 @@ const emojiItems = [
     emojiImgs: "💵🖋️⚖️🎵📜",
     genres: ["drama", "comedy", "musical"],
     type: "musical",
+    itemLink:"https://www.imdb.com/title/tt6868646/"
     year: 2015
   },
   {
@@ -969,6 +971,7 @@ const emojiItems = [
     emojiImgs: "💋💃👠👨🏽‍🦱👨🏻",
     genres: ["comedy", "drama", "musical"],
     type: "musical",
+    itemLink:"https://www.imdb.com/title/tt0427327/"
     year: 2002
   },
   {
@@ -984,6 +987,7 @@ const emojiItems = [
     emojiImgs: "🤵🎰🥃🍾🤕",
     genres: ["comedy"],
     type: "movie",
+    itemLink:"https://www.imdb.com/title/tt1119646/"
     year: 2009
   },
   {
@@ -991,6 +995,7 @@ const emojiItems = [
     emojiImgs: "🐍🧙‍♂️📓👩🏻‍🦰⚡",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
+    itemLink:"https://www.imdb.com/title/tt0295297/"
     year: 2002
   },
   {
@@ -998,6 +1003,7 @@ const emojiItems = [
     emojiImgs: "👰🏻🤵🏻💀🐍🔪",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
+    itemLink:"https://www.imdb.com/title/tt0926084/"
     year: 2010
   },
   {
@@ -1005,6 +1011,7 @@ const emojiItems = [
     emojiImgs: "💍💀🐍🏰🔥",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
+    itemLink:"https://www.imdb.com/title/tt1201607/"
     year: 2011
   },
   {
@@ -1012,6 +1019,7 @@ const emojiItems = [
     emojiImgs: "🐉🧜☠️🏆🧙‍♂️",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
+    itemLink:"https://www.imdb.com/title/tt0330373/"
     year: 2005
   },
   {
@@ -1019,6 +1027,7 @@ const emojiItems = [
     emojiImgs: "👦🏻🐍💀📖🧙🏻‍♂️",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
+    itemLink:"https://www.imdb.com/title/tt0417741/"
     year: 2009
   },
   {
@@ -1026,6 +1035,7 @@ const emojiItems = [
     emojiImgs: "💀🏠💅🏻💭🔮",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
+    itemLink:"https://www.imdb.com/title/tt0373889/"
     year: 2007
   },
   {
@@ -1033,6 +1043,7 @@ const emojiItems = [
     emojiImgs: "📨🎂✨📖💎",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
+    itemLink:"https://www.imdb.com/title/tt0241527/"
     year: 2001
   },
   {
@@ -1040,6 +1051,7 @@ const emojiItems = [
     emojiImgs: "👨‍🏫🌕🐺🐀⚡",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
+    itemLink:"https://www.imdb.com/title/tt0304141/"
     year: 2004
   },
   {
