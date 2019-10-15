@@ -38,14 +38,33 @@ If someone is assigned an Issue and doesn't complete it after a while, we will o
 
 ### Adding a movie, TV show or musical
 
-Please follow all the instructions for adding a show or movie.
+To add a show or movie to this project, you will need to add an `Emoji Card` inside of the `data.js` file. The `data.js` file is made up of an array (a list) of objects. You will add a new object for your show. 
+
+Below is an example of what a show looks like on the website:
+
+![Screenshot of Beauty and the Beast Emoji Card](/readme/emoji-card.png)
+
+In the `data.js` file, each `Emoji Card` consists of the following object:
+
+```
+{
+  title: "Beauty and the Beast",
+  emojiImgs: "🏰🥀🎶📚🕰️",
+  genres: ["animation", "family", "fantasy"],
+  itemLink: "https://www.imdb.com/title/tt0101414/",
+  type: "movie",
+  year: 1991
+}
+```
+
+View the [Card Overview](/docs/card_overview.md) for more details on each part of the emoji object.
+
+Please follow all the instructions in the [Card Overview](/docs/card_overview.md) for adding a show or movie.
 
 * Search the data.js file and pull requests to make sure you are not adding a duplicate.
 * Make sure your emojis actually depict the show or movie.
 * Go through this checklist to make sure you have added everything needed for a show or movie.
 * Fix conflicts if your pull request has them.
-
-We are just going to close Pull Requests that are not following the instructions, especially pull requests with random emojis that have nothing to do with the show/movie or that are not in alphabetical order. 
 
 ## Git and GitHub Resources
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
