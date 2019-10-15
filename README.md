@@ -51,11 +51,11 @@ For the time being we are only looking for new Pull Requests for features.
 
 Check out my other emoji themed projects.
 
-### 🎶EmojiBops: A listing of songs depicted via emojis.
+### 🎶 EmojiBops: A listing of songs depicted via emojis.
 * View [EmojiBops.com](https://emojibops.com).
 * View EmojiBops [on Github](https://github.com/brittanyrw/emojibops/).
 
-### 📚EmojiPages: A listing of songs depicted via emojis.
+### 📚 EmojiPages: A listing of songs depicted via emojis.
 * View [EmojiPages.com](https://emojipages.com).
 * View EmojiPages [on Github](https://github.com/brittanyrw/emojipages/).
 
