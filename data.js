@@ -2302,6 +2302,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt10217550/?ref_=fn_al_tt_1"
   },
   {
+    title: "The Vampire Diaries",
+    emojiImgs: "🌕❤️🧛🍺🗡",
+    genres: ["drama", "fantasy", "horror"],
+    itemLink: "https://www.imdb.com/title/tt1405406/",
+    type: "tv",
+    year: 2009
+  },
+  {
     title: "The Walking Dead",
     emojiImgs: "👮🏻🏃🧟‍⚔️🚗",
     genres: ["drama", "suspense", "horror"],
@@ -2461,13 +2469,5 @@ const emojiItems = [
     genres: ["comedy"],
     type: "movie",
     year: 1974
-  },
-  {
-    title: "The Vampire Diaries",
-    emojiImgs: "🌕❤️🧛🍺🗡",
-    genres: ["drama", "fantasy", "horror"],
-    itemLink: "https://www.imdb.com/title/tt1405406/",
-    type: "tv",
-    year: 2009
   }
 ];
