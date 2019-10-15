@@ -2466,7 +2466,7 @@ const emojiItems = [
     title: "The Vampire Diaries",
     emojiImgs: "🌕❤️🧛🍺🗡",
     genres: ["drama", "fantasy", "horror"],
-    itemLink: "https://www.imdb.com/title/tt1405406/?ref_=fn_al_tt_1",
+    itemLink: "https://www.imdb.com/title/tt1405406/",
     type: "tv",
     year: 2009
   }
