@@ -126,7 +126,8 @@ Specify the year the movie or show was released or first aired. Or the first per
 
 Follow the checklist below when working on adding a card. This will help you double check that you have everything you need to have your Pull Request approved.
 
-- [ ] 💜 There is an Issue for this show/movie and you have been assigned to add it. 
+- [ ] 🔎 Have searched the `data.js` file and `Pull Requests` to make sure that you are not adding a duplicate.
+- [ ] 🖍️ Place the new show(s) or movie(s) in alphabetical order based on title. If the show or movie starts with 'the', then use the second word to alphabetize.
 - [ ] 🌈 There is a single year under `year`. 
 - [ ] 📅 There is a type from one of the following: `movie` , `tv` or `musical`.
 - [ ] 🔗 There is a link to the IMDB page or Playbill archive page under `itemLink`.
@@ -134,5 +135,3 @@ Follow the checklist below when working on adding a card. This will help you dou
 - [ ] 5️⃣ There is a maximum of five emojis listed under `emojiImgs`.
 - [ ] 👍 The pull request has a descriptive title (such as `Added The Lion King` or `Added Black Panther, The Avengers: Endgame and Thor`).
 - [ ] ⭐ The genres are all inside of square brackets `[ ]` and each are individually wrapped in quotation marks and have a comma between each one. (such as submitting this `"genres": ["adventure","mystery","animation"]` and not this `"genres":["adventure, mystery, animation"]`).
-- [ ] 🖍️ Place the new show(s) or movie(s) in alphabetical order based on title. If the show or movie starts with 'the', then use the second word to alphabetize.
-- [ ] 👋 Add Closes #--- to the bottom of the pull request to link your Pull Request to the Issue (replace the --- with the issue number)
