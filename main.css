@@ -423,22 +423,23 @@ footer a {
 }
 
 .imdb-link {
-  display: block;
   margin-top: 8px;
+  border: 3px solid #352649;
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 200px;
 }
 
 .imdb-link-item {
-  border: 3px solid #352649;
-  padding: 8px;
-  margin-right: 8px;
-  margin-top: 8px;
   color: #352649;
   font-weight: 600;
   text-decoration: none;
   display: inline-block;
 }
 
-.imdb-link-item i {
+.imdb-link i {
   background: none;
   margin-right: 8px;
   font-size: 24px;
