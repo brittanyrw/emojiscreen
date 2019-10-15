@@ -2463,11 +2463,11 @@ const emojiItems = [
     year: 1974
   },
   {
-    title: "Your Name",
-    emojiImgs: "👦⏱️👧🇯🇵⛰️",
-    genres: ["animation", "drama", "fantasy"],
-    itemLink: "https://www.imdb.com/title/tt5311514/",
-    type: "movie",
-    year: 2016
+    title: "The Vampire Diaries",
+    emojiImgs: "🌕❤️🧛🍺🗡",
+    genres: ["drama", "fantasy", "horror"],
+    itemLink: "https://www.imdb.com/title/tt1405406/?ref_=fn_al_tt_1",
+    type: "tv",
+    year: 2009
   }
 ];
