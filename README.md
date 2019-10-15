@@ -36,9 +36,16 @@ The current contributions that can be made to this project are the following. Cl
 
 If someone is assigned an Issue and doesn't complete it after a while, we will open the Issue to everyone else again.
 
-### Adding a Movie, TV show or musical
+### Adding a movie, TV show or musical
 
-For the time being we are only looking for new Pull Requests for features.
+Please follow all the instructions for adding a show or movie.
+
+* Search the data.js file and pull requests to make sure you are not adding a duplicate.
+* Make sure your emojis actually depict the show or movie.
+* Go through this checklist to make sure you have added everything needed for a show or movie.
+* Fix conflicts if your pull request has them.
+
+We are just going to close Pull Requests that are not following the instructions, especially pull requests with random emojis that have nothing to do with the show/movie or that are not in alphabetical order. 
 
 ## Git and GitHub Resources
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
