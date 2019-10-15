@@ -211,7 +211,7 @@ const emojiItems = [
   },
   {
     title: "America's Next Top Model",
-    emojiImgs: "👜👭👭",
+    emojiImgs: "🇺🇸👠👙👭",
     genres: ["game-show", "reality"],
     type: "tv",
     year: 2003
@@ -290,7 +290,7 @@ const emojiItems = [
   },
   {
     title: "Bad Santa",
-    emojiImgs: "😁😂🥰🌺🌼",
+    emojiImgs: "🎅🧝‍♂️👦🧸",
     genres: ["comedy", "crime", "drama"],
     type: "movie",
     year: 2003,
@@ -355,7 +355,7 @@ const emojiItems = [
   },
   {
     title: "Buffy the Vampire Slayer",
-    emojiImgs: "🅾️🎃🧛‍",
+    emojiImgs: "👩‍🔪🧛🧛‍♂️‍",
     genres: ["drama", "fantasy", "romance", "action"],
     type: "tv",
     year: 1997,
@@ -419,7 +419,7 @@ const emojiItems = [
   },
   {
     title: "Catch Me If You Can",
-    emojiImgs: "👋🏃‍🦹‍",
+    emojiImgs: "🕵️‍🏃‍👨‍✈️🏃‍‍",
     genres: ["biography", "crime", "drama"],
     type: "movie",
     year: 2002,
@@ -435,7 +435,7 @@ const emojiItems = [
   },
   {
     title: "The Cheetah Girls",
-    emojiImgs: "🐆🐆🐆🐆🎶",
+    emojiImgs: "🐆👭🐆👭🎵",
     genres: ["comedy", "drama", "musical"],
     itemLink: "https://www.imdb.com/title/tt0338852/",
     type: "movie",
@@ -531,7 +531,7 @@ const emojiItems = [
   },
   {
     title: "Dance Moms",
-    emojiImgs: "💃👯‍🙍‍",
+    emojiImgs: "💃🤰🤱💃‍",
     genres: ["reality-tv"],
     type: "tv",
     year: 2011,
@@ -1064,7 +1064,7 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0489598/",
     type: "tv",
     year: 2006
-  },    
+  },
   {
     title: "The Hills Have Eyes",
     emojiImgs: "👨‍👩‍👧‍👦🚐🏔👀",
@@ -1120,7 +1120,7 @@ const emojiItems = [
   },
   {
     title: "Into the Woods",
-    emojiImgs: "🔥🎄🎶👩‍🎤",
+    emojiImgs: "➡️🌲🌲🔥🎶",
     genres: ["drama", "musical"],
     type: "musical",
     year: 1987
@@ -1134,7 +1134,7 @@ const emojiItems = [
   },
   {
     title: "IT: Chapter Two",
-    emojiImgs: "🤡🎈🤡🎈🤡",
+    emojiImgs: "🤡🎈🎈👦",
     genres: ["horror", "thriller"],
     type: "movie",
     year: 2019
@@ -1185,7 +1185,7 @@ const emojiItems = [
   },
   {
     title: "Jersey Shore ",
-    emojiImgs: "😂🥺🙆‍💔",
+    emojiImgs: "👭🤵👙🍸💔",
     genres: ["comedy", "drama", "reality"],
     type: "tv",
     year: 2009,
@@ -1289,7 +1289,7 @@ const emojiItems = [
   },
   {
     title: "La La Land",
-    emojiImgs: "👩👮💓",
+    emojiImgs: "💃🙋‍♂️🎹🎶",
     genres: ["romance", "drama", "musical"],
     type: "movie",
     year: 2016,
@@ -1431,7 +1431,7 @@ const emojiItems = [
   },
   {
     title: "Matilda The Musical",
-    emojiImgs: "👸💃🎼",
+    emojiImgs: "👧📖🧠👩‍🏫🎵",
     genres: ["musical"],
     type: "musical",
     year: 2013,
@@ -1567,7 +1567,7 @@ const emojiItems = [
   },
   {
     title: "Mulan",
-    emojiImgs: "🔫⚔️🎶🥁",
+    emojiImgs: "👩➡️👨🤺⚔️",
     genres: ["war", "music"],
     type: "movie",
     year: 1998,
@@ -1893,7 +1893,7 @@ const emojiItems = [
   },
   {
     title: "Rent",
-    emojiImgs: "🍃🍂🍁♥️",
+    emojiImgs: "👨👭💊💉🎶",
     genres: ["drama", "musical", "romance"],
     type: "movie",
     year: 2005
@@ -1922,7 +1922,7 @@ const emojiItems = [
   },
   {
     title: "Rugrats",
-    emojiImgs: "👶🏻👶🏼👶🏻👶🏻👧🏻",
+    emojiImgs: "👶👧👶🍼🐁",
     genres: ["animation", "comedy"],
     type: "tv",
     year: 1990,
@@ -2115,7 +2115,7 @@ const emojiItems = [
   },
   {
     title: "So You Think You Can Dance",
-    emojiImgs: "👦👧🎶💃🕺",
+    emojiImgs: "🤔💃🕺🎶❓",
     genres: ["reality-tv", "music", "game-show"],
     type: "tv",
     year: 2005,
@@ -2154,7 +2154,7 @@ const emojiItems = [
   },
   {
     title: "Spiderman",
-    emojiImgs: "😎🕷💪😍",
+    emojiImgs: "🕷️👨‍💪🕸️🕸️",
     genres: ["action", "adventure", "sci-fi"],
     type: "movie",
     year: 2019
@@ -2309,7 +2309,7 @@ const emojiItems = [
   },
   {
     title: "Tropic Thunder",
-    emojiImgs: "😼😽🙀😿😾",
+    emojiImgs: "🚁🌲🌲🔫⛈️",
     genres: ["action", "adventure", "comedy"],
     type: "movie",
     year: 2008
