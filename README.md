@@ -43,9 +43,8 @@ In the `data.js` file, each `Emoji Card` consists of the following object:
 
 View the [Card Overview](/docs/card_overview.md) for more details on each part of the emoji object.
 
-Please follow all the instructions in the [Card Overview](/docs/card_overview.md) for adding a show or movie.
-
 ### Important Notes
+* Follow all the instructions in the [Card Overview](/docs/card_overview.md) for adding a show or movie.
 * Search the data.js file and pull requests to make sure you are not adding a duplicate.
 * Make sure your emojis actually depict the show or movie.
 * You do not have to wait for confirmation to create a pull request for a show or movie and you do not have to make an Issue first.
