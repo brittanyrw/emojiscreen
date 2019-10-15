@@ -43,6 +43,12 @@ In the `data.js` file, each `Emoji Card` consists of the following object:
 
 View the [Card Overview](/docs/card_overview.md) for more details on each part of the emoji object.
 
+#### Walkthroughs
+Below are detailed walkthroughs on how to add a show or movie to EmojiScreen.
+
+* [Add a show or movie via Github website](docs/github_ui_walkthrough.md) (no downloads required)
+* [Add a show or movie using your local development environment](docs/local_dev_walkthrough.md) (downloads required, most commonly used way to contribute)
+
 ### Important Notes
 * Follow all the instructions in the [Card Overview](/docs/card_overview.md) for adding a show or movie.
 * Search the data.js file and pull requests to make sure you are not adding a duplicate.
@@ -50,6 +56,19 @@ View the [Card Overview](/docs/card_overview.md) for more details on each part o
 * You do not have to wait for confirmation to create a pull request for a show or movie and you do not have to make an Issue first.
 * **[Go through this checklist](docs/card_overview.md#card-pull-request-checklist) to make sure you have added everything needed for a show or movie.** 
 * Please [fix conflicts](https://help.github.com/en/articles/resolving-a-merge-conflict-on-github) if your pull request has them.
+
+## Other Projects
+
+Check out my other emoji themed projects.
+
+### 🎶 EmojiBops: A listing of songs depicted via emojis.
+* View [EmojiBops.com](https://emojibops.com).
+* View EmojiBops [on Github](https://github.com/brittanyrw/emojibops/).
+
+### 📚 EmojiPages: A listing of songs depicted via emojis.
+* View [EmojiPages.com](https://emojipages.com).
+* View EmojiPages [on Github](https://github.com/brittanyrw/emojipages/).
+
 
 ## Git and GitHub Resources
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
