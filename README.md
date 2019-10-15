@@ -47,18 +47,6 @@ For the time being we are only looking for new Pull Requests for features.
 * Try creating a [new branch](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) for your pull request.
 * [Syncing your Fork](https://help.github.com/en/articles/syncing-a-fork)
 
-## Other Projects
-
-Check out my other emoji themed projects.
-
-### 🎶 EmojiBops: A listing of songs depicted via emojis.
-* View [EmojiBops.com](https://emojibops.com).
-* View EmojiBops [on Github](https://github.com/brittanyrw/emojibops/).
-
-### 📚 EmojiPages: A listing of songs depicted via emojis.
-* View [EmojiPages.com](https://emojipages.com).
-* View EmojiPages [on Github](https://github.com/brittanyrw/emojipages/).
-
 ## Credits
 
 💖Check out a list of all [of the EmojiScreen contributors](https://github.com/brittanyrw/emojiscreen/graphs/contributors).
