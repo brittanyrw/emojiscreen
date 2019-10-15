@@ -69,7 +69,6 @@ Check out my other emoji themed projects.
 * View [EmojiPages.com](https://emojipages.com).
 * View EmojiPages [on Github](https://github.com/brittanyrw/emojipages/).
 
-
 ## Git and GitHub Resources
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Additional Git/Github Practice](https://try.github.io/)
