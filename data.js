@@ -16,6 +16,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0416449/?ref_=nv_sr_1?ref_=nv_sr_1"
     },
     {
+        title: "A Christmas Carol",
+        emojiImgs: "🎄🕯️🎶🔔👴",
+        genres: ["drama", "music", "family", "fantasy"],
+        type: "movie",
+        year: 2009,
+        itemLink: "https://www.imdb.com/title/tt1067106/"
+    },
+    {
         title: "A Star is Born",
         emojiImgs: "🎤👩👨🎸⭐",
         genres: ["drama", "music", "romance"],
