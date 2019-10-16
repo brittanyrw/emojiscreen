@@ -1975,7 +1975,7 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0098904/"
   },
   {
-    title: "Seven",
+    title: "Se7en",
     emojiImgs: "🕵🔪👮‍♂️😈",
     genres: ["drama"],
     type: "movie",
