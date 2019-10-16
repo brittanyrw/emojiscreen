@@ -599,6 +599,14 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "Looper",
+        emojiImgs: "⏱️🔫🧑🧎‍🤼",
+        genres: ["sci-fi", "action"],
+        itemLink: "https://www.imdb.com/title/tt1276104/",
+        type: "movie",
+        year: 2012
+    },
+    {
         title: "The Lion King",
         emojiImgs: "🦁👑🌍",
         genres: ["animation", "adventure", "drama"],
