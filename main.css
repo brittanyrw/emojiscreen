@@ -164,10 +164,11 @@ h2 {
   height: 60px;
   font-family: inherit;
   width: 100%;
+  border: none;
 }
 
 #search input:focus {
-    outline: none;
+  outline: none;
 }
 
 #search i {
