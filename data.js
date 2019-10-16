@@ -39,13 +39,6 @@ const emojiItems = [
         year: 1986
     },
     {
-        title: "A Christmas Carol",
-        emojiImgs: "",
-        genres: ["comedy", "family", "fantasy", "suspense"],
-        type: "movie",
-        year: 2009
-    },
-    {
         title: "Alien",
         emojiImgs: "🚀👾🔫👨‍🚀",
         genres: ["suspense", "horror"],
@@ -608,7 +601,7 @@ const emojiItems = [
     {
         title: "Looper",
         emojiImgs: "⏱️🔫🧑🧎‍🤼",
-        genres: ["sci-fi", "action", "drama"],
+        genres: ["sci-fi", "action"],
         itemLink: "https://www.imdb.com/title/tt1276104/",
         type: "movie",
         year: 2012
