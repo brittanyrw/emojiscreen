@@ -174,8 +174,9 @@ h2 {
   background: rgba(0, 0, 0, 0);
 }
 
-#search button, #search button:disabled:hover {
-  background-color: lightgray;
+#search button {
+  background-color: gold;
+  height: 60px;
 }
 
 #emojis {
