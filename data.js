@@ -18,7 +18,7 @@ const emojiItems = [
     {
         title: "A Christmas Carol",
         emojiImgs: "🎄🕯️🎶🔔👴",
-        genres: ["drama", "music", "family", "fantasy"],
+        genres: ["drama", "family", "fantasy"],
         type: "movie",
         year: 2009,
         itemLink: "https://www.imdb.com/title/tt1067106/"
