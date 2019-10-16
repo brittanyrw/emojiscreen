@@ -2391,6 +2391,14 @@ const emojiItems = [
     year: 1999
   },
   {
+    title: "Wall Street: Money Never Sleeps",
+    emojiImgs: "🗽👔💼🤑💰💸❌😴",
+    genres: ["drama "],
+    itemLink: "https://www.imdb.com/title/tt1027718/",
+    type: "movie",
+    year: 2010
+  },
+  {
     title: "Where in the World is Carmen Sandiego?",
     emojiImgs: "🤔🌎🕵️‍♀️💄",
     genres: ["game show", "children"],
@@ -2502,6 +2510,14 @@ const emojiItems = [
     emojiImgs: "👦⏱️👧🇯🇵⛰️",
     genres: ["animation", "drama", "fantasy"],
     itemLink: "https://www.imdb.com/title/tt5311514/",
+    type: "movie",
+    year: 2016
+  },
+  {
+    title: "Zootopia",
+    emojiImgs: "🌇🐰🚓🔎🐯🐑",
+    genres: ["animation", "adventure", "comedy"],
+    itemLink: "https://www.imdb.com/title/tt2948356/",
     type: "movie",
     year: 2016
   }
