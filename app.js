@@ -63,7 +63,7 @@ $(document).ready(function() {
       var filtertag = $(this).attr("data-filter");
       $("#message").hide();
       $("div.emoji-card-title").addClass("hide-card");
-      if (filtertag == "view-all") { // If the user clicks on view all, show all cards.
+      if (filtertag == "view-all") { // If the user clicks on view all or reset, show all cards.
         $("div.emoji-card").show();
       } else if ( // If the user clicks on movies, musicals or tv shows, show the cards that fall into that category and hide all cards that do not fall into that category.
         $("div.emoji-card[data-filter='" + filtertag + "']").length > 0
@@ -85,24 +85,24 @@ $(document).ready(function() {
         );
       }
       $("#search input").val(""); //Clear search bar
-      $("#search button").prop("disabled", true); //Disable search button
+      $(".search").prop("disabled", true); //Disable search button
     });
   });
 
   // Trigger search submit button on pressing "Enter" key
   $("#search input").on("keyup", function(e) {
-    if (e.keyCode === 13 && !$("#search button").is(":disabled")) {
-      $("#search button").click();
+    if (e.keyCode === 13 && !$(".search").is(":disabled")) {
+      $(".search").click();
     }
   });
 
   // Disable search submit button when search bar is empty
-  $("#search button").prop("disabled", true);
+  $(".search").prop("disabled", true);
   $(document).on("input", "input:text", function() {
     if ($("#search input").val()) {
-      $("#search button").prop("disabled", false);     
+      $(".search").prop("disabled", false);     
     } else {
-      $("#search button").prop("disabled", true);
+      $(".search").prop("disabled", true);
     }
   });
 

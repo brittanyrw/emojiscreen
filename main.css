@@ -175,8 +175,16 @@ h2 {
 }
 
 #search button {
-  background-color: gold;
   height: 60px;
+}
+
+.search {
+  background-color: gold;
+}
+
+.reset {
+  background-color: lightgray;
+  margin-left: 20px;
 }
 
 #emojis {
