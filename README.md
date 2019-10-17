@@ -24,6 +24,8 @@ If you would like to suggest a new feature, create [an Issue](https://github.com
 
 To add a show or movie to this project, you will need to add an `Emoji Card` inside of the `data.js` file. The `data.js` file is made up of an array (a list) of objects. You will add a new object for your show. 
 
+If you need help choosing a movie or show, [check the Issues](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis).
+
 Below is an example of what a show looks like on the website:
 
 ![Screenshot of Beauty and the Beast Emoji Card](/readme/emoji-card.png)
