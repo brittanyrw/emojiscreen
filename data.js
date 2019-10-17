@@ -330,6 +330,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt1217209/"
   },
   {
+    title: "Braveheart",
+    emojiImgs: "🧔👰🥰🤴🔥😭🤬💀",
+    genres: ["biography", "drama", "history"],
+    type: "movie",
+    year: 1995,
+    itemLink: "https://www.imdb.com/title/tt0112573/"
+  },
+  {
     title: "Breaking Bad",
     emojiImgs: "🌵🤓🧪💊💰",
     genres: ["crime", "drama", "thriller"],
