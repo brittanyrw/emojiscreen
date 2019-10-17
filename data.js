@@ -8,6 +8,7 @@ const emojiItems = [
     itemLink:
       "http://www.playbill.com/production/the-25th-annual-putnam-county-spelling-bee-circle-in-the-square-theatre-vault-0000003219"
   },
+  
   {
     title: "The Great British Bake Off",
     emojiImgs: "👍🇬🇧🍞🎂🥐",
@@ -15,6 +16,14 @@ const emojiItems = [
     type: "tv",
     year: 2010,
     itemLink: "https://www.imdb.com/title/tt1877368/"
+  },
+  {
+    title: "Joker",
+    emojiImgs: "🤯😭🤡😈🔫",
+    genres: ["drama", "crime","thriller"],
+    type: "movie",
+    year: 2019,
+    itemLink: "https://www.imdb.com/title/tt7286456/"
   },
   {
     title: "2001: A Space Odyssey ",
