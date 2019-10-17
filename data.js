@@ -428,8 +428,9 @@ const emojiItems = [
   {
     title: "Cats",
     emojiImgs: "😸 😹 😻 🙀 😿",
-    genres: ["drama","musical"],
-    itemLink: "https://www.http://www.playbill.com/production/cats-winter-garden-theatre-vault-0000011527.com/title/tt0357413/",
+    genres: ["drama", "musical"],
+    itemLink:
+      "https://www.http://www.playbill.com/production/cats-winter-garden-theatre-vault-0000011527.com/title/tt0357413/",
     type: "musical",
     year: 1982
   },
@@ -574,14 +575,17 @@ const emojiItems = [
     emojiImgs: "💌⚰️👨‍👩‍👧‍👦💻💞",
     genres: ["drama", "musical"],
     type: "musical",
-    year: 2015
+    year: 2015,
+    itemLink:
+      "http://www.playbill.com/production/dear-evan-hansen-music-box-theatre-2016-2017"
   },
   {
     title: "Devil Wears Prada",
     emojiImgs: "😈💄👠🧣👓",
     genres: ["comedy", "drama"],
     type: "movie",
-    year: 2006
+    year: 2006,
+    itemLink: "https://www.imdb.com/title/tt0458352/"
   },
   {
     title: "Dinosaurs",
@@ -612,7 +616,8 @@ const emojiItems = [
     emojiImgs: "🍉💃🕶🕺👶",
     genres: ["drama", "music", "romance"],
     type: "movie",
-    year: 1987
+    year: 1987,
+    itemLink: "https://www.imdb.com/title/tt0092890/"
   },
   {
     title: "Donnie Darko",
@@ -643,7 +648,8 @@ const emojiItems = [
     emojiImgs: "👧🐒🏕️🏰💰",
     genres: ["fantasy", "adventure", "comedy"],
     type: "movie",
-    year: 2019
+    year: 2019,
+    itemLink: "https://www.imdb.com/title/tt7547410/"
   },
   {
     title: "Dreams",
@@ -682,7 +688,8 @@ const emojiItems = [
     emojiImgs: "🌙🚲👉🏻👈🏻👽",
     genres: ["family", "sci-fi"],
     type: "movie",
-    year: 1982
+    year: 1982,
+    itemLink: "https://www.imdb.com/title/tt0083866/"
   },
   {
     title: "Edward Sicssorhands",
@@ -713,35 +720,40 @@ const emojiItems = [
     emojiImgs: "🚔🌳👶🏻⚰️",
     genres: ["crime", "drama", "thriller"],
     type: "movie",
-    year: 1996
+    year: 1996,
+    itemLink: "https://www.imdb.com/title/tt0116282/"
   },
   {
     title: "The Fast and the Furious",
     emojiImgs: "🚗💨😡",
     genres: ["action", "crime", "thriller"],
     type: "movie",
-    year: 2001
+    year: 2001,
+    itemLink: "https://www.imdb.com/title/tt0232500/"
   },
   {
     title: "Fight Club",
     emojiImgs: "🥊🧼🤐",
     genres: ["drama"],
     type: "movie",
-    year: 1999
+    year: 1999,
+    itemLink: "https://www.imdb.com/title/tt0137523/"
   },
   {
     title: "Finding Nemo",
     emojiImgs: "🐟🦈🔭",
     genres: ["animation"],
     type: "movie",
-    year: 2003
+    year: 2003,
+    itemLink: "https://www.imdb.com/title/tt0266543/"
   },
   {
     title: "Five Feet Apart ",
     emojiImgs: "🏣🧒5⃣👧💞",
     genres: ["Drama", "Romance", "Comedy"],
     type: "movie",
-    year: 2019
+    year: 2019,
+    itemLink: "https://www.imdb.com/title/tt6472976/"
   },
   {
     title: "The Fresh Prince of Bel-Air",
@@ -788,7 +800,8 @@ const emojiItems = [
     emojiImgs: "👭☃️❄️",
     genres: ["animation", "adventure", "comedy"],
     type: "movie",
-    year: 2013
+    year: 2013,
+    itemLink: "https://www.imdb.com/title/tt2294629/"
   },
   {
     title: "Firebringer",
@@ -1435,7 +1448,8 @@ const emojiItems = [
     genres: ["musical"],
     type: "musical",
     year: 2013,
-    itemLink: "http://www.playbill.com/production/matilda-the-musical-shubert-theatre-vault-0000013970"
+    itemLink:
+      "http://www.playbill.com/production/matilda-the-musical-shubert-theatre-vault-0000013970"
   },
   {
     title: "Mad Men",
@@ -1507,7 +1521,8 @@ const emojiItems = [
     genres: ["drama", "war", "musical"],
     type: "musical",
     year: 1991,
-    itemLink: "http://www.playbill.com/production/miss-saigon-broadway-theatre-vault-0000012256"
+    itemLink:
+      "http://www.playbill.com/production/miss-saigon-broadway-theatre-vault-0000012256"
   },
   {
     title: "Mr.Robot",
@@ -1695,7 +1710,8 @@ const emojiItems = [
     title: "Pippin",
     emojiImgs: "🕰👦🏻🤝⚔💞",
     genres: ["musical", "history", "romance", "war", "drama"],
-    itemLink: "http://www.playbill.com/production/pippin-imperial-theatre-vault-0000006044",
+    itemLink:
+      "http://www.playbill.com/production/pippin-imperial-theatre-vault-0000006044",
     type: "musical",
     year: 1972
   },
@@ -1720,12 +1736,13 @@ const emojiItems = [
     genres: ["drama", "romance"],
     type: "musical",
     year: 1988,
-    itemLink: "http://www.playbill.com/production/the-phantom-of-the-opera-majestic-theatre-vault-0000007818"
+    itemLink:
+      "http://www.playbill.com/production/the-phantom-of-the-opera-majestic-theatre-vault-0000007818"
   },
   {
     title: "Pokemon: The First Movie",
     emojiImgs: "👦️🐁️😭️",
-    genres: ["animation","action","adventure","family"],
+    genres: ["animation", "action", "adventure", "family"],
     type: "movie",
     year: 1998,
     itemLink: "https://www.imdb.com/title/tt0190641/"
@@ -1839,35 +1856,35 @@ const emojiItems = [
     genres: ["drama", "sport"],
     type: "movie",
     year: 1979
-},
-{
+  },
+  {
     title: "Rocky III",
     emojiImgs: "🏃‍👊🥊",
     genres: ["drama", "sport"],
     type: "movie",
     year: 1982
-},
-{
+  },
+  {
     title: "Rocky IV",
     emojiImgs: "🥊🤼‍️💪‍",
     genres: ["drama", "sport"],
     type: "movie",
     year: 1985
-},
-{
+  },
+  {
     title: "Rocky V",
     emojiImgs: "🏃‍🥊🏋️‍",
     genres: ["drama", "sport"],
     type: "movie",
     year: 1990
-},
-{
+  },
+  {
     title: "Rocky Balboa",
     emojiImgs: "💪‍🥊🕴️",
     genres: ["drama", "sport"],
     type: "movie",
     year: 2006
-},
+  },
   {
     title: "The Room",
     emojiImgs: "🏠💔🏈",
