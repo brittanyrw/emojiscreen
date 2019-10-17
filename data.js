@@ -646,6 +646,13 @@ const emojiItems = [
     year: 2019
   },
   {
+    title: "Dr. Jekyll and Mr. Hyde",
+    emojiImgs: "👨‍⚕🧪👹",
+    genres: ["horror", "sci-fi"],
+    type: "movie",
+    year: 1931
+  },
+  {
     title: "Dreams",
     emojiImgs: "💤💭👺🇯🇵",
     genres: ["drama", "fantasy"],
