@@ -8,7 +8,14 @@ const emojiItems = [
     itemLink:
       "http://www.playbill.com/production/the-25th-annual-putnam-county-spelling-bee-circle-in-the-square-theatre-vault-0000003219"
   },
-  
+  {
+    title: "Jexi",
+    emojiImgs: "📲🤣🥰💘",
+    genres: ["comedy"],
+    type: "movie",
+    year: 2019,
+    itemLink: "https://www.imdb.com/title/tt9354944/"
+  },
   {
     title: "The Great British Bake Off",
     emojiImgs: "👍🇬🇧🍞🎂🥐",
@@ -20,7 +27,7 @@ const emojiItems = [
   {
     title: "Joker",
     emojiImgs: "🤯😭🤡😈🔫",
-    genres: ["drama", "crime","thriller"],
+    genres: ["drama", "crime", "thriller"],
     type: "movie",
     year: 2019,
     itemLink: "https://www.imdb.com/title/tt7286456/"
@@ -437,8 +444,9 @@ const emojiItems = [
   {
     title: "Cats",
     emojiImgs: "😸 😹 😻 🙀 😿",
-    genres: ["drama","musical"],
-    itemLink: "https://www.http://www.playbill.com/production/cats-winter-garden-theatre-vault-0000011527.com/title/tt0357413/",
+    genres: ["drama", "musical"],
+    itemLink:
+      "https://www.http://www.playbill.com/production/cats-winter-garden-theatre-vault-0000011527.com/title/tt0357413/",
     type: "musical",
     year: 1982
   },
@@ -1444,7 +1452,8 @@ const emojiItems = [
     genres: ["musical"],
     type: "musical",
     year: 2013,
-    itemLink: "http://www.playbill.com/production/matilda-the-musical-shubert-theatre-vault-0000013970"
+    itemLink:
+      "http://www.playbill.com/production/matilda-the-musical-shubert-theatre-vault-0000013970"
   },
   {
     title: "Mad Men",
@@ -1516,7 +1525,8 @@ const emojiItems = [
     genres: ["drama", "war", "musical"],
     type: "musical",
     year: 1991,
-    itemLink: "http://www.playbill.com/production/miss-saigon-broadway-theatre-vault-0000012256"
+    itemLink:
+      "http://www.playbill.com/production/miss-saigon-broadway-theatre-vault-0000012256"
   },
   {
     title: "Mr.Robot",
@@ -1704,7 +1714,8 @@ const emojiItems = [
     title: "Pippin",
     emojiImgs: "🕰👦🏻🤝⚔💞",
     genres: ["musical", "history", "romance", "war", "drama"],
-    itemLink: "http://www.playbill.com/production/pippin-imperial-theatre-vault-0000006044",
+    itemLink:
+      "http://www.playbill.com/production/pippin-imperial-theatre-vault-0000006044",
     type: "musical",
     year: 1972
   },
@@ -1729,12 +1740,13 @@ const emojiItems = [
     genres: ["drama", "romance"],
     type: "musical",
     year: 1988,
-    itemLink: "http://www.playbill.com/production/the-phantom-of-the-opera-majestic-theatre-vault-0000007818"
+    itemLink:
+      "http://www.playbill.com/production/the-phantom-of-the-opera-majestic-theatre-vault-0000007818"
   },
   {
     title: "Pokemon: The First Movie",
     emojiImgs: "👦️🐁️😭️",
-    genres: ["animation","action","adventure","family"],
+    genres: ["animation", "action", "adventure", "family"],
     type: "movie",
     year: 1998,
     itemLink: "https://www.imdb.com/title/tt0190641/"
@@ -1848,35 +1860,35 @@ const emojiItems = [
     genres: ["drama", "sport"],
     type: "movie",
     year: 1979
-},
-{
+  },
+  {
     title: "Rocky III",
     emojiImgs: "🏃‍👊🥊",
     genres: ["drama", "sport"],
     type: "movie",
     year: 1982
-},
-{
+  },
+  {
     title: "Rocky IV",
     emojiImgs: "🥊🤼‍️💪‍",
     genres: ["drama", "sport"],
     type: "movie",
     year: 1985
-},
-{
+  },
+  {
     title: "Rocky V",
     emojiImgs: "🏃‍🥊🏋️‍",
     genres: ["drama", "sport"],
     type: "movie",
     year: 1990
-},
-{
+  },
+  {
     title: "Rocky Balboa",
     emojiImgs: "💪‍🥊🕴️",
     genres: ["drama", "sport"],
     type: "movie",
     year: 2006
-},
+  },
   {
     title: "The Room",
     emojiImgs: "🏠💔🏈",
