@@ -9,6 +9,14 @@ const emojiItems = [
       "http://www.playbill.com/production/the-25th-annual-putnam-county-spelling-bee-circle-in-the-square-theatre-vault-0000003219"
   },
   {
+    title: "The 400 Blows(LES QUATRE CENTS COUPS)",
+    emojiImgs: "👦⏱️👩🏼",
+    genres: ["Art House", "International", "Classics", "Drama"],
+    itemLink: "https://www.imdb.com/title/tt0053198/?ref_=fn_al_tt_2",
+    type: "movie",
+    year: 1959
+  },
+  {
     title: "The Great British Bake Off",
     emojiImgs: "👍🇬🇧🍞🎂🥐",
     genres: ["baking", "reality"],
@@ -2504,5 +2512,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt5311514/",
     type: "movie",
     year: 2016
-  }
+  },
+   
 ];
