@@ -546,6 +546,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0348914/"
   },
   {
+    title: "The Dark Knight",
+    emojiImgs: "🦇🕶️🏇⚔️",
+    genres: ["action", "crime", "drama"],
+    itemLink: "https://www.imdb.com/title/tt0468569/",
+    type: "movie",
+    year: 2008
+  },
+  {
     title: "Dark Phoenix",
     emojiImgs: "🕶️☀️🔥 ",
     genres: ["sci-fi", "action", "adventure"],
