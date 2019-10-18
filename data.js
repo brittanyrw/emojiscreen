@@ -738,6 +738,14 @@ const emojiItems = [
     year: 1999
   },
   {
+    title: "Finding Dory",
+    emojiImgs: "🔎🐠🐙",
+    genres: ["animation", "adventure", "comedy"],
+    type: "movie",
+    year: 2016,
+    itemLink: "https://www.imdb.com/title/tt2277860/"
+  },
+  {
     title: "Finding Nemo",
     emojiImgs: "🐟🦈🔭",
     genres: ["animation"],
