@@ -649,6 +649,7 @@ const emojiItems = [
     title: "Dr. Jekyll and Mr. Hyde",
     emojiImgs: "👨‍⚕🧪👹",
     genres: ["horror", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt0022835/",
     type: "movie",
     year: 1931
   },
