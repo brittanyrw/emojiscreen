@@ -2505,8 +2505,7 @@ const emojiItems = [
     type: "movie",
     year: 2016
   },
-  
-   {
+  {
     title: "WatchMen",
     emojiImgs: "⌚👀👨 ",
     genres: ["Action", "Drama", "Mystery", "Sci-Fi"],
@@ -2514,11 +2513,10 @@ const emojiItems = [
     type: "movie",
     year: 2009
   },
-
   {
     title: "Joker",
     emojiImgs: "🤡🃏",
-    genres: ["Crime", "Drama", "Thriller"]
+    genres: ["Crime", "Drama", "Thriller"],
     itemLink: "https://www.imdb.com/title/tt7286456/",
     type: "movie",
     year: 2009
