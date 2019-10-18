@@ -2507,7 +2507,7 @@ const emojiItems = [
   },
   {
     title: "WatchMen",
-    emojiImgs: "⌚👀👨 ",
+    emojiImgs: "⌚👀👨",
     genres: ["Action", "Drama", "Mystery", "Sci-Fi"],
     itemLink: "https://www.imdb.com/title/tt0409459/",
     type: "movie",
