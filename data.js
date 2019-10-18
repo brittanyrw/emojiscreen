@@ -2520,5 +2520,13 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt5311514/",
     type: "movie",
     year: 2016
+  },
+  {
+    title: "Mommy",
+    emojiImgs: "🤫",
+    genres: ["drama", "quebec"],
+    itemLink: "https://www.imdb.com/title/tt3612616/",
+    type: "movie",
+    year: 2014
   }
 ];
