@@ -573,6 +573,7 @@ const emojiItems = [
     title: "Dear Evan Hansen",
     emojiImgs: "💌⚰️👨‍👩‍👧‍👦💻💞",
     genres: ["drama", "musical"],
+    itemLink: "http://www.playbill.com/production/dear-evan-hansen-music-box-theatre-2016-2017",
     type: "musical",
     year: 2015
   },
@@ -580,6 +581,7 @@ const emojiItems = [
     title: "Devil Wears Prada",
     emojiImgs: "😈💄👠🧣👓",
     genres: ["comedy", "drama"],
+    itemLink: "https://www.imdb.com/title/tt0458352/",
     type: "movie",
     year: 2006
   },
@@ -611,6 +613,7 @@ const emojiItems = [
     title: "Dirty Dancing",
     emojiImgs: "🍉💃🕶🕺👶",
     genres: ["drama", "music", "romance"],
+    itemLink: "https://www.imdb.com/title/tt0092890/",
     type: "movie",
     year: 1987
   },
@@ -642,6 +645,7 @@ const emojiItems = [
     title: "Dora and the Lost City of Gold",
     emojiImgs: "👧🐒🏕️🏰💰",
     genres: ["fantasy", "adventure", "comedy"],
+    itemLink: "https://www.imdb.com/title/tt7547410/",
     type: "movie",
     year: 2019
   },
@@ -681,6 +685,7 @@ const emojiItems = [
     title: "E.T. the Extra-Terrestrial",
     emojiImgs: "🌙🚲👉🏻👈🏻👽",
     genres: ["family", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt0083866/",
     type: "movie",
     year: 1982
   },
@@ -712,6 +717,7 @@ const emojiItems = [
     title: "Fargo",
     emojiImgs: "🚔🌳👶🏻⚰️",
     genres: ["crime", "drama", "thriller"],
+    itemLink: "https://www.imdb.com/title/tt0116282/",
     type: "movie",
     year: 1996
   },
@@ -719,6 +725,7 @@ const emojiItems = [
     title: "The Fast and the Furious",
     emojiImgs: "🚗💨😡",
     genres: ["action", "crime", "thriller"],
+    itemLink: "https://www.imdb.com/title/tt0232500/",
     type: "movie",
     year: 2001
   },
@@ -726,6 +733,7 @@ const emojiItems = [
     title: "Fight Club",
     emojiImgs: "🥊🧼🤐",
     genres: ["drama"],
+    itemLink: "https://www.imdb.com/title/tt0137523/",
     type: "movie",
     year: 1999
   },
@@ -733,13 +741,15 @@ const emojiItems = [
     title: "Finding Nemo",
     emojiImgs: "🐟🦈🔭",
     genres: ["animation"],
+    itemLink: "https://www.imdb.com/title/tt0266543/",
     type: "movie",
     year: 2003
   },
   {
-    title: "Five Feet Apart ",
+    title: "Five Feet Apart",
     emojiImgs: "🏣🧒5⃣👧💞",
     genres: ["Drama", "Romance", "Comedy"],
+    itemLink: "https://www.imdb.com/title/tt6472976/",
     type: "movie",
     year: 2019
   },
@@ -787,6 +797,7 @@ const emojiItems = [
     title: "Frozen",
     emojiImgs: "👭☃️❄️",
     genres: ["animation", "adventure", "comedy"],
+    itemLink: "https://www.imdb.com/title/tt2294629/",
     type: "movie",
     year: 2013
   },
