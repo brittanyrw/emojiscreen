@@ -1868,7 +1868,7 @@ const emojiItems = [
     type: "movie",
     year: 2006
 },
-  {
+{
     title: "The Room",
     emojiImgs: "🏠💔🏈",
     genres: ["drama"],
@@ -2505,7 +2505,6 @@ const emojiItems = [
     type: "movie",
     year: 2016
   },
-
   {
     title: "WatchMen",
     emojiImgs: "⌚👀👨 ",
@@ -2514,7 +2513,6 @@ const emojiItems = [
     type: "movie",
     year: 2009
   },
-
   {
     title: "Joker",
     emojiImgs: "🤡🃏",
