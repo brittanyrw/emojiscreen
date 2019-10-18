@@ -2237,6 +2237,14 @@ const emojiItems = [
     year: 1979
   },
   {
+    title: "Tarzan",
+    emojiImgs: "🦍🌴👨❤️👩",
+    genres: ["animation", "adventure", "family"],
+    type: "movie",
+    year: 1999,
+    itemLink: "https://www.imdb.com/title/tt0120855/"
+  },
+  {
     title: "Taxi Driver",
     emojiImgs: "🚕🙎‍♂️👮‍♂️🤬",
     genres: ["crime", "drama"],
