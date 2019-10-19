@@ -121,9 +121,9 @@ $(document).ready(function() {
   });
 
   var update = updateEmojisWidthBy(25);
-  // Expand all emojis by 10% when expand button is clicked
+  // Expand all emojis by 25% when expand button is clicked
   $("#btn-expand-all").click(update);
-  // Shrink all emojis by 10% when expand button is clicked
+  // Shrink all emojis by 25% when expand button is clicked
   $("#btn-shrink-all").click(update);
 
   /*
@@ -133,7 +133,8 @@ $(document).ready(function() {
    * gets called.
    */
   function updateEmojisWidthBy (increment) {
-    var initialWidth = Number($(".emoji-images img").css("width").slice(0, -2)),
+    var imgInitialWidth = $(".emoji-images img").css("width").slice(0, -2),
+        titleInitialFontSize = $(".emoji-card-title h3").css("font-size").slice(0, -2),
         percentage = 100,
         expandTitle = $("#btn-expand-all").attr("title"),
         shrinkTitle = $("#btn-shrink-all").attr("title");
@@ -141,6 +142,7 @@ $(document).ready(function() {
       var role = $(this)[0].id.split('-')[1],
           $emojisContainer = $("#emojis"),
           $emojiImage = $(".emoji-images img"),
+          $emojiTitle = $(".emoji-card-title h3"),
           $btnExpandAll = $("#btn-expand-all"),
           $btnShrinkAll = $("#btn-shrink-all");
 
@@ -168,7 +170,12 @@ $(document).ready(function() {
 
       $btnExpandAll.attr("title", percentage + '%');
       $btnShrinkAll.attr("title", percentage + '%');
-      $emojiImage.css('width', `${Math.round(initialWidth * percentage / 100)}`);
+      /**
+       * It didn't seem right to only increase the width
+       * of the images, leaving the title font-size untouched.
+       */
+      $emojiImage.css('width', `${Math.round(imgInitialWidth * percentage / 100)}px`);
+      $emojiTitle.css('font-size', `${Math.round(titleInitialFontSize * percentage / 100)}px`);
 
       if (percentage == 100) {
         $btnExpandAll.attr("title", expandTitle);
