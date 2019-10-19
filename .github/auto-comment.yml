@@ -1,12 +1,5 @@
 pullRequestOpened: >
-  Thank you for opening this pull request, your code will be reviewed soon! 
+  Thank you for opening this pull request, your code will be reviewed soon! Please follow the contribution guidelines outlined in the README.
   
   
-  If any updates need to be made, I will leave a comment for you here outlining exactly what you need to change for your pull request to be accepted. 💖
-  
-  
-  In the meantime, feel free to contribute to one of my other projects: 
-  
-  📚 EmojiPages - A listing of books and plays. (https://github.com/brittanyrw/emojipages)
-  
-  🎶 EmojiBops - A listing of songs. (https://github.com/brittanyrw/emojibops)
+  If your pull request status (at the bottom of this page) says "This branch has conflicts that must be resolved", please <a href="https://help.github.com/en/articles/resolving-a-merge-conflict-on-github" target="_blank">resolve the conflicts</a> so that we can review your changes. 

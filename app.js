@@ -100,6 +100,14 @@ $(document).ready(function() {
 
   // Toggle to expand or hide all of the movie/show names by clicking an icon
   $(".btn-reveal-all").click(function() {
+    $(this).toggleClass(["revealed"])
+    var emojis = $("#emojis")
+      .find(".emoji-card-title");
+    if($(this).hasClass("revealed")){
+      emojis.removeClass("hide-card");
+    } else {
+      emojis.addClass("hide-card");
+    }
     var title = $(this).attr("title");
     title =
       title.search(/reveal/i) === -1
@@ -110,21 +118,19 @@ $(document).ready(function() {
     $(this)
       .find("i")
       .toggleClass(["fa-eye", "fa-eye-slash"]);
-    $("#emojis")
-      .find(".emoji-card-title")
-      .toggleClass("hide-card");
   });
 
-  var update = updateEmojisWidthBy(10);
+  var update = updateEmojisWidthBy(25);
   // Expand all emojis by 10% when expand button is clicked
   $("#btn-expand-all").click(update);
   // Shrink all emojis by 10% when expand button is clicked
   $("#btn-shrink-all").click(update);
 
   /*
-   * Values are "cached" in closure to keep track of the
+   * Values are "cached" via closure to keep track of the
    * initial state. Increment argument can be changed above
-   * on line 118, where updateEmojisWidthBy is called.
+   * on line 118, as an argument, where updateEmojisWidthBy
+   * gets called.
    */
   function updateEmojisWidthBy (increment) {
     var initialWidth = Number($(".emoji-images img").css("width").slice(0, -2)),
@@ -186,4 +192,3 @@ $(document).ready(function() {
     return titleElement
   }
 });
-
