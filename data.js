@@ -562,6 +562,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt6565702/?ref_=ttls_li_tt"
   },
   {
+    title: "The Day the Earth Stood Still",
+    emojiImgs: "☀️🌎⌛🛑",
+    genres: ["drama", "sci-fi"],
+    type: "movie",
+    year: 1951,
+    itemLink: "https://www.imdb.com/title/tt0043456/?"
+  },
+  {
     title: "Deadpool",
     emojiImgs: "⚰️🏊⚔️",
     genres: ["action", "adventure", "comedy"],
