@@ -1129,6 +1129,14 @@ const emojiItems = [
     year: 1990
   },
   {
+    title: "Ichi The Killer",
+    emojiImgs: "1️⃣🔪🤕🍆💀",
+    genres: ["action", "crime", "drama", "foreign"],
+    itemLink: "https://m.imdb.com/title/tt0296042/",
+    type: "movie",
+    year: 2001
+  },
+  {
     title: "Independence Day",
     emojiImgs: "🛸👽🌎🛩️",
     genres: ["war", "adventure", "drama", "sci-fi"],
@@ -2569,5 +2577,5 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt5311514/",
     type: "movie",
     year: 2016
-  }
+  },
 ];
