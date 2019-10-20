@@ -347,6 +347,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt1217209/"
   },
   {
+    title:"The Brave Little Toaster",
+    emojiImgs: "📻🛋📺🍞🤡🛁",
+    genres:["kids", "animated","adventure","fantasy","comedy"],
+    type:"movie",
+    year: 1987,
+    itemlink: "https://www.imdb.com/title/tt0092695/"
+  },
+  {
     title: "Breaking Bad",
     emojiImgs: "🌵🤓🧪💊💰",
     genres: ["crime", "drama", "thriller"],
@@ -561,6 +569,14 @@ const emojiItems = [
     type: "tv",
     year: 2004,
     itemLink: "https://www.imdb.com/title/tt0348914/"
+  },
+  {
+    title: "Dexter",
+    emojiImgs: "🔪💉🚤👮🏼‍👨🏼‍🦰",
+    genres: ["drama", "crime","suspense"],
+    type: "tv",
+    year: 2006,
+    itemLink: "https://www.imdb.com/title/tt0773262/"
   },
   {
     title: "The Dark Knight",
