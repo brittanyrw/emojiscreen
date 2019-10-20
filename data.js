@@ -2594,4 +2594,12 @@ const emojiItems = [
     type: "movie",
     year: 2016
   },
+  {
+    title: "Up",
+    emojiImgs: "🎈🏠🎈"
+    genres: ["animation", "kids"],
+    itemLink: "https://www.imdb.com/title/tt1049413/?ref_=fn_al_tt_1",
+    type: "movie",
+    year: 2009
+  },
 ];
