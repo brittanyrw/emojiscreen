@@ -776,6 +776,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0098800/"
   },
   {
+    title: "Fried Green Tomatoes",
+    emojiImgs: "🍅👯👒🍴☕️",
+    genres: ["feel-good", "drama"],
+    itemLink: "https://www.imdb.com/title/tt0101921/",
+    type: "movie",
+    year: 1991
+  },
+  {
     title: "From Dusk Till Down",
     emojiImgs: "🧛‍♀️🩸🦶🏻",
     genres: ["action", "crime", "horror"],
