@@ -2596,7 +2596,7 @@ const emojiItems = [
   },
   {
     title: "Up",
-    emojiImgs: "🎈🏠🎈"
+    emojiImgs: "🎈🏠🎈",
     genres: ["animation", "kids"],
     itemLink: "https://www.imdb.com/title/tt1049413/?ref_=fn_al_tt_1",
     type: "movie",
