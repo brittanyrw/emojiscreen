@@ -2184,6 +2184,14 @@ const emojiItems = [
     year: 2019
   },
   {
+    title: "Spider-Man: Homecoming",
+    emojiImgs: "🕷🦸‍♀️🏫👷🏻🦅",
+    genres: ["action", "adventure", "sci-fi"],
+    type: "movie",
+    itemLink: "https://www.imdb.com/title/tt2250912/",
+    year: 2019
+  },
+  {
     title: "Spirited Away",
     emojiImgs: "👧🏮🐷👵🐉",
     genres: ["animation", "adventure", "family"],
@@ -2322,6 +2330,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0032138/",
     type: "movie",
     year: 1939
+  },
+  {
+    title: "Thor: Ragnarok",
+    emojiImgs: "🌩🤴🏼🔨🦹🏻‍♀️🌋",
+    genres: ["action", "adventure", "comedy"],
+    itemLink: "https://www.imdb.com/title/tt3501632/",
+    type: "movie",
+    year: 2017
   },
   {
     title: "Tron: Legacy",
