@@ -2520,5 +2520,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt5311514/",
     type: "movie",
     year: 2016
+  },
+  {
+    title: "The NeverEnding STory",
+    emojiImgs: "➿📖➿",
+    genres: ["animation", "drama", "fantasy"],
+    itemLink: "https://www.imdb.com/title/tt0088323/",
+    type: "movie",
+    year: 1984
   }
 ];
+ 
