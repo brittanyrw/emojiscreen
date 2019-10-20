@@ -226,6 +226,14 @@ const emojiItems = [
     year: 2003
   },
   {
+    title: "Baby Driver",
+    emojiImgs: "👶🚗💏🔫👂🏻",
+    genres: ["drama", "action", "crime"],
+    type: "movie",
+    year: 2017,
+    itemLink: "https://www.imdb.com/title/tt3890160/"
+  },
+  {
     title: "Battleship Potemkin",
     emojiImgs: "👶🤓😱🔫🛳",
     genres: ["drama", "history"],
