@@ -1941,7 +1941,7 @@ const emojiItems = [
     type: "movie",
     year: 2006
 },
-  {
+{
     title: "The Room",
     emojiImgs: "🏠💔🏈",
     genres: ["drama"],
@@ -2465,6 +2465,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt1568911/"
   },
   {
+    title: "WatchMen",
+    emojiImgs: "⌚👀👨",
+    genres: ["Action", "Drama", "Mystery", "Sci-Fi"],
+    itemLink: "https://www.imdb.com/title/tt0409459/",
+    type: "movie",
+    year: 2009
+  },
+  {
     title: "West Side Story",
     emojiImgs: "🗽✈️⚔️🦈💔",
     genres: ["musical", "romance", "drama", "crime"],
@@ -2602,4 +2610,5 @@ const emojiItems = [
     type: "movie",
     year: 2016
   },
+ 
 ];
