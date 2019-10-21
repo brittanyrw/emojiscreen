@@ -515,6 +515,14 @@ const emojiItems = [
     year: 1995
   },
   {
+    title: "Coco",
+    emojiImgs: "🇲🇽🎸💀🔔👨‍👩‍👧‍👦",
+    genres: ["animation", "adventure", "family"],
+    itemLink: "https://www.imdb.com/title/tt2380307/",
+    type: "movie",
+    year: 2017
+  },
+  {
     title: "The Color Purple",
     emojiImgs: "💜🏃🏾‍♀️🧘🏾‍♀️",
     genres: ["drama"],
