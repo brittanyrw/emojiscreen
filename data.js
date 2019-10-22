@@ -387,6 +387,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt8391976/"
   },
   {
+    title: "Cable Girls",
+    emojiImgs: "💄👄💼📞",
+    genres: ["drama"],
+    type: "tv",
+    year: 2017,
+    itemLink: "https://www.imdb.com/title/tt5674718/"
+  },
+  {
     title: "Cars",
     emojiImgs: "🚗🍃🏁⛽️",
     genres: ["animation", "comedy", "family"],
