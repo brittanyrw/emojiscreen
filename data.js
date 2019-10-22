@@ -1496,7 +1496,7 @@ const emojiItems = [
   },
   {
     title: "Mary and Max",
-    emojiImgs: "👧👴✉🇦🇺🇺🇸🍫",
+    emojiImgs: "👧👴✉🇦🇺🇺🇸",
     genres: ["animation", "comedy", "drama"],
     type: "movie",
     year: 2009,
