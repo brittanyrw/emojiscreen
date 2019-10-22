@@ -1543,6 +1543,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0242653/"
   },
   {
+    title: "Mean Girls",
+    emojiImgs: "👚🏫📓🔥😏",
+    genres: ["movie", "comedy"],
+    type: "movie",
+    year: 2004,
+    itemLink: "https://www.imdb.com/title/tt0377092/"
+  },
+  {
     title: "Men in Black",
     emojiImgs: "👨⤵◾",
     genres: ["action", "adventure", "comedy"],
@@ -1567,12 +1575,12 @@ const emojiItems = [
     year: 2008
   },
   {
-    title: "Mean Girls",
-    emojiImgs: "👚🏫📓🔥😏",
-    genres: ["movie", "comedy"],
+    title: "Metropolis",
+    emojiImgs: "👨‍🏭👷‍♀️⛓️🏙️🤖",
+    genres: ["drama","sci-fi"],
     type: "movie",
-    year: 2004,
-    itemLink: "https://www.imdb.com/title/tt0377092/"
+    year: 1927,
+    itemLink: "https://www.imdb.com/title/tt0017136/"
   },
   {
     title: "Midsommar",
