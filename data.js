@@ -2618,5 +2618,14 @@ const emojiItems = [
     type: "movie",
     year: 2016
   },
+
+   {
+    title: "Shutter Island",
+    emojiImgs: "👦⏱️🇯🇵⛰️",
+    genres: ["Mystery", "drama", "Thriller"],
+    itemLink: "https://www.imdb.com/title/tt1130884/",
+    type: "movie",
+    year: 2010
+  }
  
 ];
