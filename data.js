@@ -2634,4 +2634,12 @@ const emojiItems = [
     type: "movie",
     year: 2010
   },
+  {
+    title: "Planet of the Apes",
+    emojiImgs: "🌎🐵🐒🙈🙉🙊",
+    genres: ["action", "adventure", "sci-Fi"],
+    itemLink: "https://www.imdb.com/title/tt0133152/",
+    type: "movie",
+    year: 2001
+  },
 ];
