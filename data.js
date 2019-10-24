@@ -2618,5 +2618,12 @@ const emojiItems = [
     type: "movie",
     year: 2016
   },
- 
+  {
+    title: "Princess Mononoke",
+    emojiImgs: "👸🐺👦🏹🐗🦌",
+    genres: ["Animation", "Adventure", "Fantasy"],
+    itemLink: "https://www.imdb.com/title/tt0119698/",
+    type: "movie",
+    year: 1997
+  },
 ];
