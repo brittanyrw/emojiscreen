@@ -1853,7 +1853,7 @@ const emojiItems = [
   },
   {
     title: "Princess Mononoke",
-    emojiImgs: "👸🐺👦🏹🐗🦌",
+    emojiImgs: "👸🐺👦🏹🦌",
     genres: ["Animation", "Adventure", "Fantasy"],
     itemLink: "https://www.imdb.com/title/tt0119698/",
     type: "movie",
