@@ -2618,5 +2618,12 @@ const emojiItems = [
     type: "movie",
     year: 2016
   },
- 
+  {
+    title: "Ocean's Eleven",
+    emojiImgs: "👨👨👨👨👨👨👨👨👨👨👨🙊",
+    genres: ["Crime", "Thriller"],
+    itemLink: "https://www.imdb.com/title/tt0240772/",
+    type: "movie",
+    year: 2001
+  },
 ];
