@@ -2618,5 +2618,13 @@ const emojiItems = [
     type: "movie",
     year: 2016
   },
+  {
+    title: "The Greatest Showman",
+    emojiImgs: "🎩🕺🎪🔥",
+    genres: ["biography", "drama", "musical"],
+    itemLink: "https://www.imdb.com/title/tt1485796/",
+    type: "movie",
+    year: 2017
+  },
  
 ];
