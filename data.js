@@ -1527,6 +1527,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0804503/"
   },
   {
+    title: "Maleficient:Mistress of Evil",
+    emojiImgs: "🧝‍♀️ 🧙‍♀️💔👸🖤",
+    genres: ["action", "fantasy"],
+    itemLink: "https://www.imdb.com/title/tt4777008/?ref_=nv_sr_1?ref_=nv_sr_1",
+    type: "movie",
+    year: 2019
+  },
+  {
     title: "Matrix",
     emojiImgs: "👨‍💻👩‍💻🔫🥋",
     genres: ["action", "sci-fi"],
@@ -2609,14 +2617,6 @@ const emojiItems = [
     genres: ["comedy"],
     type: "movie",
     year: 1974
-  },
-  {
-    title: "Maleficient:Mistress of Evil",
-    emojiImgs: "👸🧙🖤",
-    genres: ["action", "fantasy"],
-    itemLink: "https://www.imdb.com/title/tt4777008/?ref_=nv_sr_1?ref_=nv_sr_1",
-    type: "movie",
-    year: 2019
   },
   {
     title: "Your Name",
