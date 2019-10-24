@@ -2626,5 +2626,12 @@ const emojiItems = [
     type: "movie",
     year: 2006
   },
- 
+  {
+    title: "Eat Pray Love",
+    emojiImgs: "🍴🙏❤️",
+    genres: ["drama", "romance"],
+    itemLink: "https://www.imdb.com/title/tt0879870/",
+    type: "movie",
+    year: 2010
+  },
 ];
