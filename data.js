@@ -2618,5 +2618,13 @@ const emojiItems = [
     type: "movie",
     year: 2016
   },
+  {
+    title: "The Devil Wears Prada",
+    emojiImgs: "😈👠👜👗",
+    genres: ["comedy", "drama"],
+    itemLink: "https://www.imdb.com/title/tt0458352/",
+    type: "movie",
+    year: 2006
+  },
  
 ];
