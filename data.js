@@ -1615,6 +1615,14 @@ const emojiItems = [
     year: 2012
   },
   {
+    title: "Moneyball",
+    emojiImgs: "💲⚽",
+    genres: ["biography", "drama", "sport"],
+    type: "movie",
+    year: 2011,
+    itemLink: "https://www.imdb.com/title/tt1210166/"
+  },
+  {
     title: "Monty Python and the Holy Grail",
     emojiImgs: "🤵🐍⛪🍷",
     genres: ["comedy"],
