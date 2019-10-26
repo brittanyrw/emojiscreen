@@ -234,6 +234,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt3890160/"
   },
   {
+  title: "Batman Begins",
+  emojiImgs: "🦇👨🏙️",
+  genres: ["action", "adventure"],
+  itemLink: "https://www.imdb.com/title/tt0372784/",
+  type: "movie",
+  year: 2005
+  },
+  {
     title: "Battleship Potemkin",
     emojiImgs: "👶🤓😱🔫🛳",
     genres: ["drama", "history"],
