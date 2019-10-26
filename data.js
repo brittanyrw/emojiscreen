@@ -2618,5 +2618,12 @@ const emojiItems = [
     type: "movie",
     year: 2016
   },
- 
+  {
+    title: "Resident Evil",
+    emojiImgs: "🔫👩🦠🧟",
+    genres: ["action"],
+    type: "movie",
+    year: 2002,
+    itemLink: "https://www.imdb.com/title/tt0120804/"
+  },
 ];
