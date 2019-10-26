@@ -2620,7 +2620,7 @@ const emojiItems = [
   },
   {
     title: "The Other Family",
-    emojiImgs: "👦",
+    emojiImgs: "👭👨‍👨‍👦",
     genres: ["drama"],
     itemLink: "https://www.imdb.com/title/tt1695136/",
     type: "movie",
