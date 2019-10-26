@@ -1987,6 +1987,14 @@ const emojiItems = [
     year: 1992
   },
   {
+    title: "Resident Evil",
+    emojiImgs: "🔫👩🦠🧟",
+    genres: [ "action", "horror", "sci-fi"],
+    type: "movie",
+    year: 2002,
+    itemLink: "https://www.imdb.com/title/tt0120804/"
+  },
+  {
     title: "The Revenant",
     emojiImgs: "🐻💥🤕❄️🥶",
     genres: ["action", "adventure", "biography"],
@@ -2618,12 +2626,5 @@ const emojiItems = [
     type: "movie",
     year: 2016
   },
-  {
-    title: "Resident Evil",
-    emojiImgs: "🔫👩🦠🧟",
-    genres: [ "action", "horror", "sci-fi"],
-    type: "movie",
-    year: 2002,
-    itemLink: "https://www.imdb.com/title/tt0120804/"
-  },
+  
 ];
