@@ -2618,5 +2618,13 @@ const emojiItems = [
     type: "movie",
     year: 2016
   },
+  {
+    title: "The Other Family",
+    emojiImgs: "👦",
+    genres: ["drama"],
+    itemLink: "https://www.imdb.com/title/tt1695136/",
+    type: "movie",
+    year: 2011
+  },
  
 ];
