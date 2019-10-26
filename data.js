@@ -235,7 +235,7 @@ const emojiItems = [
   },
   {
   title: "Batman Begins",
-  emojiImgs: "🦇👨🏙️",
+  emojiImgs: "🦇👨🏙️🚰🤢",
   genres: ["action", "adventure"],
   itemLink: "https://www.imdb.com/title/tt0372784/",
   type: "movie",
