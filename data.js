@@ -1002,6 +1002,7 @@ const emojiItems = [
   {
     title: "Hachi: A Dog's Tale",
     emojiImgs: "👨‍🏫💔🚉🐕🌭",
+    itemLink: "https://www.imdb.com/title/tt1028532/",
     genres: ["family", "drama"],
     type: "movie",
     year: 2009
@@ -1025,6 +1026,7 @@ const emojiItems = [
   {
     title: "Hamilton: The Musical",
     emojiImgs: "💵🖋️⚖️🎵📜",
+    itemLink: "http://www.playbill.com/production/hamilton-richard-rodgers-theatre-vault-0000014104",
     genres: ["drama", "comedy", "musical"],
     type: "musical",
     year: 2015
@@ -1040,6 +1042,7 @@ const emojiItems = [
   {
     title: "Hairspray: The Musical",
     emojiImgs: "💋💃👠👨🏽‍🦱👨🏻",
+    itemLink: "http://www.playbill.com/production/hairspray-neil-simon-theatre-vault-0000000844",
     genres: ["comedy", "drama", "musical"],
     type: "musical",
     year: 2002
@@ -1055,6 +1058,7 @@ const emojiItems = [
   {
     title: "The Hangover",
     emojiImgs: "🤵🎰🥃🍾🤕",
+    itemLink: "https://www.imdb.com/title/tt1119646/",
     genres: ["comedy"],
     type: "movie",
     year: 2009
@@ -1062,6 +1066,7 @@ const emojiItems = [
   {
     title: "Harry Potter and the Chamber of Secrets",
     emojiImgs: "🐍🧙‍♂️📓👩🏻‍🦰⚡",
+    itemLink: "https://www.imdb.com/title/tt0295297/",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
     year: 2002
@@ -1069,6 +1074,7 @@ const emojiItems = [
   {
     title: "Harry Potter and the Deathly Hallows – Part 1",
     emojiImgs: "👰🏻🤵🏻💀🐍🔪",
+    itemLink: "https://www.imdb.com/title/tt0926084/",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
     year: 2010
@@ -1076,6 +1082,7 @@ const emojiItems = [
   {
     title: "Harry Potter and the Deathly Hallows – Part 2",
     emojiImgs: "💍💀🐍🏰🔥",
+    itemLink: "https://www.imdb.com/title/tt1201607/",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
     year: 2011
@@ -1083,6 +1090,7 @@ const emojiItems = [
   {
     title: "Harry Potter and the Goblet of Fire",
     emojiImgs: "🐉🧜☠️🏆🧙‍♂️",
+    itemLink: "https://www.imdb.com/title/tt0330373/",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
     year: 2005
@@ -1090,6 +1098,7 @@ const emojiItems = [
   {
     title: "Harry Potter and the Half-Blood Prince",
     emojiImgs: "👦🏻🐍💀📖🧙🏻‍♂️",
+    itemLink: "https://www.imdb.com/title/tt0417741/",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
     year: 2009
@@ -1097,6 +1106,7 @@ const emojiItems = [
   {
     title: "Harry Potter and the Order of the Phoenix",
     emojiImgs: "💀🏠💅🏻💭🔮",
+    itemLink: "https://www.imdb.com/title/tt0373889/",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
     year: 2007
@@ -1104,6 +1114,7 @@ const emojiItems = [
   {
     title: "Harry Potter and the Philosopher's Stone",
     emojiImgs: "📨🎂✨📖💎",
+    itemLink: "https://www.imdb.com/title/tt0241527/",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
     year: 2001
@@ -1111,6 +1122,7 @@ const emojiItems = [
   {
     title: "Harry Potter and the Prisoner of Azkaban",
     emojiImgs: "👨‍🏫🌕🐺🐀⚡",
+    itemLink: "https://www.imdb.com/title/tt0304141/",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
     year: 2004
@@ -1126,6 +1138,7 @@ const emojiItems = [
   {
     title: "Hidden Figures",
     emojiImgs: "🚀👩🏽‍💻🧮👨🏻‍🦳👨🏻‍🚀",
+    itemLink: "https://www.imdb.com/title/tt4846340/",
     genres: ["biography", "drama", "history"],
     type: "movie",
     year: 2016
@@ -1141,6 +1154,7 @@ const emojiItems = [
   {
     title: "The Hills Have Eyes",
     emojiImgs: "👨‍👩‍👧‍👦🚐🏔👀",
+    itemLink: "https://www.imdb.com/title/tt0454841/",
     genres: ["horror", "thriller"],
     type: "movie",
     year: 2006
@@ -1156,6 +1170,7 @@ const emojiItems = [
   {
     title: "Home Alone",
     emojiImgs: "🏠🙈🎄",
+    itemLink: "https://www.imdb.com/title/tt0099785/",
     genres: ["comedy", "family"],
     type: "movie",
     year: 1990
