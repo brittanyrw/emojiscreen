@@ -1926,6 +1926,7 @@ const emojiItems = [
     title: "Rocky",
     emojiImgs: "🏃‍♂️🥊🕴️",
     genres: ["drama", "sport"],
+    itemLink: "https://www.imdb.com/title/tt0075148/",
     type: "movie",
     year: 1976
   },
@@ -1933,6 +1934,7 @@ const emojiItems = [
     title: "Rocky II",
     emojiImgs: "👊🏆🥊",
     genres: ["drama", "sport"],
+    itemLink: "https://www.imdb.com/title/tt0079817/",
     type: "movie",
     year: 1979
 },
@@ -1940,6 +1942,7 @@ const emojiItems = [
     title: "Rocky III",
     emojiImgs: "🏃‍👊🥊",
     genres: ["drama", "sport"],
+    itemLink: "https://www.imdb.com/title/tt0084602/",
     type: "movie",
     year: 1982
 },
@@ -1947,6 +1950,7 @@ const emojiItems = [
     title: "Rocky IV",
     emojiImgs: "🥊🤼‍️💪‍",
     genres: ["drama", "sport"],
+    itemLink: "https://www.imdb.com/title/tt0089927/",
     type: "movie",
     year: 1985
 },
@@ -1954,6 +1958,7 @@ const emojiItems = [
     title: "Rocky V",
     emojiImgs: "🏃‍🥊🏋️‍",
     genres: ["drama", "sport"],
+    itemLink: "https://www.imdb.com/title/tt0100507/",
     type: "movie",
     year: 1990
 },
@@ -1961,6 +1966,7 @@ const emojiItems = [
     title: "Rocky Balboa",
     emojiImgs: "💪‍🥊🕴️",
     genres: ["drama", "sport"],
+    itemLink: "https://www.imdb.com/title/tt0479143/",
     type: "movie",
     year: 2006
 },
@@ -1976,6 +1982,7 @@ const emojiItems = [
     title: "Ready Player One",
     emojiImgs: "🏁🕹1️⃣",
     genres: ["action", "adventure", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt1677720/",
     type: "movie",
     year: 2018
   },
@@ -1991,6 +1998,7 @@ const emojiItems = [
     title: "Rent",
     emojiImgs: "👨👭💊💉🎶",
     genres: ["drama", "musical", "romance"],
+    itemLink: "https://www.imdb.com/title/tt0294870/",
     type: "movie",
     year: 2005
   },
@@ -1998,6 +2006,7 @@ const emojiItems = [
     title: "Reservoir Dogs",
     emojiImgs: "🕴️🕴️🕴️🕴️🕴️",
     genres: ["crime", "thriller"],
+    itemLink: "https://www.imdb.com/title/tt0105236/",
     type: "movie",
     year: 1992
   },
@@ -2013,6 +2022,7 @@ const emojiItems = [
     title: "RocketMan",
     emojiImgs: "🐱🚀📫",
     genres: ["drama", "musical"],
+    itemLink: "https://www.imdb.com/title/tt2066051/",
     type: "movie",
     year: 2019
   },
@@ -2044,6 +2054,7 @@ const emojiItems = [
     title: "School of Rock",
     emojiImgs: "🏫🎸🥁🎹",
     genres: ["comedy", "music"],
+    itemLink: "https://www.imdb.com/title/tt0332379/",
     type: "movie",
     year: 2003
   },
@@ -2059,6 +2070,7 @@ const emojiItems = [
     title: "See No Evil, Hear No Evil",
     emojiImgs: "🙈👹🙉👹",
     genres: ["comedy", "crime"],
+    itemLink: "https://www.imdb.com/title/tt0098282/",
     type: "movie",
     year: 1989
   },
@@ -2073,9 +2085,10 @@ const emojiItems = [
   {
     title: "Se7en",
     emojiImgs: "🕵🔪👮‍♂️😈",
-    genres: ["drama"],
+    genres: ["crime", "drama", "mystery"],
+    itemLink: "https://www.imdb.com/title/tt0114369/",
     type: "movie",
-    year: 2007
+    year: 1995
   },
   {
     title: "Shaun Of The Dead",
@@ -2153,6 +2166,7 @@ const emojiItems = [
     title: "Silence of the Lambs",
     emojiImgs: "🤐🐑🍷🦋",
     genres: ["crime", "drama", "thriller"],
+    itemLink: "https://www.imdb.com/title/tt0102926/",
     type: "movie",
     year: 1991
   },
@@ -2168,6 +2182,7 @@ const emojiItems = [
     title: "Sex and the City",
     emojiImgs: "🍸👠👩🏼‍🦱💄🗽",
     genres: ["comedy", "drama", "romance"],
+    itemLink: "https://www.imdb.com/title/tt0159206/",
     type: "tv",
     year: 1998
   },
@@ -2191,6 +2206,7 @@ const emojiItems = [
     title: "Sixth Sense",
     emojiImgs: "👻👦👀",
     genres: ["drama", "mystery", "thriller"],
+    itemLink: "https://www.imdb.com/title/tt0167404/",
     type: "movie",
     year: 1999
   },
@@ -2203,11 +2219,12 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0208092/"
   },
   {
-    title: "Snow White",
+    title: "Snow White and the Seven Dwarfs",
     emojiImgs: "🍎👸💤🤴💋",
-    genres: ["musical", "animated", "romance"],
+    genres: ["animation", "family", "fantasy"],
+    itemLink: "https://www.imdb.com/title/tt0029583/",
     type: "movie",
-    year: 1944
+    year: 1937
   },
   {
     title: "So You Think You Can Dance",
@@ -2237,8 +2254,9 @@ const emojiItems = [
     title: "Space Jam",
     emojiImgs: "🏀🛸🚀",
     genres: ["action", "comedy", "musical"],
+    itemLink: "https://www.imdb.com/title/tt0117705/",
     type: "movie",
-    year: 1994
+    year: 1996
   },
   {
     title: "Speed",
@@ -2249,9 +2267,10 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt1517451/?ref_=fn_al_tt_1"
   },
   {
-    title: "Spiderman",
+    title: "Spider-Man: Far from Home",
     emojiImgs: "🕷️👨‍💪🕸️🕸️",
     genres: ["action", "adventure", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt6320628/",
     type: "movie",
     year: 2019
   },
@@ -2275,6 +2294,7 @@ const emojiItems = [
     title: "SpongeBob SquarePants",
     emojiImgs: "🦀🍔🌊🍍🐿",
     genres: ["family", "animation"],
+    itemLink: "https://www.imdb.com/title/tt0206512/",
     type: "tv",
     year: 1999
   },
@@ -2298,6 +2318,7 @@ const emojiItems = [
     title: "Steven Universe",
     emojiImgs: "👦🏻💎💎💎🛡️",
     genres: ["comedy"],
+    itemLink: "https://www.imdb.com/title/tt3061046/",
     type: "tv",
     year: 2013
   },
@@ -2321,6 +2342,7 @@ const emojiItems = [
     title: "Sweeney Todd: The Demon Barber of Fleet Street",
     emojiImgs: "💈🔪☠️🍰",
     genres: ["drama", "horror", "musical"],
+    itemLink: "http://www.playbill.com/production/sweeney-todd-uris-theatre-vault-0000011061",
     type: "musical",
     year: 1979
   },
