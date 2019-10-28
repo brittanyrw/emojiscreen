@@ -2238,6 +2238,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0091949/"
   },
   {
+    title: "Singh is King",
+    emojiImgs: "👳‍♂️👉🏻🤴🏻",
+    genres: ["comedy", "bollywood"],
+    type: "movie",
+    year: 2008,
+    itemLink: "https://www.imdb.com/title/tt1146325/"
+  }
+  {
     title: "Sister Act",
     emojiImgs: "👩🏿👠🎶⛪",
     genres: ["comedy", "crime", "family"],
