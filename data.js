@@ -28,7 +28,7 @@ const emojiItems = [
   {
     title: "The Great British Bake Off",
     emojiImgs: "👍🇬🇧🍞🎂🥐",
-    genres: ["baking", "reality"],
+    genres: ["cooking", "reality"],
     type: "tv",
     year: 2010,
     itemLink: "https://www.imdb.com/title/tt1877368/"
