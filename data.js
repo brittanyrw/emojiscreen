@@ -1203,6 +1203,14 @@ const emojiItems = [
     year: 1990
   },
   {
+    title: "Ice Age",
+    emojiImgs: "👶🐅🐘🌰❄️",
+    genres: ["animation", "adventure", "comedy"],
+    type: "movie",
+    year: 2002,
+    itemLink: "https://www.imdb.com/title/tt0268380/"
+  },
+  {
     title: "Ichi The Killer",
     emojiImgs: "1️⃣🔪🤕🍆💀",
     genres: ["action", "crime", "drama", "foreign"],
@@ -2308,6 +2316,14 @@ const emojiItems = [
     type: "tv",
     year: 2014,
     itemLink: "https://www.imdb.com/title/tt2575988/"
+  },
+  {
+    title: "Sing",
+    emojiImgs: "🐨🎶🐷🐘🦍",
+    genres: ["animation", "comedy", "family"],
+    type: "movie",
+    year: 2016,
+    itemLink: "https://www.imdb.com/title/tt3470600/"
   },
   {
     title: "Sex and the City",
