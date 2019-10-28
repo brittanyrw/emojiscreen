@@ -2,7 +2,7 @@ pullRequestOpened: >
   Thank you for opening this pull request, your code will be reviewed soon! Please follow the contribution guidelines outlined in the README.
   
 
-  If you did not follow the instructions for contributing to this project this pull request will be closed and marked invalid.
+  Your pull request should follow the instructions in the <a href="https://github.com/brittanyrw/emojiscreen/blob/master/docs/card_overview.md">Card Overview</a>. If you did not follow the instructions for contributing to this project this pull request will be closed and marked invalid.
 
 
   If your pull request status (at the bottom of this page) says "This branch has conflicts that must be resolved", please <a href="https://help.github.com/en/articles/resolving-a-merge-conflict-on-github" target="_blank">resolve the conflicts</a> so that we can review your changes. 
