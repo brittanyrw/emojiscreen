@@ -83,13 +83,11 @@ For musicals, include the `musical` genre and any other genres from the list bel
 
 ### Link 🔗
 
-Add a link to the [IMDB page](https://www.imdb.com/) if TV show or movie, or [Playbill archive page](http://www.playbill.com/vault) if it is a musical.
-
-Make sure the link includes `https` or `http` at the beginning. The link must be wrapped in quotation marks.
-
 For TV shows and movies, add the [IMDB page](https://www.imdb.com/) link.
 
 For musicals link the [Playbill archive page](http://www.playbill.com/vault) for the show. Make sure the Playbill link is for the original production. It will say 'original' under the show name on Playbill. Here is an example of [the page you should be linking](http://www.playbill.com/production/les-miserables-broadway-theatre-vault-0000012257) for musicals.
+
+Make sure the link includes `https` or `http` at the beginning. The link must be wrapped in quotation marks.
 
 ```
 {
