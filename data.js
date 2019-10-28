@@ -1346,7 +1346,6 @@ const emojiItems = [
     itemlink: "https://www.imdb.com/title/tt3040964/",
     type: "movie",
     year: 2016
-
   },
   {
       title: "Jurassic Park",
