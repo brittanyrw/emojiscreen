@@ -7,7 +7,7 @@
 
 ## Contributing Guidelines 🎁
 
-Below are some additional guidelines to follow when contributing to this project. 
+Below are some additional guidelines to follow when contributing to this project. Follow all of the instructions please. We will just close any pull requests that do not follow instructions.
 
 ### Adding or Updating Features Contributions
 
@@ -43,7 +43,8 @@ In the `data.js` file, each `Emoji Card` consists of the following object:
 }
 ```
 
-View the [Card Overview](/docs/card_overview.md) for more details on each part of the emoji object.
+## Required reading:
+View the [Card Overview](/docs/card_overview.md) for details on each part of the emoji object.
 
 #### Walkthroughs
 Below are detailed walkthroughs on how to add a show or movie to EmojiScreen.
