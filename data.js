@@ -1495,6 +1495,14 @@ const emojiItems = [
     itemlink: "https://www.imdb.com/title/tt0068098/"
   },
   {
+    title: "The Martian",
+    emojiImgs: "👨🏻‍🚀🌕🥔📷🚀",
+    genres: ["adventure", "drama", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt3659388/",
+    type: "movie",
+    year: 2015
+  },
+  {
     title: "The Mask ",
     emojiImgs: "🐶🤓👺🤪🕺",
     genres: ["comedy", "crime", "fantasy"],
