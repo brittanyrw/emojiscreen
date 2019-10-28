@@ -2511,6 +2511,14 @@ const emojiItems = [
     year: 1991
   },
   {
+    title: "Whisper of the Heart",
+    emojiImgs: "📚📝🎻🚲🐱",
+    genres: ["animation", "drama", "family"],
+    type: "movie",
+    year: 1995,
+    itemLink: "https://www.imdb.com/title/tt0113824/"
+  },
+  {
     title: "Wicked",
     emojiImgs: "💚🧹🧙‍♂️",
     genres: ["fantasy"],
