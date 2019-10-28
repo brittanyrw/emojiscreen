@@ -1,5 +1,14 @@
 const emojiItems = [
   {
+    title:"10 Cloverfield Lane",
+    emojiImgs: "🚪🛢️🕳️🛸",
+    genres:["thriller", "suspence"],
+    type:"movie",
+    year: 2016,
+    itemlink: "https://www.imdb.com/title/tt1179933/"
+  },
+
+  {
     title: "The 25th Annual Putnum County Spelling Bee",
     emojiImgs: "🔤🐝😂",
     genres: ["musical", "comedy"],
@@ -217,6 +226,14 @@ const emojiItems = [
     year: 2003
   },
   {
+    title: "Baby Driver",
+    emojiImgs: "👶🚗💏🔫👂🏻",
+    genres: ["drama", "action", "crime"],
+    type: "movie",
+    year: 2017,
+    itemLink: "https://www.imdb.com/title/tt3890160/"
+  },
+  {
     title: "Battleship Potemkin",
     emojiImgs: "👶🤓😱🔫🛳",
     genres: ["drama", "history"],
@@ -370,6 +387,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt8391976/"
   },
   {
+    title: "Cable Girls",
+    emojiImgs: "💄👄💼📞",
+    genres: ["drama"],
+    type: "tv",
+    year: 2017,
+    itemLink: "https://www.imdb.com/title/tt5674718/"
+  },
+  {
     title: "Cars",
     emojiImgs: "🚗🍃🏁⛽️",
     genres: ["animation", "comedy", "family"],
@@ -498,6 +523,14 @@ const emojiItems = [
     year: 1995
   },
   {
+    title: "Coco",
+    emojiImgs: "🇲🇽🎸💀🔔👨‍👩‍👧‍👦",
+    genres: ["animation", "adventure", "family"],
+    itemLink: "https://www.imdb.com/title/tt2380307/",
+    type: "movie",
+    year: 2017
+  },
+  {
     title: "The Color Purple",
     emojiImgs: "💜🏃🏾‍♀️🧘🏾‍♀️",
     genres: ["drama"],
@@ -546,12 +579,28 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0348914/"
   },
   {
+    title: "The Dark Knight",
+    emojiImgs: "🦇🕶️🏇⚔️",
+    genres: ["action", "crime", "drama"],
+    itemLink: "https://www.imdb.com/title/tt0468569/",
+    type: "movie",
+    year: 2008
+  },
+  {
     title: "Dark Phoenix",
     emojiImgs: "🕶️☀️🔥 ",
     genres: ["sci-fi", "action", "adventure"],
     type: "movie",
     year: 2019,
     itemLink: "https://www.imdb.com/title/tt6565702/?ref_=ttls_li_tt"
+  },
+  {
+    title: "The Day the Earth Stood Still",
+    emojiImgs: "☀️🌎⌛🛑",
+    genres: ["drama", "sci-fi"],
+    type: "movie",
+    year: 1951,
+    itemLink: "https://www.imdb.com/title/tt0043456/?"
   },
   {
     title: "Deadpool",
@@ -646,6 +695,14 @@ const emojiItems = [
     year: 2019
   },
   {
+    title: "Dr. Jekyll and Mr. Hyde",
+    emojiImgs: "👨‍⚕🧪👹",
+    genres: ["horror", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt0022835/",
+    type: "movie",
+    year: 1931
+  },
+  {
     title: "Dreams",
     emojiImgs: "💤💭👺🇯🇵",
     genres: ["drama", "fantasy"],
@@ -730,6 +787,14 @@ const emojiItems = [
     year: 1999
   },
   {
+    title: "Finding Dory",
+    emojiImgs: "🔎🐠🐙",
+    genres: ["animation", "adventure", "comedy"],
+    type: "movie",
+    year: 2016,
+    itemLink: "https://www.imdb.com/title/tt2277860/"
+  },
+  {
     title: "Finding Nemo",
     emojiImgs: "🐟🦈🔭",
     genres: ["animation"],
@@ -750,6 +815,14 @@ const emojiItems = [
     type: "tv",
     year: 1990,
     itemLink: "https://www.imdb.com/title/tt0098800/"
+  },
+  {
+    title: "Fried Green Tomatoes",
+    emojiImgs: "🍅👯👒🍴☕️",
+    genres: ["feel-good", "drama"],
+    itemLink: "https://www.imdb.com/title/tt0101921/",
+    type: "movie",
+    year: 1991
   },
   {
     title: "From Dusk Till Down",
@@ -1088,6 +1161,14 @@ const emojiItems = [
     year: 1990
   },
   {
+    title: "Ichi The Killer",
+    emojiImgs: "1️⃣🔪🤕🍆💀",
+    genres: ["action", "crime", "drama", "foreign"],
+    itemLink: "https://m.imdb.com/title/tt0296042/",
+    type: "movie",
+    year: 2001
+  },
+  {
     title: "Independence Day",
     emojiImgs: "🛸👽🌎🛩️",
     genres: ["war", "adventure", "drama", "sci-fi"],
@@ -1112,8 +1193,8 @@ const emojiItems = [
       year: 2009
   },
   {
-      title: "Interestelar",
-      emojiImgs: "🌍👨‍🚀🚀⏱️❤️",
+      title: "Interstellar",
+      emojiImgs: "🌍👨‍🚀⏱️❤️",
       genres: ["adventure", "drama", "sci-fi"],
       itemLink: "https://www.imdb.com/title/tt0816692/",
       type: "movie",
@@ -1233,6 +1314,30 @@ const emojiItems = [
       year: 2018
   },
   {
+    title: "Jurassic Park III",
+    emojiImgs: "🛩🏝🧒🏼🦖🦕",
+    genres: ["action", "adventure", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt0163025",
+    type: "movie",
+    year: 2001
+  },
+  {
+    title: "Jurassic World",
+    emojiImgs: "🎡🦖🦕🏍",
+    genres: ["action", "adventure", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt0369610",
+    type: "movie",
+    year: 2015
+  },
+  {
+    title: "Jurassic World: Fallen Kingdom",
+    emojiImgs: "🦖🦕🐊🌋😫",
+    genres: ["action", "adventure", "Sci-Fi"],
+    itemLink: "https://www.imdb.com/title/tt4881806",
+    type: "movie",
+    year: 2018
+  },
+  {
     title: "The Karate Kid Part II",
     emojiImgs: "🤼‍♂️👦🏻👘2️⃣",
     genres: ["action", "drama", "family"],
@@ -1336,6 +1441,14 @@ const emojiItems = [
     year: 1987,
     itemLink:
       "https://www.playbill.com/production/les-miserables-broadway-theatre-vault-0000012257"
+  },
+  {
+    title: "The Lost World: Jurassic Park",
+    emojiImgs: "🦖🏝🚢🏙",
+    genres: ["action", "adventure", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt0119567",
+    type: "movie",
+    year: 1997
   },
   {
     title: "Passaport to Paris",
@@ -1885,7 +1998,7 @@ const emojiItems = [
     type: "movie",
     year: 2006
 },
-  {
+{
     title: "The Room",
     emojiImgs: "🏠💔🏈",
     genres: ["drama"],
@@ -1992,7 +2105,7 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0098904/"
   },
   {
-    title: "Seven",
+    title: "Se7en",
     emojiImgs: "🕵🔪👮‍♂️😈",
     genres: ["drama"],
     type: "movie",
@@ -2177,6 +2290,14 @@ const emojiItems = [
     year: 2019
   },
   {
+    title: "Spider-Man: Homecoming",
+    emojiImgs: "🕷🦸‍♀️🏫👷🏻🦅",
+    genres: ["action", "adventure", "sci-fi"],
+    type: "movie",
+    itemLink: "https://www.imdb.com/title/tt2250912/",
+    year: 2019
+  },
+  {
     title: "Spirited Away",
     emojiImgs: "👧🏮🐷👵🐉",
     genres: ["animation", "adventure", "family"],
@@ -2236,6 +2357,14 @@ const emojiItems = [
     genres: ["drama", "horror", "musical"],
     type: "musical",
     year: 1979
+  },
+  {
+    title: "Tarzan",
+    emojiImgs: "🦍🌴👨❤️👩",
+    genres: ["animation", "adventure", "family"],
+    type: "movie",
+    year: 1999,
+    itemLink: "https://www.imdb.com/title/tt0120855/"
   },
   {
     title: "Taxi Driver",
@@ -2317,6 +2446,14 @@ const emojiItems = [
     year: 1939
   },
   {
+    title: "Thor: Ragnarok",
+    emojiImgs: "🌩🤴🏼🔨🦹🏻‍♀️🌋",
+    genres: ["action", "adventure", "comedy"],
+    itemLink: "https://www.imdb.com/title/tt3501632/",
+    type: "movie",
+    year: 2017
+  },
+  {
     title: "Tron: Legacy",
     emojiImgs: "📟🕹🤖🏍️⭕",
     genres: ["action", "adventure", "sci-fi"],
@@ -2383,6 +2520,14 @@ const emojiItems = [
     type: "movie",
     year: 2011,
     itemLink: "https://www.imdb.com/title/tt1568911/"
+  },
+  {
+    title: "WatchMen",
+    emojiImgs: "⌚👀👨",
+    genres: ["Action", "Drama", "Mystery", "Sci-Fi"],
+    itemLink: "https://www.imdb.com/title/tt0409459/",
+    type: "movie",
+    year: 2009
   },
   {
     title: "West Side Story",
@@ -2521,5 +2666,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt5311514/",
     type: "movie",
     year: 2016
-  }
+  },
+ 
 ];

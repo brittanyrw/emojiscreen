@@ -2,7 +2,7 @@
 
 Below is a detailed overview of how to add an `Emoji Card` to the project if you are completing [one of the add emoji Issues](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3A%22add+emojis%22). Each card should be added in the `data.js` file as an object. 
 
-> Reminder: Please only add a card if you have been assigned an Issue to add a show or movie.
+### Please read through this before adding to this project.
 
 On the website, each `Emoji Card` displays 1) images of the emojis, 2) a hint icon that will show the type (musical, movie or TV show) when the user hovers and 3) the name of the show (which appears when the user clicks on a card).
 
@@ -57,11 +57,11 @@ Note when you copy these emojis and paste them into your text editor or Github, 
 
 ### Genres 🔍
 
-The genres should be added as an array (the square [] brackets indicates an array or list). Separate each genre with a comma and each genre should be wrapped in quotes. There is no limit to the number of genres but try not to add too many.
+The genres should be added as an array (the square [] brackets indicates an array or list). Separate each genre with a comma and each genre should be wrapped in quotes and lowercase. If there are two words for a genre, replace the space with a hypen (-). There is no limit to the number of genres but try not to add too many.
 
 ```
 {
-  genres: ["animation", "family", "fantasy"],
+  genres: ["animation", "family", "action-adventure"],
 }
 ```
 
@@ -126,7 +126,8 @@ Specify the year the movie or show was released or first aired. Or the first per
 
 Follow the checklist below when working on adding a card. This will help you double check that you have everything you need to have your Pull Request approved.
 
-- [ ] 💜 There is an Issue for this show/movie and you have been assigned to add it. 
+- [ ] 🔎 Have searched the `data.js` file and `Pull Requests` to make sure that you are not adding a duplicate.
+- [ ] 🖍️ Place the new show(s) or movie(s) in alphabetical order based on title. If the show or movie starts with 'the', then use the second word to alphabetize.
 - [ ] 🌈 There is a single year under `year`. 
 - [ ] 📅 There is a type from one of the following: `movie` , `tv` or `musical`.
 - [ ] 🔗 There is a link to the IMDB page or Playbill archive page under `itemLink`.
@@ -134,5 +135,3 @@ Follow the checklist below when working on adding a card. This will help you dou
 - [ ] 5️⃣ There is a maximum of five emojis listed under `emojiImgs`.
 - [ ] 👍 The pull request has a descriptive title (such as `Added The Lion King` or `Added Black Panther, The Avengers: Endgame and Thor`).
 - [ ] ⭐ The genres are all inside of square brackets `[ ]` and each are individually wrapped in quotation marks and have a comma between each one. (such as submitting this `"genres": ["adventure","mystery","animation"]` and not this `"genres":["adventure, mystery, animation"]`).
-- [ ] 🖍️ Place the new show(s) or movie(s) in alphabetical order based on title. If the show or movie starts with 'the', then use the second word to alphabetize.
-- [ ] 👋 Add Closes #--- to the bottom of the pull request to link your Pull Request to the Issue (replace the --- with the issue number)
