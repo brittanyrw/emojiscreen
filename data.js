@@ -34,7 +34,7 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt1877368/"
   },
   {
-    title: "2001: A Space Odyssey ",
+    title: "2001: A Space Odyssey",
     emojiImgs: "🐵🌖👨‍🚀🤖👴",
     genres: ["adventure, sci-fi"],
     type: "movie",
@@ -42,7 +42,7 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0062622/?ref_=nv_sr_1?ref_=nv_sr_1"
   },
   {
-    title: "300 ",
+    title: "300",
     emojiImgs: " 💪🤕👊🏻⚔️ 🛡",
     genres: ["action", "drama", "fantasy"],
     type: "movie",
@@ -505,6 +505,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt8663516/",
     type: "movie",
     year: 2019
+  },
+  {
+    title: "Cidade de Deus",
+    emojiImgs: "🏙🙌🇧🇷🔫🎲",
+    genres: ["crime", "drama"],
+    type: "movie",
+    year: 2002,
+    itemLink: "https://www.imdb.com/title/tt0317248/"
   },
   {
     title: "Cinderella",
@@ -1558,6 +1566,14 @@ const emojiItems = [
     type: "movie",
     year: 1994,
     itemLink: "https://www.imdb.com/title/tt0110475/?ref_=nv_sr_1?ref_=nv_sr_1"
+  },
+  {
+    title: "Mary and Max",
+    emojiImgs: "👧👴✉🇦🇺🇺🇸",
+    genres: ["animation", "comedy", "drama"],
+    type: "movie",
+    year: 2009,
+    itemLinks: "https://www.imdb.com/title/tt0978762/"
   },
   {
     title: "Mary Poppins",
