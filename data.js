@@ -2158,6 +2158,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt2575988/"
   },
   {
+    title: "Sing",
+    emojiImgs: "🐨🎶🐷🐘🦍",
+    genres: ["animation", "comedy", "family"],
+    type: "movie",
+    year: 2016,
+    itemLink: "https://www.imdb.com/title/tt3470600/"
+  },
+  {
     title: "Sex and the City",
     emojiImgs: "🍸👠👩🏼‍🦱💄🗽",
     genres: ["comedy", "drama", "romance"],
