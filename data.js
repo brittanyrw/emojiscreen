@@ -1343,7 +1343,7 @@ const emojiItems = [
     title:"The Jungle Book",
     emojiImgs:"🐻🐯🐍🐵📖",
     genres:["adventure", "drama", "family"],
-    itemlink: "https://www.imdb.com/title/tt3040964/",
+    itemLink: "https://www.imdb.com/title/tt3040964/",
     type: "movie",
     year: 2016
   },
