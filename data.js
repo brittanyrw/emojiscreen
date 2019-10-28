@@ -1951,6 +1951,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0093779/"
   },
   {
+    title: "Princess Mononoke",
+    emojiImgs: "👸🐺👦🏹🦌",
+    genres: ["Animation", "Adventure", "Fantasy"],
+    itemLink: "https://www.imdb.com/title/tt0119698/",
+    type: "movie",
+    year: 1997
+  },
+  {
     title: "The Preacher's Wife",
     emojiImgs: "👼🌎⛪👨‍👩‍",
     genres: ["Comedy", "Drama", "Fantasy"],
