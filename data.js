@@ -2618,5 +2618,12 @@ const emojiItems = [
     type: "movie",
     year: 2016
   },
- 
+  {
+    title: "Whisper of the Heart",
+    emojiImgs: "🎻📝🐱🚲",
+    genres: ["animation", "drama", "family"],
+    itemLink: "https://www.imdb.com/title/tt0113824/",
+    type: "movie",
+    year: 1995
+  },
 ];
