@@ -1161,6 +1161,14 @@ const emojiItems = [
     year: 1990
   },
   {
+    title: "Ice Age",
+    emojiImgs: "👶🐅🐘🌰❄️",
+    genres: ["animation", "adventure", "comedy"],
+    type: "movie",
+    year: 2002,
+    itemLink: "https://www.imdb.com/title/tt0268380/"
+  },
+  {
     title: "Ichi The Killer",
     emojiImgs: "1️⃣🔪🤕🍆💀",
     genres: ["action", "crime", "drama", "foreign"],
