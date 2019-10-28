@@ -1600,7 +1600,7 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0804503/"
   },
   {
-    title: "Maleficient:Mistress of Evil",
+    title: "Maleficient: Mistress of Evil",
     emojiImgs: "🧝‍♀️ 🧙‍♀️💔👸🖤",
     genres: ["action", "fantasy"],
     itemLink: "https://www.imdb.com/title/tt4777008/?ref_=nv_sr_1?ref_=nv_sr_1",
@@ -2260,7 +2260,7 @@ const emojiItems = [
     type: "movie",
     year: 2008,
     itemLink: "https://www.imdb.com/title/tt1146325/"
-  }
+  },
   {
     title: "Sister Act",
     emojiImgs: "👩🏿👠🎶⛪",
