@@ -1185,40 +1185,45 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0800080/"
   },
   {
-    title: "Inglorious Basterds",
-    emojiImgs: "💀🔪🎖️📽️🔥",
-    genres: ["war", "history"],
-    type: "movie",
-    year: 2009
+      title: "Inglorious Basterds",
+      emojiImgs: "💀🔪🎖️📽️🔥",
+      genres: ["war", "history"],
+      itemLink: "https://www.imdb.com/title/tt0361748/",
+      type: "movie",
+      year: 2009
   },
   {
-    title: "Interstellar",
-    emojiImgs: "🌍👨‍🚀🚀⏱️❤️",
-    genres: ["adventure", "drama", "sci-fi"],
-    type: "movie",
-    year: 2014,
-    itemLink: "https://www.imdb.com/title/tt0816692/"
+      title: "Interstellar",
+      emojiImgs: "🌍👨‍🚀⏱️❤️",
+      genres: ["adventure", "drama", "sci-fi"],
+      itemLink: "https://www.imdb.com/title/tt0816692/",
+      type: "movie",
+      year: 2014,
+
   },
   {
-    title: "Into the Woods",
-    emojiImgs: "➡️🌲🌲🔥🎶",
-    genres: ["drama", "musical"],
-    type: "musical",
-    year: 1987
+      title: "Into the Woods",
+      emojiImgs: "🔥🎄🎶👩‍🎤",
+      genres: ["drama", "musical"],
+      itemLink: "http://www.playbill.com/production/into-the-woods-broadhurst-theatre-vault-0000001997",
+      type: "musical",
+      year: 1987
   },
   {
-    title: "IT",
-    emojiImgs: "🎈🤡☔🚲",
-    genres: ["horror", "thriller"],
-    type: "movie",
-    year: 2017
+      title: "IT",
+      emojiImgs: "🎈🤡☔🚲",
+      genres: ["horror", "thriller"],
+      itemLink: "https://www.imdb.com/title/tt1396484/",
+      type: "movie",
+      year: 2017
   },
   {
-    title: "IT: Chapter Two",
-    emojiImgs: "🤡🎈🎈👦",
-    genres: ["horror", "thriller"],
-    type: "movie",
-    year: 2019
+      title: "IT Chapter Two",
+      emojiImgs: "🤡🎈🤡🎈🤡",
+      genres: ["horror", "thriller"],
+      itemLink: "https://www.imdb.com/title/tt7349950/",
+      type: "movie",
+      year: 2019
   },
   {
     title: "The IT Crowd",
@@ -1229,18 +1234,20 @@ const emojiItems = [
     year: 2006
   },
   {
-    title: "It's Always Sunny in Philadelphia",
-    emojiImgs: "🕐☀🏙🧀🥩",
-    genres: ["comedy"],
-    type: "tv",
-    year: 2005
+      title: "It's Always Sunny in Philadelphia",
+      emojiImgs: "🕐☀🏙🧀🥩",
+      genres: ["comedy"],
+      itemLink: "https://www.imdb.com/title/tt0472954/",
+      type: "tv",
+      year: 2005
   },
   {
-    title: "Jackie Brown",
-    emojiImgs: "🙎🏿‍♀️🛫💼💰",
-    genres: ["crime", "film-noir"],
-    type: "movie",
-    year: 1997
+      title: "Jackie Brown",
+      emojiImgs: "🙎🏿‍♀️🛫💼💰",
+      genres: ["crime", "film-noir"],
+      itemLink: "https://www.imdb.com/title/tt0119396/",
+      type: "movie",
+      year: 1997
   },
   {
     title: "James and the Giant Peach",
@@ -1251,18 +1258,20 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0116683/"
   },
   {
-    title: "Jane the Virgin",
-    emojiImgs: "💃🏽♍️🌴👶🏽💖",
-    genres: ["comedy", "romance", "tele novella"],
-    type: "tv",
-    year: 2014
+      title: "Jane the Virgin",
+      emojiImgs: "💃🏽♍️🌴👶🏽💖",
+      genres: ["comedy", "romance", "tele novella"],
+      itemLink: "https://www.imdb.com/title/tt3566726/",
+      type: "tv",
+      year: 2014
   },
   {
-    title: "Jaws",
-    emojiImgs: "🛥️🌊🏊‍♂️🦈",
-    genres: ["adventure", "drama", "thriller"],
-    type: "movie",
-    year: 1975
+      title: "Jaws",
+      emojiImgs: "🛥️🌊🏊‍♂️🦈",
+      genres: ["adventure", "drama", "thriller"],
+      itemLink: "https://www.imdb.com/title/tt0073195/",
+      type: "movie",
+      year: 1975
   },
   {
     title: "Jersey Shore ",
@@ -1273,34 +1282,36 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt1563069/"
   },
   {
-    title: "John Wick",
-    emojiImgs: "🔪🐶🚗🔫🤵🏻",
-    genres: ["action", "crime", "thriller"],
-    type: "movie",
-    year: 2014
+      title: "John Wick",
+      emojiImgs: "🔪🐶🚗🔫🤵🏻",
+      genres: ["action", "crime", "thriller"],
+      itemLink: "https://www.imdb.com/title/tt2911666/",
+      type: "movie",
+      year: 2014
   },
   {
-    title: "John Wick: Chapter 3 - Parabellum",
-    emojiImgs: "🔫🗡🐶💰🏎",
-    genres: ["action", "crime", "thriller"],
-    type: "movie",
-    year: 2019
+      title: "John Wick: Chapter 3 - Parabellum",
+      emojiImgs: "🔫🗡🐶💰🏎",
+      genres: ["action", "crime", "thriller"],
+      itemLink: "https://www.imdb.com/title/tt6146586/",
+      type: "movie",
+      year: 2019
   },
   {
-    title: "Jurassic Park",
-    emojiImgs: "🔬🦖🏝",
-    genres: ["action", "adventure", "sci-fi"],
-    itemLink: "https://www.imdb.com/title/tt0107290",
-    type: "movie",
-    year: 1993
+      title: "Jurassic Park",
+      emojiImgs: "🔬🦖🏝",
+      genres: ["action", "adventure", "sci-fi"],
+      itemLink: "https://www.imdb.com/title/tt0107290/",
+      type: "movie",
+      year: 1993
   },
   {
-    title: "The Lost World: Jurassic Park",
-    emojiImgs: "🦖🏝🚢🏙",
-    genres: ["action", "adventure", "sci-fi"],
-    itemLink: "https://www.imdb.com/title/tt0119567",
-    type: "movie",
-    year: 1997
+      title: "Jurassic Park: Fallen Kingdom",
+      emojiImgs: "🦖🦕🐊🤯😫",
+      genres: ["action", "adventure", "Sci-Fi"],
+      itemLink: "https://www.imdb.com/title/tt4881806/",
+      type: "movie",
+      year: 2018
   },
   {
     title: "Jurassic Park III",
@@ -1359,32 +1370,36 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt2802144/"
   },
   {
-    title: "Kiki's Delivery Service",
-    emojiImgs: "👧🐱🧹📫",
-    genres: ["animated"],
-    type: "movie",
-    year: 1989
+      title: "Kiki's Delivery Service",
+      emojiImgs: "👧🐱🧹📫",
+      genres: ["animated"],
+      itemLink: "https://www.imdb.com/title/tt0097814/",
+      type: "movie",
+      year: 1989
   },
   {
-    title: "Kill Bill: Volume 1",
-    emojiImgs: "🗡️🙍‍🥋🦶🇯🇵",
-    genres: ["action", "drama"],
-    type: "movie",
-    year: 2003
+      title: "Kill Bill: Volume 1",
+      emojiImgs: "🗡️🙍‍🥋🦶🇯🇵",
+      genres: ["action", "drama"],
+      itemLink: "https://www.imdb.com/title/tt0266697/",
+      type: "movie",
+      year: 2003
   },
   {
-    title: "Kill Bill: Volume 2",
-    emojiImgs: "👰🗡️👧💓💥",
-    genres: ["action", "drama"],
-    type: "movie",
-    year: 2004
+      title: "Kill Bill: Volume 2",
+      emojiImgs: "👰🗡️👧💓💥",
+      genres: ["action", "drama"],
+      itemLink: "https://www.imdb.com/title/tt0378194/",
+      type: "movie",
+      year: 2004
   },
   {
-    title: "Kung Fu Panda",
-    emojiImgs: "🐼🎍🇨🇳🥟🍚",
-    genres: ["animation", "action", "adventure"],
-    type: "movie",
-    year: 2008
+      title: "Kung Fu Panda",
+      emojiImgs: "🐼🎍🇨🇳🥟🍚",
+      genres: ["animation", "action", "adventure"],
+      itemLink: "https://www.imdb.com/title/tt0441773/",
+      type: "movie",
+      year: 2008
   },
   {
     title: "Lady and the Tramp",
@@ -1426,6 +1441,14 @@ const emojiItems = [
     year: 1987,
     itemLink:
       "https://www.playbill.com/production/les-miserables-broadway-theatre-vault-0000012257"
+  },
+  {
+    title: "The Lost World: Jurassic Park",
+    emojiImgs: "🦖🏝🚢🏙",
+    genres: ["action", "adventure", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt0119567",
+    type: "movie",
+    year: 1997
   },
   {
     title: "Passaport to Paris",
