@@ -2020,6 +2020,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0437741/"
   },
   {
+  title: "Psycho",
+  emojiImgs: "😱🛀🔪",
+  genres: ["horror", "mystery", "thriller"],
+  itemLink: "https://www.imdb.com/title/tt0054215/",
+  type: "movie",
+  year: 1960
+  },
+  {
     title: "Pulp Fiction",
     emojiImgs: "🔪🔫🍔🥊💊",
     genres: ["crime", "drama"],
