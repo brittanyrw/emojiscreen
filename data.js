@@ -1420,6 +1420,14 @@ const emojiItems = [
       year: 2004
   },
   {
+    title: "Kinky Boots",
+    emojiImgs: "👢👢👑",
+    genres: ["musical", "drama", "comedy"],
+    type: "musical",
+    year: 2013,
+    itemLink: "http://www.playbill.com/production/kinky-boots-al-hirschfeld-theatre-vault-0000013982"
+  },
+  {
       title: "Kung Fu Panda",
       emojiImgs: "🐼🎍🇨🇳🥟🍚",
       genres: ["animation", "action", "adventure"],
@@ -1560,6 +1568,14 @@ const emojiItems = [
     type: "movie",
     year: 2010,
     itemLink: "https://www.imdb.com/title/tt0758752/"
+  },
+  {
+    title: "Mamma Mia",
+    emojiImgs: "👰💃🏻👑🌊",
+    genres: ["musical", "romance", "comedy"],
+    type: "movie",
+    year: 2008,
+    itemlink: "https://www.imdb.com/title/tt0795421/"
   },
   {
     title: "M*A*S*H",
@@ -2278,7 +2294,7 @@ const emojiItems = [
     type: "movie",
     year: 2008,
     itemLink: "https://www.imdb.com/title/tt1146325/"
-  }
+  },
   {
     title: "Sister Act",
     emojiImgs: "👩🏿👠🎶⛪",
@@ -2286,6 +2302,14 @@ const emojiItems = [
     type: "movie",
     year: 1992,
     itemLink: "https://www.imdb.com/title/tt0105417/?ref_=ttmi_tt"
+  },
+  {
+    title: "SIX: The Musical",
+    emojiImgs: "6️⃣👸🎤",
+    genres: ["musical", "drama", "history"],
+    type: "musical",
+    year: 2019,
+    itemLink: "http://www.playbill.com/production/six-the-musical-arts-theatre-2018-2019"
   },
   {
     title: "Sixth Sense",
