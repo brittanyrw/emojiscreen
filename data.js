@@ -515,6 +515,14 @@ const emojiItems = [
     year: 2019
   },
   {
+    title: "Chinatown",
+    emojiImgs: "🕵️‍💦🍊🔫",
+    genres: ["drama", "mystery", "thriller"],
+    itemLink: "https://www.imdb.com/title/tt0071315/",
+    type: "movie",
+    year: 1974
+  },
+  {
     title: "Cidade de Deus",
     emojiImgs: "🏙🙌🇧🇷🔫🎲",
     genres: ["crime", "drama"],
