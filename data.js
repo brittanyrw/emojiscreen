@@ -2618,5 +2618,12 @@ const emojiItems = [
     type: "movie",
     year: 2016
   },
- 
+  {
+    title: "House of Cards",
+    emojiImgs: "🏠🃏",
+    genres: ["drama"],
+    itemLink: "https://www.imdb.com/title/tt1856010/",
+    type: "tv",
+    year: 2013
+  }, 
 ];
