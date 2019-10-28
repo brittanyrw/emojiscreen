@@ -737,7 +737,7 @@ const emojiItems = [
   {
     title: "Dude, Where's My Car?",
     emojiImgs: "👨❓🚗",
-    gebres: ["comedy", "sci-fi"],
+    genres: ["comedy", "sci-fi"],
     type: "movie",
     year: 2000,
     itemLink: "https://www.imdb.com/title/tt0242423/"
