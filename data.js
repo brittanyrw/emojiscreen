@@ -1,7 +1,7 @@
 const emojiItems = [
   {
     title: "10 Cloverfield Lane",
-    emojiImgs: "🏠♦♥♣♠",
+    emojiImgs: "🚪🛢️🕳️🛸",
     genres: ["thriller", "suspense"],
     type: "movie",
     year: 2016,
