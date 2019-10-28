@@ -52,7 +52,7 @@ const emojiItems = [
   {
     title: "The Lighthouse",
     emojiImgs: "🏝️🧜‍🌧️🤪⚰️",
-    genres: ["period piece, drama, psychological, thriller"],
+    genres: ["period piece", "drama", "psychological", "thriller"],
     type: "movie",
     year: 2019,
     itemLink: "https://www.imdb.com/title/tt7984734/?ref_=nv_sr_1?ref_=nv_sr_1"
