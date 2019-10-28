@@ -2780,5 +2780,13 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt5311514/",
     type: "movie",
     year: 2016
+  },
+  {
+    title: "Kesari",
+    emojiImgs: "🤔🦸♀️🗡️",
+    genres: ["History","Action"],
+    itemLink: "https://www.imdb.com/title/tt6264938/",
+    type: "movie",
+    year: 2019
   }
 ];
