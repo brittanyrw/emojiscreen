@@ -50,12 +50,12 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0416449"
   },
   {
-    title: "The Lighthouse",
-    emojiImgs: "🏝️🧜‍🌧️🤪⚰️",
-    genres: ["period piece", "drama", "psychological", "thriller"],
+    title: "Boyhood",
+    emojiImgs: "👶⚾🧑📷💔",
+    genres: ["drama"],
     type: "movie",
-    year: 2019,
-    itemLink: "https://www.imdb.com/title/tt7984734/?ref_=nv_sr_1?ref_=nv_sr_1"
+    year: 2014,
+    itemLink: "https://www.imdb.com/title/tt1065073/?ref_=nv_sr_1?ref_=nv_sr_1"
   },
   {
     title: "A Bug's Life",
