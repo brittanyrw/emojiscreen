@@ -540,6 +540,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0042332/"
   },
   {
+    title: "Citizen Kane",
+    emojiImgs:"🌹🛷📰🗞️",
+    genres:["drama", "mystery", "classic"],
+    type:"movie",
+    year: 1941,
+    itemLink:"https://www.imdb.com/title/tt0033467/"
+  },
+  {
     title: "Cloudy with a Chance of Meatballs",
     emojiImgs: " ☁️🥩⚽☂️",
     genres: ["animation", "adventure", "comedy"],
@@ -1348,6 +1356,21 @@ const emojiItems = [
     year: 2019
   },
   {
+    title:"The Jungle Book",
+    emojiImgs:"🐻🐯🐍🐵📖",
+    genres:["adventure", "drama", "family"],
+    itemLink: "https://www.imdb.com/title/tt3040964/",
+    type: "movie",
+    year: 2016
+  },
+  {
+      title: "Jurassic Park",
+      emojiImgs: "🔬🦖🏝",
+      genres: ["action", "adventure", "sci-fi"],
+      itemLink: "https://www.imdb.com/title/tt0107290/",
+      type: "movie",
+      year: 1993
+  },{
     title: "Jurassic Park",
     emojiImgs: "🔬🦖🏝",
     genres: ["action", "adventure", "sci-fi"],
