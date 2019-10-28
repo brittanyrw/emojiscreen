@@ -912,6 +912,16 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt5052448/"
   },
   {
+    title: "Geostorm",
+    emojiImgs: "😱⛈🌊💦",
+    genres: ["action", "sci-fi"],
+    type: "movie",
+    year: 2017,
+    itemLink: "https://www.imdb.com/title/tt1981128/"
+  },
+  
+  
+  {
     title: "Ghostbusters",
     emojiImgs: "👻🔫👨‍🚒️",
     genres: ["comedy", "action", "fantasy"],
