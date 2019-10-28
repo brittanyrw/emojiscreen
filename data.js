@@ -21,7 +21,7 @@ const emojiItems = [
     title: "The 400 Blows",
     emojiImgs: "👦⏱️👩🏼",
     genres: ["Art House", "International", "Classics", "Drama"],
-    itemLink: "https://www.imdb.com/title/tt0053198/?ref_=fn_al_tt_2",
+    itemLink: "https://www.imdb.com/title/tt0053198/",
     type: "movie",
     year: 1959
   },
@@ -39,7 +39,7 @@ const emojiItems = [
     genres: ["adventure, sci-fi"],
     type: "movie",
     year: 1968,
-    itemLink: "https://www.imdb.com/title/tt0062622/?ref_=nv_sr_1?ref_=nv_sr_1"
+    itemLink: "https://www.imdb.com/title/tt0062622/"
   },
   {
     title: "300",
@@ -192,7 +192,7 @@ const emojiItems = [
     genres: ["action", "adventure", "comedy"],
     type: "movie",
     year: 2018,
-    itemLink: "https://www.imdb.com/title/tt5095030/?ref_=fn_al_tt_1"
+    itemLink: "https://www.imdb.com/title/tt5095030/"
   },
   {
     title: "Avatar: The Last Airbender",
@@ -616,7 +616,7 @@ const emojiItems = [
     genres: ["sci-fi", "action", "adventure"],
     type: "movie",
     year: 2019,
-    itemLink: "https://www.imdb.com/title/tt6565702/?ref_=ttls_li_tt"
+    itemLink: "https://www.imdb.com/title/tt6565702/"
   },
   {
     title: "The Day the Earth Stood Still",
@@ -624,7 +624,7 @@ const emojiItems = [
     genres: ["drama", "sci-fi"],
     type: "movie",
     year: 1951,
-    itemLink: "https://www.imdb.com/title/tt0043456/?"
+    itemLink: "https://www.imdb.com/title/tt0043456/"
   },
   {
     title: "Deadpool",
@@ -632,7 +632,7 @@ const emojiItems = [
     genres: ["action", "adventure", "comedy"],
     type: "movie",
     year: 2016,
-    itemLink: "https://www.imdb.com/title/tt1431045/?ref_=ttls_li_tt"
+    itemLink: "https://www.imdb.com/title/tt1431045/"
   },
   {
     title: "Deadpool 2",
@@ -640,7 +640,7 @@ const emojiItems = [
     genres: ["action", "adventure", "comedy"],
     type: "movie",
     year: 2018,
-    itemLink: "https://www.imdb.com/title/tt5463162/?ref_=ttls_li_tt"
+    itemLink: "https://www.imdb.com/title/tt5463162/"
   },
   {
     title: "Dear Evan Hansen",
@@ -943,7 +943,7 @@ const emojiItems = [
     genres: ["drama", "horror"],
     type: "movie",
     year: 1980,
-    itemLink: "https://www.imdb.com/title/tt0081505/?ref_=nv_sr_1?ref_=nv_sr_1"
+    itemLink: "https://www.imdb.com/title/tt0081505/"
   },
   {
     title: "Gilmore Girls",
@@ -1536,7 +1536,7 @@ const emojiItems = [
     genres: ["sci-fi", "action", "adventure"],
     type: "movie",
     year: 2017,
-    itemLink: "https://www.imdb.com/title/tt3315342/?ref_=ttls_li_tt"
+    itemLink: "https://www.imdb.com/title/tt3315342/"
   },
   {
     title: "The Lizzie McGuire Movie",
@@ -1631,7 +1631,7 @@ const emojiItems = [
     genres: ["comedy", "crime", "fantasy"],
     type: "movie",
     year: 1994,
-    itemLink: "https://www.imdb.com/title/tt0110475/?ref_=nv_sr_1?ref_=nv_sr_1"
+    itemLink: "https://www.imdb.com/title/tt0110475/"
   },
   {
     title: "Matilda The Musical",
@@ -1653,7 +1653,7 @@ const emojiItems = [
     title: "Maleficient: Mistress of Evil",
     emojiImgs: "🧝‍♀️ 🧙‍♀️💔👸🖤",
     genres: ["action", "fantasy"],
-    itemLink: "https://www.imdb.com/title/tt4777008/?ref_=nv_sr_1?ref_=nv_sr_1",
+    itemLink: "https://www.imdb.com/title/tt4777008/",
     type: "movie",
     year: 2019
   },
@@ -2317,7 +2317,7 @@ const emojiItems = [
     genres: ["comedy", "crime", "family"],
     type: "movie",
     year: 1992,
-    itemLink: "https://www.imdb.com/title/tt0105417/?ref_=ttmi_tt"
+    itemLink: "https://www.imdb.com/title/tt0105417/"
   },
   {
     title: "SIX: The Musical",
@@ -2386,7 +2386,7 @@ const emojiItems = [
     genres: ["action", "adventure", "Thriller"],
     type: "movie",
     year: 1994,
-    itemLink: "https://www.imdb.com/title/tt1517451/?ref_=fn_al_tt_1"
+    itemLink: "https://www.imdb.com/title/tt1517451/"
   },
   {
     title: "Spiderman",
@@ -2594,7 +2594,7 @@ const emojiItems = [
     genres: ["crime", "mystery", "thriller"],
     type: "movie",
     year: 2019,
-    itemLink: "https://www.imdb.com/title/tt10217550/?ref_=fn_al_tt_1"
+    itemLink: "https://www.imdb.com/title/tt10217550/"
   },
   {
     title: "The Walking Dead",
@@ -2617,7 +2617,7 @@ const emojiItems = [
     genres: ["Action", "Adventure", "Drama", "Sci-Fi", "Thriller"],
     type: "movie",
     year: 2017,
-    itemLink: "https://www.imdb.com/title/tt3450958/?ref_=fn_al_tt_1"
+    itemLink: "https://www.imdb.com/title/tt3450958/"
   },
   {
     title: "War Horse",
@@ -2708,7 +2708,7 @@ const emojiItems = [
     genres: ["sci-fi", "action", "adventure"],
     type: "movie",
     year: 2000,
-    itemLink: "https://www.imdb.com/title/tt0120903/?ref_=ttls_li_tt"
+    itemLink: "https://www.imdb.com/title/tt0120903/"
   },
   {
     title: "X-Men: First Class",
@@ -2716,7 +2716,7 @@ const emojiItems = [
     genres: ["sci-fi", "action", "adventure"],
     type: "movie",
     year: 2011,
-    itemLink: "https://www.imdb.com/title/tt1270798/?ref_=ttls_li_tt"
+    itemLink: "https://www.imdb.com/title/tt1270798/"
   },
   {
     title: "X-Men Origins: Wolverine",
@@ -2724,7 +2724,7 @@ const emojiItems = [
     genres: ["sci-fi", "action", "adventure"],
     type: "movie",
     year: 2009,
-    itemLink: "https://www.imdb.com/title/tt0458525/?ref_=ttls_li_tt"
+    itemLink: "https://www.imdb.com/title/tt0458525/"
   },
   {
     title: "X-Men: The Last Stand ",
@@ -2732,7 +2732,7 @@ const emojiItems = [
     genres: ["sci-fi", "action"],
     type: "movie",
     year: 2006,
-    itemLink: "https://www.imdb.com/title/tt0376994/?ref_=ttls_li_tt"
+    itemLink: "https://www.imdb.com/title/tt0376994/"
   },
   {
     title: "The Wolverine",
@@ -2740,7 +2740,7 @@ const emojiItems = [
     genres: ["sci-fi", "action", "adventure"],
     type: "movie",
     year: 2013,
-    itemLink: "https://www.imdb.com/title/tt1430132/?ref_=ttls_li_tt"
+    itemLink: "https://www.imdb.com/title/tt1430132/"
   },
   {
     title: "X-Men: Days of Future Past",
@@ -2748,7 +2748,7 @@ const emojiItems = [
     genres: ["sci-fi", "action", "adventure"],
     type: "movie",
     year: 2014,
-    itemLink: "https://www.imdb.com/title/tt1877832/?ref_=ttls_li_tt"
+    itemLink: "https://www.imdb.com/title/tt1877832/"
   },
   {
     title: "X-Men: Apocalypse",
@@ -2756,7 +2756,7 @@ const emojiItems = [
     genres: ["sci-fi", "action", "adventure"],
     type: "movie",
     year: 2016,
-    itemLink: "https://www.imdb.com/title/tt3385516/?ref_=ttls_li_tt"
+    itemLink: "https://www.imdb.com/title/tt3385516/"
   },
   {
     title: "X2: X-Men United ",
@@ -2764,7 +2764,7 @@ const emojiItems = [
     genres: ["sci-fi", "action", "thriller"],
     type: "movie",
     year: 2003,
-    itemLink: "https://www.imdb.com/title/tt0290334/?ref_=ttls_li_tt"
+    itemLink: "https://www.imdb.com/title/tt0290334/"
   },
   {
     title: "Young Frankenstein",
