@@ -1594,12 +1594,20 @@ const emojiItems = [
     itemlink: "https://www.imdb.com/title/tt0068098/"
   },
   {
-    title: "The Mask ",
-    emojiImgs: "🐶🤓👺🤪🕺",
-    genres: ["comedy", "crime", "fantasy"],
+    title: "Mad Men",
+    emojiImgs: "‍😡 👨🏻 👨🏻 ",
+    genres: ["drama"],
+    type: "tv",
+    year: 2007,
+    itemLink: "https://www.imdb.com/title/tt0804503/"
+  },
+  {
+    title: "The Martian",
+    emojiImgs: "👨🏻‍🚀🌕🥔📷🚀",
+    genres: ["adventure", "drama", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt3659388/",
     type: "movie",
-    year: 1994,
-    itemLink: "https://www.imdb.com/title/tt0110475/?ref_=nv_sr_1?ref_=nv_sr_1"
+    year: 2015
   },
   {
     title: "Mary and Max",
@@ -1616,6 +1624,14 @@ const emojiItems = [
     type: "movie",
     year: 1964,
     itemLinks: "https://www.imdb.com/title/tt00000000058331/"
+  },
+  {
+    title: "The Mask ",
+    emojiImgs: "🐶🤓👺🤪🕺",
+    genres: ["comedy", "crime", "fantasy"],
+    type: "movie",
+    year: 1994,
+    itemLink: "https://www.imdb.com/title/tt0110475/?ref_=nv_sr_1?ref_=nv_sr_1"
   },
   {
     title: "Matilda The Musical",
@@ -1714,6 +1730,30 @@ const emojiItems = [
     itemLink: "http://www.playbill.com/production/miss-saigon-broadway-theatre-vault-0000012256"
   },
   {
+    title: "Monty Python and the Holy Grail",
+    emojiImgs: "🤵🐍⛪🍷",
+    genres: ["comedy"],
+    type: "movie",
+    year: 1975,
+    itemLink: "https://www.imdb.com/title/tt0071853/"
+  },
+  {
+    title: "Moonrise Kingdom",
+    emojiImgs: "⛺️🧳🌕👑",
+    genres: ["Comedy", "Drama", "Romance"],
+    itemLink: "https://www.imdb.com/title/tt1748122/",
+    type: "movie",
+    year: 2012
+  },
+  {
+    title: "Moulin Rouge",
+    emojiImgs: "💃🇫🇷🎟🎭💋",
+    genres: ["drama", "musical", "romance"],
+    type: "movie",
+    year: 2001,
+    itemLink: "https://www.imdb.com/title/tt0203009/"
+  },
+  {
     title: "Mr.Robot",
     emojiImgs: "👨‍💻🤖⚔️😈",
     genres: ["crime", "drama", "thriller"],
@@ -1728,46 +1768,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0107614/",
     type: "movie",
     year: 1993
-  },
-  {
-    title: "Moonrise Kingdom",
-    emojiImgs: "⛺️🧳🌕👑",
-    genres: ["Comedy", "Drama", "Romance"],
-    itemLink: "https://www.imdb.com/title/tt1748122/",
-    type: "movie",
-    year: 2012
-  },
-  {
-    title: "Monty Python and the Holy Grail",
-    emojiImgs: "🤵🐍⛪🍷",
-    genres: ["comedy"],
-    type: "movie",
-    year: 1975,
-    itemLink: "https://www.imdb.com/title/tt0071853/?ref_=nv_sr_1?ref_=nv_sr_1"
-  },
-  {
-    title: "Moulin Rouge",
-    emojiImgs: "💃🇫🇷🎟🎭💋",
-    genres: ["drama", "musical", "romance"],
-    type: "movie",
-    year: 2001,
-    itemLink: "https://www.imdb.com/title/tt0203009/"
-  },
-  {
-    title: "Moonrise Kingdom",
-    emojiImgs: "⛺️🧳🌕👑",
-    genres: ["Comedy", "Drama", "Romance"],
-    itemLink: "https://www.imdb.com/title/tt1748122/",
-    type: "movie",
-    year: 2012
-  },
-  {
-    title: "Monty Python and the Holy Grail",
-    emojiImgs: "🤵🐍⛪🍷",
-    genres: ["comedy"],
-    type: "movie",
-    year: 1975,
-    itemLink: "https://www.imdb.com/title/tt0071853/"
   },
   {
     title: "Mulan",
