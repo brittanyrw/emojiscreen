@@ -1161,6 +1161,14 @@ const emojiItems = [
     year: 1990
   },
   {
+    title: "House of Cards",
+    emojiImgs: "🏠♦♥♣♠",
+    genres: ["drama"],
+    itemLink: "https://www.imdb.com/title/tt1856010/",
+    type: "tv",
+    year: 2013
+  }, 
+  {
     title: "Ichi The Killer",
     emojiImgs: "1️⃣🔪🤕🍆💀",
     genres: ["action", "crime", "drama", "foreign"],
@@ -2617,13 +2625,5 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt5311514/",
     type: "movie",
     year: 2016
-  },
-  {
-    title: "House of Cards",
-    emojiImgs: "🏠🃏",
-    genres: ["drama"],
-    itemLink: "https://www.imdb.com/title/tt1856010/",
-    type: "tv",
-    year: 2013
-  }, 
+  }
 ];
