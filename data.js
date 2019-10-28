@@ -50,14 +50,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0416449"
   },
   {
-    title: "Boyhood",
-    emojiImgs: "👶⚾🧑📷💔",
-    genres: ["drama"],
-    type: "movie",
-    year: 2014,
-    itemLink: "https://www.imdb.com/title/tt1065073/?ref_=nv_sr_1?ref_=nv_sr_1"
-  },
-  {
     title: "A Bug's Life",
     emojiImgs: "🐜🍃🦗🐦",
     genres: ["animation", "adventure", "comedy"],
@@ -353,6 +345,14 @@ const emojiItems = [
     year: 2011,
     itemLink:
       "http://www.playbill.com/production/the-book-of-mormon-eugene-oneill-theatre-vault-0000013715"
+  },
+  {
+    title: "Boyhood",
+    emojiImgs: "👶⚾🧑📷💔",
+    genres: ["drama"],
+    type: "movie",
+    year: 2014,
+    itemLink: "https://www.imdb.com/title/tt1065073/"
   },
   {
     title: "Boys over Flowers",
