@@ -1508,6 +1508,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt3783958/"
   },
   {
+    title: "Lawrence of Arabia",
+    emojiImgs: "🐎⚔🤠🏜🐫",
+    genres: ["adventure", "biography", "drama"],
+    type: "movie",
+    year: 1962,
+    itemLink: "https://www.imdb.com/title/tt0056172/"
+  },
+  {
     title: "Legally Blonde",
     emojiImgs: "👩‍⚖️👠💘🏫🐶",
     genres: ["romance", "comedy"],
