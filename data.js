@@ -760,6 +760,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0242423/"
   },
   {
+    title: "Dunkirk",
+    emojiImgs: "🇫🇷💥🚢🌊🚂",
+    gebres: ["action", "adventure", "drama"],
+    type: "movie",
+    year: 2017,
+    itemLink: "https://www.imdb.com/title/tt5013056/"
+  },
+  {
     title: "The Emoji Movie",
     emojiImgs: "😀😒✋💩",
     genres: ["animation", "adventure", "comedy"],
