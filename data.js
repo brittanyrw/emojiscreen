@@ -1843,6 +1843,14 @@ const emojiItems = [
     year: 2007
   },
   {
+    title: "The NeverEnding Story",
+    emojiImgs: "♾️🐉📖🐉♾️",
+    genres: ["fantasy", "adventure"],
+    itemLink: ["https://www.imdb.com/title/tt0088323/"],
+    type: "movie",
+    year: 1984
+  },
+  {
     title: "No Country for Old Men",
     emojiImgs: "⛔️🇺🇸👴💰",
     genres: ["crime", "drama", "thriller"],
