@@ -2049,6 +2049,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0091949/"
   },
   {
+    title: "Singin' In The Rain",
+    emojiImgs: "🎥😄🎤💃❤️",
+    genres: ["classical","comedy", "musical", "perfoming arts", "romance"],
+    itemLink: "https://www.imdb.com/title/tt0045152/"
+    type: "movie",
+    year: 1952
+  },
+  {
     title: "Sister Act",
     emojiImgs: "👩🏿👠🎶⛪",
     genres: ["comedy", "crime", "family"],
