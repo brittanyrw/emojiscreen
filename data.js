@@ -205,7 +205,7 @@ const emojiItems = [
   {
     title: "The Bachelor",
     emojiImgs: "🤵💑👩👩👰",
-    genres: ["Drama"],
+    genres: ["drama"],
     itemLink: "https://www.imdb.com/title/tt0313038/",
     type: "tv",
     year: 2002
@@ -213,7 +213,7 @@ const emojiItems = [
   {
     title: "The Bachelorette",
     emojiImgs: "👰💑🧔🧔🤵",
-    genres: ["Drama"],
+    genres: ["drama"],
     itemLink: "https://www.imdb.com/title/tt0348894/",
     type: "tv",
     year: 2002
@@ -2370,6 +2370,14 @@ const emojiItems = [
     type: "movie",
     year: 1986,
     itemLink: "https://www.imdb.com/title/tt0091949/"
+  },
+  {
+    title: "Singin' In The Rain",
+    emojiImgs: "🎥😄🎤💃❤️",
+    genres: ["classical","comedy", "musical", "perfoming arts", "romance"],
+    itemLink: "https://www.imdb.com/title/tt0045152/",
+    type: "movie",
+    year: 1952
   },
   {
     title: "Singh is King",
