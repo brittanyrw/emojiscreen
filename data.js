@@ -188,7 +188,7 @@ const emojiItems = [
   {
     title: "The Bachelor",
     emojiImgs: "🤵💑👩👩👰",
-    genres: ["Drama"],
+    genres: ["drama"],
     itemLink: "https://www.imdb.com/title/tt0313038/",
     type: "tv",
     year: 2002
@@ -196,7 +196,7 @@ const emojiItems = [
   {
     title: "The Bachelorette",
     emojiImgs: "👰💑🧔🧔🤵",
-    genres: ["Drama"],
+    genres: ["drama"],
     itemLink: "https://www.imdb.com/title/tt0348894/",
     type: "tv",
     year: 2002
