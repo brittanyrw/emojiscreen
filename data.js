@@ -2849,5 +2849,13 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt5311514/",
     type: "movie",
     year: 2016
+  },
+  {
+    title: "A Quiet Place",
+    emojiImgs: "🤫🤐☠👂🛀",
+    genres: ["drama", "horror", "mystery", "suspense"],
+    itemLink: "https://www.imdb.com/title/tt6644200/",
+    type: "movie",
+    year: 2018
   }
 ];
