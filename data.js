@@ -2849,5 +2849,13 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt5311514/",
     type: "movie",
     year: 2016
+  },
+  {
+    title: "Zootopia",
+    emojiImgs: "🐰👮🦊👔🦁",
+    genres: ["animation", "adventure", "comedy"],
+    itemLink: "https://www.imdb.com/title/tt2948356/",
+    type: "movie",
+    year: 2016
   }
 ];
