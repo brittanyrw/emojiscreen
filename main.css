@@ -397,6 +397,19 @@ footer a {
   text-decoration: underline;
 }
 
+.footer-list {
+  padding: 0px;
+}
+
+.footer-list li{
+  display: block;
+  margin: 8px
+}
+
+.footer-list p {
+	margin: 0px;
+}
+
 #message {
   display: none;
   max-width: 1000px;
@@ -407,4 +420,28 @@ footer a {
   color: white;
   font-size: 18px;
   text-align: center;
+}
+
+.imdb-link {
+  margin-top: 8px;
+  border: 3px solid #352649;
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 200px;
+}
+
+.imdb-link-item {
+  color: #352649;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.imdb-link i {
+  background: none;
+  margin-right: 8px;
+  font-size: 24px;
+  color: #3c3a4a;
 }
