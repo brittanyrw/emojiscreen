@@ -1627,6 +1627,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt3315342/"
   },
   {
+    title: "Logan Lucky",
+    emojiImgs: ️"🏎🚓🕵️‍♂️💰🍀",
+    genres: ["action", "drama"],
+    type: "movie",
+    year: 2017,
+    itemLink: "https://www.imdb.com/title/tt5439796/"
+  },
+  {
     title: "The Lizzie McGuire Movie",
     emojiImgs: "🎓✈🇮🇹👯🎤",
     genres: ["adventure", "comedy", "family"],
