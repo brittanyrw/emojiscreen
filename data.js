@@ -1516,6 +1516,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0048280/"
   },
   {
+    title: "Lady Bird",
+    emojiImgs: "💃🐦❤️🏙️",
+    genres: ["comedy", "drama"],
+    type: "movie",
+    year: 2017,
+    itemLink: "https://www.imdb.com/title/tt4925292/"
+  },
+  {
     title: "La La Land",
     emojiImgs: "💃🙋‍♂️🎹🎶",
     genres: ["romance", "drama", "musical"],
