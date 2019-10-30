@@ -87,3 +87,33 @@ Check out my other emoji themed projects.
 Emoji graphics are by Twitter and are licensed under CC-BY 4.0. Review the [Attribution Requirements](https://github.com/twitter/twemoji#attribution-requirements) for more information.
 
 > Please note that this project is released with a [Contributor Code of Conduct](/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+
+## Contributors
+
+### Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/brittanyrw/emojiscreen/graphs/contributors"><img src="https://opencollective.com/emojiscreen/contributors.svg?width=890&button=false" /></a>
+
+### Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/emojiscreen/contribute)]
+
+#### Individuals
+
+<a href="https://opencollective.com/emojiscreen"><img src="https://opencollective.com/emojiscreen/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/emojiscreen/contribute)]
+
+<a href="https://opencollective.com/emojiscreen/organization/0/website"><img src="https://opencollective.com/emojiscreen/organization/0/avatar.svg"></a>
+<a href="https://opencollective.com/emojiscreen/organization/1/website"><img src="https://opencollective.com/emojiscreen/organization/1/avatar.svg"></a>
+<a href="https://opencollective.com/emojiscreen/organization/2/website"><img src="https://opencollective.com/emojiscreen/organization/2/avatar.svg"></a>
+<a href="https://opencollective.com/emojiscreen/organization/3/website"><img src="https://opencollective.com/emojiscreen/organization/3/avatar.svg"></a>
+<a href="https://opencollective.com/emojiscreen/organization/4/website"><img src="https://opencollective.com/emojiscreen/organization/4/avatar.svg"></a>
+<a href="https://opencollective.com/emojiscreen/organization/5/website"><img src="https://opencollective.com/emojiscreen/organization/5/avatar.svg"></a>
+<a href="https://opencollective.com/emojiscreen/organization/6/website"><img src="https://opencollective.com/emojiscreen/organization/6/avatar.svg"></a>
+<a href="https://opencollective.com/emojiscreen/organization/7/website"><img src="https://opencollective.com/emojiscreen/organization/7/avatar.svg"></a>
+<a href="https://opencollective.com/emojiscreen/organization/8/website"><img src="https://opencollective.com/emojiscreen/organization/8/avatar.svg"></a>
+<a href="https://opencollective.com/emojiscreen/organization/9/website"><img src="https://opencollective.com/emojiscreen/organization/9/avatar.svg"></a>
