@@ -2881,5 +2881,13 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt2948356/",
     type: "movie",
     year: 2016
+  },
+  {
+    title: "Life of Pi",
+    emojiImgs: "👪⛵🌊🚣🐅",
+    genres: ["Drama", "Fantasy"],
+    itemLink: "https://www.imdb.com/title/tt0454876/",
+    type: "movie",
+    year: 2012
   }
 ];
