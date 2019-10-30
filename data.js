@@ -2881,5 +2881,13 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt2948356/",
     type: "movie",
     year: 2016
+  },
+  {
+    title: "Fight Club",
+    emojiImgs: "😪👬👩👊🔫👫",
+    genres: ["drama", "thriller"],
+    itemLink: "https://www.imdb.com/title/tt0137523/",
+    type: "movie",
+    year: 1999
   }
 ];
