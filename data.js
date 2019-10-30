@@ -1010,6 +1010,14 @@ const emojiItems = [
     year: 2009
   },
   {
+    title: "The Godfather",
+    emojiImgs: "🇮🇹🤵🐴🔫💵",
+    genres: ["crime", "drama"],
+    type: "movie",
+    year: 1972,
+    itemLink: "https://www.imdb.com/title/tt0068646/"
+  },
+  {
     title: "Goonies",
     emojiImgs: "🚴🚴‍♀️😲💍👨‍👩‍👧‍👦",
     genres: ["adventure", "comedy", "family"],
