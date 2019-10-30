@@ -1846,7 +1846,7 @@ const emojiItems = [
     title: "The NeverEnding Story",
     emojiImgs: "♾️🐉📖🐉♾️",
     genres: ["fantasy", "adventure"],
-    itemLink: ["https://www.imdb.com/title/tt0088323/"],
+    itemLink: "https://www.imdb.com/title/tt0088323/",
     type: "movie",
     year: 1984
   },
