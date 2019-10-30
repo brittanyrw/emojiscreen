@@ -2294,6 +2294,14 @@ const emojiItems = [
     year: 2007
   },
   {
+    title: "Seven Samurai",
+    emojiImgs: "⚔️⛩️🍚🎰",
+    genres: ["adventure", "drama"],
+    itemLink: "https://www.imdb.com/title/tt0047478/",
+    type: "movie",
+    year: 1954
+  },
+  {
     title: "Shaun Of The Dead",
     emojiImgs: "🧟🏏🍦🍺",
     genres: ["comedy", "horror"],
