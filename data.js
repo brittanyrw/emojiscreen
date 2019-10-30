@@ -58,6 +58,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0120623/"
   },
   {
+    title: "A Quiet Place",
+    emojiImgs: "🤫🤐👂🛀👶",
+    genres: ["drama", "horror", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt6644200/",
+    type: "movie",
+    year: 2018
+  },
+  {
     title: "A Star is Born",
     emojiImgs: "🎤👩👨🎸⭐",
     genres: ["drama", "music", "romance"],
