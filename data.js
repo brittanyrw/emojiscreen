@@ -2952,5 +2952,13 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt2948356/",
     type: "movie",
     year: 2016
-  }
+  },
+  {
+    title: "Mad Max: Fury Road",
+    emojiImgs: "🏜🚍🚍💀💦",
+    genres: ["action", "adventure", "Sci-Fi"],
+    itemLink: "https://www.imdb.com/title/tt1392190/",
+    type: "movie",
+    year: 2015
+  },
 ];
