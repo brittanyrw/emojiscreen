@@ -74,6 +74,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt1517451"
   },
   {
+    title: "The Adventures of Robin Hood",
+    emojiImgs: "🏹🍎🎯",
+    genres: ["action", "adventure", "romance"],
+    type: "movie",
+    year: 1938,
+    itemLink: "https://www.imdb.com/title/tt0029843/"
+  },
+  {
     title: "Aladdin",
     emojiImgs: "🧞‍♂️💞👸👳🏰",
     genres: ["adventure", "family", "comedy"],
