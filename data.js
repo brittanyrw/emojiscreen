@@ -2960,5 +2960,5 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt1392190/",
     type: "movie",
     year: 2015
-  },
+  }
 ];
