@@ -2952,5 +2952,13 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt2948356/",
     type: "movie",
     year: 2016
+  },
+  {
+    title: "The Fault in our Stars",
+    emojiImgs: "👫🏥✈️🇪🇺☠️",
+    genres: ["drama", "romance"],
+    itemLink: "https://www.imdb.com/title/tt2582846/",
+    type: "movie",
+    year: 2014
   }
 ];
