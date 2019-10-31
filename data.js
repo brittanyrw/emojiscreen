@@ -7,7 +7,6 @@ const emojiItems = [
     year: 2016,
     itemlink: "https://www.imdb.com/title/tt1179933/"
   },
-
   {
     title: "The 25th Annual Putnum County Spelling Bee",
     emojiImgs: "🔤🐝😂",
@@ -1644,7 +1643,7 @@ const emojiItems = [
   },
   {
     title: "Logan Lucky",
-    emojiImgs: ️"🏎🚓🕵️‍♂️💰🍀",
+    emojiImgs: "🏎🚓🕵️‍♂️💰🍀",
     genres: ["action", "drama"],
     type: "movie",
     year: 2017,
