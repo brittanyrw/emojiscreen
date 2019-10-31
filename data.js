@@ -1549,6 +1549,14 @@ const emojiItems = [
       "https://www.playbill.com/production/les-miserables-broadway-theatre-vault-0000012257"
   },
   {
+    title: "Life of Pi",
+    emojiImgs: "👪⛵🌊🚣🐅",
+    genres: ["Drama", "Fantasy"],
+    itemLink: "https://www.imdb.com/title/tt0454876/",
+    type: "movie",
+    year: 2012
+  },
+  {
     title: "The Lost World: Jurassic Park",
     emojiImgs: "🦖🏝🚢🏙",
     genres: ["action", "adventure", "sci-fi"],
@@ -2881,13 +2889,5 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt2948356/",
     type: "movie",
     year: 2016
-  },
-  {
-    title: "Life of Pi",
-    emojiImgs: "👪⛵🌊🚣🐅",
-    genres: ["Drama", "Fantasy"],
-    itemLink: "https://www.imdb.com/title/tt0454876/",
-    type: "movie",
-    year: 2012
   }
 ];
