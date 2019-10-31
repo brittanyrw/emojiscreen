@@ -8,6 +8,14 @@ const emojiItems = [
     itemlink: "https://www.imdb.com/title/tt1179933/"
   },
   {
+    title: "500 Days of Summer",
+    emojiImgs: "5️⃣💯☀️",
+    genres: ["drama", "comedy", "romance"],
+    type: "movie",
+    year: 2009,
+    itemlink: "https://www.imdb.com/title/tt1022603/"
+  },
+  {
     title: "The 25th Annual Putnum County Spelling Bee",
     emojiImgs: "🔤🐝😂",
     genres: ["musical", "comedy"],
@@ -279,6 +287,30 @@ const emojiItems = [
     type: "movie",
     year: 1991,
     itemLink: "https://www.imdb.com/title/tt2771200"
+  },
+  {
+    title: "Before Sunrise",
+    emojiImgs: "👫💞🌄",
+    genres: ["drama", "romance"],
+    type: "movie",
+    year: 1995,
+    itemLink: "https://www.imdb.com/title/tt0112471"
+  },
+  {
+    title: "Before Sunset",
+    emojiImgs: "👫🌅💞",
+    genres: ["drama", "romance"],
+    type: "movie",
+    year: 2004,
+    itemLink: "https://www.imdb.com/title/tt0381681"
+  },
+  {
+    title: "Before Midnight",
+    emojiImgs: "👫💞🌃",
+    genres: ["drama", "romance"],
+    type: "movie",
+    year: 2013,
+    itemLink: "https://www.imdb.com/title/tt2209418"
   },
   {
     title: "Bettlejuice",
@@ -564,11 +596,11 @@ const emojiItems = [
   },
   {
     title: "Citizen Kane",
-    emojiImgs:"🌹🛷📰🗞️",
-    genres:["drama", "mystery", "classic"],
-    type:"movie",
+    emojiImgs: "🌹🛷📰🗞️",
+    genres: ["drama", "mystery", "classic"],
+    type: "movie",
     year: 1941,
-    itemLink:"https://www.imdb.com/title/tt0033467/"
+    itemLink: "https://www.imdb.com/title/tt0033467/"
   },
   {
     title: "Cloudy with a Chance of Meatballs",
@@ -1395,21 +1427,22 @@ const emojiItems = [
     year: 2019
   },
   {
-    title:"The Jungle Book",
-    emojiImgs:"🐻🐯🐍🐵📖",
-    genres:["adventure", "drama", "family"],
+    title: "The Jungle Book",
+    emojiImgs: "🐻🐯🐍🐵📖",
+    genres: ["adventure", "drama", "family"],
     itemLink: "https://www.imdb.com/title/tt3040964/",
     type: "movie",
     year: 2016
   },
   {
-      title: "Jurassic Park",
-      emojiImgs: "🔬🦖🏝",
-      genres: ["action", "adventure", "sci-fi"],
-      itemLink: "https://www.imdb.com/title/tt0107290/",
-      type: "movie",
-      year: 1993
-  },{
+    title: "Jurassic Park",
+    emojiImgs: "🔬🦖🏝",
+    genres: ["action", "adventure", "sci-fi"],
+    itemLink: "https://www.imdb.com/title/tt0107290/",
+    type: "movie",
+    year: 1993
+  },
+  {
     title: "Jurassic Park",
     emojiImgs: "🔬🦖🏝",
     genres: ["action", "adventure", "sci-fi"],
@@ -2130,12 +2163,12 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0437741/"
   },
   {
-  title: "Psycho",
-  emojiImgs: "😱🛀🔪",
-  genres: ["horror", "mystery", "thriller"],
-  itemLink: "https://www.imdb.com/title/tt0054215/",
-  type: "movie",
-  year: 1960
+    title: "Psycho",
+    emojiImgs: "😱🛀🔪",
+    genres: ["horror", "mystery", "thriller"],
+    itemLink: "https://www.imdb.com/title/tt0054215/",
+    type: "movie",
+    year: 1960
   },
   {
     title: "Pulp Fiction",
@@ -2461,7 +2494,7 @@ const emojiItems = [
   {
     title: "Singin' In The Rain",
     emojiImgs: "🎥😄🎤💃❤️",
-    genres: ["classical","comedy", "musical", "perfoming arts", "romance"],
+    genres: ["classical", "comedy", "musical", "perfoming arts", "romance"],
     itemLink: "https://www.imdb.com/title/tt0045152/",
     type: "movie",
     year: 1952
