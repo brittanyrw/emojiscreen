@@ -2929,5 +2929,13 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt2948356/",
     type: "movie",
     year: 2016
-  }
+  },
+  {
+    title: "Joker",
+    emojiImgs: "🕺🤡🔫",
+    genres: ["drama", "movie"],
+    itemLink: "https://www.imdb.com/title/tt7286456/",
+    type: "movie",
+    year: 2019
+  },
 ];
