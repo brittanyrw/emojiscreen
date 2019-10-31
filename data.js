@@ -2724,6 +2724,14 @@ const emojiItems = [
     year: 2017
   },
   {
+    title: "Toy Story 2",
+    emojiImgs: "🤠🐔🐎✈👨‍🚀",
+    genres: ["adventure", "animation", "family"],
+    itemLink: "https://www.imdb.com/title/tt0120363/",
+    type: "movie",
+    year: 1999
+  },
+  {
     title: "Tron: Legacy",
     emojiImgs: "📟🕹🤖🏍️⭕",
     genres: ["action", "adventure", "sci-fi"],
