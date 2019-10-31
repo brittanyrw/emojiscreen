@@ -2952,5 +2952,13 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt2948356/",
     type: "movie",
     year: 2016
+  },
+  {
+    title: "Paper Towns",
+    emojiImgs: "🧻🏡🏡🏡",
+    genres: ["comedy", "drama", "mystery"],
+    itemLink: "https://www.imdb.com/title/tt3622592/",
+    type: "movie",
+    year: 2015
   }
 ];
