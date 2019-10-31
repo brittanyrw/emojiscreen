@@ -48,13 +48,14 @@ const emojiItems = [
     year: 2007,
     itemLink: "https://www.imdb.com/title/tt0416449"
   },
+  
   {
-    title: "A Bug's Life",
-    emojiImgs: "🐜🍃🦗🐦",
-    genres: ["animation", "adventure", "comedy"],
+    title: "The Deer Hunter",
+    emojiImgs: "🦌🔫",
+    genres: ["adventure", "fiction"],
     type: "movie",
-    year: 1998,
-    itemLink: "https://www.imdb.com/title/tt0120623/"
+    year: 1978,
+    itemLink: "https://www.imdb.com/title/tt0077416/"
   },
   {
     title: "A Quiet Place",
