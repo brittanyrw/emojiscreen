@@ -2197,6 +2197,14 @@ const emojiItems = [
     year: 2006
   },
   {
+    title: "The Rocky Horror Picture Show",
+    emojiImgs: "🧪👽🎤😈👠",
+    genres: ["comedy", "musical"],
+    type: "movie",
+    year: 1975,
+    itemLink: "https://www.imdb.com/title/tt0073629/"
+  },
+  {
     title: "The Room",
     emojiImgs: "🏠💔🏈",
     genres: ["drama"],
