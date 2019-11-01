@@ -1985,6 +1985,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0250371/"
   },
   {
+    title: "Paddington 2",
+    emojiImgs: "🧸📖🏰🇬🇧🎁",
+    genres: ["animation", "comedy", "kids&family"],
+    itemLink: "https://www.imdb.com/title/tt4468740/",
+    type: "movie",
+    year" 2017
+  },
+  {
     title: "Parks and Recreation",
     emojiImgs: "🕳️🏞️🥳👩‍💼",
     genres: ["comedy"],
