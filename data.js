@@ -611,6 +611,14 @@ const emojiItems = [
     year: 2015
   },
   {
+    title: "Contagion",
+    emojiImgs: "🐷🦇😷⚰️💉",
+    genres: ["action", "drama", "thriller"],
+    itemLink: "https://www.imdb.com/title/tt1598778/",
+    type: "movie",
+    year: 2011
+  },
+  {
     title: "The Crown",
     emojiImgs: "👑🤴👸🇬🇧",
     genres: ["drama", "history"],
