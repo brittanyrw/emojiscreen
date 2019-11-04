@@ -1998,7 +1998,7 @@ const emojiItems = [
     genres: ["animation", "comedy", "kids&family"],
     itemLink: "https://www.imdb.com/title/tt4468740/",
     type: "movie",
-    year" 2017
+    year: 2017
   },
   {
     title: "Parks and Recreation",
