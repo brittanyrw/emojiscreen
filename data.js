@@ -2732,6 +2732,14 @@ const emojiItems = [
     year: 2017
   },
   {
+    title: "Treasure Planet",
+    emojiImgs: "💰🌏🛸🏄‍♂️🏴‍☠️",
+    genres: ["Animation", "Adventure", "Family"],
+    type: "movie",
+    year: 2002,
+    itemLink: "https://www.imdb.com/title/tt0133240/"
+  },
+  {
     title: "Tron: Legacy",
     emojiImgs: "📟🕹🤖🏍️⭕",
     genres: ["action", "adventure", "sci-fi"],
