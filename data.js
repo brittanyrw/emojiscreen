@@ -1945,6 +1945,15 @@ const emojiItems = [
     year: 1993,
     itemLink: "https://www.imdb.com/title/tt0107688/"
   },
+ {
+  title: “The Notebook",
+  emojiImgs: " 💏📒🌧😭 ",
+  genres: ["drama", "romance"],
+  itemLink: "https://www.imdb.com/title/tt0332280/ ",
+  type: "movie",
+  year: 2004
+},
+
   {
     title: "The Office",
     emojiImgs: "👔🤓📠📎💻",
