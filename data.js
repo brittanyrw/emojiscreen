@@ -960,6 +960,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0944947/"
   },
   {
+    title: "Gargoyles",
+    emojiImgs: "🏰🌖🦇🎭",
+    genres: ["animation", "action", "adventure"],
+    type: "tv",
+    year: 1994,
+    itemLink: "https://www.imdb.com/title/tt0108783/"
+  },
+  {
     title: "Gavin and Stacey",
     emojiImgs: "🤵🏻👰🏼🙍🏻‍👱🏻‍👶🏼",
     genres: ["comedy", "romance"],
