@@ -1572,7 +1572,7 @@ const emojiItems = [
   },
   {
     title: "Leap",
-    emojiImgs: "👯‍♀️🥿👗😄",
+    emojiImgs: "💃🇫🇷⚙️🎶",
     genres: [ "Animation", "Adventure", "Comedy" ],
     type: "movie",
     year: 2016,
