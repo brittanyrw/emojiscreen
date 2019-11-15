@@ -1729,6 +1729,15 @@ const emojiItems = [
     year: 2015
   },
   {
+    title: "The Marvelous Mrs. Maisel",
+    emojiImgs: "😄💃👠",
+    genres: ["comedy", "drama"],
+    itemLink: "https://www.imdb.com/title/tt5788792/?ref_=nv_sr_1?ref_=nv_sr_1",
+    type: "tv series",
+    year:  2017 
+  },
+
+  {
     title: "Mary and Max",
     emojiImgs: "👧👴✉🇦🇺🇺🇸",
     genres: ["animation", "comedy", "drama"],
