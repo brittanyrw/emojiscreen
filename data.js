@@ -1569,6 +1569,7 @@ const emojiItems = [
   type: "movie"
   year: 2016
   itemLink: "https://www.imdb.com/title/tt2261287/"
+},
   {
     title: "Legally Blonde",
     emojiImgs: "👩‍⚖️👠💘🏫🐶",
