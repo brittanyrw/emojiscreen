@@ -25,6 +25,14 @@ const emojiItems = [
     year: 1959
   },
   {
+    title: "500 Days of Summer",
+    emojiImgs: "👦💔👱‍♀️☀️",
+    genres: ["Comedy", "Romance", "Drama"],
+    itemLink: "https://www.imdb.com/title/tt1022603/",
+    type: "movie",
+    year: 2009
+  },
+  {
     title: "The Great British Bake Off",
     emojiImgs: "👍🇬🇧🍞🎂🥐",
     genres: ["cooking", "reality"],
