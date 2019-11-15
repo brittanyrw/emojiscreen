@@ -1490,6 +1490,15 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt2802144/"
   },
   {
+    title: "Free Solo",
+    emojiImgs: "🧗⛰️",
+    genres: ["Documentary", "Adventure", "Sport"],
+    type: "movie",
+    year: 2018,
+    itemLink:
+      "https://www.imdb.com/title/tt7775622/"
+  },
+  {
     title: "Kiki's Delivery Service",
     emojiImgs: "👧🐱🧹📫",
     genres: ["animated"],
