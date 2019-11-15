@@ -1409,6 +1409,13 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt3040964/",
     type: "movie",
     year: 2016
+  },{
+    title: "Lilo & Stich",
+    emojiImgs: "👽🏄🏻‍♂️🌸👧🏾",
+    genres: ["Animation", "Adventure", "Comedy"],
+    type: "tv",
+    year: 2010,
+    itemLink: "https://www.imdb.com/title/tt1877368/"
   },
   {
       title: "Jurassic Park",
