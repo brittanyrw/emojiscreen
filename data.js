@@ -815,6 +815,14 @@ const emojiItems = [
     year: 2006
   },
   {
+    title: "Empire",
+    emojiImgs: "💿👑💰🔫",
+    genres: ["drame", "music"],
+    type: "tv",
+    year: 2015,
+    itemLink: "https://www.imdb.com/title/tt3228904/"
+  },
+  {
     title: "E.T. the Extra-Terrestrial",
     emojiImgs: "🌙🚲👉🏻👈🏻👽",
     genres: ["family", "sci-fi"],
@@ -1562,14 +1570,14 @@ const emojiItems = [
     year: 1962,
     itemLink: "https://www.imdb.com/title/tt0056172/"
   },
-}
-  title: "Leap",
-  emojiImgs: "👯‍♀️🥿👗😄"
-  genres: [ "Animation", "Adventure", "Comedy" ]
-  type: "movie"
-  year: 2016
-  itemLink: "https://www.imdb.com/title/tt2261287/"
-},
+  {
+    title: "Leap",
+    emojiImgs: "👯‍♀️🥿👗😄",
+    genres: [ "Animation", "Adventure", "Comedy" ],
+    type: "movie",
+    year: 2016,
+    itemLink: "https://www.imdb.com/title/tt2261287/"
+  },
   {
     title: "Legally Blonde",
     emojiImgs: "👩‍⚖️👠💘🏫🐶",
