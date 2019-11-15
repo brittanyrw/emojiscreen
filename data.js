@@ -774,6 +774,14 @@ const emojiItems = [
     type: "movie",
     year: 1931
   },
+{
+    title: "Dreamgirls",
+    emojiImgs: "😴💭👭",
+    genres: ["musical", "drama"],
+    itemLink: "https://www.imdb.com/title/tt0443489/",
+    type: "movie",
+    year: 2006
+  },
   {
     title: "Dreams",
     emojiImgs: "💤💭👺🇯🇵",
