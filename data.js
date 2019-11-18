@@ -202,6 +202,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0499549"
   },
   {
+    title: "Ghost in the Shell",
+    emojiImgs: "👻➡️🐚",
+    genres: ["action", "animation", "sci-fi"],
+    type: "movie",
+    year: 1995,
+    itemLink: "https://www.imdb.com/title/tt0113568/?ref_=fn_al_tt_2"
+  },  
+  {
     title: "Ant-Man and the Wasp",
     emojiImgs: "🐜🙍‍♂️🐝🙎‍♀️👻",
     genres: ["action", "adventure", "comedy"],
@@ -2978,3 +2986,4 @@ const emojiItems = [
     year: 2016
   }
 ];
+
