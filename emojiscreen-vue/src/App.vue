@@ -19,7 +19,14 @@ export default {
 </script>
 
 <style>
-#app {
-  
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #292932;
+  padding: 40px;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
 }
 </style>
