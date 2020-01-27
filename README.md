@@ -82,7 +82,7 @@ Check out my other emoji themed projects.
 
 ## Credits
 
-💖Check out a list of all [of the EmojiScreen contributors](https://github.com/brittanyrw/emojiscreen/graphs/contributors).
+💖Check out a list of all [EmojiScreen contributors](https://github.com/brittanyrw/emojiscreen/graphs/contributors).
 
 Emoji graphics are by Twitter and are licensed under CC-BY 4.0. Review the [Attribution Requirements](https://github.com/twitter/twemoji#attribution-requirements) for more information.
 
