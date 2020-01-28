@@ -2,18 +2,24 @@
   <div id="app">
     <Header />
     <EmojiCards />
+    <ViewAllButton />
+    <Footer />
   </div>
 </template>
 
 <script>
 import Header from './components/Header.vue'
 import EmojiCards from './components/EmojiCards.vue'
+import ViewAllButton from './components/ViewAllButton.vue'
+import Footer from './components/Footer.vue'
 
 export default {
   name: 'app',
   components: {
     Header,
-    EmojiCards
+    EmojiCards,
+    ViewAllButton,
+    Footer
   }
 }
 </script>
