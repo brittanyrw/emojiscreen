@@ -1,6 +1,6 @@
 <template>
     <footer>
-        <p class="item-count" v-emoji>EmojiScreen currently has <span></span> movies, TV shows and musicals. 💖</p>
+        <p class="item-count" v-emoji>EmojiScreen currently has <span>{{ emojis.length }}</span> movies, TV shows and musicals. 💖</p>
         <ul class="footer-list">
             <li>
                 <p class="companion-project-link" v-emoji>Music fan? Check out <a href="https://emojibops.com" target="_blank">EmojiBops</a> 🎶</p> 
@@ -13,8 +13,16 @@
 </template>
 
 <script>
+
+import {emojiCards} from "../data/emojis";
+
 export default {
-  name: 'Footer'
+  name: 'Footer',
+  data: function () {
+		return {
+			emojis: emojiCards
+		}
+	}
 }
 </script>
 
