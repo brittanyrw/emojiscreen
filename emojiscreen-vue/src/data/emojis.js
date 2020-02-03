@@ -2282,59 +2282,64 @@ export const emojiCards = [
     title: "Westworld",
     emojiImgs: "🤠🚂🏜👨‍💻🤖",
     genres: ["drama", "mystery", "sci-fi"],
-    itemLink: "https://www.imdb.com/title/tt0475784/",
     type: "tv",
-    year: 2016
+    year: 2016,
+    itemLink: "https://www.imdb.com/title/tt0475784/",
   },
   {
     title: "The West Wing",
     emojiImgs: "🇺🇸🌎📄",
     genres: ["drama"],
-    itemLink: "https://www.imdb.com/title/tt0200276/",
     type: "tv",
-    year: 1999
+    year: 1999,
+    itemLink: "https://www.imdb.com/title/tt0200276/"
   },
   {
     title: "Where in the World is Carmen Sandiego?",
     emojiImgs: "🤔🌎🕵️‍♀️💄",
     genres: ["game show", "children"],
     type: "tv",
-    year: 1991
+    year: 1991,
+    itemLink: "https://www.imdb.com/title/tt0106172/"
   },
   {
     title: "Wicked",
     emojiImgs: "💚🧹🧙‍♂️",
     genres: ["fantasy", "musical", "drama", "romance"],
     type: "musical",
-    year: 2003
+    year: 2003,
+    itemLink: "http://www.playbill.com/production/wicked-george-gershwin-theatre-vault-0000011020"
   },
   {
     title: "Willy Wonka & the Chocolate Factory",
     emojiImgs: "🧒🏻🍫🏭🎩️",
     genres: ["family", "fantasy", "musical"],
     type: "movie",
-    year: 1971
+    year: 1971,
+    itemLink: "https://www.imdb.com/title/tt0067992/"
   },
   {
     title: "X-Files",
     emojiImgs: "👽🛸👦🏻👩‍🦰🔦",
     genres: ["sci-fi", "drama", "mystery"],
     type: "tv",
-    year: 1993
+    year: 1993,
+    itemLink: "https://www.imdb.com/title/tt0106179/"
   },
   {
     title: "Young Frankenstein",
     emojiImgs: "👶🌭🍺⚡️🧟‍",
     genres: ["comedy"],
     type: "movie",
-    year: 1974
+    year: 1974,
+    itemLink: "https://www.imdb.com/title/tt0072431/"
   },
   {
     title: "Zootopia",
     emojiImgs: "🐰👮🦊👔🦁",
     genres: ["animation", "adventure", "comedy"],
-    itemLink: "https://www.imdb.com/title/tt2948356/",
     type: "movie",
-    year: 2016
+    year: 2016,
+    itemLink: "https://www.imdb.com/title/tt2948356/",
   }
 ];
