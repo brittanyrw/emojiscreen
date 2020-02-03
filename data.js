@@ -775,14 +775,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0944947/"
   },
   {
-    title: "Gavin and Stacey",
-    emojiImgs: "🤵🏻👰🏼🙍🏻‍👱🏻‍👶🏼",
-    genres: ["comedy", "romance"],
-    itemLink: "https://www.imdb.com/title/tt0908454",
-    type: "tv",
-    year: 2007
-  },
-  {
     title: "Get Out",
     emojiImgs: "😮😱💪🏿🦸🏿",
     genres: ["horror", "sci-fi"],
@@ -790,15 +782,6 @@ const emojiItems = [
     year: 2018,
     itemLink: "https://www.imdb.com/title/tt5052448/"
   },
-  {
-    title: "Geostorm",
-    emojiImgs: "😱⛈🌊💦",
-    genres: ["action", "sci-fi"],
-    type: "movie",
-    year: 2017,
-    itemLink: "https://www.imdb.com/title/tt1981128/"
-  },
-
   {
     title: "Ghostbusters",
     emojiImgs: "👻🔫👨‍🚒️",
@@ -822,14 +805,6 @@ const emojiItems = [
     type: "tv",
     year: 2000,
     itemLink: "https://www.imdb.com/title/tt0238784/"
-  },
-  {
-    title: "The Girl Next Door ",
-    emojiImgs: "👩👉🚪",
-    genres: ["comedy", "drama", "romance"],
-    type: "movie",
-    year: 2004,
-    itemLink: "https://www.imdb.com/title/tt0265208/"
   },
   {
     title: "Gladiator",
@@ -878,14 +853,6 @@ const emojiItems = [
     type: "movie",
     year: 1978,
     itemLink: "https://www.imdb.com/title/tt0077631/"
-  },
-  {
-    title: "Great Expectations",
-    emojiImgs: "👫🛫💏🎨💔",
-    genres: ["drama", "romance"],
-    type: "movie",
-    year: 1998,
-    itemLink: "https://www.imdb.com/title/tt0119223/"
   },
   {
     title: "The Greatest Showman",
@@ -958,7 +925,7 @@ const emojiItems = [
   },
   {
     title: "Hereditary",
-    emojiImgs: "😱👑🚗 👨‍👩‍👧‍👧 🏡",
+    emojiImgs: "😱👑🚗👨‍👩‍👧‍👧🏡",
     genres: ["drama", "horror", "mystery"],
     type: "movie",
     year: 2018,
@@ -1028,14 +995,6 @@ const emojiItems = [
     year: 2004
   },
   {
-    title: "Haunting of Hill House",
-    emojiImgs: "🏠🚪👻👨‍👩‍👧⚰️",
-    genres: ["horror", "mystery", "drama"],
-    itemLink: "https://www.imdb.com/title/tt6763664/",
-    type: "tv",
-    year: 2018
-  },
-  {
     title: "Hidden Figures",
     emojiImgs: "🚀👩🏽‍💻🧮👨🏻‍🦳👨🏻‍🚀",
     genres: ["biography", "drama", "history"],
@@ -1079,14 +1038,6 @@ const emojiItems = [
     type: "movie",
     year: 2002,
     itemLink: "https://www.imdb.com/title/tt0268380/"
-  },
-  {
-    title: "Ichi The Killer",
-    emojiImgs: "1️⃣🔪🤕🍆💀",
-    genres: ["action", "crime", "drama", "foreign"],
-    itemLink: "https://m.imdb.com/title/tt0296042/",
-    type: "movie",
-    year: 2001
   },
   {
     title: "Independence Day",
@@ -1138,14 +1089,6 @@ const emojiItems = [
     year: 2017
   },
   {
-    title: "IT Chapter Two",
-    emojiImgs: "🤡🎈🤡🎈🤡",
-    genres: ["horror", "thriller"],
-    itemLink: "https://www.imdb.com/title/tt7349950/",
-    type: "movie",
-    year: 2019
-  },
-  {
     title: "The IT Crowd",
     emojiImgs: "🖥🤓👱🏼‍♀️👦🏼",
     genres: ["comedy"],
@@ -1194,7 +1137,7 @@ const emojiItems = [
     year: 1975
   },
   {
-    title: "Jersey Shore ",
+    title: "Jersey Shore",
     emojiImgs: "👭🤵👙🍸💔",
     genres: ["comedy", "drama", "reality"],
     type: "tv",
@@ -1210,14 +1153,6 @@ const emojiItems = [
     year: 2014
   },
   {
-    title: "John Wick: Chapter 3 - Parabellum",
-    emojiImgs: "🔫🗡🐶💰🏎",
-    genres: ["action", "crime", "thriller"],
-    itemLink: "https://www.imdb.com/title/tt6146586/",
-    type: "movie",
-    year: 2019
-  },
-  {
     title:"The Jungle Book",
     emojiImgs:"🐻🐯🐍🐵📖",
     genres:["adventure", "drama", "family"],
@@ -1226,59 +1161,12 @@ const emojiItems = [
     year: 2016
   },
   {
-      title: "Jurassic Park",
-      emojiImgs: "🔬🦖🏝",
-      genres: ["action", "adventure", "sci-fi"],
-      itemLink: "https://www.imdb.com/title/tt0107290/",
-      type: "movie",
-      year: 1993
-  },{
     title: "Jurassic Park",
     emojiImgs: "🔬🦖🏝",
     genres: ["action", "adventure", "sci-fi"],
     itemLink: "https://www.imdb.com/title/tt0107290/",
     type: "movie",
     year: 1993
-  },
-  {
-    title: "Jurassic Park: Fallen Kingdom",
-    emojiImgs: "🦖🦕🐊🤯😫",
-    genres: ["action", "adventure", "Sci-Fi"],
-    itemLink: "https://www.imdb.com/title/tt4881806/",
-    type: "movie",
-    year: 2018
-  },
-  {
-    title: "Jurassic Park III",
-    emojiImgs: "🛩🏝🧒🏼🦖🦕",
-    genres: ["action", "adventure", "sci-fi"],
-    itemLink: "https://www.imdb.com/title/tt0163025",
-    type: "movie",
-    year: 2001
-  },
-  {
-    title: "Jurassic World",
-    emojiImgs: "🎡🦖🦕🏍",
-    genres: ["action", "adventure", "sci-fi"],
-    itemLink: "https://www.imdb.com/title/tt0369610",
-    type: "movie",
-    year: 2015
-  },
-  {
-    title: "Jurassic World: Fallen Kingdom",
-    emojiImgs: "🦖🦕🐊🌋😫",
-    genres: ["action", "adventure", "Sci-Fi"],
-    itemLink: "https://www.imdb.com/title/tt4881806",
-    type: "movie",
-    year: 2018
-  },
-  {
-    title: "The Karate Kid Part II",
-    emojiImgs: "🤼‍♂️👦🏻👘2️⃣",
-    genres: ["action", "drama", "family"],
-    type: "movie",
-    year: 1986,
-    itemLink: "https://www.imdb.com/title/tt0091326/"
   },
   {
     title: "The Karate Kid",
@@ -1411,14 +1299,6 @@ const emojiItems = [
     year: 2012
   },
   {
-    title: "The Lost World: Jurassic Park",
-    emojiImgs: "🦖🏝🚢🏙",
-    genres: ["action", "adventure", "sci-fi"],
-    itemLink: "https://www.imdb.com/title/tt0119567",
-    type: "movie",
-    year: 1997
-  },
-  {
     title: "Passaport to Paris",
     emojiImgs: "🎟✈🗼",
     genres: ["comedy", "romance"],
@@ -1440,13 +1320,6 @@ const emojiItems = [
     genres: ["animation", "adventure", "drama"],
     type: "movie",
     year: 1994
-  },
-  {
-    title: "The Lion King",
-    emojiImgs: "😺🦁👑🌍",
-    genres: ["action", "adventure"],
-    type: "movie",
-    year: 2018
   },
   {
     title: "The Little Mermaid",
@@ -1529,7 +1402,7 @@ const emojiItems = [
   },
   {
     title: "Mad Men",
-    emojiImgs: "‍😡 👨🏻 👨🏻 ",
+    emojiImgs: "‍😡👨🏻👨🏻",
     genres: ["drama"],
     type: "tv",
     year: 2007,
@@ -1544,23 +1417,7 @@ const emojiItems = [
     year: 2015
   },
   {
-    title: "Mary and Max",
-    emojiImgs: "👧👴✉🇦🇺🇺🇸",
-    genres: ["animation", "comedy", "drama"],
-    type: "movie",
-    year: 2009,
-    itemLinks: "https://www.imdb.com/title/tt0978762/"
-  },
-  {
-    title: "Mary Poppins",
-    emojiImgs: "✨☂️✨👜✨",
-    genres: ["comedy", "family", "fantasy"],
-    type: "movie",
-    year: 1964,
-    itemLinks: "https://www.imdb.com/title/tt00000000058331/"
-  },
-  {
-    title: "The Mask ",
+    title: "The Mask",
     emojiImgs: "🐶🤓👺🤪🕺",
     genres: ["comedy", "crime", "fantasy"],
     type: "movie",
@@ -1577,16 +1434,8 @@ const emojiItems = [
       "http://www.playbill.com/production/matilda-the-musical-shubert-theatre-vault-0000013970"
   },
   {
-    title: "Mad Men",
-    emojiImgs: "‍😡 👨🏻 👨🏻 ",
-    genres: ["drama"],
-    type: "tv",
-    year: 2007,
-    itemLink: "https://www.imdb.com/title/tt0804503/"
-  },
-  {
     title: "Maleficient: Mistress of Evil",
-    emojiImgs: "🧝‍♀️ 🧙‍♀️💔👸🖤",
+    emojiImgs: "🧝‍♀️🧙‍♀️💔👸🖤",
     genres: ["action", "fantasy"],
     itemLink: "https://www.imdb.com/title/tt4777008/",
     type: "movie",
@@ -1623,14 +1472,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0119654/",
     type: "movie",
     year: 1997
-  },
-  {
-    title: "Men in Black 3",
-    emojiImgs: "👨⤵◾👽",
-    genres: ["action", "comedy", "sci-fi"],
-    type: "movie",
-    year: 2012,
-    itemLink: "https://www.imdb.com/title/tt1409024/"
   },
   {
     title: "Merlin",
@@ -1729,14 +1570,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0368891/"
   },
   {
-    title: "National Treasure: Book of Secrets",
-    emojiImgs: "🇱🇷💎📘❓❗",
-    genres: ["action", "adventure", "mystery"],
-    itemLink: "https://m.imdb.com/title/tt0465234/",
-    type: "movie",
-    year: 2007
-  },
-  {
     title: "The NeverEnding Story",
     emojiImgs: "♾️🐉📖🐉♾️",
     genres: ["fantasy", "adventure"],
@@ -1785,35 +1618,12 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt7131622/"
   },
   {
-    title: "On the Town",
-    emojiImgs: "⚓🚢👯",
-    genres: ["comedy"],
-    type: "play",
-    year: 2014
-  },
-  {
-    title: "Orange is the new Black",
+    title: "Orange is the New Black",
     emojiImgs: "🔶⚫️⛓🙎🏻",
     genres: ["comedy", "crime", "drama"],
     itemLink: "https://www.imdb.com/title/tt2372162/",
     type: "tv",
     year: 2013
-  },
-  {
-    title: "The Other Side of Heaven",
-    emojiImgs: "⛪🙏🏝🇹🇴😇",
-    genres: ["adventure", "biography", "drama"],
-    type: "movie",
-    year: 2001,
-    itemLink: "https://www.imdb.com/title/tt0250371/"
-  },
-  {
-    title: "Paddington 2",
-    emojiImgs: "🧸📖🏰🇬🇧🎁",
-    genres: ["animation", "comedy", "kids&family"],
-    itemLink: "https://www.imdb.com/title/tt4468740/",
-    type: "movie",
-    year: 2017
   },
   {
     title: "Parks and Recreation",
@@ -1865,7 +1675,7 @@ const emojiItems = [
   },
   {
     title: "Pirates of the Caribbean: The Curse of the Black Pearl",
-    emojiImgs: "🏴‍☠️ 🦜 🔑 🚢",
+    emojiImgs: "🏴‍☠️🦜🔑🚢",
     genres: ["Action", "Adventure", "Fantasy"],
     itemLink: "https://www.imdb.com/title/tt0325980/",
     type: "movie",
@@ -1879,14 +1689,6 @@ const emojiItems = [
     year: 1988,
     itemLink:
       "http://www.playbill.com/production/the-phantom-of-the-opera-majestic-theatre-vault-0000007818"
-  },
-  {
-    title: "Pokemon: The First Movie",
-    emojiImgs: "👦️🐁️😭️",
-    genres: ["animation", "action", "adventure", "family"],
-    type: "movie",
-    year: 1998,
-    itemLink: "https://www.imdb.com/title/tt0190641/"
   },
   {
     title: "Pokemon Detective Pikachu",
@@ -1937,14 +1739,6 @@ const emojiItems = [
     year: 1997
   },
   {
-    title: "The Preacher's Wife",
-    emojiImgs: "👼🌎⛪👨‍👩‍",
-    genres: ["Comedy", "Drama", "Fantasy"],
-    type: "movie",
-    year: 1996,
-    itemLink: "https://www.imdb.com/title/tt0117372/"
-  },
-  {
     title: "The Princess Diaries",
     emojiImgs: "👩‍🦰✈️🏰👑👸",
     genres: ["comedy", "family", "romance"],
@@ -1961,12 +1755,12 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0437741/"
   },
   {
-  title: "Psycho",
-  emojiImgs: "😱🛀🔪",
-  genres: ["horror", "mystery", "thriller"],
-  itemLink: "https://www.imdb.com/title/tt0054215/",
-  type: "movie",
-  year: 1960
+    title: "Psycho",
+    emojiImgs: "😱🛀🔪",
+    genres: ["horror", "mystery", "thriller"],
+    itemLink: "https://www.imdb.com/title/tt0054215/",
+    type: "movie",
+    year: 1960
   },
   {
     title: "Pulp Fiction",
@@ -1975,14 +1769,6 @@ const emojiItems = [
     type: "movie",
     year: 1994,
     itemLink: "https://www.imdb.com/title/tt0110912/"
-  },
-  {
-    title: "Queer Eye",
-    emojiImgs: "🏳️‍🌈👁️👬🚶‍👬",
-    genres: ["comedy", "reality-tv"],
-    type: "tv",
-    year: 2003,
-    itemLink: "https://www.imdb.com/title/tt0358332/"
   },
   {
     title: "Queer Eye",
@@ -2008,41 +1794,6 @@ const emojiItems = [
     year: 1976
   },
   {
-    title: "Rocky II",
-    emojiImgs: "👊🏆🥊",
-    genres: ["drama", "sport"],
-    type: "movie",
-    year: 1979
-  },
-  {
-    title: "Rocky III",
-    emojiImgs: "🏃‍👊🥊",
-    genres: ["drama", "sport"],
-    type: "movie",
-    year: 1982
-  },
-  {
-    title: "Rocky IV",
-    emojiImgs: "🥊🤼‍️💪‍",
-    genres: ["drama", "sport"],
-    type: "movie",
-    year: 1985
-  },
-  {
-    title: "Rocky V",
-    emojiImgs: "🏃‍🥊🏋️‍",
-    genres: ["drama", "sport"],
-    type: "movie",
-    year: 1990
-  },
-  {
-    title: "Rocky Balboa",
-    emojiImgs: "💪‍🥊🕴️",
-    genres: ["drama", "sport"],
-    type: "movie",
-    year: 2006
-  },
-  {
     title: "The Rocky Horror Picture Show",
     emojiImgs: "🧪👽🎤😈👠",
     genres: ["comedy", "musical"],
@@ -2051,27 +1802,11 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0073629/"
   },
   {
-    title: "The Room",
-    emojiImgs: "🏠💔🏈",
-    genres: ["drama"],
-    type: "movie",
-    year: 2003,
-    itemLink: "https://www.imdb.com/title/tt0368226/"
-  },
-  {
     title: "Ready Player One",
     emojiImgs: "🏁🕹1️⃣",
     genres: ["action", "adventure", "sci-fi"],
     type: "movie",
     year: 2018
-  },
-  {
-    title: "Remember the Titans",
-    emojiImgs: "🏉🏫🌍🔥",
-    genres: ["Biography", "Drama", "Sport"],
-    type: "movie",
-    year: 2000,
-    itemLink: "https://www.imdb.com/title/tt0210945/"
   },
   {
     title: "Rent",
@@ -2196,60 +1931,12 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0111161/"
   },
   {
-    title: "Sherlock",
-    emojiImgs: "🕵️👨‍⚕️🚔⚔️😈",
-    genres: ["crime", "drama", "mystery"],
-    type: "tv",
-    year: 2010,
-    itemLink: "https://www.imdb.com/title/tt1475582/"
-  },
-  {
-    title: "Sherlock Holmes",
-    emojiImgs: "🕵️‍♂️ 🕵️‍♂️ 🔍 👁️‍🗨️",
-    genres: ["Action", "Adventure", "Crime"],
-    itemLink: "https://www.imdb.com/title/tt0988045/",
-    type: "movie",
-    year: 2009
-  },
-  {
     title: "Shrek",
     emojiImgs: "🤴🤝🧟‍♂️👉👸",
     genres: ["animation", "adventure", "comedy"],
     type: "movie",
     year: 2001,
     itemLink: "https://m.imdb.com/title/tt0126029/"
-  },
-  {
-    title: "Shrek 2",
-    emojiImgs: "🤴👸😨🧟‍♂️🧟‍♀️",
-    genres: ["animation", "adventure", "comedy"],
-    type: "movie",
-    year: 2004,
-    itemLink: "https://m.imdb.com/title/tt0298148/"
-  },
-  {
-    title: "Shrek the Third",
-    emojiImgs: "🤴☠🧟‍♂️🔎🤴",
-    genres: ["animation", "adventure", "comedy"],
-    type: "movie",
-    year: 2007,
-    itemLink: "https://m.imdb.com/title/tt0413267/"
-  },
-  {
-    title: "Shrek Forever After",
-    emojiImgs: "🧝‍♂️✍🧟‍♂️🔥🤴",
-    genres: ["animation", "adventure", "comedy"],
-    type: "movie",
-    year: 2010,
-    itemLink: "https://www.imdb.com/title/tt0892791/"
-  },
-  {
-    title: "Shrek the Musical",
-    emojiImgs: "🗡👸🐴🏰",
-    genres: ["comedy", "family", "fantasy"],
-    type: "musical",
-    year: 2013,
-    itemLink: "https://www.imdb.com/title/tt3070936/"
   },
   {
     title: "Silence of the Lambs",
@@ -2298,14 +1985,6 @@ const emojiItems = [
     year: 1952
   },
   {
-    title: "Singh is King",
-    emojiImgs: "👳‍♂️👉🏻🤴🏻",
-    genres: ["comedy", "bollywood"],
-    type: "movie",
-    year: 2008,
-    itemLink: "https://www.imdb.com/title/tt1146325/"
-  },
-  {
     title: "Sister Act",
     emojiImgs: "👩🏿👠🎶⛪",
     genres: ["comedy", "crime", "family"],
@@ -2314,7 +1993,7 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0105417/"
   },
   {
-    title: "SIX: The Musical",
+    title: "Six: The Musical",
     emojiImgs: "6️⃣👸🎤",
     genres: ["musical", "drama", "history"],
     type: "musical",
@@ -2492,21 +2171,6 @@ const emojiItems = [
     year: 1991
   },
   {
-    title: "The Following",
-    emojiImgs: "📚🏃‍♂️🔫👮",
-    genres: ["crime", "drama", "horror"],
-    type: "tv",
-    year: 2013,
-    itemLink: "https://www.imdb.com/title/tt2071645/"
-  },
-  {
-    title: "Their Eyes Were Watching God",
-    emojiImgs: "👀👼🎬",
-    genres: ["drama", "romance"],
-    type: "movie",
-    year: 2005
-  },
-  {
     title: "Titanic",
     emojiImgs: "💑❄🚢⬇️",
     genres: ["drama", "romance"],
@@ -2521,14 +2185,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt5555260/",
     type: "tv",
     year: 2016
-  },
-  {
-    title: "Timecrimes",
-    emojiImgs: "🕒🤕🧥✂️",
-    genres: ["horror", "mystery", "sci-fi"],
-    type: "movie",
-    year: 2007,
-    itemLink: "https://www.imdb.com/title/tt0480669/"
   },
   {
     title: "Top Gun",
@@ -2586,18 +2242,10 @@ const emojiItems = [
   },
   {
     title: "Us",
-    emojiImgs: "🎭🔮✂️🏚️🐰",
+    emojiImgs: "🎭👩🏿✂️🏚️🐰",
     genres: ["horror", "thriller"],
     type: "movie",
     year: 2019
-  },
-  {
-    title: "Vinci Da",
-    emojiImgs: "👮👨‍🎨⚖️🔪",
-    genres: ["crime", "mystery", "thriller"],
-    type: "movie",
-    year: 2019,
-    itemLink: "https://www.imdb.com/title/tt10217550/"
   },
   {
     title: "The Walking Dead",
@@ -2669,14 +2317,6 @@ const emojiItems = [
     year: 1991
   },
   {
-    title: "Whisper of the Heart",
-    emojiImgs: "📚📝🎻🚲🐱",
-    genres: ["animation", "drama", "family"],
-    type: "movie",
-    year: 1995,
-    itemLink: "https://www.imdb.com/title/tt0113824/"
-  },
-  {
     title: "Wicked",
     emojiImgs: "💚🧹🧙‍♂️",
     genres: ["fantasy"],
@@ -2691,14 +2331,6 @@ const emojiItems = [
     year: 1971
   },
   {
-    title: "Wonder Woman",
-    emojiImgs: "🤔🦸🏻‍♀️🗡️",
-    genres: ["action", "adventure", "fantasy", "sci-fi"],
-    type: "movie",
-    year: 2017,
-    itemLink: "https://www.imdb.com/title/tt0451279/"
-  },
-  {
     title: "X-Files",
     emojiImgs: "👽🛸👦🏻👩‍🦰🔦",
     genres: ["sci-fi", "drama", "mystery"],
@@ -2706,83 +2338,11 @@ const emojiItems = [
     year: 1993
   },
   {
-    title: "X-Men",
-    emojiImgs: "❌🧲💭👨‍🦽",
-    genres: ["sci-fi", "action", "adventure"],
-    type: "movie",
-    year: 2000,
-    itemLink: "https://www.imdb.com/title/tt0120903/"
-  },
-  {
-    title: "X-Men: First Class",
-    emojiImgs: "❌🥇👨‍🏫",
-    genres: ["sci-fi", "action", "adventure"],
-    type: "movie",
-    year: 2011,
-    itemLink: "https://www.imdb.com/title/tt1270798/"
-  },
-  {
-    title: "X-Men Origins: Wolverine",
-    emojiImgs: "❌🖐️⚙️👨‍🦱",
-    genres: ["sci-fi", "action", "adventure"],
-    type: "movie",
-    year: 2009,
-    itemLink: "https://www.imdb.com/title/tt0458525/"
-  },
-  {
-    title: "X-Men: The Last Stand ",
-    emojiImgs: "❌🧍‍♂️🧍‍♀️",
-    genres: ["sci-fi", "action"],
-    type: "movie",
-    year: 2006,
-    itemLink: "https://www.imdb.com/title/tt0376994/"
-  },
-  {
-    title: "The Wolverine",
-    emojiImgs: "❌🐺👨‍🦱🖐️",
-    genres: ["sci-fi", "action", "adventure"],
-    type: "movie",
-    year: 2013,
-    itemLink: "https://www.imdb.com/title/tt1430132/"
-  },
-  {
-    title: "X-Men: Days of Future Past",
-    emojiImgs: "❌📅🔮",
-    genres: ["sci-fi", "action", "adventure"],
-    type: "movie",
-    year: 2014,
-    itemLink: "https://www.imdb.com/title/tt1877832/"
-  },
-  {
-    title: "X-Men: Apocalypse",
-    emojiImgs: "❌🌎🔥",
-    genres: ["sci-fi", "action", "adventure"],
-    type: "movie",
-    year: 2016,
-    itemLink: "https://www.imdb.com/title/tt3385516/"
-  },
-  {
-    title: "X2: X-Men United ",
-    emojiImgs: "❌✌👨‍👨‍👧‍👧",
-    genres: ["sci-fi", "action", "thriller"],
-    type: "movie",
-    year: 2003,
-    itemLink: "https://www.imdb.com/title/tt0290334/"
-  },
-  {
     title: "Young Frankenstein",
     emojiImgs: "👶🌭🍺⚡️🧟‍",
     genres: ["comedy"],
     type: "movie",
     year: 1974
-  },
-  {
-    title: "Your Name",
-    emojiImgs: "👦⏱️👧🇯🇵⛰️",
-    genres: ["animation", "drama", "fantasy"],
-    itemLink: "https://www.imdb.com/title/tt5311514/",
-    type: "movie",
-    year: 2016
   },
   {
     title: "Zootopia",
