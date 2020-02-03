@@ -5,7 +5,7 @@ export const emojiCards = [
     genres: ["thriller", "suspense"],
     type: "movie",
     year: 2016,
-    itemlink: "https://www.imdb.com/title/tt1179933/"
+    itemLink: "https://www.imdb.com/title/tt1179933/"
   },
   {
     title: "The 25th Annual Putnum County Spelling Bee",
@@ -1390,7 +1390,7 @@ export const emojiCards = [
     genres: ["musical", "romance", "comedy"],
     type: "movie",
     year: 2008,
-    itemlink: "https://www.imdb.com/title/tt0795421/"
+    itemLink: "https://www.imdb.com/title/tt0795421/"
   },
   {
     title: "M*A*S*H",
@@ -1398,7 +1398,7 @@ export const emojiCards = [
     genres: ["comedy", "drama", "war"],
     type: "tv",
     year: 1972,
-    itemlink: "https://www.imdb.com/title/tt0068098/"
+    itemLink: "https://www.imdb.com/title/tt0068098/"
   },
   {
     title: "Mad Men",
