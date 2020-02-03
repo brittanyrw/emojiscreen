@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.4.4",
+    "twemoji": "^12.1.5",
     "vue": "^2.6.10",
     "vue-router": "^3.1.5"
   },
