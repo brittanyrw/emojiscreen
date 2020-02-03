@@ -436,7 +436,7 @@ export const emojiCards = [
   {
     title: "Chicken Little",
     emojiImgs: "🐓👽🌎",
-    genres: ["family", "comedy", "animated"],
+    genres: ["family", "comedy", "animation"],
     type: "movie",
     year: 2005,
     itemLink: "https://www.imdb.com/title/tt0371606/"
@@ -586,7 +586,7 @@ export const emojiCards = [
   {
     title: "Dinosaurs",
     emojiImgs: "🦖⛰️😂",
-    genres: ["Comedy", "Family", "Fantasy "],
+    genres: ["comedy", "family", "fantasy "],
     itemLink: "https://www.imdb.com/title/tt0101081/",
     type: "tv",
     year: 1991
@@ -790,14 +790,6 @@ export const emojiCards = [
     type: "movie",
     year: 1984,
     itemLink: "https://www.imdb.com/title/tt1289401/"
-  },
-  {
-    title: "The Shining",
-    emojiImgs: "👭🔪🚪🆘",
-    genres: ["drama", "horror"],
-    type: "movie",
-    year: 1980,
-    itemLink: "https://www.imdb.com/title/tt0081505/"
   },
   {
     title: "Gilmore Girls",
@@ -1196,7 +1188,7 @@ export const emojiCards = [
   {
     title: "Kiki's Delivery Service",
     emojiImgs: "👧🐱🧹📫",
-    genres: ["animated"],
+    genres: ["animation"],
     itemLink: "https://www.imdb.com/title/tt0097814/",
     type: "movie",
     year: 1989
@@ -1229,7 +1221,7 @@ export const emojiCards = [
   {
     title: "Kung Fu Panda",
     emojiImgs: "🐼🎍🇨🇳🥟🍚",
-    genres: ["animation", "action", "adventure"],
+    genres: ["animation", "action", "adventure", "animals"],
     itemLink: "https://www.imdb.com/title/tt0441773/",
     type: "movie",
     year: 2008
@@ -1237,7 +1229,7 @@ export const emojiCards = [
   {
     title: "Lady and the Tramp",
     emojiImgs: "💃🐶🍝",
-    genres: ["animation", "romance"],
+    genres: ["animation", "romance", "animals"],
     type: "movie",
     year: 1955,
     itemLink: "https://www.imdb.com/title/tt0048280/"
@@ -1329,22 +1321,6 @@ export const emojiCards = [
     type: "movie",
     year: 1989,
     itemLink: "https://www.imdb.com/title/tt0097757/"
-  },
-  {
-    title: "Logan",
-    emojiImgs: "❌🐺👨‍🦱🖐️",
-    genres: ["sci-fi", "action", "adventure"],
-    type: "movie",
-    year: 2017,
-    itemLink: "https://www.imdb.com/title/tt3315342/"
-  },
-  {
-    title: "Logan Lucky",
-    emojiImgs: "🏎🚓🕵️‍♂️💰🍀",
-    genres: ["action", "drama"],
-    type: "movie",
-    year: 2017,
-    itemLink: "https://www.imdb.com/title/tt5439796/"
   },
   {
     title: "The Lizzie McGuire Movie",
@@ -1550,7 +1526,7 @@ export const emojiCards = [
   {
     title: "Mulan",
     emojiImgs: "👩➡️👨🤺⚔️",
-    genres: ["war", "music"],
+    genres: ["war", "music", "animation", "musical"],
     type: "movie",
     year: 1998,
     itemLink: "https://www.imdb.com/title/tt0120762/"
@@ -1645,7 +1621,7 @@ export const emojiCards = [
   {
     title: "Pearl Harbor",
     emojiImgs: "🇯🇵🛩💣🇺🇸🏝",
-    genres: ["Action", "Drama", "History", "Romance", "War"],
+    genres: ["action", "drama", "history", "romance", "war"],
     type: "movie",
     year: 2001,
     itemLink: "https://www.imdb.com/title/tt0213149/"
@@ -1653,7 +1629,7 @@ export const emojiCards = [
   {
     title: "Pinocchio",
     emojiImgs: "🤥👴🐋",
-    genres: ["animation"],
+    genres: ["animation", "childrens", "classic"],
     type: "movie",
     year: 1940,
     itemLink: "https://www.imdb.com/title/tt0032910/"
@@ -1932,6 +1908,14 @@ export const emojiCards = [
     itemLink: "https://www.imdb.com/title/tt0111161/"
   },
   {
+    title: "The Shining",
+    emojiImgs: "👭🔪🚪🆘",
+    genres: ["drama", "horror"],
+    type: "movie",
+    year: 1980,
+    itemLink: "https://www.imdb.com/title/tt0081505/"
+  },
+  {
     title: "Shrek",
     emojiImgs: "🤴🤝🧟‍♂️👉👸",
     genres: ["animation", "adventure", "comedy"],
@@ -2020,7 +2004,7 @@ export const emojiCards = [
   {
     title: "Snow White",
     emojiImgs: "🍎👸💤🤴💋",
-    genres: ["musical", "animated", "romance"],
+    genres: ["musical", "animation", "romance"],
     type: "movie",
     year: 1944
   },
@@ -2112,7 +2096,7 @@ export const emojiCards = [
   {
     title: "Steven Universe",
     emojiImgs: "👦🏻💎💎💎🛡️",
-    genres: ["comedy"],
+    genres: ["comedy", "animation"],
     type: "tv",
     year: 2013
   },
@@ -2237,7 +2221,7 @@ export const emojiCards = [
   {
     title: "Up",
     emojiImgs: "🎈🏠🐶👴🏻",
-    genres: ["action", "comedy", "animated"],
+    genres: ["action", "comedy", "animation"],
     type: "movie",
     year: 1994
   },
