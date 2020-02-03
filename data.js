@@ -104,47 +104,6 @@ const emojiItems = [
     year: 1986,
     itemLink: "https://www.imdb.com/title/tt0090390"
   },
-
-  {
-    title: "American Horror Story: Asylum",
-    emojiImgs: "🇺🇸👽👡😈",
-    genres: ["drama", "horror", "thriller"],
-    itemLink: "https://www.imdb.com/title/tt1844624/",
-    type: "tv",
-    year: 2011
-  },
-  {
-    title: "American Horror Story: Coven",
-    emojiImgs: "🇺🇸✡🕌🐍",
-    genres: ["drama", "horror", "thriller"],
-    itemLink: "https://www.imdb.com/title/tt1844624/",
-    type: "tv",
-    year: 2011
-  },
-  {
-    title: "American Horror Story: Freak Show",
-    emojiImgs: "🇺🇸🎪🎠👢",
-    genres: ["drama", "horror", "thriller"],
-    itemLink: "https://www.imdb.com/title/tt1844624/",
-    type: "tv",
-    year: 2011
-  },
-  {
-    title: "American Horror Story: Hotel",
-    emojiImgs: "🇺🇸💊💉🏨",
-    genres: ["drama", "horror", "thriller"],
-    itemLink: "https://www.imdb.com/title/tt1844624/",
-    type: "tv",
-    year: 2011
-  },
-  {
-    title: "American Horror Story: Murder House",
-    emojiImgs: "🇺🇸👪💀🔫",
-    genres: ["drama", "horror", "thriller"],
-    itemLink: "https://www.imdb.com/title/tt1844624/",
-    type: "tv",
-    year: 2011
-  },
   {
     title: "Anchorman",
     emojiImgs: "⚓️👨🏻📰",
@@ -200,14 +159,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt3532216/",
     type: "movie",
     year: 2017
-  },
-  {
-    title: "Avatar",
-    emojiImgs: "👱‍♂️🔵👱‍♂️👩‍🦰🔵",
-    genres: ["action", "fantasy"],
-    type: "movie",
-    year: 2009,
-    itemLink: "https://www.imdb.com/title/tt0499549"
   },
   {
     title: "Ant-Man and the Wasp",
@@ -273,14 +224,6 @@ const emojiItems = [
     year: 2005
   },
   {
-    title: "Battleship Potemkin",
-    emojiImgs: "👶🤓😱🔫🛳",
-    genres: ["drama", "history"],
-    type: "movie",
-    year: 1925,
-    itemLink: "https://www.imdb.com/title/tt0015648/"
-  },
-  {
     title: "Beauty and the Beast",
     emojiImgs: "🏰🥀🎶📚🕰️",
     genres: ["animation", "family", "fantasy"],
@@ -289,7 +232,7 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt2771200"
   },
   {
-    title: "Bettlejuice",
+    title: "Beetlejuice",
     emojiImgs: "⚰️🧟‍👰📙",
     genres: ["comedy", "fantasy"],
     type: "movie",
@@ -378,7 +321,7 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt1065073/"
   },
   {
-    title: "Boys over Flowers",
+    title: "Boys Over Flowers",
     emojiImgs: "👦🔼💮",
     genres: ["comedy", "drama", "romance"],
     type: "tv",
@@ -426,14 +369,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0118276/"
   },
   {
-    title: "Bungou Stray Dogs: Dead Apple",
-    emojiImgs: "🍎🗡🐶🇯🇵",
-    genres: ["animation"],
-    type: "movie",
-    year: 2018,
-    itemLink: "https://www.imdb.com/title/tt8391976/"
-  },
-  {
     title: "Cable Girls",
     emojiImgs: "💄👄💼📞",
     genres: ["drama"],
@@ -448,30 +383,6 @@ const emojiItems = [
     type: "movie",
     year: 2006,
     itemLink: "https://www.imdb.com/title/tt0317219/"
-  },
-  {
-    title: "Captain America: Civil War",
-    emojiImgs: "🇺🇸🛡🤜🔫🔥",
-    genres: ["action", "sci-fi", "adventure"],
-    type: "movie",
-    year: 2016,
-    itemLink: "https://www.imdb.com/title/tt3498820/"
-  },
-  {
-    title: "Captain America: The First Avenger",
-    emojiImgs: "👨‍✈️🇺🇸🛡💪👹",
-    genres: ["action", "sci-fi", "adventure"],
-    type: "movie",
-    year: 2011,
-    itemLink: "https://www.imdb.com/title/tt0458339/"
-  },
-  {
-    title: "Captain America: The Winter Soldier",
-    emojiImgs: "🇺🇸🛡❄👨‍✈️💪",
-    genres: ["action", "sci-fi", "adventure"],
-    type: "movie",
-    year: 2014,
-    itemLink: "https://www.imdb.com/title/tt1843866/"
   },
   {
     title: "Captain Marvel",
@@ -496,15 +407,6 @@ const emojiItems = [
     type: "movie",
     year: 2002,
     itemLink: "https://www.imdb.com/title/tt0264464/"
-  },
-  {
-    title: "Cats",
-    emojiImgs: "😸 😹 😻 🙀 😿",
-    genres: ["drama", "musical"],
-    itemLink:
-      "https://www.http://www.playbill.com/production/cats-winter-garden-theatre-vault-0000011527.com/title/tt0357413/",
-    type: "musical",
-    year: 1982
   },
   {
     title: "The Cheetah Girls",
@@ -555,14 +457,6 @@ const emojiItems = [
     year: 1974
   },
   {
-    title: "Cidade de Deus",
-    emojiImgs: "🏙🙌🇧🇷🔫🎲",
-    genres: ["crime", "drama"],
-    type: "movie",
-    year: 2002,
-    itemLink: "https://www.imdb.com/title/tt0317248/"
-  },
-  {
     title: "Cinderella",
     emojiImgs: "🤴👸👠🐭🧚‍♀️",
     genres: ["animation", "family", "fantasy"],
@@ -580,7 +474,7 @@ const emojiItems = [
   },
   {
     title: "Cloudy with a Chance of Meatballs",
-    emojiImgs: " ☁️🥩⚽☂️",
+    emojiImgs: "☁️🥩⚽☂️",
     genres: ["animation", "adventure", "comedy"],
     itemLink: "https://www.imdb.com/title/tt0844471/",
     type: "movie",
