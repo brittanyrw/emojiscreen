@@ -19,18 +19,18 @@ export const emojiCards = [
   {
     title: "The 400 Blows",
     emojiImgs: "👦⏱️👩🏼",
-    genres: ["Art House", "International", "Classics", "Drama"],
-    itemLink: "https://www.imdb.com/title/tt0053198/",
+    genres: ["art house", "international", "classics", "drama"],
     type: "movie",
-    year: 1959
+    year: 1959,
+    itemLink: "https://www.imdb.com/title/tt0053198/",
   },
   {
     title: "500 Days of Summer",
     emojiImgs: "👦💔👱‍♀️☀️",
-    genres: ["Comedy", "Romance", "Drama"],
-    itemLink: "https://www.imdb.com/title/tt1022603/",
+    genres: ["comedy", "romance", "drama"],
     type: "movie",
-    year: 2009
+    year: 2009,
+    itemLink: "https://www.imdb.com/title/tt1022603/"
   },
   {
     title: "The Great British Bake Off",
@@ -68,9 +68,9 @@ export const emojiCards = [
     title: "A Quiet Place",
     emojiImgs: "🤫🤐👂🛀👶",
     genres: ["drama", "horror", "sci-fi"],
-    itemLink: "https://www.imdb.com/title/tt6644200/",
     type: "movie",
-    year: 2018
+    year: 2018,
+    itemLink: "https://www.imdb.com/title/tt6644200/"
   },
   {
     title: "A Star is Born",
@@ -108,9 +108,9 @@ export const emojiCards = [
     title: "Anchorman",
     emojiImgs: "⚓️👨🏻📰",
     genres: ["comedy"],
-    itemLink: "https://www.imdb.com/title/tt0357413/",
     type: "movie",
-    year: 2004
+    year: 2004,
+    itemLink: "https://www.imdb.com/title/tt0357413/"
   },
   {
     title: "Alice in Wonderland",
@@ -148,17 +148,17 @@ export const emojiCards = [
     title: "Anastasia",
     emojiImgs: "🏰👸🧙🇷🇺💗",
     genres: ["animation", "adventure", "drama"],
-    itemLink: "https://www.imdb.com/title/tt0118617/",
     type: "movie",
-    year: 1997
+    year: 1997,
+    itemLink: "https://www.imdb.com/title/tt0118617/"
   },
   {
     title: "American Made",
     emojiImgs: "🕶️🛩️💵🧳",
     genres: ["action", "biography", "comedy"],
-    itemLink: "https://www.imdb.com/title/tt3532216/",
     type: "movie",
-    year: 2017
+    year: 2017,
+    itemLink: "https://www.imdb.com/title/tt3532216/"
   },
   {
     title: "Ant-Man and the Wasp",
@@ -180,17 +180,17 @@ export const emojiCards = [
     title: "The Bachelor",
     emojiImgs: "🤵💑👩👩👰",
     genres: ["drama"],
-    itemLink: "https://www.imdb.com/title/tt0313038/",
     type: "tv",
-    year: 2002
+    year: 2002,
+    itemLink: "https://www.imdb.com/title/tt0313038/"
   },
   {
     title: "The Bachelorette",
     emojiImgs: "👰💑🧔🧔🤵",
     genres: ["drama"],
-    itemLink: "https://www.imdb.com/title/tt0348894/",
     type: "tv",
-    year: 2002
+    year: 2002,
+    itemLink: "https://www.imdb.com/title/tt0348894/"
   },
   {
     title: "The Breakfast Club",
@@ -205,7 +205,8 @@ export const emojiCards = [
     emojiImgs: "🇺🇸👠👙👭",
     genres: ["game-show", "reality"],
     type: "tv",
-    year: 2003
+    year: 2003,
+    itemLink: "https://www.imdb.com/title/tt0363307/"
   },
   {
     title: "Baby Driver",
@@ -219,9 +220,9 @@ export const emojiCards = [
     title: "Batman Begins",
     emojiImgs: "🦇👨🏙️🚰🤢",
     genres: ["action", "adventure"],
-    itemLink: "https://www.imdb.com/title/tt0372784/",
     type: "movie",
-    year: 2005
+    year: 2005,
+    itemLink: "https://www.imdb.com/title/tt0372784/"
   },
   {
     title: "Beauty and the Beast",
@@ -283,9 +284,9 @@ export const emojiCards = [
     title: "Blade Runner",
     emojiImgs: "🗡️🏃🌕",
     genres: ["action", "thriller", "sci-fi"],
-    itemLink: "https://www.imdb.com/title/tt0083658/",
     type: "movie",
-    year: 1982
+    year: 1982,
+    itemLink: "https://www.imdb.com/title/tt0083658/"
   },
   {
     title: "Bad Santa",
@@ -396,9 +397,9 @@ export const emojiCards = [
     title: "Cast Away",
     emojiImgs: "🏐🥥🏝️",
     genres: ["action", "comedy", "musical"],
-    itemLink: "https://www.imdb.com/title/tt0162222/",
     type: "movie",
-    year: 2000
+    year: 2000,
+    itemLink: "https://www.imdb.com/title/tt0162222/"
   },
   {
     title: "Catch Me If You Can",
@@ -412,49 +413,49 @@ export const emojiCards = [
     title: "The Cheetah Girls",
     emojiImgs: "🐆👭🐆👭🎵",
     genres: ["comedy", "drama", "musical"],
-    itemLink: "https://www.imdb.com/title/tt0338852/",
     type: "movie",
-    year: 2003
+    year: 2003,
+    itemLink: "https://www.imdb.com/title/tt0338852/"
   },
   {
     title: "Chernobyl",
     emojiImgs: "💥☢️🇺🇦",
     genres: ["drama", "history"],
-    itemLink: "https://www.imdb.com/title/tt7366338/",
     type: "tv",
-    year: 2019
+    year: 2019,
+    itemLink: "https://www.imdb.com/title/tt7366338/"
   },
   {
     title: "Chicago",
     emojiImgs: "🎷👯🔫👠🕺",
     genres: ["musical", "drama", "comedy"],
-    itemLink: "https://www.imdb.com/title/tt0299658/",
     type: "movie",
-    year: 2002
+    year: 2002,
+    itemLink: "https://www.imdb.com/title/tt0299658/"
   },
   {
     title: "Chicken Little",
     emojiImgs: "🐓👽🌎",
     genres: ["family", "comedy", "animated"],
-    itemLink: "https://www.imdb.com/title/tt0371606/",
     type: "movie",
-    year: 2005
+    year: 2005,
+    itemLink: "https://www.imdb.com/title/tt0371606/"
   },
   {
     title: "Child's Play",
     emojiImgs: "👶😰😫☠",
     genres: ["action", "horror", "sci-fi"],
-    itemLink: "https://www.imdb.com/title/tt8663516/",
     type: "movie",
-    year: 2019
+    year: 2019,
+    itemLink: "https://www.imdb.com/title/tt8663516/"
   },
   {
     title: "Chinatown",
     emojiImgs: "🕵️‍💦🍊🔫",
     genres: ["drama", "mystery", "thriller"],
-    itemLink: "https://www.imdb.com/title/tt0071315/",
     type: "movie",
-    year: 1974
+    year: 1974,
+    itemLink: "https://www.imdb.com/title/tt0071315/"
   },
   {
     title: "Cinderella",
