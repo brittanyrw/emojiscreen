@@ -1,12 +1,22 @@
 <template>
   <div id="emoji-cards">
-    <h1>Cards Here</h1>
+    <div v-for="(emoji, index) in emojis" v-bind:key="index">
+        <h3>{{emoji.title}}</h3>
+    </div>
   </div>
 </template>
 
 <script>
+
+import {emojiCards} from "../data/emojis";
+
 export default {
-  name: 'EmojiCards'
+  name: 'EmojiCards',
+  data: function () {
+		return {
+			emojis: emojiCards
+		}
+	}
 }
 </script>
 
