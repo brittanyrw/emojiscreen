@@ -139,7 +139,7 @@ export const emojiCards = [
   {
     title: "American Idol",
     emojiImgs: "🇺🇸🗣🎤",
-    genres: ["game show", "musical"],
+    genres: ["game show", "music"],
     type: "tv",
     year: 2002,
     itemLink: "https://www.imdb.com/title/tt0319931/"
@@ -396,7 +396,7 @@ export const emojiCards = [
   {
     title: "Cast Away",
     emojiImgs: "🏐🥥🏝️",
-    genres: ["action", "comedy", "musical"],
+    genres: ["action", "comedy"],
     type: "movie",
     year: 2000,
     itemLink: "https://www.imdb.com/title/tt0162222/"
@@ -485,33 +485,33 @@ export const emojiCards = [
     title: "Clueless",
     emojiImgs: "🛍️💅💞💋🗽",
     genres: ["comedy", "romance"],
-    itemLink: "https://www.imdb.com/title/tt0112697/",
     type: "movie",
-    year: 1995
+    year: 1995,
+    itemLink: "https://www.imdb.com/title/tt0112697/"
   },
   {
     title: "Coco",
     emojiImgs: "🇲🇽🎸💀🔔👨‍👩‍👧‍👦",
     genres: ["animation", "adventure", "family"],
-    itemLink: "https://www.imdb.com/title/tt2380307/",
     type: "movie",
-    year: 2017
+    year: 2017,
+    itemLink: "https://www.imdb.com/title/tt2380307/"
   },
   {
     title: "The Color Purple",
     emojiImgs: "💜🏃🏾‍♀️🧘🏾‍♀️",
     genres: ["drama"],
-    itemLink: "https://www.imdb.com/title/tt0088939/",
     type: "movie",
-    year: 1986
+    year: 1986,
+    itemLink: "https://www.imdb.com/title/tt0088939/"
   },
   {
     title: "Come From Away",
     emojiImgs: "🗽✈️🇨🇦🛄💞",
-    genres: ["drama", "history"],
-    itemLink: "http://www.playbill.com/production/come-from-away-2016-2017",
+    genres: ["drama", "history", "musical"],
     type: "musical",
-    year: 2015
+    year: 2015,
+    itemLink: "http://www.playbill.com/production/come-from-away-2016-2017"
   },
   {
     title: "Contagion",
@@ -1428,7 +1428,7 @@ export const emojiCards = [
   {
     title: "Matilda The Musical",
     emojiImgs: "👧📖🧠👩‍🏫🎵",
-    genres: ["musical"],
+    genres: ["musical", "drama", "childrens"],
     type: "musical",
     year: 2013,
     itemLink:
@@ -1685,7 +1685,7 @@ export const emojiCards = [
   {
     title: "Phantom of the Opera",
     emojiImgs: "🎭🌹🕯️🎶",
-    genres: ["drama", "romance"],
+    genres: ["drama", "romance", "musical"],
     type: "musical",
     year: 1988,
     itemLink:
@@ -1842,7 +1842,7 @@ export const emojiCards = [
   {
     title: "RocketMan",
     emojiImgs: "🐱🚀📫",
-    genres: ["drama", "musical"],
+    genres: ["drama", "music"],
     type: "movie",
     year: 2019
   },
@@ -1980,7 +1980,7 @@ export const emojiCards = [
   {
     title: "Singin' In The Rain",
     emojiImgs: "🎥😄🎤💃❤️",
-    genres: ["classical", "comedy", "musical", "perfoming arts", "romance"],
+    genres: ["classical", "comedy", "musical", "romance"],
     itemLink: "https://www.imdb.com/title/tt0045152/",
     type: "movie",
     year: 1952
@@ -2051,7 +2051,7 @@ export const emojiCards = [
   {
     title: "Space Jam",
     emojiImgs: "🏀🛸🚀",
-    genres: ["action", "comedy", "musical"],
+    genres: ["action", "comedy", "music"],
     type: "movie",
     year: 1994
   },
@@ -2237,7 +2237,7 @@ export const emojiCards = [
   {
     title: "Up",
     emojiImgs: "🎈🏠🐶👴🏻",
-    genres: ["action", "comedy", "musical"],
+    genres: ["action", "comedy", "animated"],
     type: "movie",
     year: 1994
   },
@@ -2320,7 +2320,7 @@ export const emojiCards = [
   {
     title: "Wicked",
     emojiImgs: "💚🧹🧙‍♂️",
-    genres: ["fantasy"],
+    genres: ["fantasy", "musical", "drama", "romance"],
     type: "musical",
     year: 2003
   },
