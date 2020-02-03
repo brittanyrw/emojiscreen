@@ -1,12 +1,12 @@
 <template>
     <footer>
-        <p class="item-count">EmojiScreen currently has <span></span> movies, TV shows and musicals. 💖</p>
+        <p class="item-count" v-emoji>EmojiScreen currently has <span></span> movies, TV shows and musicals. 💖</p>
         <ul class="footer-list">
             <li>
-                <p class="companion-project-link">Music fan? Check out <a href="https://emojibops.com" target="_blank">EmojiBops</a> 🎶</p> 
+                <p class="companion-project-link" v-emoji>Music fan? Check out <a href="https://emojibops.com" target="_blank">EmojiBops</a> 🎶</p> 
             </li>
             <li>
-                <p class="companion-project-link">Book lover? Check out <a href="https://emojipages.com" target="_blank">EmojiPages</a> 📚</p>
+                <p class="companion-project-link" v-emoji>Book lover? Check out <a href="https://emojipages.com" target="_blank">EmojiPages</a> 📚</p>
             </li>
         </ul>
     </footer>
@@ -19,7 +19,7 @@ export default {
 </script>
 
 
-<style scoped>
+<style>
 
     footer {
     text-align: center;
@@ -41,7 +41,7 @@ export default {
     color: gold;
     }
 
-    footer img {
+    footer img.emoji {
     height: 19px;
     }
 
