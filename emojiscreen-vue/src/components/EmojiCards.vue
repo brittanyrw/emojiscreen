@@ -40,8 +40,7 @@ export default {
     grid-auto-rows: auto;
     grid-gap: 20px;
     max-width: 1220px;
-    margin: auto;
-    margin-bottom: 30px;
+    margin: 30px auto;
 }
 
 @media screen and (min-width: 662px){
