@@ -561,36 +561,12 @@ const emojiItems = [
     year: 2008
   },
   {
-    title: "Dark Phoenix",
-    emojiImgs: "🕶️☀️🔥 ",
-    genres: ["sci-fi", "action", "adventure"],
-    type: "movie",
-    year: 2019,
-    itemLink: "https://www.imdb.com/title/tt6565702/"
-  },
-  {
     title: "The Day the Earth Stood Still",
     emojiImgs: "☀️🌎⌛🛑",
     genres: ["drama", "sci-fi"],
     type: "movie",
     year: 1951,
     itemLink: "https://www.imdb.com/title/tt0043456/"
-  },
-  {
-    title: "Deadpool",
-    emojiImgs: "⚰️🏊⚔️",
-    genres: ["action", "adventure", "comedy"],
-    type: "movie",
-    year: 2016,
-    itemLink: "https://www.imdb.com/title/tt1431045/"
-  },
-  {
-    title: "Deadpool 2",
-    emojiImgs: "⚰️🏊2️⃣⚔️",
-    genres: ["action", "adventure", "comedy"],
-    type: "movie",
-    year: 2018,
-    itemLink: "https://www.imdb.com/title/tt5463162/"
   },
   {
     title: "Dear Evan Hansen",
@@ -613,22 +589,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0101081/",
     type: "tv",
     year: 1991
-  },
-  {
-    title: "Dil Dhadakne Do",
-    emojiImgs: "♥️💓✌️",
-    genres: ["bollywood", "drama"],
-    type: "movie",
-    year: 2015,
-    itemLink: "https://www.imdb.com/title/tt4110568/"
-  },
-  {
-    title: "Dilwale Dulhania Le Jayenge",
-    emojiImgs: "💕👰🚗",
-    genres: ["drama", "romance"],
-    type: "movie",
-    year: 1995,
-    itemLink: "https://www.imdb.com/title/tt0112870/"
   },
   {
     title: "Dirty Dancing",
@@ -654,35 +614,11 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0436992/"
   },
   {
-    title: "Doctor Strange",
-    emojiImgs: "👨‍⚕️💎🧙‍♂️",
-    genres: ["action", "adventure", "fantasy"],
-    type: "movie",
-    year: 1987,
-    itemLink: "https://www.imdb.com/title/tt1211837/"
-  },
-  {
     title: "Dora and the Lost City of Gold",
     emojiImgs: "👧🐒🏕️🏰💰",
     genres: ["fantasy", "adventure", "comedy"],
     type: "movie",
     year: 2019
-  },
-  {
-    title: "Dr. Jekyll and Mr. Hyde",
-    emojiImgs: "👨‍⚕🧪👹",
-    genres: ["horror", "sci-fi"],
-    itemLink: "https://www.imdb.com/title/tt0022835/",
-    type: "movie",
-    year: 1931
-  },
-  {
-    title: "Dreams",
-    emojiImgs: "💤💭👺🇯🇵",
-    genres: ["drama", "fantasy"],
-    itemLink: "https://www.imdb.com/title/tt0100998/",
-    type: "movie",
-    year: 1990
   },
   {
     title: "Dude, Where's My Car?",
@@ -769,22 +705,7 @@ const emojiItems = [
     year: 1999
   },
   {
-    title: "Finding Dory",
-    emojiImgs: "🔎🐠🐙",
-    genres: ["animation", "adventure", "comedy"],
-    type: "movie",
-    year: 2016,
-    itemLink: "https://www.imdb.com/title/tt2277860/"
-  },
-  {
-    title: "Finding Nemo",
-    emojiImgs: "🐟🦈🔭",
-    genres: ["animation"],
-    type: "movie",
-    year: 2003
-  },
-  {
-    title: "Five Feet Apart ",
+    title: "Five Feet Apart",
     emojiImgs: "🏣🧒5⃣👧💞",
     genres: ["Drama", "Romance", "Comedy"],
     type: "movie",
@@ -805,14 +726,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0101921/",
     type: "movie",
     year: 1991
-  },
-  {
-    title: "From Dusk Till Down",
-    emojiImgs: "🧛‍♀️🩸🦶🏻",
-    genres: ["action", "crime", "horror"],
-    itemLink: "https://www.imdb.com/title/tt0116367/",
-    type: "movie",
-    year: 1996
   },
   {
     title: "Forrest Gump",
