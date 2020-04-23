@@ -1,5 +1,13 @@
 const emojiItems = [
   {
+    title: "Inside Out",
+    emojiImgs: "😃😔😡😨🤢",
+    genres: ["Family", "Animation"],
+    type: "movie",
+    year: "2015",
+    itemLink: "https://www.imdb.com/title/tt2096673/"
+  },
+  {
     title: "10 Cloverfield Lane",
     emojiImgs: "🚪🛢️🕳️🛸",
     genres: ["thriller", "suspense"],
