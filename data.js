@@ -33,14 +33,6 @@ const emojiItems = [
     year: 2009
   },
   {
-    title: "The Great British Bake Off",
-    emojiImgs: "👍🇬🇧🍞🎂🥐",
-    genres: ["cooking", "reality"],
-    type: "tv",
-    year: 2010,
-    itemLink: "https://www.imdb.com/title/tt1877368/"
-  },
-  {
     title: "2001: A Space Odyssey",
     emojiImgs: "🐵🌖👨‍🚀🤖👴",
     genres: ["adventure, sci-fi"],
@@ -79,14 +71,6 @@ const emojiItems = [
     type: "movie",
     year: 2018,
     itemLink: "https://www.imdb.com/title/tt1517451"
-  },
-  {
-    title: "The Adventures of Robin Hood",
-    emojiImgs: "🏹🍎🎯",
-    genres: ["action", "adventure", "romance"],
-    type: "movie",
-    year: 1938,
-    itemLink: "https://www.imdb.com/title/tt0029843/"
   },
   {
     title: "Aladdin",
@@ -153,14 +137,6 @@ const emojiItems = [
     year: 1997
   },
   {
-    title: "American Made",
-    emojiImgs: "🕶️🛩️💵🧳",
-    genres: ["action", "biography", "comedy"],
-    itemLink: "https://www.imdb.com/title/tt3532216/",
-    type: "movie",
-    year: 2017
-  },
-  {
     title: "Ant-Man and the Wasp",
     emojiImgs: "🐜🙍‍♂️🐝🙎‍♀️👻",
     genres: ["action", "adventure", "comedy"],
@@ -206,14 +182,6 @@ const emojiItems = [
     genres: ["game-show", "reality"],
     type: "tv",
     year: 2003
-  },
-  {
-    title: "Baby Driver",
-    emojiImgs: "👶🚗💏🔫👂🏻",
-    genres: ["drama", "action", "crime"],
-    type: "movie",
-    year: 2017,
-    itemLink: "https://www.imdb.com/title/tt3890160/"
   },
   {
     title: "Batman Begins",
@@ -286,22 +254,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0083658/",
     type: "movie",
     year: 1982
-  },
-  {
-    title: "Bad Santa",
-    emojiImgs: "🎅🧝‍♂️👦🧸",
-    genres: ["comedy", "crime", "drama"],
-    type: "movie",
-    year: 2003,
-    itemLink: "https://www.imdb.com/title/tt0307987/"
-  },
-  {
-    title: "Blazing Saddles",
-    emojiImgs: "🔥🤠🐴🏇🏜️",
-    genres: ["western", "comedy"],
-    type: "movie",
-    year: 1974,
-    itemLink: "https://www.imdb.com/title/tt0071230/"
   },
   {
     title: "The Book of Mormon",
@@ -1385,14 +1337,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0758752/"
   },
   {
-    title: "Mamma Mia",
-    emojiImgs: "👰💃🏻👑🌊",
-    genres: ["musical", "romance", "comedy"],
-    type: "movie",
-    year: 2008,
-    itemlink: "https://www.imdb.com/title/tt0795421/"
-  },
-  {
     title: "M*A*S*H",
     emojiImgs: "😷🎖️😂🇰🇷",
     genres: ["comedy", "drama", "war"],
@@ -1731,14 +1675,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0093779/"
   },
   {
-    title: "Princess Mononoke",
-    emojiImgs: "👸🐺👦🏹🦌",
-    genres: ["Animation", "Adventure", "Fantasy"],
-    itemLink: "https://www.imdb.com/title/tt0119698/",
-    type: "movie",
-    year: 1997
-  },
-  {
     title: "The Princess Diaries",
     emojiImgs: "👩‍🦰✈️🏰👑👸",
     genres: ["comedy", "family", "romance"],
@@ -1761,14 +1697,6 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0054215/",
     type: "movie",
     year: 1960
-  },
-  {
-    title: "Pulp Fiction",
-    emojiImgs: "🔪🔫🍔🥊💊",
-    genres: ["crime", "drama"],
-    type: "movie",
-    year: 1994,
-    itemLink: "https://www.imdb.com/title/tt0110912/"
   },
   {
     title: "Queer Eye",
@@ -2225,13 +2153,6 @@ const emojiItems = [
     type: "movie",
     year: 2010,
     itemLink: "https://www.imdb.com/title/tt1104001"
-  },
-  {
-    title: "Tropic Thunder",
-    emojiImgs: "🚁🌲🌲🔫⛈️",
-    genres: ["action", "adventure", "comedy"],
-    type: "movie",
-    year: 2008
   },
   {
     title: "Up",
