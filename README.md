@@ -7,7 +7,7 @@
 
 ## Contributing Guidelines 🎁
 
-Below are some additional guidelines to follow when contributing to this project. Follow all of the instructions please. We will just close any pull requests that do not follow instructions.
+Below are some guidelines to follow when contributing to this project. 
 
 ### Adding or Updating Features Contributions
 
@@ -22,7 +22,7 @@ If you would like to suggest a new feature, create [an Issue](https://github.com
 
 ### Adding a Movie, TV show or Musical
 
-To add a show or movie to this project, you will need to add an `Emoji Card` inside of the `data.js` file. The `data.js` file is made up of an array (a list) of objects. You will add a new object for your show. 
+To add a show or movie to this project, you will need to add an `Emoji Card` inside of the `movies.js`, `tv.js`, or `musicals.js` files in the `data` folder. Each file is made up of an array (a list) of objects. You will add a new object for your show or movie into the appropriate file. Please note: The `musicals.js` file is for live musicals (such as Broadway and West End shows). Movie musicals should be added to the `movies.js` file.
 
 If you need help choosing a movie or show, [check the Issues](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis).
 
@@ -30,7 +30,7 @@ Below is an example of what a show looks like on the website:
 
 ![Screenshot of Beauty and the Beast Emoji Card](/readme/emoji-card.png)
 
-In the `data.js` file, each `Emoji Card` consists of the following object:
+In the emoji javsacript files, each `Emoji Card` consists of the following object:
 
 ```
 {
@@ -54,8 +54,8 @@ Below are detailed walkthroughs on how to add a show or movie to EmojiScreen.
 
 ### Important Notes
 * Follow all the instructions in the [Card Overview](/docs/card_overview.md) for adding a show or movie.
-* Search the data.js file and pull requests to make sure you are not adding a duplicate.
-* Make sure your emojis actually depict the show or movie.
+* Search the `movies.js`, `tv.js`, or `musicals.js` files and current open pull requests to make sure you are not adding a duplicate.
+* Make sure your emojis actually depict the show or movie. Someone should be able to guess what the show or movie is based on the emojis you choose.
 * You do not have to wait for confirmation to create a pull request for a show or movie and you do not have to make an Issue first.
 * If you are adding multiple items, please include them in one pull request.
 * **[Go through this checklist](docs/card_overview.md#card-pull-request-checklist) to make sure you have added everything needed for a show or movie.** 
