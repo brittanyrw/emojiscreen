@@ -1,9 +1,15 @@
 $(document).ready(function() {
   // Create a variable for the container to hold the emoji cards.
-  var emojiCardContainer = $("#emojis");
+  let emojiCardContainer = $("#emojis");
 
   // Create a variable for the emoji cards.
-  var emojiCard = "";
+  let emojiCard = "";
+
+  // Combine the array of objects from the movies.js, musicals.js and tv.js file into one array of objects.
+
+  // const emojiItems = [];
+
+  let emojiItems = emojiMovies.concat(emojiTv, emojiMusicals);
 
   // Run the random order function below on the data inside data.js. This will display the cards in a random order on the page every time the page is refreshed.
   shuffle(emojiItems);
