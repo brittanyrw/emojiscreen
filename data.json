@@ -265,6 +265,16 @@
         "type":"musical",
         "year":1987
      },{
+       "title": "Lucky Number Sleven",
+       "emojiImgs":"🍀⌚7⃣",
+       "genres": [
+          "crime",
+          "drama",
+          "mystery"
+       ],
+       "type": "movie",
+       "year": 2006
+     },{
          "title":"The Lion King",
          "emojiImgs":"🦁👑🌍",
          "genres":[
