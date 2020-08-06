@@ -69,10 +69,6 @@ Check out my other emoji themed projects.
 * View [EmojiBops.com](https://emojibops.com).
 * View EmojiBops [on Github](https://github.com/brittanyrw/emojibops/).
 
-### 📚 EmojiPages: A listing of books depicted via emojis.
-* View [EmojiPages.com](https://emojipages.com).
-* View EmojiPages [on Github](https://github.com/brittanyrw/emojipages/).
-
 ## Git and GitHub Resources
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Additional Git/Github Practice](https://try.github.io/)
