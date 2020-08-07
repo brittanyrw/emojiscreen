@@ -61,14 +61,6 @@ Below are detailed walkthroughs on how to add a show or movie to EmojiScreen.
 * **[Go through this checklist](docs/card_overview.md#card-pull-request-checklist) to make sure you have added everything needed for a show or movie.** 
 * Please [fix conflicts](https://help.github.com/en/articles/resolving-a-merge-conflict-on-github) if your pull request has them.
 
-## Other Projects
-
-Check out my other emoji themed projects.
-
-### 🎶 EmojiBops: A listing of songs depicted via emojis.
-* View [EmojiBops.com](https://emojibops.com).
-* View EmojiBops [on Github](https://github.com/brittanyrw/emojibops/).
-
 ## Git and GitHub Resources
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Additional Git/Github Practice](https://try.github.io/)
