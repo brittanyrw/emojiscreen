@@ -1,6 +1,6 @@
 $(document).ready(function() {
   // Create a variable for the container to hold the emoji cards.
-  let emojiCardContainer = $("#emojis");
+  const emojiCardContainer = $("#emojis");
 
   // Create a variable for the emoji cards.
   let emojiCard = "";
@@ -59,7 +59,7 @@ $(document).ready(function() {
   // The code that runs the filter buttons at the top of the page. This currently allows users to filter by 'type' (ie musical, movie or tv show).
   $("#filters button").each(function() {
     $(this).on("click", function() {
-      var filtertag = $(this).attr("data-filter");
+      const filtertag = $(this).attr("data-filter");
       $("#message").hide();
       $("div.emoji-card-title").addClass("hide-card");
       if (filtertag == "view-all") { // If the user clicks on view all, show all cards.
@@ -105,14 +105,14 @@ $(document).ready(function() {
   // Toggle to expand or hide all of the movie/show names by clicking an icon
   $(".btn-reveal-all").click(function() {
     $(this).toggleClass(["revealed"])
-    var emojis = $("#emojis")
+    const emojis = $("#emojis")
       .find(".emoji-card-title");
     if($(this).hasClass("revealed")){
       emojis.removeClass("hide-card");
     } else {
       emojis.addClass("hide-card");
     }
-    var title = $(this).attr("title");
+    const title = $(this).attr("title");
     title =
       title.search(/reveal/i) === -1
         ? title.replace(/hide/i, "Reveal")
@@ -126,7 +126,7 @@ $(document).ready(function() {
 
   function generateTitle(title, year, itemLink) {
     const titleElement = "<h3>" + title +" (" + year + ")</h3>"
-    if(itemLink) {
+    if (itemLink) {
       return "<a title='Go to website' href='" + itemLink + "' target='_blank'>" + titleElement + "</a>"
     }
     return titleElement
