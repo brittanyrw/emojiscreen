@@ -206,7 +206,7 @@ const emojiTv = [
     genres: ["comedy", "drama", "war"],
     type: "tv",
     year: 1972,
-    itemlink: "https://www.imdb.com/title/tt0068098/"
+    itemLink: "https://www.imdb.com/title/tt0068098/"
   }, {
     title: "Merlin",
     emojiImgs: "🧙🤴👑⚔️🐉",

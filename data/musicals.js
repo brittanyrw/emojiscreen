@@ -13,8 +13,7 @@ const emojiMusicals = [
     emojiImgs: "👾🎮😜🎤",
     genres: ["sci-fi", "musical", "comedy", "drama"],
     type: "musical",
-    year: 2015,
-    itemLink: "https://www.imdb.com/title/tt8804832/"
+    year: 2015
   },
   {
     title: "The Book of Mormon",
@@ -49,8 +48,7 @@ const emojiMusicals = [
     emojiImgs: "☮🎶🇻🇳🇺🇸⚰ ",
     genres: ["comedy", "drama", "musical"],
     type: "musical",
-    year: 1979,
-    itemLink: "https://www.imdb.com/title/tt00079261/"
+    year: 1979
   },
   {
     title: "Hairspray: The Musical",
