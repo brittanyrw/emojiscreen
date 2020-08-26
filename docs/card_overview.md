@@ -1,6 +1,6 @@
 # Card Overview
 
-Below is a detailed overview of how to add an `Emoji Card` to the project if you are completing [one of the add emoji Issues](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3A%22add+emojis%22). Each card should be added in the `data.js` file as an object. 
+Below is a detailed overview of how to add an `Emoji Card` to the project if you are completing [one of the add emoji Issues](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3A%22add+emojis%22). Each card should be added in the appropriate file in the `data` folder. Movies should be added to the `movies.js` file, TV shows should be added to the `tv.js` file and musicals (live musicals only, movie musicals should be added to movies) should be added to the `musicals.js` file as an object. 
 
 ### Please read through this before adding to this project.
 
@@ -8,7 +8,7 @@ On the website, each `Emoji Card` displays 1) images of the emojis, 2) a hint ic
 
 ![Screenshot of Beauty and the Beast Emoji Card](../readme/emoji-card.png)
 
-In the `data.js` file, each `Emoji Card` consists of the following object:
+In the `data` folder, in the `movies.js`, `musicals.js` or `tv.js` file, each `Emoji Card` consists of the following object:
 
 ```
 {
@@ -21,7 +21,7 @@ In the `data.js` file, each `Emoji Card` consists of the following object:
 }
 ```
 
-To add a new card to the website, add a new object in the `data.js` file. Make sure to separate your new object from existing objects with a comma. Below is an overview of each key in the `Emoji Card` object. Every key is required.
+To add a new card to the website, add a new object in the `movies.js`, `musicals.js` or `tv.js` file. Make sure to separate your new object from existing objects with a comma. Below is an overview of each key in the `Emoji Card` object. Every key is required.
 
 ### Title 👍
 
@@ -124,7 +124,7 @@ Specify the year the movie or show was released or first aired. Or the first per
 
 Follow the checklist below when working on adding a card. This will help you double check that you have everything you need to have your Pull Request approved.
 
-- [ ] 🔎 Have searched the `data.js` file and `Pull Requests` to make sure that you are not adding a duplicate.
+- [ ] 🔎 Have searched the `movies.js`, `musicals.js` or `tv.js` files in the `data` folder and `Pull Requests` to make sure that you are not adding a duplicate.
 - [ ] 🖍️ Place the new show(s) or movie(s) in alphabetical order based on title. If the show or movie starts with 'the', then use the second word to alphabetize.
 - [ ] 🌈 There is a single year under `year`. 
 - [ ] 📅 There is a type from one of the following: `movie` , `tv` or `musical`.

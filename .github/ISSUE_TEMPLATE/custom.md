@@ -11,4 +11,4 @@ assignees: ''
 List the name of the show or movie here
 
 **Have you confirmed that this has not already been added to the project?**
-Check the data.js file, Issues and Pull Requests to make sure you are not adding a duplicate.
+Check the musicals.js, movies.js and tv.js files, Issues and Pull Requests to make sure you are not adding a duplicate.

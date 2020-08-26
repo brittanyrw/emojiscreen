@@ -5,14 +5,14 @@ $(document).ready(function() {
   // Create a variable for the emoji cards.
   let emojiCard = "";
 
-  // Combine the array of objects from the movies.js, musicals.js and tv.js file into one array of objects.
+  // Combine the array of objects from the movies.js, musicals.js and tv.js files into one array of objects.
 
   const emojiItems = emojiMovies.concat(emojiTv, emojiMusicals);
 
-  // Run the random order function below on the data inside data.js. This will display the cards in a random order on the page every time the page is refreshed.
+  // Run the random order function below on the data inside data folder in the musicals.js, tv.js and movies.js files. This will display the cards in a random order on the page every time the page is refreshed.
   shuffle(emojiItems);
 
-  // Loop through the data from the data.js file and insert parts of the data into HTML. On each loop, we are appending a new card with the HTML below.
+  // Loop through the data from the data folder and insert parts of the data into HTML. On each loop, we are appending a new card with the HTML below.
   for (var i in emojiItems) {
     const type = emojiItems[i].type
     const emojiImgs = emojiItems[i].emojiImgs
