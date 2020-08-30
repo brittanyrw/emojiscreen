@@ -59,7 +59,6 @@ Below are detailed walkthroughs on how to add a show or movie to EmojiScreen.
 * Follow all the instructions in the [Card Overview](/docs/card_overview.md) for adding a show or movie.
 * Search the `movies.js`, `tv.js`, or `musicals.js` files and current open pull requests to make sure you are not adding a duplicate.
 * Make sure your emojis actually depict the show or movie. Someone should be able to guess what the show or movie is based on the emojis you choose.
-* You do not have to wait for confirmation to create a pull request for a show or movie and you do not have to make an Issue first.
 * If you are adding multiple items, please include them in one pull request.
 * **[Go through this checklist](docs/card_overview.md#card-pull-request-checklist) to make sure you have added everything needed for a show or movie.** 
 * Please [fix conflicts](https://help.github.com/en/articles/resolving-a-merge-conflict-on-github) if your pull request has them.
