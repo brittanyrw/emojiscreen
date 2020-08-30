@@ -16,11 +16,11 @@ Below are some guidelines to follow when contributing to this project.
 * Wait for confirmation from the maintainers before working on the Issue. 
 * After you receive confirmation, complete the Issue and submit a Pull Request.
 
-If someone is assigned an Issue and doesn't complete it after a while, we will open the Issue to everyone else again.
-
 If you would like to suggest a new feature, create [an Issue](https://github.com/brittanyrw/emojiscreen/issues) and outline what it is you think should be added or updated. Wait for confirmation before working on the Issue. 
 
 ### Adding a Movie, TV show or Musical
+
+#### Please do not add movies, TV shows or musicals to the project if there is not an Issue requesting it. We are not accepting random new movies or shows at this time. Thanks!
 
 To add a show or movie to this project, you will need to add an `Emoji Card` inside of the `movies.js`, `tv.js`, or `musicals.js` files in the `data` folder. Each file is made up of an array (a list) of objects. You will add a new object for your show or movie into the appropriate file. Please note: The `musicals.js` file is for live musicals (such as Broadway and West End shows). Movie musicals should be added to the `movies.js` file.
 
@@ -53,6 +53,7 @@ Below are detailed walkthroughs on how to add a show or movie to EmojiScreen.
 * [Add a show or movie using your local development environment](docs/local_dev_walkthrough.md) (downloads required, most commonly used way to contribute)
 
 ### Important Notes
+* Only submit pull requests if you are fixing or responding to [an Issue](https://github.com/brittanyrw/emojiscreen/issues).
 * Follow all the instructions in the [Card Overview](/docs/card_overview.md) for adding a show or movie.
 * Search the `movies.js`, `tv.js`, or `musicals.js` files and current open pull requests to make sure you are not adding a duplicate.
 * Make sure your emojis actually depict the show or movie. Someone should be able to guess what the show or movie is based on the emojis you choose.
