@@ -1,8 +1,9 @@
 pullRequestOpened: >
   Thank you for opening this pull request, your code will be reviewed soon! Please follow the contribution guidelines outlined in the README.
   
+  At this time we are only accepting pull requests that are directly tied to <a href="https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3A%22add+emojis%22">Issues</a>. If you have not been assigned an Issue or given permission from a maintainer to work on an Issue, this pull request will be closed.
 
-  Your pull request should follow the instructions in the <a href="https://github.com/brittanyrw/emojiscreen/blob/emojiscreen/docs/card_overview.md">Card Overview</a>. If you did not follow the instructions for contributing to this project this pull request will be closed and marked invalid.
+  Otherwise, please make sure that your pull request follows the instructions in the <a href="https://github.com/brittanyrw/emojiscreen/blob/emojiscreen/docs/card_overview.md">Card Overview</a> if you are adding a show or movie to the project.
 
 
   If your pull request status (at the bottom of this page) says "This branch has conflicts that must be resolved", please <a href="https://help.github.com/en/articles/resolving-a-merge-conflict-on-github" target="_blank">resolve the conflicts</a> so that we can review your changes. 
