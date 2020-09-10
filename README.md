@@ -16,7 +16,7 @@ Below are some guidelines to follow when contributing to this project.
 * Wait for confirmation from the maintainers before working on the Issue. 
 * After you receive confirmation, complete the Issue and submit a Pull Request.
 
-If you would like to suggest a new feature, create [an Issue](https://github.com/brittanyrw/emojiscreen/issues) and outline what it is you think should be added or updated. Wait for confirmation before working on the Issue. 
+If you would like to suggest a new feature, create [an Issue](https://github.com/brittanyrw/emojiscreen/issues) and outline what it is you think should be added or updated. This project was created to help beginners, so any feature requests adding unessessary complexity to this project will not be accepted. Wait for confirmation before working on the Issue. 
 
 ### Adding a Movie, TV show or Musical
 
