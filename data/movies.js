@@ -88,6 +88,14 @@ const emojiMovies = [
     itemLink: "https://www.imdb.com/title/tt5095030/"
   },
   {
+    title: "Apollo 13",
+    emojiImgs: "🚀🌕1️⃣3️⃣",
+    genres: ["adventure", "drama", "history"],
+    type: "movie",
+    year: 1995,
+    itemLink: "https://www.imdb.com/title/tt0112384/"
+  },
+  {
     title: "Batman Begins",
     emojiImgs: "🦇👨🏙️🚰🤢",
     genres: ["action", "adventure"],
