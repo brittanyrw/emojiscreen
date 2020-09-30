@@ -57,7 +57,7 @@ Note when you copy these emojis and paste them into your text editor or Github, 
 
 ### Genres 🔍
 
-The genres should be added as an array (the square [] brackets indicates an array or list). Separate each genre with a comma and each genre should be wrapped in quotes and lowercase. If there are two words for a genre, replace the space with a hypen (-). There is no limit to the number of genres but try not to add too many.
+The genres should be added as an array (the square [] brackets indicates an array or list). Separate each genre with a comma and each genre should be wrapped in quotes and lowercase. If there are two words for a genre, replace the space with a hyphen (-). There is no limit to the number of genres but try not to add too many.
 
 ```
 {

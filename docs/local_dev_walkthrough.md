@@ -14,7 +14,7 @@
 
 1. Check the [Issues](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3A%22add+emojis%22) to find a show or movie to add. At this time we are only looking to add shows or movies that are listed in an Issue. Comment inside of the Issue what show or movie you are adding. Make sure the Issue does not have a `needs review` label. This label means that the Issue has been added by someone that is not a maintainer and has not been approved yet. 
 2. Fork this repository using the `Fork` button at the top right of this Github repository (also known as `repo`). This will create a copy of the repository for your Github account.
-3. Once the repo is forked, you will be taken to the forked repo. Again, this is a copy of the project on your acccount. Note: In the top left, the name of the repo should now include your username.
+3. Once the repo is forked, you will be taken to the forked repo. Again, this is a copy of the project on your account. Note: In the top left, the name of the repo should now include your username.
 4. Download the project to your computer. You must do this for the repository in your account NOT the main EmojiScreen repository. Click on the `Clone` button. Copy the HTTPS github repo link.
 5. In your terminal, navigate to where you would like to save the project (such as `cd Desktop`). Run the following command in the terminal, replacing the following link with your copied link: `git clone https://github.com/your-username-will-be-here/emojiscreen.git`;
 6. After the command has been run, in the terminal, navigate into the EmojiScreen project folder: `cd emojiscreen`.
