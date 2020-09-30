@@ -5,6 +5,8 @@
 
 ![Screenshot of Emojiscreen homepage](readme/emoji-screen.png)
 
+# This project is only accepting pull requests to work on issues created by the maintainers. Please do not add movies, TV shows or musicals to the project if there is not an Issue requesting it. We are not accepting random new movies or shows at this time. Thanks!
+
 ## Contributing Guidelines 🎁
 
 Below are some guidelines to follow when contributing to this project. 
@@ -19,8 +21,6 @@ Below are some guidelines to follow when contributing to this project.
 If you would like to suggest a new feature, create [an Issue](https://github.com/brittanyrw/emojiscreen/issues) and outline what it is you think should be added or updated. This project was created to help beginners, so any feature requests adding unessessary complexity to this project will not be accepted. Wait for confirmation before working on the Issue. 
 
 ### Adding a Movie, TV show or Musical
-
-# Please do not add movies, TV shows or musicals to the project if there is not an Issue requesting it. We are not accepting random new movies or shows at this time. Thanks!
 
 To add a show or movie to this project, you will need to first [check the Issues](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis) to see if there are any movies or shows to add to the project.
 
