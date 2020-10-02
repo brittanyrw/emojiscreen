@@ -5,7 +5,7 @@
 
 ![Screenshot of Emojiscreen homepage](readme/emoji-screen.png)
 
-# This project is only accepting pull requests to work on issues created by the maintainers. Please do not add movies, TV shows or musicals to the project if there is not an Issue requesting it. We are not accepting random new movies or shows at this time. Thanks!
+# This project is not accepting pull requests at this time.
 
 ## Contributing Guidelines 🎁
 
