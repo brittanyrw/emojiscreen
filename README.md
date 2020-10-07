@@ -5,8 +5,6 @@
 
 ![Screenshot of Emojiscreen homepage](readme/emoji-screen.png)
 
-# This project is not accepting pull requests at this time.
-
 ## Contributing Guidelines 🎁
 
 Below are some guidelines to follow when contributing to this project. 
