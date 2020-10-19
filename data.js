@@ -1143,5 +1143,12 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "Silicon valley",
+        emojiImgs: "‍🚀",
+        genres: ["comedy"],
+        type: "series-tv",
+        year: 2014
     }
 ]
