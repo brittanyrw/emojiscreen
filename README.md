@@ -11,7 +11,7 @@ Below are some guidelines to follow when contributing to this project.
 
 ### Adding or Updating Features Contributions
 
-* [Find an Issue](https://github.com/brittanyrw/emojiscreen/issues) that you would like to complete. 
+* [Find an Issue](https://github.com/brittanyrw/emojiscreen/issues) that you would like to complete or [create an Issue](https://github.com/brittanyrw/emojiscreen/issues) if you have an idea for a new feature.
 * If someone is already assigned an Issue, please move on to another Issue. If the Issue has not been assigned, comment inside of the Issue stating that you would like to work on that item. 
 * Wait for confirmation from the maintainers before working on the Issue. 
 * After you receive confirmation, complete the Issue and submit a Pull Request.
@@ -20,9 +20,7 @@ If you would like to suggest a new feature, create [an Issue](https://github.com
 
 ### Adding a Movie, TV show or Musical
 
-To add a show or movie to this project, you will need to first [check the Issues](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis) to see if there are any movies or shows to add to the project.
-
-If you find an Issue for adding movies or shows, comment in the Issue and wait for maintainer approval before proceeding. After you have permission to start, you will add an `Emoji Card` inside of the `movies.js`, `tv.js`, or `musicals.js` files in the `data` folder. Each file is made up of an array (a list) of objects. You will add a new object for your show or movie into the appropriate file. Please note: The `musicals.js` file is for live musicals (such as Broadway and West End shows). Movie musicals should be added to the `movies.js` file.
+To add a show or movie to this project, you will need to first check the project in the `movies.js`, `tv.js`, or `musicals.js` files to make sure that the movie or show you would like to add is not already in the project. Once you confirm the item you want to add is not already in the project, you will add an `Emoji Card` inside of the `movies.js`, `tv.js`, or `musicals.js` files in the `data` folder. Each file is made up of an array (a list) of objects. You will add a new object for your show or movie into the appropriate file. Please note: The `musicals.js` file is for live musicals (such as Broadway and West End shows). Movie musicals should be added to the `movies.js` file.
 
 If you need help choosing a movie or show, [check the Issues](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis).
 
@@ -53,7 +51,6 @@ Below are detailed walkthroughs on how to add a show or movie to EmojiScreen.
 * [Add a show or movie using your local development environment](docs/local_dev_walkthrough.md) (downloads required, most commonly used way to contribute)
 
 ### Important Notes
-* Only submit pull requests if you are fixing or responding to [an Issue](https://github.com/brittanyrw/emojiscreen/issues).
 * Follow all the instructions in the [Card Overview](/docs/card_overview.md) for adding a show or movie.
 * Search the `movies.js`, `tv.js`, or `musicals.js` files and current open pull requests to make sure you are not adding a duplicate.
 * Make sure your emojis actually depict the show or movie. Someone should be able to guess what the show or movie is based on the emojis you choose.
