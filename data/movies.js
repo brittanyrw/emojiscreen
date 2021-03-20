@@ -5,7 +5,7 @@ const emojiMovies = [
     genres: ["Comedy", "Romance", "Drama"],
     itemLink: "https://www.imdb.com/title/tt1022603/",
     type: "movie",
-    year: 2009
+    year: 2009,
   },
   {
     title: "2001: A Space Odyssey",
@@ -13,7 +13,7 @@ const emojiMovies = [
     genres: ["adventure, sci-fi"],
     type: "movie",
     year: 1968,
-    itemLink: "https://www.imdb.com/title/tt0062622/"
+    itemLink: "https://www.imdb.com/title/tt0062622/",
   },
   {
     title: "300",
@@ -21,7 +21,7 @@ const emojiMovies = [
     genres: ["action", "drama", "fantasy"],
     type: "movie",
     year: 2007,
-    itemLink: "https://www.imdb.com/title/tt0416449"
+    itemLink: "https://www.imdb.com/title/tt0416449",
   },
   {
     title: "A Bug's Life",
@@ -29,7 +29,7 @@ const emojiMovies = [
     genres: ["animation", "adventure", "comedy"],
     type: "movie",
     year: 1998,
-    itemLink: "https://www.imdb.com/title/tt0120623/"
+    itemLink: "https://www.imdb.com/title/tt0120623/",
   },
   {
     title: "A Quiet Place",
@@ -37,7 +37,7 @@ const emojiMovies = [
     genres: ["drama", "horror", "sci-fi"],
     itemLink: "https://www.imdb.com/title/tt6644200/",
     type: "movie",
-    year: 2018
+    year: 2018,
   },
   {
     title: "A Star is Born",
@@ -45,7 +45,7 @@ const emojiMovies = [
     genres: ["drama", "music", "romance"],
     type: "movie",
     year: 2018,
-    itemLink: "https://www.imdb.com/title/tt1517451"
+    itemLink: "https://www.imdb.com/title/tt1517451",
   },
   {
     title: "Aladdin",
@@ -53,7 +53,7 @@ const emojiMovies = [
     genres: ["adventure", "family", "comedy"],
     type: "movie",
     year: 2019,
-    itemLink: "https://www.imdb.com/title/tt6139732"
+    itemLink: "https://www.imdb.com/title/tt6139732",
   },
   {
     title: "Alice in Wonderland",
@@ -61,7 +61,7 @@ const emojiMovies = [
     genres: ["animation", "adventure", "family"],
     type: "movie",
     year: 1951,
-    itemLink: "https://www.imdb.com/title/tt0043274/"
+    itemLink: "https://www.imdb.com/title/tt0043274/",
   },
   {
     title: "Alien",
@@ -69,15 +69,15 @@ const emojiMovies = [
     genres: ["suspense", "horror"],
     type: "movie",
     year: 1979,
-    itemLink: "https://www.imdb.com/title/tt0078748/"
-  }, 
+    itemLink: "https://www.imdb.com/title/tt0078748/",
+  },
   {
     title: "Anastasia",
     emojiImgs: "🏰👸🧙🇷🇺💗",
     genres: ["animation", "adventure", "drama"],
     itemLink: "https://www.imdb.com/title/tt0118617/",
     type: "movie",
-    year: 1997
+    year: 1997,
   },
   {
     title: "Ant-Man and the Wasp",
@@ -85,7 +85,7 @@ const emojiMovies = [
     genres: ["action", "adventure", "comedy"],
     type: "movie",
     year: 2018,
-    itemLink: "https://www.imdb.com/title/tt5095030/"
+    itemLink: "https://www.imdb.com/title/tt5095030/",
   },
   {
     title: "Batman Begins",
@@ -93,7 +93,7 @@ const emojiMovies = [
     genres: ["action", "adventure"],
     itemLink: "https://www.imdb.com/title/tt0372784/",
     type: "movie",
-    year: 2005
+    year: 2005,
   },
   {
     title: "Beauty and the Beast",
@@ -101,7 +101,7 @@ const emojiMovies = [
     genres: ["animation", "family", "fantasy"],
     type: "movie",
     year: 1991,
-    itemLink: "https://www.imdb.com/title/tt2771200"
+    itemLink: "https://www.imdb.com/title/tt2771200",
   },
   {
     title: "Beetlejuice",
@@ -109,7 +109,7 @@ const emojiMovies = [
     genres: ["comedy", "fantasy"],
     type: "movie",
     year: 1988,
-    itemLink: "https://www.imdb.com/title/tt0094721/"
+    itemLink: "https://www.imdb.com/title/tt0094721/",
   },
   {
     title: "Bend It Like Beckham",
@@ -117,7 +117,7 @@ const emojiMovies = [
     genres: ["comedy", "drama", "romance"],
     type: "movie",
     year: 2002,
-    itemLink: "https://www.imdb.com/title/tt0286499/"
+    itemLink: "https://www.imdb.com/title/tt0286499/",
   },
   {
     title: "The Breakfast Club",
@@ -125,7 +125,7 @@ const emojiMovies = [
     genres: ["comedy", "drama"],
     type: "movie",
     year: 1985,
-    itemLink: "https://www.imdb.com/title/tt0088847/"
+    itemLink: "https://www.imdb.com/title/tt0088847/",
   },
   {
     title: "Black Panther",
@@ -133,7 +133,7 @@ const emojiMovies = [
     genres: ["action", "adventure", "sci-fi"],
     type: "movie",
     year: 2018,
-    itemLink: "https://www.imdb.com/title/tt1825683"
+    itemLink: "https://www.imdb.com/title/tt1825683",
   },
   {
     title: "Black Swan",
@@ -141,7 +141,7 @@ const emojiMovies = [
     genres: ["drama", "thriller"],
     type: "movie",
     year: 2010,
-    itemLink: "https://www.imdb.com/title/tt0947798"
+    itemLink: "https://www.imdb.com/title/tt0947798",
   },
   {
     title: "Blade Runner",
@@ -149,7 +149,7 @@ const emojiMovies = [
     genres: ["action", "thriller", "sci-fi"],
     itemLink: "https://www.imdb.com/title/tt0083658/",
     type: "movie",
-    year: 1982
+    year: 1982,
   },
   {
     title: "Boyhood",
@@ -157,7 +157,7 @@ const emojiMovies = [
     genres: ["drama"],
     type: "movie",
     year: 2014,
-    itemLink: "https://www.imdb.com/title/tt1065073/"
+    itemLink: "https://www.imdb.com/title/tt1065073/",
   },
   {
     title: "Brave",
@@ -165,15 +165,15 @@ const emojiMovies = [
     genres: ["animation", "adventure", "comedy"],
     type: "movie",
     year: 2012,
-    itemLink: "https://www.imdb.com/title/tt1217209/"
-  }, 
+    itemLink: "https://www.imdb.com/title/tt1217209/",
+  },
   {
     title: "Bring It On",
     emojiImgs: "💃🤸‍♀️💗🤷‍♀️🧖‍♀️",
     genres: ["comedy", "romance", "sport"],
     type: "movie",
     year: 2000,
-    itemLink: "https://www.imdb.com/title/tt0204946/"
+    itemLink: "https://www.imdb.com/title/tt0204946/",
   },
   {
     title: "Captain Marvel",
@@ -181,7 +181,7 @@ const emojiMovies = [
     genres: ["action", "adventure", "sci-fi"],
     type: "movie",
     year: 2019,
-    itemLink: "https://www.imdb.com/title/tt4154664/"
+    itemLink: "https://www.imdb.com/title/tt4154664/",
   },
   {
     title: "Cars",
@@ -189,7 +189,7 @@ const emojiMovies = [
     genres: ["animation", "comedy", "family"],
     type: "movie",
     year: 2006,
-    itemLink: "https://www.imdb.com/title/tt0317219/"
+    itemLink: "https://www.imdb.com/title/tt0317219/",
   },
   {
     title: "Cast Away",
@@ -197,7 +197,7 @@ const emojiMovies = [
     genres: ["action", "comedy", "musical"],
     itemLink: "https://www.imdb.com/title/tt0162222/",
     type: "movie",
-    year: 2000
+    year: 2000,
   },
   {
     title: "Catch Me If You Can",
@@ -205,7 +205,7 @@ const emojiMovies = [
     genres: ["biography", "crime", "drama"],
     type: "movie",
     year: 2002,
-    itemLink: "https://www.imdb.com/title/tt0264464/"
+    itemLink: "https://www.imdb.com/title/tt0264464/",
   },
   {
     title: "The Cheetah Girls",
@@ -213,7 +213,7 @@ const emojiMovies = [
     genres: ["comedy", "drama", "musical"],
     itemLink: "https://www.imdb.com/title/tt0338852/",
     type: "movie",
-    year: 2003
+    year: 2003,
   },
   {
     title: "Chicago",
@@ -221,7 +221,7 @@ const emojiMovies = [
     genres: ["musical", "drama", "comedy"],
     itemLink: "https://www.imdb.com/title/tt0299658/",
     type: "movie",
-    year: 2002
+    year: 2002,
   },
   {
     title: "Chicken Little",
@@ -229,7 +229,7 @@ const emojiMovies = [
     genres: ["family", "comedy", "animated"],
     itemLink: "https://www.imdb.com/title/tt0371606/",
     type: "movie",
-    year: 2005
+    year: 2005,
   },
   {
     title: "Child's Play",
@@ -237,15 +237,15 @@ const emojiMovies = [
     genres: ["action", "horror", "sci-fi"],
     itemLink: "https://www.imdb.com/title/tt8663516/",
     type: "movie",
-    year: 2019
-  }, 
+    year: 2019,
+  },
   {
     title: "Cinderella",
     emojiImgs: "🤴👸👠🐭🧚‍♀️",
     genres: ["animation", "family", "fantasy"],
     type: "movie",
     year: 1950,
-    itemLink: "https://www.imdb.com/title/tt0042332/"
+    itemLink: "https://www.imdb.com/title/tt0042332/",
   },
   {
     title: "Citizen Kane",
@@ -253,7 +253,7 @@ const emojiMovies = [
     genres: ["drama", "mystery", "classic"],
     type: "movie",
     year: 1941,
-    itemLink: "https://www.imdb.com/title/tt0033467/"
+    itemLink: "https://www.imdb.com/title/tt0033467/",
   },
   {
     title: "Cloudy with a Chance of Meatballs",
@@ -261,7 +261,7 @@ const emojiMovies = [
     genres: ["animation", "adventure", "comedy"],
     itemLink: "https://www.imdb.com/title/tt0844471/",
     type: "movie",
-    year: 2009
+    year: 2009,
   },
   {
     title: "Clueless",
@@ -269,7 +269,7 @@ const emojiMovies = [
     genres: ["comedy", "romance"],
     itemLink: "https://www.imdb.com/title/tt0112697/",
     type: "movie",
-    year: 1995
+    year: 1995,
   },
   {
     title: "Coco",
@@ -277,7 +277,7 @@ const emojiMovies = [
     genres: ["animation", "adventure", "family"],
     itemLink: "https://www.imdb.com/title/tt2380307/",
     type: "movie",
-    year: 2017
+    year: 2017,
   },
   {
     title: "The Color Purple",
@@ -285,7 +285,7 @@ const emojiMovies = [
     genres: ["drama"],
     itemLink: "https://www.imdb.com/title/tt0088939/",
     type: "movie",
-    year: 1986
+    year: 1986,
   },
   {
     title: "The Curious Case of Benjamin Button",
@@ -293,15 +293,15 @@ const emojiMovies = [
     genres: ["drama", "fantasy", "romance"],
     type: "movie",
     year: 2008,
-    itemLink: "https://www.imdb.com/title/tt0421715/"
-  }, 
+    itemLink: "https://www.imdb.com/title/tt0421715/",
+  },
   {
     title: "The Dark Knight",
     emojiImgs: "🦇🕶️🏇⚔️",
     genres: ["action", "crime", "drama"],
     itemLink: "https://www.imdb.com/title/tt0468569/",
     type: "movie",
-    year: 2008
+    year: 2008,
   },
   {
     title: "The Day the Earth Stood Still",
@@ -309,21 +309,21 @@ const emojiMovies = [
     genres: ["drama", "sci-fi"],
     type: "movie",
     year: 1951,
-    itemLink: "https://www.imdb.com/title/tt0043456/"
+    itemLink: "https://www.imdb.com/title/tt0043456/",
   },
   {
     title: "Devil Wears Prada",
     emojiImgs: "😈💄👠🧣👓",
     genres: ["comedy", "drama"],
     type: "movie",
-    year: 2006
+    year: 2006,
   },
   {
     title: "Dirty Dancing",
     emojiImgs: "🍉💃🕶🕺👶",
     genres: ["drama", "music", "romance"],
     type: "movie",
-    year: 1987
+    year: 1987,
   },
   {
     title: "Dude, Where's My Car?",
@@ -331,7 +331,7 @@ const emojiMovies = [
     genres: ["comedy", "sci-fi"],
     type: "movie",
     year: 2000,
-    itemLink: "https://www.imdb.com/title/tt0242423/"
+    itemLink: "https://www.imdb.com/title/tt0242423/",
   },
   {
     title: "Dunkirk",
@@ -339,7 +339,7 @@ const emojiMovies = [
     genres: ["action", "adventure", "drama"],
     type: "movie",
     year: 2017,
-    itemLink: "https://www.imdb.com/title/tt5013056/"
+    itemLink: "https://www.imdb.com/title/tt5013056/",
   },
   {
     title: "Edward Sicssorhands",
@@ -347,15 +347,15 @@ const emojiMovies = [
     genres: ["drama", "fantasy", "romance"],
     itemLink: "https://www.imdb.com/title/tt0099487/",
     type: "movie",
-    year: 1990
-  }, 
+    year: 1990,
+  },
   {
     title: "The Emoji Movie",
     emojiImgs: "😀😒✋💩",
     genres: ["animation", "adventure", "comedy"],
     itemLink: "https://www.imdb.com/title/tt4877122/",
     type: "movie",
-    year: 2017
+    year: 2017,
   },
   {
     title: "Eragon",
@@ -363,22 +363,22 @@ const emojiMovies = [
     genres: ["action", "adventure", "family"],
     itemLink: "https://www.imdb.com/title/tt0449010/",
     type: "movie",
-    year: 2006
+    year: 2006,
   },
   {
     title: "E.T. the Extra-Terrestrial",
     emojiImgs: "🌙🚲👉🏻👈🏻👽",
     genres: ["family", "sci-fi"],
     type: "movie",
-    year: 1982
-  }, 
+    year: 1982,
+  },
   {
     title: "Fantastic Beasts and Where to Find Them",
     emojiImgs: "🐉🐀🦉🔎💼",
     genres: ["adventure", "family", "fantasy"],
     itemLink: "https://www.imdb.com/title/tt3183660/",
     type: "movie",
-    year: 2016
+    year: 2016,
   },
   {
     title: "Fantastic Beasts: The Crimes of Grindelwald",
@@ -386,35 +386,35 @@ const emojiMovies = [
     genres: ["adventure", "family", "fantasy"],
     itemLink: "https://www.imdb.com/title/tt4123430/",
     type: "movie",
-    year: 2018
+    year: 2018,
   },
   {
     title: "Fargo",
     emojiImgs: "🚔🌳👶🏻⚰️",
     genres: ["crime", "drama", "thriller"],
     type: "movie",
-    year: 1996
+    year: 1996,
   },
   {
     title: "The Fast and the Furious",
     emojiImgs: "🚗💨😡",
     genres: ["action", "crime", "thriller"],
     type: "movie",
-    year: 2001
-  }, 
+    year: 2001,
+  },
   {
     title: "Fight Club",
     emojiImgs: "🥊🧼🤐",
     genres: ["drama"],
     type: "movie",
-    year: 1999
+    year: 1999,
   },
   {
     title: "Five Feet Apart",
     emojiImgs: "🏣🧒5⃣👧💞",
     genres: ["Drama", "Romance", "Comedy"],
     type: "movie",
-    year: 2019
+    year: 2019,
   },
   {
     title: "Fried Green Tomatoes",
@@ -422,7 +422,7 @@ const emojiMovies = [
     genres: ["feel-good", "drama"],
     itemLink: "https://www.imdb.com/title/tt0101921/",
     type: "movie",
-    year: 1991
+    year: 1991,
   },
   {
     title: "Forrest Gump",
@@ -430,7 +430,7 @@ const emojiMovies = [
     genres: ["drama", "romance"],
     itemLink: "https://www.imdb.com/title/tt0109830/",
     type: "movie",
-    year: 1994
+    year: 1994,
   },
   {
     title: "Four Weddings and a Funeral",
@@ -438,7 +438,7 @@ const emojiMovies = [
     genres: ["Comedy", "Drama", "Romance"],
     type: "movie",
     year: 1994,
-    itemLink: "https://www.imdb.com/title/tt0109831/"
+    itemLink: "https://www.imdb.com/title/tt0109831/",
   },
   {
     title: "The Fox and the Hound",
@@ -446,23 +446,23 @@ const emojiMovies = [
     genres: ["animation", "adventure", "drama"],
     type: "movie",
     year: 1981,
-    itemLink: "https://www.imdb.com/title/tt0082406/"
-  }, 
+    itemLink: "https://www.imdb.com/title/tt0082406/",
+  },
   {
     title: "Get Out",
     emojiImgs: "😮😱💪🏿🦸🏿",
     genres: ["horror", "sci-fi"],
     type: "movie",
     year: 2018,
-    itemLink: "https://www.imdb.com/title/tt5052448/"
-  }, 
+    itemLink: "https://www.imdb.com/title/tt5052448/",
+  },
   {
     title: "Ghostbusters",
     emojiImgs: "👻🔫👨‍🚒️",
     genres: ["comedy", "action", "fantasy"],
     type: "movie",
     year: 1984,
-    itemLink: "https://www.imdb.com/title/tt1289401/"
+    itemLink: "https://www.imdb.com/title/tt1289401/",
   },
   {
     title: "Gladiator",
@@ -470,7 +470,7 @@ const emojiMovies = [
     genres: ["action", "adventure", "drama"],
     type: "movie",
     year: 2000,
-    itemLink: "https://www.imdb.com/title/tt0172495/"
+    itemLink: "https://www.imdb.com/title/tt0172495/",
   },
   {
     title: "The Godfather",
@@ -478,7 +478,7 @@ const emojiMovies = [
     genres: ["crime", "drama"],
     type: "movie",
     year: 1972,
-    itemLink: "https://www.imdb.com/title/tt0068646/"
+    itemLink: "https://www.imdb.com/title/tt0068646/",
   },
   {
     title: "Goonies",
@@ -486,7 +486,7 @@ const emojiMovies = [
     genres: ["adventure", "comedy", "family"],
     type: "movie",
     year: 1985,
-    itemLink: "https://www.imdb.com/title/tt0089218/"
+    itemLink: "https://www.imdb.com/title/tt0089218/",
   },
   {
     title: "Gravity",
@@ -494,7 +494,7 @@ const emojiMovies = [
     genres: ["drama", "sci-fi", "thriller"],
     itemLink: "https://www.imdb.com/title/tt1454468/",
     type: "movie",
-    year: 2013
+    year: 2013,
   },
   {
     title: "Grease",
@@ -502,7 +502,7 @@ const emojiMovies = [
     genres: ["musical", "romance"],
     type: "movie",
     year: 1978,
-    itemLink: "https://www.imdb.com/title/tt0077631/"
+    itemLink: "https://www.imdb.com/title/tt0077631/",
   },
   {
     title: "The Greatest Showman",
@@ -510,7 +510,7 @@ const emojiMovies = [
     genres: ["biography", "drama", "musical"],
     type: "movie",
     year: 2017,
-    itemLink: "https://www.imdb.com/title/tt1485796/"
+    itemLink: "https://www.imdb.com/title/tt1485796/",
   },
   {
     title: "Grey's Anatomy",
@@ -518,7 +518,7 @@ const emojiMovies = [
     genres: ["drama", "romance"],
     type: "tv",
     year: 2005,
-    itemLink: "https://www.imdb.com/title/tt0413573/"
+    itemLink: "https://www.imdb.com/title/tt0413573/",
   },
   {
     title: "The Girl with the Dragon Tattoo",
@@ -526,7 +526,7 @@ const emojiMovies = [
     itemLink: "https://www.imdb.com/title/tt0000000001132620/",
     genres: ["crime", "drama", "mystery"],
     type: "movie",
-    year: 2009
+    year: 2009,
   },
   {
     title: "Hackers",
@@ -534,70 +534,70 @@ const emojiMovies = [
     genres: ["action-adventure", "mystery", "fiction-fantasy"],
     type: "movie",
     year: 1995,
-    itemLink: "https://www.imdb.com/title/tt0113243/"
+    itemLink: "https://www.imdb.com/title/tt0113243/",
   },
   {
     title: "The Hangover",
     emojiImgs: "🤵🎰🥃🍾🤕",
     genres: ["comedy"],
     type: "movie",
-    year: 2009
+    year: 2009,
   },
   {
     title: "Harry Potter and the Chamber of Secrets",
     emojiImgs: "🐍🧙‍♂️📓👩🏻‍🦰⚡",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
-    year: 2002
+    year: 2002,
   },
   {
     title: "Harry Potter and the Deathly Hallows – Part 1",
     emojiImgs: "👰🏻🤵🏻💀🐍🔪",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
-    year: 2010
+    year: 2010,
   },
   {
     title: "Harry Potter and the Deathly Hallows – Part 2",
     emojiImgs: "💍💀🐍🏰🔥",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
-    year: 2011
+    year: 2011,
   },
   {
     title: "Harry Potter and the Goblet of Fire",
     emojiImgs: "🐉🧜☠️🏆🧙‍♂️",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
-    year: 2005
+    year: 2005,
   },
   {
     title: "Harry Potter and the Half-Blood Prince",
     emojiImgs: "👦🏻🐍💀📖🧙🏻‍♂️",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
-    year: 2009
+    year: 2009,
   },
   {
     title: "Harry Potter and the Order of the Phoenix",
     emojiImgs: "💀🏠💅🏻💭🔮",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
-    year: 2007
+    year: 2007,
   },
   {
     title: "Harry Potter and the Philosopher's Stone",
     emojiImgs: "📨🎂✨📖💎",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
-    year: 2001
+    year: 2001,
   },
   {
     title: "Harry Potter and the Prisoner of Azkaban",
     emojiImgs: "👨‍🏫🌕🐺🐀⚡",
     genres: ["adventure", "family", "fantasy"],
     type: "movie",
-    year: 2004
+    year: 2004,
   },
   {
     title: "Hereditary",
@@ -605,44 +605,44 @@ const emojiMovies = [
     genres: ["drama", "horror", "mystery"],
     type: "movie",
     year: 2018,
-    itemLink: "https://www.imdb.com/title/tt7784604/"
-  }, 
+    itemLink: "https://www.imdb.com/title/tt7784604/",
+  },
   {
     title: "Hidden Figures",
     emojiImgs: "🚀👩🏽‍💻🧮👨🏻‍🦳👨🏻‍🚀",
     genres: ["biography", "drama", "history"],
     type: "movie",
-    year: 2016
+    year: 2016,
   },
   {
     title: "The Hills Have Eyes",
     emojiImgs: "👨‍👩‍👧‍👦🚐🏔👀",
     genres: ["horror", "thriller"],
     type: "movie",
-    year: 2006
-  }, 
+    year: 2006,
+  },
   {
     title: "Holes",
     emojiImgs: "0️⃣👟🦎🕳️☀️",
     genres: ["Adventure", "Comedy", "Drama", "Family", "Mystery"],
     type: "movie",
     year: 2003,
-    itemLink: "https://www.imdb.com/title/tt0311289/"
+    itemLink: "https://www.imdb.com/title/tt0311289/",
   },
   {
     title: "Home Alone",
     emojiImgs: "🏠🙈🎄",
     genres: ["comedy", "family"],
     type: "movie",
-    year: 1990
-  }, 
+    year: 1990,
+  },
   {
     title: "Ice Age",
     emojiImgs: "👶🐅🐘🌰❄️",
     genres: ["animation", "adventure", "comedy"],
     type: "movie",
     year: 2002,
-    itemLink: "https://www.imdb.com/title/tt0268380/"
+    itemLink: "https://www.imdb.com/title/tt0268380/",
   },
   {
     title: "The Incredible Hulk",
@@ -650,7 +650,7 @@ const emojiMovies = [
     genres: ["action", "adventure", "sci-fi"],
     type: "movie",
     year: 2008,
-    itemLink: "https://www.imdb.com/title/tt0800080/"
+    itemLink: "https://www.imdb.com/title/tt0800080/",
   },
   {
     title: "Independence Day",
@@ -658,7 +658,7 @@ const emojiMovies = [
     genres: ["war", "adventure", "drama", "sci-fi"],
     type: "movie",
     year: 1996,
-    itemLink: "https://www.imdb.com/title/tt0116629/"
+    itemLink: "https://www.imdb.com/title/tt0116629/",
   },
   {
     title: "Inglorious Basterds",
@@ -666,7 +666,7 @@ const emojiMovies = [
     genres: ["war", "history"],
     itemLink: "https://www.imdb.com/title/tt0361748/",
     type: "movie",
-    year: 2009
+    year: 2009,
   },
   {
     title: "Interstellar",
@@ -674,7 +674,7 @@ const emojiMovies = [
     genres: ["adventure", "drama", "sci-fi"],
     itemLink: "https://www.imdb.com/title/tt0816692/",
     type: "movie",
-    year: 2014
+    year: 2014,
   },
   {
     title: "IT",
@@ -682,15 +682,15 @@ const emojiMovies = [
     genres: ["horror", "thriller"],
     itemLink: "https://www.imdb.com/title/tt1396484/",
     type: "movie",
-    year: 2017
-  }, 
+    year: 2017,
+  },
   {
     title: "James and the Giant Peach",
     emojiImgs: "🍑👦🦗🐛🐞",
     genres: ["animation", "adventure", "family"],
     type: "movie",
     year: 1996,
-    itemLink: "https://www.imdb.com/title/tt0116683/"
+    itemLink: "https://www.imdb.com/title/tt0116683/",
   },
   {
     title: "Jaws",
@@ -698,7 +698,7 @@ const emojiMovies = [
     genres: ["adventure", "drama", "thriller"],
     itemLink: "https://www.imdb.com/title/tt0073195/",
     type: "movie",
-    year: 1975
+    year: 1975,
   },
   {
     title: "John Wick",
@@ -706,7 +706,7 @@ const emojiMovies = [
     genres: ["action", "crime", "thriller"],
     itemLink: "https://www.imdb.com/title/tt2911666/",
     type: "movie",
-    year: 2014
+    year: 2014,
   },
   {
     title: "The Jungle Book",
@@ -714,7 +714,7 @@ const emojiMovies = [
     genres: ["adventure", "drama", "family"],
     itemLink: "https://www.imdb.com/title/tt3040964/",
     type: "movie",
-    year: 2016
+    year: 2016,
   },
   {
     title: "Jurassic Park",
@@ -722,15 +722,15 @@ const emojiMovies = [
     genres: ["action", "adventure", "sci-fi"],
     itemLink: "https://www.imdb.com/title/tt0107290/",
     type: "movie",
-    year: 1993
-  }, 
+    year: 1993,
+  },
   {
     title: "The Karate Kid",
     emojiImgs: "🤼‍♂️👦🏻👘",
     genres: ["action", "drama", "family"],
     type: "movie",
     year: 1984,
-    itemLink: "https://www.imdb.com/title/tt0087538/"
+    itemLink: "https://www.imdb.com/title/tt0087538/",
   },
   {
     title: "Kiki's Delivery Service",
@@ -738,7 +738,7 @@ const emojiMovies = [
     genres: ["animated"],
     itemLink: "https://www.imdb.com/title/tt0097814/",
     type: "movie",
-    year: 1989
+    year: 1989,
   },
   {
     title: "Kill Bill: Volume 1",
@@ -746,7 +746,7 @@ const emojiMovies = [
     genres: ["action", "drama"],
     itemLink: "https://www.imdb.com/title/tt0266697/",
     type: "movie",
-    year: 2003
+    year: 2003,
   },
   {
     title: "Kill Bill: Volume 2",
@@ -754,7 +754,7 @@ const emojiMovies = [
     genres: ["action", "drama"],
     itemLink: "https://www.imdb.com/title/tt0378194/",
     type: "movie",
-    year: 2004
+    year: 2004,
   },
   {
     title: "King Authur",
@@ -762,7 +762,7 @@ const emojiMovies = [
     genres: ["action", "sci-fi"],
     type: "movie",
     year: 2017,
-    itemLink: "https://www.imdb.com/title/tt1972591/"
+    itemLink: "https://www.imdb.com/title/tt1972591/",
   },
   {
     title: "Kingsman: The Secret Service ",
@@ -770,7 +770,7 @@ const emojiMovies = [
     genres: ["action", "adventure", "comedy"],
     type: "movie",
     year: 2014,
-    itemLink: "https://www.imdb.com/title/tt2802144/"
+    itemLink: "https://www.imdb.com/title/tt2802144/",
   },
   {
     title: "Kung Fu Panda",
@@ -778,15 +778,15 @@ const emojiMovies = [
     genres: ["animation", "action", "adventure"],
     itemLink: "https://www.imdb.com/title/tt0441773/",
     type: "movie",
-    year: 2008
-  }, 
+    year: 2008,
+  },
   {
     title: "La La Land",
     emojiImgs: "💃🙋‍♂️🎹🎶",
     genres: ["romance", "drama", "musical"],
     type: "movie",
     year: 2016,
-    itemLink: "https://www.imdb.com/title/tt3783958/"
+    itemLink: "https://www.imdb.com/title/tt3783958/",
   },
   {
     title: "Lady and the Tramp",
@@ -794,7 +794,7 @@ const emojiMovies = [
     genres: ["animation", "romance"],
     type: "movie",
     year: 1955,
-    itemLink: "https://www.imdb.com/title/tt0048280/"
+    itemLink: "https://www.imdb.com/title/tt0048280/",
   },
   {
     title: "Lady Bird",
@@ -802,7 +802,7 @@ const emojiMovies = [
     genres: ["comedy", "drama"],
     type: "movie",
     year: 2017,
-    itemLink: "https://www.imdb.com/title/tt4925292/"
+    itemLink: "https://www.imdb.com/title/tt4925292/",
   },
   {
     title: "Lawrence of Arabia",
@@ -810,7 +810,7 @@ const emojiMovies = [
     genres: ["adventure", "biography", "drama"],
     type: "movie",
     year: 1962,
-    itemLink: "https://www.imdb.com/title/tt0056172/"
+    itemLink: "https://www.imdb.com/title/tt0056172/",
   },
   {
     title: "Legally Blonde",
@@ -818,7 +818,7 @@ const emojiMovies = [
     genres: ["romance", "comedy"],
     type: "movie",
     year: 2001,
-    itemLink: "https://www.imdb.com/title/tt0250494/"
+    itemLink: "https://www.imdb.com/title/tt0250494/",
   },
   {
     title: "Leon: The Professional",
@@ -826,7 +826,7 @@ const emojiMovies = [
     genres: ["thriller"],
     type: "movie",
     year: 1994,
-    itemLink: "https://www.imdb.com/title/tt0110413/"
+    itemLink: "https://www.imdb.com/title/tt0110413/",
   },
   {
     title: "Life of Pi",
@@ -834,14 +834,14 @@ const emojiMovies = [
     genres: ["Drama", "Fantasy"],
     itemLink: "https://www.imdb.com/title/tt0454876/",
     type: "movie",
-    year: 2012
-  }, 
+    year: 2012,
+  },
   {
     title: "The Lion King",
     emojiImgs: "🦁👑🌍",
     genres: ["animation", "adventure", "drama"],
     type: "movie",
-    year: 1994
+    year: 1994,
   },
   {
     title: "The Little Mermaid",
@@ -849,22 +849,22 @@ const emojiMovies = [
     genres: ["animation", "family", "fantasy"],
     type: "movie",
     year: 1989,
-    itemLink: "https://www.imdb.com/title/tt0097757/"
-  }, 
+    itemLink: "https://www.imdb.com/title/tt0097757/",
+  },
   {
     title: "The Lizzie McGuire Movie",
     emojiImgs: "🎓✈🇮🇹👯🎤",
     genres: ["adventure", "comedy", "family"],
     type: "movie",
     year: 2003,
-    itemLink: "https://www.imdb.com/title/tt0306841/"
+    itemLink: "https://www.imdb.com/title/tt0306841/",
   },
   {
     title: "The Lord of the Rings: The Fellowship of the Ring",
     emojiImgs: "💍🧝⚔️🧙",
     genres: ["adventure", "drama", "fantasy"],
     type: "movie",
-    year: 2001
+    year: 2001,
   },
   {
     title: "The Lord of the Rings: The Return of the King",
@@ -872,23 +872,23 @@ const emojiMovies = [
     genres: ["adventure", "drama", "fantasy"],
     type: "movie",
     year: 2003,
-    itemLink: "https://www.imdb.com/title/tt0167260"
-  }, 
+    itemLink: "https://www.imdb.com/title/tt0167260",
+  },
   {
     title: "Love and Other Drugs",
     emojiImgs: "😍🆘💊💔💏",
     genres: ["romance", "drama", "comedy"],
     type: "movie",
     year: 2010,
-    itemLink: "https://www.imdb.com/title/tt0758752/"
-  }, 
+    itemLink: "https://www.imdb.com/title/tt0758752/",
+  },
   {
     title: "Maleficient: Mistress of Evil",
     emojiImgs: "🧝‍♀️🧙‍♀️💔👸🖤",
     genres: ["action", "fantasy"],
     itemLink: "https://www.imdb.com/title/tt4777008/",
     type: "movie",
-    year: 2019
+    year: 2019,
   },
   {
     title: "The Martian",
@@ -896,7 +896,7 @@ const emojiMovies = [
     genres: ["adventure", "drama", "sci-fi"],
     itemLink: "https://www.imdb.com/title/tt3659388/",
     type: "movie",
-    year: 2015
+    year: 2015,
   },
   {
     title: "The Mask",
@@ -904,7 +904,7 @@ const emojiMovies = [
     genres: ["comedy", "crime", "fantasy"],
     type: "movie",
     year: 1994,
-    itemLink: "https://www.imdb.com/title/tt0110475/"
+    itemLink: "https://www.imdb.com/title/tt0110475/",
   },
   {
     title: "Matrix",
@@ -912,7 +912,7 @@ const emojiMovies = [
     genres: ["action", "sci-fi"],
     type: "movie",
     year: 1999,
-    itemLink: "https://www.imdb.com/title/tt0133093/"
+    itemLink: "https://www.imdb.com/title/tt0133093/",
   },
   {
     title: "Matrix Revolutions",
@@ -920,7 +920,7 @@ const emojiMovies = [
     genres: ["action", "sci-fi"],
     type: "movie",
     year: 2003,
-    itemLink: "https://www.imdb.com/title/tt0242653/"
+    itemLink: "https://www.imdb.com/title/tt0242653/",
   },
   {
     title: "Mean Girls",
@@ -928,7 +928,7 @@ const emojiMovies = [
     genres: ["movie", "comedy"],
     type: "movie",
     year: 2004,
-    itemLink: "https://www.imdb.com/title/tt0377092/"
+    itemLink: "https://www.imdb.com/title/tt0377092/",
   },
   {
     title: "Men in Black",
@@ -936,7 +936,7 @@ const emojiMovies = [
     genres: ["action", "adventure", "comedy"],
     itemLink: "https://www.imdb.com/title/tt0119654/",
     type: "movie",
-    year: 1997
+    year: 1997,
   },
   {
     title: "Midsommar",
@@ -944,7 +944,7 @@ const emojiMovies = [
     genres: ["Drama", "Thriller"],
     type: "movie",
     year: 2019,
-    itemLink: "https://www.imdb.com/title/tt8772262/"
+    itemLink: "https://www.imdb.com/title/tt8772262/",
   },
   {
     title: "Monty Python and the Holy Grail",
@@ -952,7 +952,7 @@ const emojiMovies = [
     genres: ["comedy"],
     type: "movie",
     year: 1975,
-    itemLink: "https://www.imdb.com/title/tt0071853/"
+    itemLink: "https://www.imdb.com/title/tt0071853/",
   },
   {
     title: "Moonrise Kingdom",
@@ -960,7 +960,7 @@ const emojiMovies = [
     genres: ["Comedy", "Drama", "Romance"],
     itemLink: "https://www.imdb.com/title/tt1748122/",
     type: "movie",
-    year: 2012
+    year: 2012,
   },
   {
     title: "Moulin Rouge",
@@ -968,7 +968,7 @@ const emojiMovies = [
     genres: ["drama", "musical", "romance"],
     type: "movie",
     year: 2001,
-    itemLink: "https://www.imdb.com/title/tt0203009/"
+    itemLink: "https://www.imdb.com/title/tt0203009/",
   },
   {
     title: "Mulan",
@@ -976,7 +976,15 @@ const emojiMovies = [
     genres: ["war", "music"],
     type: "movie",
     year: 1998,
-    itemLink: "https://www.imdb.com/title/tt0120762/"
+    itemLink: "https://www.imdb.com/title/tt0120762/",
+  },
+  {
+    title: "Mrs. Doubtfire",
+    emojiImgs: "👨🏼 👵🏻 👩‍👧‍👦🧹🔥",
+    genres: ["family", "comedy"],
+    type: "movie",
+    year: 1993,
+    itemLink: "https://www.imdb.com/title/tt0107614/",
   },
   {
     title: "National Treasure",
@@ -984,7 +992,7 @@ const emojiMovies = [
     genres: ["action", "adventure", "mystery"],
     type: "movie",
     year: 2004,
-    itemLink: "https://www.imdb.com/title/tt0368891/"
+    itemLink: "https://www.imdb.com/title/tt0368891/",
   },
   {
     title: "The NeverEnding Story",
@@ -992,7 +1000,7 @@ const emojiMovies = [
     genres: ["fantasy", "adventure"],
     itemLink: "https://www.imdb.com/title/tt0088323/",
     type: "movie",
-    year: 1984
+    year: 1984,
   },
   {
     title: "Nightmare Before Christmas",
@@ -1000,7 +1008,7 @@ const emojiMovies = [
     genres: ["animation", "family", "fantasy", "musical"],
     type: "movie",
     year: 1993,
-    itemLink: "https://www.imdb.com/title/tt0107688/"
+    itemLink: "https://www.imdb.com/title/tt0107688/",
   },
   {
     title: "No Country for Old Men",
@@ -1008,23 +1016,23 @@ const emojiMovies = [
     genres: ["crime", "drama", "thriller"],
     type: "movie",
     year: 2007,
-    itemLink: "https://www.imdb.com/title/tt0477348/"
-  }, 
+    itemLink: "https://www.imdb.com/title/tt0477348/",
+  },
   {
     title: "Office Space",
     emojiImgs: "👔🖨⚒💾💰",
     genres: ["comedy"],
     type: "movie",
     year: 1999,
-    itemLink: "https://www.imdb.com/title/tt0151804/"
-  }, 
+    itemLink: "https://www.imdb.com/title/tt0151804/",
+  },
   {
     title: "Passport to Paris",
     emojiImgs: "🎟✈🗼",
     genres: ["comedy", "romance"],
     type: "movie",
     year: 1999,
-    itemLink: "https://www.imdb.com/title/tt0202521/"
+    itemLink: "https://www.imdb.com/title/tt0202521/",
   },
   {
     title: "Pet Sematary",
@@ -1032,7 +1040,7 @@ const emojiMovies = [
     genres: ["horror", "thriller", "mystery"],
     type: "movie",
     year: 2019,
-    itemLink: "https://www.imdb.com/title/tt0837563/"
+    itemLink: "https://www.imdb.com/title/tt0837563/",
   },
   {
     title: "Pearl Harbor",
@@ -1040,7 +1048,7 @@ const emojiMovies = [
     genres: ["Action", "Drama", "History", "Romance", "War"],
     type: "movie",
     year: 2001,
-    itemLink: "https://www.imdb.com/title/tt0213149/"
+    itemLink: "https://www.imdb.com/title/tt0213149/",
   },
   {
     title: "Pinocchio",
@@ -1048,14 +1056,14 @@ const emojiMovies = [
     genres: ["animation"],
     type: "movie",
     year: 1940,
-    itemLink: "https://www.imdb.com/title/tt0032910/"
+    itemLink: "https://www.imdb.com/title/tt0032910/",
   },
   {
     title: "Pirates of the Caribbean",
     emojiImgs: "🍻🏴‍☠️🚢",
     genres: ["action", "comedy"],
     type: "movie",
-    year: 2006
+    year: 2006,
   },
   {
     title: "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -1063,7 +1071,7 @@ const emojiMovies = [
     genres: ["Action", "Adventure", "Fantasy"],
     itemLink: "https://www.imdb.com/title/tt0325980/",
     type: "movie",
-    year: 2003
+    year: 2003,
   },
   {
     title: "Pokemon Detective Pikachu",
@@ -1071,7 +1079,7 @@ const emojiMovies = [
     genres: ["action", "adventure", "comedy"],
     type: "movie",
     year: 2019,
-    itemLink: "https://www.imdb.com/title/tt5884052/"
+    itemLink: "https://www.imdb.com/title/tt5884052/",
   },
   {
     title: "Princess and the Frog",
@@ -1079,7 +1087,7 @@ const emojiMovies = [
     genres: ["animation", "adventure", "comedy"],
     type: "movie",
     year: 2009,
-    itemLink: "https://www.imdb.com/title/tt0780521/"
+    itemLink: "https://www.imdb.com/title/tt0780521/",
   },
   {
     title: "Princess Bride",
@@ -1087,7 +1095,7 @@ const emojiMovies = [
     genres: ["adventure", "family"],
     type: "movie",
     year: 1987,
-    itemLink: "https://www.imdb.com/title/tt0093779/"
+    itemLink: "https://www.imdb.com/title/tt0093779/",
   },
   {
     title: "The Princess Diaries",
@@ -1095,7 +1103,7 @@ const emojiMovies = [
     genres: ["comedy", "family", "romance"],
     type: "movie",
     year: 2001,
-    itemLink: "https://www.imdb.com/title/tt0247638/"
+    itemLink: "https://www.imdb.com/title/tt0247638/",
   },
   {
     title: "Psycho",
@@ -1103,22 +1111,22 @@ const emojiMovies = [
     genres: ["horror", "mystery", "thriller"],
     itemLink: "https://www.imdb.com/title/tt0054215/",
     type: "movie",
-    year: 1960
-  }, 
+    year: 1960,
+  },
   {
     title: "Ratatouille",
     emojiImgs: "🐀👨‍🍳🔪",
     genres: ["animation", "comedy", "family"],
     type: "movie",
     year: 2007,
-    itemLink: "https://www.imdb.com/title/tt0382932/"
+    itemLink: "https://www.imdb.com/title/tt0382932/",
   },
   {
     title: "Rocky",
     emojiImgs: "🏃‍♂️🥊🕴️",
     genres: ["drama", "sport"],
     type: "movie",
-    year: 1976
+    year: 1976,
   },
   {
     title: "The Rocky Horror Picture Show",
@@ -1126,28 +1134,28 @@ const emojiMovies = [
     genres: ["comedy", "musical"],
     type: "movie",
     year: 1975,
-    itemLink: "https://www.imdb.com/title/tt0073629/"
+    itemLink: "https://www.imdb.com/title/tt0073629/",
   },
   {
     title: "Ready Player One",
     emojiImgs: "🏁🕹1️⃣",
     genres: ["action", "adventure", "sci-fi"],
     type: "movie",
-    year: 2018
+    year: 2018,
   },
   {
     title: "Rent",
     emojiImgs: "👨👭💊💉🎶",
     genres: ["drama", "musical", "romance"],
     type: "movie",
-    year: 2005
+    year: 2005,
   },
   {
     title: "Reservoir Dogs",
     emojiImgs: "🕴️🕴️🕴️🕴️🕴️",
     genres: ["crime", "thriller"],
     type: "movie",
-    year: 1992
+    year: 1992,
   },
   {
     title: "Resident Evil",
@@ -1155,7 +1163,7 @@ const emojiMovies = [
     genres: ["action", "horror", "sci-fi"],
     type: "movie",
     year: 2002,
-    itemLink: "https://www.imdb.com/title/tt0120804/"
+    itemLink: "https://www.imdb.com/title/tt0120804/",
   },
   {
     title: "The Revenant",
@@ -1163,29 +1171,29 @@ const emojiMovies = [
     genres: ["action", "adventure", "biography"],
     itemLink: "https://www.imdb.com/title/tt1663202/",
     type: "movie",
-    year: 2015
+    year: 2015,
   },
   {
     title: "RocketMan",
     emojiImgs: "🐱🚀📫",
     genres: ["drama", "musical"],
     type: "movie",
-    year: 2019
-  }, 
+    year: 2019,
+  },
   {
     title: "Saving Private Ryan",
     emojiImgs: "🇫🇷🔍🔫☠🎖️",
     genres: ["drama", "war"],
     itemLink: "https://www.imdb.com/title/tt0120815/",
     type: "movie",
-    year: 1998
+    year: 1998,
   },
   {
     title: "School of Rock",
     emojiImgs: "🏫🎸🥁🎹",
     genres: ["comedy", "music"],
     type: "movie",
-    year: 2003
+    year: 2003,
   },
   {
     title: "Scream",
@@ -1193,21 +1201,21 @@ const emojiMovies = [
     genres: ["horror", "mystery"],
     itemLink: "https://www.imdb.com/title/tt0117571/",
     type: "movie",
-    year: 1996
+    year: 1996,
   },
   {
     title: "See No Evil, Hear No Evil",
     emojiImgs: "🙈👹🙉👹",
     genres: ["comedy", "crime"],
     type: "movie",
-    year: 1989
+    year: 1989,
   },
   {
     title: "Se7en",
     emojiImgs: "🕵🔪👮‍♂️😈",
     genres: ["drama"],
     type: "movie",
-    year: 2007
+    year: 2007,
   },
   {
     title: "Seven Samurai",
@@ -1215,7 +1223,7 @@ const emojiMovies = [
     genres: ["adventure", "drama"],
     itemLink: "https://www.imdb.com/title/tt0047478/",
     type: "movie",
-    year: 1954
+    year: 1954,
   },
   {
     title: "Shaun Of The Dead",
@@ -1223,7 +1231,7 @@ const emojiMovies = [
     genres: ["comedy", "horror"],
     type: "movie",
     year: 2004,
-    itemLink: "https://www.imdb.com/title/tt0365748/"
+    itemLink: "https://www.imdb.com/title/tt0365748/",
   },
   {
     title: "The Shawshank Redemption",
@@ -1231,7 +1239,7 @@ const emojiMovies = [
     genres: ["drama"],
     type: "movie",
     year: 1994,
-    itemLink: "https://www.imdb.com/title/tt0111161/"
+    itemLink: "https://www.imdb.com/title/tt0111161/",
   },
   {
     title: "The Shining",
@@ -1239,7 +1247,7 @@ const emojiMovies = [
     genres: ["drama", "horror"],
     type: "movie",
     year: 1980,
-    itemLink: "https://www.imdb.com/title/tt0081505/"
+    itemLink: "https://www.imdb.com/title/tt0081505/",
   },
   {
     title: "Shrek",
@@ -1247,14 +1255,14 @@ const emojiMovies = [
     genres: ["animation", "adventure", "comedy"],
     type: "movie",
     year: 2001,
-    itemLink: "https://m.imdb.com/title/tt0126029/"
+    itemLink: "https://m.imdb.com/title/tt0126029/",
   },
   {
     title: "Silence of the Lambs",
     emojiImgs: "🤐🐑🍷🦋",
     genres: ["crime", "drama", "thriller"],
     type: "movie",
-    year: 1991
+    year: 1991,
   },
   {
     title: "Sing",
@@ -1262,7 +1270,7 @@ const emojiMovies = [
     genres: ["animation", "comedy", "family"],
     type: "movie",
     year: 2016,
-    itemLink: "https://www.imdb.com/title/tt3470600/"
+    itemLink: "https://www.imdb.com/title/tt3470600/",
   },
   {
     title: "Singin' In The Rain",
@@ -1270,7 +1278,7 @@ const emojiMovies = [
     genres: ["classical", "comedy", "musical", "perfoming arts", "romance"],
     itemLink: "https://www.imdb.com/title/tt0045152/",
     type: "movie",
-    year: 1952
+    year: 1952,
   },
   {
     title: "Sister Act",
@@ -1278,14 +1286,14 @@ const emojiMovies = [
     genres: ["comedy", "crime", "family"],
     type: "movie",
     year: 1992,
-    itemLink: "https://www.imdb.com/title/tt0105417/"
+    itemLink: "https://www.imdb.com/title/tt0105417/",
   },
   {
     title: "Sixth Sense",
     emojiImgs: "👻👦👀",
     genres: ["drama", "mystery", "thriller"],
     type: "movie",
-    year: 1999
+    year: 1999,
   },
   {
     title: "Snatch",
@@ -1293,14 +1301,14 @@ const emojiMovies = [
     genres: ["comedy", "crime"],
     type: "movie",
     year: 2000,
-    itemLink: "https://www.imdb.com/title/tt0208092/"
+    itemLink: "https://www.imdb.com/title/tt0208092/",
   },
   {
     title: "Snow White",
     emojiImgs: "🍎👸💤🤴💋",
     genres: ["musical", "animated", "romance"],
     type: "movie",
-    year: 1944
+    year: 1944,
   },
   {
     title: "The Social Network",
@@ -1308,7 +1316,7 @@ const emojiMovies = [
     genres: ["biography", "drama"],
     type: "movie",
     year: 2010,
-    itemLink: "https://www.imdb.com/title/tt1285016/"
+    itemLink: "https://www.imdb.com/title/tt1285016/",
   },
   {
     title: "Spaceballs",
@@ -1316,14 +1324,14 @@ const emojiMovies = [
     genres: ["adventure", "comedy", "sci-fi"],
     type: "movie",
     year: 1987,
-    itemLink: "https://www.imdb.com/title/tt0094012/"
+    itemLink: "https://www.imdb.com/title/tt0094012/",
   },
   {
     title: "Space Jam",
     emojiImgs: "🏀🛸🚀",
     genres: ["action", "comedy", "musical"],
     type: "movie",
-    year: 1994
+    year: 1994,
   },
   {
     title: "Speed",
@@ -1331,14 +1339,14 @@ const emojiMovies = [
     genres: ["action", "adventure", "Thriller"],
     type: "movie",
     year: 1994,
-    itemLink: "https://www.imdb.com/title/tt1517451/"
+    itemLink: "https://www.imdb.com/title/tt1517451/",
   },
   {
     title: "Spiderman",
     emojiImgs: "🕷️👨‍💪🕸️🕸️",
     genres: ["action", "adventure", "sci-fi"],
     type: "movie",
-    year: 2019
+    year: 2019,
   },
   {
     title: "Spider-Man: Homecoming",
@@ -1346,7 +1354,7 @@ const emojiMovies = [
     genres: ["action", "adventure", "sci-fi"],
     type: "movie",
     itemLink: "https://www.imdb.com/title/tt2250912/",
-    year: 2019
+    year: 2019,
   },
   {
     title: "Spirited Away",
@@ -1354,7 +1362,7 @@ const emojiMovies = [
     genres: ["animation", "adventure", "family"],
     type: "movie",
     year: 2001,
-    itemLink: "https://www.imdb.com/title/tt0245429/"
+    itemLink: "https://www.imdb.com/title/tt0245429/",
   },
   {
     title: "Stargate",
@@ -1362,15 +1370,15 @@ const emojiMovies = [
     genres: ["Action", "Adventure", "Sci-Fi"],
     itemLink: "https://www.imdb.com/title/tt0111282/",
     type: "movie",
-    year: 1994
-  }, 
+    year: 1994,
+  },
   {
     title: "Tarzan",
     emojiImgs: "🦍🌴👨❤️👩",
     genres: ["animation", "adventure", "family"],
     type: "movie",
     year: 1999,
-    itemLink: "https://www.imdb.com/title/tt0120855/"
+    itemLink: "https://www.imdb.com/title/tt0120855/",
   },
   {
     title: "Taxi Driver",
@@ -1378,7 +1386,7 @@ const emojiMovies = [
     genres: ["crime", "drama"],
     type: "movie",
     year: 1976,
-    itemLink: "https://www.imdb.com/title/tt0075314/"
+    itemLink: "https://www.imdb.com/title/tt0075314/",
   },
   {
     title: "Teenage Mutant Ninja Turtles",
@@ -1386,7 +1394,7 @@ const emojiMovies = [
     genres: ["animation", "adventure", "comedy"],
     itemLink: "https://www.imdb.com/title/tt0100758/",
     type: "movie",
-    year: 1990
+    year: 1990,
   },
   {
     title: "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
@@ -1394,7 +1402,7 @@ const emojiMovies = [
     genres: ["action", "adventure", "comedy"],
     itemLink: "https://www.imdb.com/title/tt0103060/",
     type: "movie",
-    year: 1991
+    year: 1991,
   },
   {
     title: "Titanic",
@@ -1402,7 +1410,7 @@ const emojiMovies = [
     genres: ["drama", "romance"],
     type: "movie",
     year: 1997,
-    itemLink: "https://www.imdb.com/title/tt0120338/"
+    itemLink: "https://www.imdb.com/title/tt0120338/",
   },
   {
     title: "Top Gun",
@@ -1410,7 +1418,7 @@ const emojiMovies = [
     genres: ["action", "drama"],
     itemLink: "https://www.imdb.com/title/tt0092099/",
     type: "movie",
-    year: 1986
+    year: 1986,
   },
   {
     title: "The Wizard of Oz",
@@ -1418,7 +1426,7 @@ const emojiMovies = [
     genres: ["adventure", "family", "fantasy"],
     itemLink: "https://www.imdb.com/title/tt0032138/",
     type: "movie",
-    year: 1939
+    year: 1939,
   },
   {
     title: "Thor: Ragnarok",
@@ -1426,7 +1434,7 @@ const emojiMovies = [
     genres: ["action", "adventure", "comedy"],
     itemLink: "https://www.imdb.com/title/tt3501632/",
     type: "movie",
-    year: 2017
+    year: 2017,
   },
   {
     title: "Treasure Planet",
@@ -1434,7 +1442,7 @@ const emojiMovies = [
     genres: ["Animation", "Adventure", "Family"],
     type: "movie",
     year: 2002,
-    itemLink: "https://www.imdb.com/title/tt0133240/"
+    itemLink: "https://www.imdb.com/title/tt0133240/",
   },
   {
     title: "Tron: Legacy",
@@ -1442,28 +1450,28 @@ const emojiMovies = [
     genres: ["action", "adventure", "sci-fi"],
     type: "movie",
     year: 2010,
-    itemLink: "https://www.imdb.com/title/tt1104001"
+    itemLink: "https://www.imdb.com/title/tt1104001",
   },
   {
     title: "Up",
     emojiImgs: "🎈🏠🐶👴🏻",
     genres: ["action", "comedy", "musical"],
     type: "movie",
-    year: 1994
+    year: 1994,
   },
   {
     title: "Us",
     emojiImgs: "🎭👩🏿✂️🏚️🐰",
     genres: ["horror", "thriller"],
     type: "movie",
-    year: 2019
+    year: 2019,
   },
   {
     title: "Wall-E",
     emojiImgs: "📺❤️💻",
     genres: ["animation", "adventure", "family"],
     type: "movie",
-    year: 2008
+    year: 2008,
   },
   {
     title: "War for the Planet of the Apes",
@@ -1471,7 +1479,7 @@ const emojiMovies = [
     genres: ["Action", "Adventure", "Drama", "Sci-Fi", "Thriller"],
     type: "movie",
     year: 2017,
-    itemLink: "https://www.imdb.com/title/tt3450958/"
+    itemLink: "https://www.imdb.com/title/tt3450958/",
   },
   {
     title: "War Horse",
@@ -1479,7 +1487,7 @@ const emojiMovies = [
     genres: ["action", "adventure", "drama"],
     type: "movie",
     year: 2011,
-    itemLink: "https://www.imdb.com/title/tt1568911/"
+    itemLink: "https://www.imdb.com/title/tt1568911/",
   },
   {
     title: "WatchMen",
@@ -1487,21 +1495,21 @@ const emojiMovies = [
     genres: ["Action", "Drama", "Mystery", "Sci-Fi"],
     itemLink: "https://www.imdb.com/title/tt0409459/",
     type: "movie",
-    year: 2009
+    year: 2009,
   },
   {
     title: "Willy Wonka & the Chocolate Factory",
     emojiImgs: "🧒🏻🍫🏭🎩️",
     genres: ["family", "fantasy", "musical"],
     type: "movie",
-    year: 1971
+    year: 1971,
   },
   {
     title: "Young Frankenstein",
     emojiImgs: "👶🌭🍺⚡️🧟‍",
     genres: ["comedy"],
     type: "movie",
-    year: 1974
+    year: 1974,
   },
   {
     title: "Zootopia",
@@ -1509,6 +1517,6 @@ const emojiMovies = [
     genres: ["animation", "adventure", "comedy"],
     itemLink: "https://www.imdb.com/title/tt2948356/",
     type: "movie",
-    year: 2016
-  }
+    year: 2016,
+  },
 ];
