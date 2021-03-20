@@ -13,7 +13,9 @@ const emojiMusicals = [
     emojiImgs: "👾🎮😜🎤",
     genres: ["sci-fi", "musical", "comedy", "drama"],
     type: "musical",
-    year: 2015
+    year: 2015,
+    itemLink:
+      "https://www.playbill.com/production/be-more-chill-lyceum-theatre-2018-2019"
   },
   {
     title: "The Book of Mormon",
