@@ -9,20 +9,9 @@
 
 Below are some guidelines to follow when contributing to this project. 
 
-### Adding or Updating Features Contributions
-
-* [Find an Issue](https://github.com/brittanyrw/emojiscreen/issues) that you would like to complete or [create an Issue](https://github.com/brittanyrw/emojiscreen/issues) if you have an idea for a new feature.
-* If someone is already assigned an Issue, please move on to another Issue. If the Issue has not been assigned, comment inside of the Issue stating that you would like to work on that item. 
-* Wait for confirmation from the maintainers before working on the Issue. 
-* After you receive confirmation, complete the Issue and submit a Pull Request.
-
-If you would like to suggest a new feature, create [an Issue](https://github.com/brittanyrw/emojiscreen/issues) and outline what it is you think should be added or updated. This project was created to help beginners, so any feature requests adding unessessary complexity to this project will not be accepted. Wait for confirmation before working on the Issue. 
-
 ### Adding a Movie, TV show or Musical
 
 To add a show or movie to this project, you will need to first check the project in the `movies.js`, `tv.js`, or `musicals.js` files to make sure that the movie or show you would like to add is not already in the project. Once you confirm the item you want to add is not already in the project, you will add an `Emoji Card` inside of the `movies.js`, `tv.js`, or `musicals.js` files in the `data` folder. Each file is made up of an array (a list) of objects. You will add a new object for your show or movie into the appropriate file. Please note: The `musicals.js` file is for live musicals (such as Broadway and West End shows). Movie musicals should be added to the `movies.js` file.
-
-If you need help choosing a movie or show, [check the Issues](https://github.com/brittanyrw/emojiscreen/labels/add%20emojis).
 
 Below is an example of what a show looks like on the website:
 
@@ -50,13 +39,21 @@ Below are detailed walkthroughs on how to add a show or movie to EmojiScreen.
 * [Add a show or movie via Github website](docs/github_ui_walkthrough.md) (no downloads required)
 * [Add a show or movie using your local development environment](docs/local_dev_walkthrough.md) (downloads required, most commonly used way to contribute)
 
+### Adding or Updating Features Contributions
+
+* [Find an Issue](https://github.com/brittanyrw/emojiscreen/issues) that you would like to complete or [create an Issue](https://github.com/brittanyrw/emojiscreen/issues) if you have an idea for a new feature.
+* If someone is already assigned an Issue, please move on to another Issue. If the Issue has not been assigned, comment inside of the Issue stating that you would like to work on that item. 
+* Wait for confirmation from the maintainers before working on the Issue. 
+* After you receive confirmation, complete the Issue and submit a Pull Request.
+
+If you would like to suggest a new feature, create [an Issue](https://github.com/brittanyrw/emojiscreen/issues) and outline what it is you think should be added or updated. This project was created to help beginners, so keep that in mind when suggesting new things. Wait for confirmation before working on the Issue. 
+
 ### Important Notes
-* Follow all the instructions in the [Card Overview](/docs/card_overview.md) for adding a show or movie.
+* The [Card Overview](/docs/card_overview.md) includes all of the instructions for adding a show or movie.
 * Search the `movies.js`, `tv.js`, or `musicals.js` files and current open pull requests to make sure you are not adding a duplicate.
 * Make sure your emojis actually depict the show or movie. Someone should be able to guess what the show or movie is based on the emojis you choose.
 * If you are adding multiple items, please include them in one pull request.
-* **[Go through this checklist](docs/card_overview.md#card-pull-request-checklist) to make sure you have added everything needed for a show or movie.** 
-* Please [fix conflicts](https://help.github.com/en/articles/resolving-a-merge-conflict-on-github) if your pull request has them.
+* [Go through this checklist](docs/card_overview.md#card-pull-request-checklist) to make sure you have added everything needed for a show or movie. 
 
 ## Git and GitHub Resources
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
