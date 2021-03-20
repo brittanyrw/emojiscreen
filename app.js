@@ -17,7 +17,7 @@ $(document).ready(function() {
     const type = emojiItems[i].type
     const emojiImgs = emojiItems[i].emojiImgs
     const year = emojiItems[i].year
-    const title = emojiItems[i].title
+    let title = emojiItems[i].title
     const itemLink = emojiItems[i].itemLink
 
     emojiCard +=
