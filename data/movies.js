@@ -977,7 +977,7 @@ const emojiMovies = [
     type: "movie",
     year: 1998,
     itemLink: "https://www.imdb.com/title/tt0120762/"
-  }, 
+  },
   {
     title: "National Treasure",
     emojiImgs: "🇺🇸🗝🏺🧭💰",
