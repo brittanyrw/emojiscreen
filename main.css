@@ -432,3 +432,39 @@ footer a {
   font-size: 24px;
   color: #3c3a4a;
 }
+
+#secret-code {
+  transform: translateY(-150px);
+  display: flex;
+}
+
+#secret-code .emoji-img {
+  flex: 1;
+  margin-top: -75px;
+  justify-content: center;
+  display: flex;
+  animation: falling 6s infinite linear;
+}
+
+@keyframes falling {
+  0% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(2000px);
+    opacity: 0;
+  }
+}
+
+#secret-code .emoji-img:nth-child(3n) {
+  animation-timing-function: ease;
+}
+
+#secret-code .emoji-img:nth-child(2n) {
+  animation-timing-function: ease-in-out;
+}
+
+#secret-code .emoji-img:nth-child(4n) {
+  animation-timing-function: ease-out;
+}

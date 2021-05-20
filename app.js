@@ -142,4 +142,38 @@ $(document).ready(function() {
 
     $(this).find("i").toggleClass(["fa-eye", "fa-eye-slash"]);
   });
+
+  //Add a secret code to the project that will trigger a fun animation. If a user types in the word 'emojis' while on the website, emojis will start falling briefly. 
+
+  //Create an array to store the keys that the user types.
+  const keysPressed = [];
+  // Store the secret code that the user needs to type to start the animation.
+  const code = "emojis";
+  // Select the secret code element by id which by default is hidden on the page.
+  const secretCode = document.getElementById("secret-code");
+  //Create the function that will run when the user types the correct code.
+  function showEmojis() {
+    //Create a list of emojis to show in the animation.
+    const favEmojis = ["💖","⭐️","😂","💫","🥳","🙃","🥰","🦄","🌼","🎁","💜","✨"];
+    let animatedEmoji = "";
+    //Build the HTML to display each emoji.
+    favEmojis.forEach(function (emoji) {
+      animatedEmoji += '<div class="emoji-img">' + emoji + "</div>";
+    });
+    //Add the HTML for each emoji to the page.
+    secretCode.innerHTML = animatedEmoji;
+    //Change each emoji to Twitter emojis.
+    twemoji.parse(secretCode);
+    //Display the entire secret code container. The animation is coming from CSS.
+    secretCode.classList.add("show");
+  }
+  //Add an event listener to watch for what keys the user presses.
+  window.addEventListener("keyup", (e) => {
+    //Add each letter the user presses to the keysPressed array.
+    keysPressed.push(e.key);
+    //Check if the secret code is included in the array and if so run the show Emojis function.
+    if (keysPressed.join("").includes(code)) {
+      showEmojis();
+    }
+  });
 });
