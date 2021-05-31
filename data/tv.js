@@ -8,6 +8,14 @@ const emojiTv = [
     itemLink: "https://www.imdb.com/title/tt0090390",
   },
   {
+    title: "Toradora!",
+    emojiImgs: "👧🐯❤️🐉👦",
+    genres: ["animation", "comedy", "drama"],
+    itemlink: "https://www.imdb.com/title/tt1279024/",
+    type: "tv",
+    year: 2008
+  },
+  {
     title: "American Idol",
     emojiImgs: "🇺🇸🗣🎤",
     genres: ["game show", "musical"],
