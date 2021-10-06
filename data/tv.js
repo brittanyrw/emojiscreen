@@ -323,6 +323,13 @@ const emojiTv = [
     itemLink: "https://www.imdb.com/title/tt0060028/",
     type: "tv",
     year: 1966
+  }, {
+    title: "Start-Up",
+    emojiImgs: "💌💻🇰🇷👩🏻‍❤️‍👨🏻🤥",
+    genres: ["comedy", "drama", "romance"],
+    itemLink: "https://m.imdb.com/title/tt12867810/",
+    type: "tv",
+    year: 2020
   },
   {
     title: "Steven Universe",
