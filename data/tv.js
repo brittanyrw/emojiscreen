@@ -317,6 +317,13 @@ const emojiTv = [
     type: "tv",
     year: 1999
   }, {
+    title: "Squid Game",
+    emojiImgs: "🦑🎮",
+    genres: ["action", "adventure"],
+    type: "tv",
+    year: 2021,
+    itemLink: "https://www.imdb.com/title/tt10919420/"
+  }, {
     title: "Star Trek",
     emojiImgs: "🖖👽🛸✨🌌",
     genres: ["action", "adventure", "sci-fi"],
