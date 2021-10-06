@@ -327,7 +327,7 @@ const emojiTv = [
     title: "Start-Up",
     emojiImgs: "💌💻🇰🇷👩🏻‍❤️‍👨🏻🤥",
     genres: ["comedy", "drama", "romance"],
-    itemLink: "https://m.imdb.com/title/tt12867810/",
+    itemLink: "https://www.imdb.com/title/tt12867810/",
     type: "tv",
     year: 2020
   },
