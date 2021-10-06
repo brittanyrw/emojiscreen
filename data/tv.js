@@ -318,8 +318,8 @@ const emojiTv = [
     year: 1999
   }, {
     title: "Squid Game",
-    emojiImgs: "🦑🎮",
-    genres: ["action", "adventure"],
+    emojiImgs: "🦑🎮🇰🇷",
+    genres: ["action", "adventure", "drama"],
     type: "tv",
     year: 2021,
     itemLink: "https://www.imdb.com/title/tt10919420/"
