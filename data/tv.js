@@ -394,6 +394,14 @@ const emojiTv = [
     year: 1991
   },
   {
+    title: "The Wire",
+    emojiImgs: "🚓👮📞💊💰",
+    genres: ["crime", "drama", "thriller"],
+    itemLink: "https://www.imdb.com/title/tt0306414/",
+    type: "tv",
+    year: 2002
+  },
+  {
     title: "X-Files",
     emojiImgs: "👽🛸👦🏻👩‍🦰🔦",
     genres: ["sci-fi", "drama", "mystery"],
