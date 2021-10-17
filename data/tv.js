@@ -53,6 +53,13 @@ const emojiTv = [
     year: 2007,
     itemLink: "https://www.imdb.com/title/tt0898266/"
   }, {
+    title: "Black Mirror",
+    emojiImgs: "😄⬛🪞",
+    genres: ["drama", "sci-fi", "thriller"],
+    type: "tv",
+    year: 2011,
+    itemLink: "https://www.imdb.com/title/tt2085059/"
+  }, {
     title: "Boys Over Flowers",
     emojiImgs: "👦🔼💮",
     genres: ["comedy", "drama", "romance"],
