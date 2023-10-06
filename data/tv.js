@@ -20,7 +20,8 @@ const emojiTv = [
     emojiImgs: "🇺🇸👠👙👭",
     genres: ["game-show", "reality"],
     type: "tv",
-    year: 2003
+    year: 2003,
+    itemLink: "https://www.imdb.com/title/tt0363307/"
   },
   {
     title: "Avatar: The Last Airbender",
@@ -226,7 +227,8 @@ const emojiTv = [
     emojiImgs: "🔫🗡💊💉💰",
     genres: ["crime", "drama"],
     type: "tv",
-    year: 2015
+    year: 2015,
+    itemLink: "https://www.imdb.com/title/tt2707408/"
   }, {
     title: "The Office",
     emojiImgs: "👔🤓📠📎💻",
@@ -302,7 +304,8 @@ const emojiTv = [
     emojiImgs: "🍸👠👩🏼‍🦱💄🗽",
     genres: ["comedy", "drama", "romance"],
     type: "tv",
-    year: 1998
+    year: 1998,
+    itemLink: "https://www.imdb.com/title/tt0159206/"
   }, {
     title: "So You Think You Can Dance",
     emojiImgs: "🤔💃🕺🎶❓",
@@ -315,7 +318,8 @@ const emojiTv = [
     emojiImgs: "🦀🍔🌊🍍🐿",
     genres: ["family", "animation"],
     type: "tv",
-    year: 1999
+    year: 1999,
+    itemLink: "https://www.imdb.com/title/tt0206512/"
   }, {
     title: "Star Trek",
     emojiImgs: "🖖👽🛸✨🌌",
@@ -336,7 +340,8 @@ const emojiTv = [
     emojiImgs: "👦🏻💎💎💎🛡️",
     genres: ["comedy"],
     type: "tv",
-    year: 2013
+    year: 2013,
+    itemLink: "https://www.imdb.com/title/tt3061046/"
   },
   {
     title: "Suits",
@@ -399,13 +404,15 @@ const emojiTv = [
     emojiImgs: "🤔🌎🕵️‍♀️💄",
     genres: ["game show", "children"],
     type: "tv",
-    year: 1991
+    year: 1991,
+    itemLink: "https://www.imdb.com/title/tt0106172/"
   },
   {
     title: "X-Files",
     emojiImgs: "👽🛸👦🏻👩‍🦰🔦",
     genres: ["sci-fi", "drama", "mystery"],
     type: "tv",
-    year: 1993
+    year: 1993,
+    itemLink: "https://www.imdb.com/title/tt0106179/"
   }
 ];
