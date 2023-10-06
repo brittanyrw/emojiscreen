@@ -88,6 +88,14 @@ const emojiMovies = [
     itemLink: "https://www.imdb.com/title/tt5095030/",
   },
   {
+    title: "Barbie",
+    emojiImgs: "👱‍♀️👱‍♂️👠👙💅",
+    genres: ["comedy", "adventure", "fantasy"],
+    itemLink: "https://www.imdb.com/title/tt1517268/",
+    type: "movie",
+    year: 2023,
+  },
+  {
     title: "Batman Begins",
     emojiImgs: "🦇👨🏙️🚰🤢",
     genres: ["action", "adventure"],
