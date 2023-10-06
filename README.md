@@ -19,7 +19,7 @@ Below is an example of what a show looks like on the website:
 
 ![Screenshot of Beauty and the Beast Emoji Card](/readme/emoji-card.png)
 
-In the emoji javsacript files, each `Emoji Card` consists of the following object:
+In the emoji JavaScript files, each `Emoji Card` consists of the following object:
 
 ```
 {
@@ -38,7 +38,7 @@ View the [Card Overview](/docs/card_overview.md) for details on each part of the
 #### Walkthroughs
 Below are detailed walkthroughs on how to add a show or movie to EmojiScreen.
 
-* [Add a show or movie via Github website](docs/github_ui_walkthrough.md) (no downloads required)
+* [Add a show or movie via GitHub website](docs/github_ui_walkthrough.md) (no downloads required)
 * [Add a show or movie using your local development environment](docs/local_dev_walkthrough.md) (downloads required, most commonly used way to contribute)
 
 ### Adding or Updating Features Contributions
@@ -52,7 +52,7 @@ If you submit a PR without being assigned an Issue for a feature, your PR will b
 
 If you would like to suggest a new feature, create [an Issue](https://github.com/brittanyrw/emojiscreen/issues) and outline what it is you think should be added or updated. This project was created to help beginners, so keep that in mind when suggesting new things. Wait for confirmation before working on the Issue. 
 
-### Important Notes
+### ⭐️ Important Notes
 * The [Card Overview](/docs/card_overview.md) includes all of the instructions for adding a show or movie.
 * Search the `movies.js`, `tv.js`, or `musicals.js` files and current open pull requests to make sure you are not adding a duplicate.
 * Make sure your emojis actually depict the show or movie. Someone should be able to guess what the show or movie is based on the emojis you choose.
