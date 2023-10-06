@@ -7,7 +7,7 @@ Follow the checklist below when working on adding a card. This will help you dou
 - [ ] 🖍️ Place the new show(s) or movie(s) in alphabetical order based on title. If the show or movie starts with 'the', then use the second word to alphabetize.
 - [ ] 🌈 There is a single year under `year`. 
 - [ ] 📅 There is a type from one of the following: `movie` , `tv` or `musical`.
-- [ ] 🔗 There is a link to the IMDB page or Playbill archive page under `itemLink`.
+- [ ] 🔗 There is a link to the IMDB page or Playbill archive page under `itemLink`. If the movie or TV show is not on IMDB, please choose a different movie or TV show.
 - [ ] 3️⃣ There are at least three emojis listed under `emojiImgs`.
 - [ ] 5️⃣ There is a maximum of five emojis listed under `emojiImgs`.
 - [ ] 👍🏽 The pull request has a descriptive title (such as `Added The Lion King` or `Added Black Panther, The Avengers: Endgame and Thor`).
