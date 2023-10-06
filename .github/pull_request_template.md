@@ -1,6 +1,8 @@
 # Card Pull Request Checklist
 
-Follow the checklist below when working on adding a card. This will help you double-check that you have everything you need to have your Pull Request approved. Add an `x` inside of the `[ ]` to check off an item like this `[x]`. You may delete this checklist if you are adding a feature to the project.
+Follow the checklist below when working on adding a card. This will help you double-check that you have everything you need to have your Pull Request approved. Add an `x` inside of the `[ ]` to check off an item like this `[x]`. You may delete this checklist if you are adding a feature to the project. 
+
+During Hacktoberfest to decrease the number of PRs to approve, we will only be merging one PR adding cards per person. If you would like to add multiple shows or movies, please include them in one PR. 
 
 - [ ] 👍🏾 You have checked the [Issues](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3A%22add+emojis%22) and have gotten approval to add a movie or show to the project.
 - [ ] 🔎 Have searched the `movies.js`, `musicals.js` or `tv.js` files in the `data` folder and `Pull Requests` to make sure that you are not adding a duplicate.
