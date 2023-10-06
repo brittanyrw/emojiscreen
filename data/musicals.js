@@ -26,6 +26,13 @@ const emojiMusicals = [
     itemLink:
       "http://www.playbill.com/production/the-book-of-mormon-eugene-oneill-theatre-vault-0000013715"
   },{
+    title: "Cabaret",
+    emojiImgs: "🇩🇪👯‍♀️🍍🎤🧳",
+    genres: ["drama", "history"],
+    itemLink: "https://playbill.com/production/cabaret-broadhurst-theatre-vault-0000002056",
+    type: "musical",
+    year: 1966
+  }, {
     title: "Come From Away",
     emojiImgs: "🗽✈️🇨🇦🛄💞",
     genres: ["drama", "history"],
