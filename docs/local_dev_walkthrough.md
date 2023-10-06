@@ -44,7 +44,7 @@ Use the following object as a template:
 
 Then re-run the commit command. Remember to replace with your show or movie: `git commit -m "Added Harry Potter the movie"`
 
-13. Run `git push`. If you have not done this before, git push will not run until you login to your Github account. Type in your Github username and password. **NOTE: When you type your password, it will not show in the terminal. Press enter after you type your password to continue**.
+13. Run `git push`. If you have not done this before, git push will not run you give access to your GitHub account. You can find instructions in the [GitHub docs](https://docs.github.com/en/get-started/getting-started-with-git/why-is-git-always-asking-for-my-password).
 
 14. Go to the Github website and navigate to the `Pull Request` tab. Click on New `Pull Request`.
 
