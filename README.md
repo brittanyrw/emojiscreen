@@ -11,7 +11,7 @@ Below are some guidelines to follow when contributing to this project.
 
 ### Adding a Movie, TV show or Musical
 
-To add a show or movie to this project, you will need to first check the project in the `movies.js`, `tv.js`, or `musicals.js` files to make sure that the movie or show you would like to add is not already in the project. Once you confirm the item you want to add is not already in the project, open an Issue stating what you would like to add. Once you get approval for the Issue, move on to adding your item to the code. ***For Hacktoberfest, we will only be merging one movie/TV show/musical PR per person.***
+To add a show or movie to this project, you will need to first check the project in the `movies.js`, `tv.js`, or `musicals.js` files to make sure that the movie or show you would like to add is not already in the project. Once you confirm the item you want to add is not already in the project, open an Issue stating what you would like to add. Once you get approval for the Issue, move on to adding your item to the code. 
 
 You will add an `Emoji Card` inside of the `movies.js`, `tv.js`, or `musicals.js` files in the `data` folder. Each file is made up of an array (a list) of objects. You will add a new object for your show or movie into the appropriate file. Please note: The `musicals.js` file is for live musicals (such as Broadway and West End shows). Movie musicals should be added to the `movies.js` file.
 
