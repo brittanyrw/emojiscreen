@@ -26,6 +26,13 @@ const emojiMusicals = [
     itemLink:
       "http://www.playbill.com/production/the-book-of-mormon-eugene-oneill-theatre-vault-0000013715"
   },{
+    title: "Demonstrating Merge Conflict",
+    emojiImgs: "😭😭😭",
+    genres: ["drama", "history"],
+    itemLink: "http://www.playbill.com/production/come-from-away-2016-2017",
+    type: "musical",
+    year: 2001
+  },{
     title: "Come From Away",
     emojiImgs: "🗽✈️🇨🇦🛄💞",
     genres: ["drama", "history"],
