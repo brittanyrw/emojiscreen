@@ -1035,6 +1035,14 @@ const emojiMovies = [
     itemLink: "https://www.imdb.com/title/tt0151804/",
   },
   {
+    title: "Oppenheimer",
+    emojiImgs: "💣⚛👨‍🔬🔥⚠",
+    genres: ["biography", "drama", "history"],
+    itemLink: "https://www.imdb.com/title/tt15398776/",
+    type: "movie",
+    year: 2023
+  },
+  {
     title: "Passport to Paris",
     emojiImgs: "🎟✈🗼",
     genres: ["comedy", "romance"],
