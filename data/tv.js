@@ -371,6 +371,14 @@ const emojiTv = [
     itemLink: "https://www.imdb.com/title/tt1520211"
   },
   {
+    title: "WandaVision",
+    emojiImgs: "📺🧙🏻‍♀️👁️🔴",
+    genres: ["drama", "action", "drama"],
+    type: "tv",
+    year: 2021,
+    itemLink: "https://www.imdb.com/title/tt9140560/"
+  },
+  {
     title: "Westworld",
     emojiImgs: "🤠🚂🏜👨‍💻🤖",
     genres: ["drama", "mystery", "sci-fi"],
