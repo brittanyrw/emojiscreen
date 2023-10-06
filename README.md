@@ -1,5 +1,7 @@
 # EmojiScreen 📺 
 
+# 🚨For Hacktoberfest, we will only be merging one PR per person. 
+
 ## A listing of movies, TV shows and musicals depicted through emojis.
 [Visit emojiscreen.com](https://emojiscreen.com)
 
