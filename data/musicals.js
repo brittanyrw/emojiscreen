@@ -53,12 +53,6 @@ const emojiMusicals = [
     year: 1979
   },
   {
-    title: "Hairspray: The Musical",
-    emojiImgs: "💋💃👠👨🏽‍🦱👨🏻",
-    genres: ["comedy", "drama", "musical"],
-    type: "musical",
-    year: 2002
-  }, {
     title: "Hamilton: The Musical",
     emojiImgs: "💵🖋️⚖️🎵📜",
     genres: ["drama", "comedy", "musical"],

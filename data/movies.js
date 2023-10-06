@@ -1281,14 +1281,6 @@ const emojiMovies = [
     year: 1952,
   },
   {
-    title: "Sister Act",
-    emojiImgs: "👩🏿👠🎶⛪",
-    genres: ["comedy", "crime", "family"],
-    type: "movie",
-    year: 1992,
-    itemLink: "https://www.imdb.com/title/tt0105417/",
-  },
-  {
     title: "Sixth Sense",
     emojiImgs: "👻👦👀",
     genres: ["drama", "mystery", "thriller"],
