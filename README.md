@@ -43,7 +43,7 @@ Below are detailed walkthroughs on how to add a show or movie to EmojiScreen.
 
 * [Find an Issue](https://github.com/brittanyrw/emojiscreen/issues) that you would like to complete or [create an Issue](https://github.com/brittanyrw/emojiscreen/issues) if you have an idea for a new feature.
 * If someone is already assigned an Issue, please move on to another Issue. If the Issue has not been assigned, comment inside of the Issue stating that you would like to work on that item. 
-* Wait for confirmation from the maintainers before working on the Issue. 
+*** Wait for confirmation from the maintainers before working on the Issue. ** If you submit a PR without being assigned an issue for a feature, your PR will be closed.
 * After you receive confirmation, complete the Issue and submit a Pull Request.
 
 If you would like to suggest a new feature, create [an Issue](https://github.com/brittanyrw/emojiscreen/issues) and outline what it is you think should be added or updated. This project was created to help beginners, so keep that in mind when suggesting new things. Wait for confirmation before working on the Issue. 
