@@ -53,11 +53,11 @@ Here are a few resources to find emojis to copy:
 - [Get Emoji](https://getemoji.com/) and [EmojiCopy](https://www.emojicopy.com/) are tools to copy regular emojis easily from one page. Note: The initial homepage does not display all skin color versions of each emoji so you will need to search in Emojipedia for those.
 - [Emojipedia](https://emojipedia.org/) - A directory of all emojis.
 
-Note when you copy these emojis and paste them into your text editor or Github, they will no longer look like the Twitter emojis. But don't worry, Javascript will convert them to the Twitter emojis on the EmojiScreen website.
+Note when you copy these emojis and paste them into your text editor or Github, they will no longer look like the Twitter emojis. But don't worry, Javascript will convert them to Twitter emojis on the EmojiScreen website.
 
 ### Genres 🔍
 
-The genres should be added as an array (the square [] brackets indicates an array or list). Separate each genre with a comma and each genre should be wrapped in quotes and lowercase. If there are two words for a genre, replace the space with a hyphen (-). There is no limit to the number of genres but try not to add too many.
+The genres should be added as an array (the square [] brackets indicate an array or list). Separate each genre with a comma and each genre should be wrapped in quotes and lowercase. If there are two words for a genre, replace the space with a hyphen (-). There is no limit to the number of genres but try not to add too many.
 
 ```
 {
@@ -83,7 +83,7 @@ For musicals, include the `musical` genre and any other genres from the list bel
 
 ### Link 🔗
 
-For TV shows and movies, add the [IMDB page](https://www.imdb.com/) link.
+For TV shows and movies, add the [IMDB page](https://www.imdb.com/) link. If the movie or TV show is not on IMDB, please choose a different movie or TV show.
 
 For musicals link the [Playbill archive page](http://www.playbill.com/vault) for the show. Make sure the Playbill link is for the original production. It will say 'original' under the show name on Playbill. Here is an example of [the page you should be linking](http://www.playbill.com/production/les-miserables-broadway-theatre-vault-0000012257) for musicals.
 
@@ -122,15 +122,15 @@ Specify the year the movie or show was released or first aired. Or the first per
 
 # Card Pull Request Checklist
 
-Follow the checklist below when working on adding a card. This will help you double check that you have everything you need to have your Pull Request approved.
+Follow the checklist below when working on adding a card. This will help you double-check that you have everything you need to have your Pull Request approved.
 
-- [ ] 👍 You have checked the [Issues](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3A%22add+emojis%22) and have gotten approval to add a movie or show to the project.
+- [ ] 👍🏾 You have checked the [Issues](https://github.com/brittanyrw/emojiscreen/issues?q=is%3Aopen+is%3Aissue+label%3A%22add+emojis%22) and have gotten approval to add a movie or show to the project.
 - [ ] 🔎 Have searched the `movies.js`, `musicals.js` or `tv.js` files in the `data` folder and `Pull Requests` to make sure that you are not adding a duplicate.
 - [ ] 🖍️ Place the new show(s) or movie(s) in alphabetical order based on title. If the show or movie starts with 'the', then use the second word to alphabetize.
 - [ ] 🌈 There is a single year under `year`. 
 - [ ] 📅 There is a type from one of the following: `movie` , `tv` or `musical`.
-- [ ] 🔗 There is a link to the IMDB page or Playbill archive page under `itemLink`.
+- [ ] 🔗 There is a link to the IMDB page or Playbill archive page under `itemLink`. If the movie or TV show is not on IMDB, please choose a different movie or TV show.
 - [ ] 3️⃣ There are at least three emojis listed under `emojiImgs`.
 - [ ] 5️⃣ There is a maximum of five emojis listed under `emojiImgs`.
-- [ ] 👍 The pull request has a descriptive title (such as `Added The Lion King` or `Added Black Panther, The Avengers: Endgame and Thor`).
+- [ ] 👍🏽 The pull request has a descriptive title (such as `Added The Lion King` or `Added Black Panther, The Avengers: Endgame and Thor`).
 - [ ] ⭐ The genres are all inside of square brackets `[ ]` and each are individually wrapped in quotation marks and have a comma between each one. (such as submitting this `"genres": ["adventure","mystery","animation"]` and not this `"genres":["adventure, mystery, animation"]`).
