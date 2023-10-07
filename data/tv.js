@@ -214,7 +214,16 @@ const emojiTv = [
     itemLink: "https://www.imdb.com/title/tt1199099/",
     type: "tv",
     year: 2008
-  }, {
+  },
+  {
+    title: "Modern Family",
+    emojiImgs: "🏠👨‍👩‍👧‍👦📺",
+    genres: ["comedy", "drama", "romance"],
+    itemLink: "https://www.imdb.com/title/tt1442437/",
+    type: "tv",
+    year: 2009
+  },
+   {
     title: "Mr.Robot",
     emojiImgs: "👨‍💻🤖⚔️😈",
     genres: ["crime", "drama", "thriller"],
@@ -408,4 +417,5 @@ const emojiTv = [
     type: "tv",
     year: 1993
   }
+ 
 ];
