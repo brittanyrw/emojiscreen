@@ -128,6 +128,14 @@ const emojiMovies = [
     itemLink: "https://www.imdb.com/title/tt0286499/",
   },
   {
+    title: "Blue Beetle",
+    emojiImgs: "🔵🪲🛸🦸🏽‍♂️",
+    genres: ["action", "adventure", "sci-fi"],
+    type: "movie",
+    year: 2023,
+    itemLink: "https://www.imdb.com/title/tt9362930/",
+  },
+  {
     title: "The Breakfast Club",
     emojiImgs: "🏫🧠🤾👸",
     genres: ["comedy", "drama"],
