@@ -407,5 +407,13 @@ const emojiTv = [
     genres: ["sci-fi", "drama", "mystery"],
     type: "tv",
     year: 1993
+  },
+  {
+    title: "Modern Family",
+    emojiImgs: "🏠👨‍👩‍👧‍👦📺",
+    genres: ["comedy", "drama", "romance"],
+    itemLink: "https://www.imdb.com/title/tt1442437/",
+    type: "tv",
+    year: 2009
   }
 ];
