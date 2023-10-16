@@ -44,7 +44,9 @@ const emojiMusicals = [
     emojiImgs: "💌⚰️👨‍👩‍👧‍👦💻💞",
     genres: ["drama", "musical"],
     type: "musical",
-    year: 2015
+    year: 2015,
+    itemLink:
+      "https://playbill.com/production/dear-evan-hansenmusic-box-theatre-2016-2017"
   }, {
     title: "Firebringer",
     emojiImgs: "🦆🕊️⚔️🔥👽",
@@ -57,14 +59,18 @@ const emojiMusicals = [
     emojiImgs: "☮🎶🇻🇳🇺🇸⚰ ",
     genres: ["comedy", "drama", "musical"],
     type: "musical",
-    year: 1979
+    year: 1979,
+    itemLink:
+      "https://playbill.com/production/hair-biltmore-theatre-vault-0000001544"
   },
   {
     title: "Hamilton: The Musical",
     emojiImgs: "💵🖋️⚖️🎵📜",
     genres: ["drama", "comedy", "musical"],
     type: "musical",
-    year: 2015
+    year: 2015,
+    itemLink:
+      "https://playbill.com/production/hamilton-richard-rodgers-theatre-vault-0000014104"
   }, {
     title: "Into the Woods",
     emojiImgs: "🔥🎄🎶👩‍🎤",
@@ -142,20 +148,26 @@ const emojiMusicals = [
     emojiImgs: "💈🔪☠️🍰",
     genres: ["drama", "horror", "musical"],
     type: "musical",
-    year: 1979
+    year: 1979,
+    itemLink:
+      "https://playbill.com/production/sweeney-todd-broadway-lunt-fontanne-theatre-2023"
   },
   {
     title: "West Side Story",
     emojiImgs: "🗽✈️⚔️🦈💔",
     genres: ["musical", "romance", "drama", "crime"],
     type: "musical",
-    year: 1961
+    year: 1961,
+    itemLink:
+      "https://playbill.com/production/west-side-story-winter-garden-theatre-vault-0000012293"
   },
   {
     title: "Wicked",
     emojiImgs: "💚🧹🧙‍♂️",
     genres: ["fantasy"],
     type: "musical",
-    year: 2003
+    year: 2003,
+    itemLink:
+      "https://playbill.com/production/wicked-george-gershwin-theatre-vault-0000011020"
   }
 ];
