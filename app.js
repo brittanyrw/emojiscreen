@@ -115,15 +115,19 @@ $(document).ready(function() {
   });
 
   // Display a hint (type ie tv, movie or musical) when hovering over the question mark.
-  $("#emojis").on("mouseover", ".hint-container", function () {
-    $(this).find(".hint").addClass("hint-reveal");
-  });
+  // Add an event listener to the parent element of the hint (assuming #emojis is the parent element).
+var emojisContainer = document.getElementById("emojis");
 
-  // Hide hint (type ie tv, movie or musical) when the user stops hovering over the question mark.
-  $("#emojis").on("mouseleave", ".hint-container", function () {
-    $(this).find(".hint").removeClass("hint-reveal");
-  });
-
+emojisContainer.addEventListener("mouseover", function(event) {
+  // Check if the event target has the class "hint-container."
+  if (event.target && event.target.classList.contains("hint-container")) {
+    // Find the ".hint" element within the event target and add the "hint-reveal" class.
+    var hintElement = event.target.querySelector(".hint");
+    if (hintElement) {
+      hintElement.classList.add("hint-reveal");
+    }
+  }
+});
   // Toggle to expand or hide all of the movie/show names by clicking an icon
   $(".btn-reveal-all").click(function () {
     $(this).toggleClass(["revealed"]);
