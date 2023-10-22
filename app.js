@@ -114,15 +114,24 @@ $(document).ready(function() {
     element.addEventListener("click", toggleCard);
   });
 
-  // Display a hint (type ie tv, movie or musical) when hovering over the question mark.
-  $("#emojis").on("mouseover", ".hint-container", function () {
-    $(this).find(".hint").addClass("hint-reveal");
+// Get all elements with class 'hint-container' inside the element with id 'emojis'
+let hintContainers = document.querySelectorAll("#emojis .hint-container");
+
+// Loop through each hint container
+hintContainers.forEach(function(hintContainer) {
+  // Add event listener for mouseover event
+  hintContainer.addEventListener("mouseover", function() {
+    // Find the element with class 'hint' inside the current hint container and add class 'hint-reveal'
+    this.querySelector(".hint").classList.add("hint-reveal");
   });
 
-  // Hide hint (type ie tv, movie or musical) when the user stops hovering over the question mark.
-  $("#emojis").on("mouseleave", ".hint-container", function () {
-    $(this).find(".hint").removeClass("hint-reveal");
+  // Add event listener for mouseleave event
+  hintContainer.addEventListener("mouseleave", function() {
+    // Find the element with class 'hint' inside the current hint container and remove class 'hint-reveal'
+    this.querySelector(".hint").classList.remove("hint-reveal");
   });
+});
+
 
   // Toggle to expand or hide all of the movie/show names by clicking an icon
   $(".btn-reveal-all").click(function () {
