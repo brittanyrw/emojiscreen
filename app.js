@@ -77,30 +77,65 @@ $(document).ready(function() {
   }
 
   // The code that runs the filter buttons at the top of the page. This currently allows users to filter by 'type' (ie musical, movie or tv show).
-  $("#filters button").each(function () {
-    $(this).on("click", function () {
-      const filtertag = $(this).attr("data-filter");
-      $("#message").hide();
-      $("div.emoji-card-title").addClass("hide-card");
-      if (filtertag == "view-all") {
-        // If the user clicks on view all, show all cards.
-        $("div.emoji-card").show();
-      } else if (
-        // If the user clicks on movies, musicals or tv shows, show the cards that fall into that category and hide all cards that do not fall into that category.
-        $("div.emoji-card[data-filter='" + filtertag + "']").length > 0
-      ) {
-        $("div.emoji-card").show();
-        $("div.emoji-card:not([data-filter='" + filtertag + "'])").hide();
-      } else {
-        // If there are no cards that match the filter, display a message that says that there are no cards for that category.
-        $("div.emoji-card").hide();
-        $("#message").show();
-        $("#message").html(
-          "<p>There are no " + filtertag + " cards on this page. 🙁</p>"
-        );
-      }
+  // Get all filter buttons
+const filterButtons = document.querySelectorAll("#filters button");
+
+// Get the message and emoji-card-title elements
+const message = document.getElementById("message");
+const emojiCardTitles = document.querySelectorAll("div.emoji-card-title");
+
+// Add a click event listener to each filter button
+filterButtons.forEach(function (button) {
+  button.addEventListener("click", function () {
+    // Get the data-filter attribute of the clicked button
+    const filterTag = button.getAttribute("data-filter");
+
+    // Hide the message element
+    message.style.display = "none";
+
+    // Add a "hide-card" class to all emoji-card-title elements
+    emojiCardTitles.forEach(function (emojiCardTitle) {
+      emojiCardTitle.classList.add("hide-card");
     });
+
+    // If the filter is "view-all," show all cards
+    if (filterTag === "view-all") {
+      const emojiCards = document.querySelectorAll("div.emoji-card");
+      emojiCards.forEach(function (card) {
+        card.style.display = "block";
+      });
+    } 
+    else {
+      // If the user clicks on movies, musicals or tv shows, show the cards that fall into that category and hide all cards that do not fall into that category.
+      const filteredCards = document.querySelectorAll(`div.emoji-card[data-filter='${filterTag}']`);
+
+      if (filteredCards.length > 0) {
+        // Show cards that match the filter and hide others
+        const allCards = document.querySelectorAll("div.emoji-card");
+
+        allCards.forEach(function (card) {
+          if (card.getAttribute("data-filter") === filterTag) {
+            card.style.display = "block";
+          }
+          else {
+            card.style.display = "none";
+          }
+          
+        });
+      } 
+      else {
+        // If there are no matching cards, display a message
+        const allCards = document.querySelectorAll("div.emoji-card");
+        allCards.forEach(function (card) {
+          card.style.display = "none";
+        });
+        message.style.display = "block";
+        message.innerHTML = `<p>There are no ${filterTag} cards on this page. 🙁</p>`;
+      }
+    }
   });
+});
+
 
   // Reveal the movie or show title when the user clicks on the emojis.
   
