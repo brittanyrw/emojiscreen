@@ -1,4 +1,23 @@
 $(document).ready(function() {
+
+
+  const themeToggle = document.getElementById("theme-toggle");
+const body = document.body;
+
+function toggleTheme() {
+  body.classList.toggle("dark-mode");
+  const isDarkMode = body.classList.contains("dark-mode");
+  localStorage.setItem("theme", isDarkMode ? "dark" : "light");
+}
+
+themeToggle.addEventListener("click", toggleTheme);
+
+const savedTheme = localStorage.getItem("theme");
+if (savedTheme === "dark") {
+  body.classList.add("dark-mode");
+}
+
+  
   // Create a variable for the container to hold the emoji cards.
   const emojiCardContainer = document.getElementById("emojis");
 
