@@ -77,30 +77,65 @@ $(document).ready(function() {
   }
 
   // The code that runs the filter buttons at the top of the page. This currently allows users to filter by 'type' (ie musical, movie or tv show).
-  $("#filters button").each(function () {
-    $(this).on("click", function () {
-      const filtertag = $(this).attr("data-filter");
-      $("#message").hide();
-      $("div.emoji-card-title").addClass("hide-card");
-      if (filtertag == "view-all") {
-        // If the user clicks on view all, show all cards.
-        $("div.emoji-card").show();
-      } else if (
-        // If the user clicks on movies, musicals or tv shows, show the cards that fall into that category and hide all cards that do not fall into that category.
-        $("div.emoji-card[data-filter='" + filtertag + "']").length > 0
-      ) {
-        $("div.emoji-card").show();
-        $("div.emoji-card:not([data-filter='" + filtertag + "'])").hide();
-      } else {
-        // If there are no cards that match the filter, display a message that says that there are no cards for that category.
-        $("div.emoji-card").hide();
-        $("#message").show();
-        $("#message").html(
-          "<p>There are no " + filtertag + " cards on this page. 🙁</p>"
-        );
-      }
+  // Get all filter buttons
+const filterButtons = document.querySelectorAll("#filters button");
+
+// Get the message and emoji-card-title elements
+const message = document.getElementById("message");
+const emojiCardTitles = document.querySelectorAll("div.emoji-card-title");
+
+// Add a click event listener to each filter button
+filterButtons.forEach(function (button) {
+  button.addEventListener("click", function () {
+    // Get the data-filter attribute of the clicked button
+    const filterTag = button.getAttribute("data-filter");
+
+    // Hide the message element
+    message.style.display = "none";
+
+    // Add a "hide-card" class to all emoji-card-title elements
+    emojiCardTitles.forEach(function (emojiCardTitle) {
+      emojiCardTitle.classList.add("hide-card");
     });
+
+    // If the filter is "view-all," show all cards
+    if (filterTag === "view-all") {
+      const emojiCards = document.querySelectorAll("div.emoji-card");
+      emojiCards.forEach(function (card) {
+        card.style.display = "block";
+      });
+    } 
+    else {
+      // If the user clicks on movies, musicals or tv shows, show the cards that fall into that category and hide all cards that do not fall into that category.
+      const filteredCards = document.querySelectorAll(`div.emoji-card[data-filter='${filterTag}']`);
+
+      if (filteredCards.length > 0) {
+        // Show cards that match the filter and hide others
+        const allCards = document.querySelectorAll("div.emoji-card");
+
+        allCards.forEach(function (card) {
+          if (card.getAttribute("data-filter") === filterTag) {
+            card.style.display = "block";
+          }
+          else {
+            card.style.display = "none";
+          }
+          
+        });
+      } 
+      else {
+        // If there are no matching cards, display a message
+        const allCards = document.querySelectorAll("div.emoji-card");
+        allCards.forEach(function (card) {
+          card.style.display = "none";
+        });
+        message.style.display = "block";
+        message.innerHTML = `<p>There are no ${filterTag} cards on this page. 🙁</p>`;
+      }
+    }
   });
+});
+
 
   // Reveal the movie or show title when the user clicks on the emojis.
   
@@ -114,15 +149,24 @@ $(document).ready(function() {
     element.addEventListener("click", toggleCard);
   });
 
-  // Display a hint (type ie tv, movie or musical) when hovering over the question mark.
-  $("#emojis").on("mouseover", ".hint-container", function () {
-    $(this).find(".hint").addClass("hint-reveal");
+// Get all elements with class 'hint-container' inside the element with id 'emojis'
+let hintContainers = document.querySelectorAll("#emojis .hint-container");
+
+// Loop through each hint container
+hintContainers.forEach(function(hintContainer) {
+  // Add event listener for mouseover event
+  hintContainer.addEventListener("mouseover", function() {
+    // Find the element with class 'hint' inside the current hint container and add class 'hint-reveal'
+    this.querySelector(".hint").classList.add("hint-reveal");
   });
 
-  // Hide hint (type ie tv, movie or musical) when the user stops hovering over the question mark.
-  $("#emojis").on("mouseleave", ".hint-container", function () {
-    $(this).find(".hint").removeClass("hint-reveal");
+  // Add event listener for mouseleave event
+  hintContainer.addEventListener("mouseleave", function() {
+    // Find the element with class 'hint' inside the current hint container and remove class 'hint-reveal'
+    this.querySelector(".hint").classList.remove("hint-reveal");
   });
+});
+
 
   // Toggle to expand or hide all of the movie/show names by clicking an icon
   $(".btn-reveal-all").click(function () {
