@@ -9,6 +9,18 @@ body {
   margin: 0;
 }
 
+:root {
+  --background-light: #ffffff;
+  --text-light: #000000;
+  /* Define other light mode variables */
+}
+
+.dark-mode {
+  --background: #1a1a1a;
+  --text: #ffffff;
+  /* Define other dark mode variables */
+}
+
 header {
   max-width: 1200px;
   margin: 0 auto;
