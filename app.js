@@ -114,15 +114,34 @@ $(document).ready(function() {
     element.addEventListener("click", toggleCard);
   });
 
-  // Display a hint (type ie tv, movie or musical) when hovering over the question mark.
-  $("#emojis").on("mouseover", ".hint-container", function () {
-    $(this).find(".hint").addClass("hint-reveal");
-  });
+  // // Display a hint (type ie tv, movie or musical) when hovering over the question mark.
+  // $("#emojis").on("mouseover", ".hint-container", function () {
+  //   $(this).find(".hint").addClass("hint-reveal");
+  // });
 
-  // Hide hint (type ie tv, movie or musical) when the user stops hovering over the question mark.
-  $("#emojis").on("mouseleave", ".hint-container", function () {
-    $(this).find(".hint").removeClass("hint-reveal");
-  });
+  // // Hide hint (type ie tv, movie or musical) when the user stops hovering over the question mark.
+  // $("#emojis").on("mouseleave", ".hint-container", function () {
+  //   $(this).find(".hint").removeClass("hint-reveal");
+  // });
+
+  // Get the element that triggers the hover event
+const emojisContainer = document.getElementById("emojis");
+
+// Add a mouseover event listener
+emojisContainer.addEventListener("mouseover", function (event) {
+  if (event.target.classList.contains("hint-container")) {
+    const hint = event.target.querySelector(".hint");
+    hint.classList.add("hint-reveal");
+  }
+});
+
+// Add a mouseleave event listener
+emojisContainer.addEventListener("mouseleave", function (event) {
+  if (event.target.classList.contains("hint-container")) {
+    const hint = event.target.querySelector(".hint");
+    hint.classList.remove("hint-reveal");
+  }
+});
 
   // Toggle to expand or hide all of the movie/show names by clicking an icon
   $(".btn-reveal-all").click(function () {
