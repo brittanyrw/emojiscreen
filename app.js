@@ -77,30 +77,78 @@ $(document).ready(function() {
   }
 
   // The code that runs the filter buttons at the top of the page. This currently allows users to filter by 'type' (ie musical, movie or tv show).
-  $("#filters button").each(function () {
-    $(this).on("click", function () {
-      const filtertag = $(this).attr("data-filter");
-      $("#message").hide();
-      $("div.emoji-card-title").addClass("hide-card");
-      if (filtertag == "view-all") {
-        // If the user clicks on view all, show all cards.
-        $("div.emoji-card").show();
-      } else if (
-        // If the user clicks on movies, musicals or tv shows, show the cards that fall into that category and hide all cards that do not fall into that category.
-        $("div.emoji-card[data-filter='" + filtertag + "']").length > 0
-      ) {
-        $("div.emoji-card").show();
-        $("div.emoji-card:not([data-filter='" + filtertag + "'])").hide();
-      } else {
-        // If there are no cards that match the filter, display a message that says that there are no cards for that category.
-        $("div.emoji-card").hide();
-        $("#message").show();
-        $("#message").html(
-          "<p>There are no " + filtertag + " cards on this page. 🙁</p>"
-        );
-      }
+  // $("#filters button").each(function () {
+  //   $(this).on("click", function () {
+  //     const filtertag = $(this).attr("data-filter");
+  //     $("#message").hide();
+  //     $("div.emoji-card-title").addClass("hide-card");
+  //     if (filtertag == "view-all") {
+  //       // If the user clicks on view all, show all cards.
+  //       $("div.emoji-card").show();
+  //     } else if (
+  //       // If the user clicks on movies, musicals or tv shows, show the cards that fall into that category and hide all cards that do not fall into that category.
+  //       $("div.emoji-card[data-filter='" + filtertag + "']").length > 0
+  //     ) {
+  //       $("div.emoji-card").show();
+  //       $("div.emoji-card:not([data-filter='" + filtertag + "'])").hide();
+  //     } else {
+  //       // If there are no cards that match the filter, display a message that says that there are no cards for that category.
+  //       $("div.emoji-card").hide();
+  //       $("#message").show();
+  //       $("#message").html(
+  //         "<p>There are no " + filtertag + " cards on this page. 🙁</p>"
+  //       );
+  //     }
+  //   });
+  // });
+
+    // The convertred code from  jquery to Javscript 
+  const filterButtons = document.querySelectorAll("#filters button");
+
+filterButtons.forEach(function (button) {
+  button.addEventListener("click", function () {
+    const filtertag = button.getAttribute("data-filter");
+    const message = document.getElementById("message");
+    const emojiCardTitles = document.querySelectorAll("div.emoji-card-title");
+
+    message.style.display = "none";
+    emojiCardTitles.forEach(function (title) {
+      title.classList.add("hide-card");
     });
+
+    if (filtertag === "view-all") {
+      // If the user clicks on view all, show all cards.
+      const emojiCards = document.querySelectorAll("div.emoji-card");
+      emojiCards.forEach(function (card) {
+        card.style.display = "block";
+      });
+    } else {
+      const filteredEmojiCards = document.querySelectorAll(`div.emoji-card[data-filter='${filtertag}']`);
+
+      if (filteredEmojiCards.length > 0) {
+        const emojiCards = document.querySelectorAll("div.emoji-card");
+        emojiCards.forEach(function (card) {
+          card.style.display = "block";
+        });
+
+        emojiCards.forEach(function (card) {
+          if (!card.hasAttribute("data-filter") || card.getAttribute("data-filter") !== filtertag) {
+            card.style.display = "none";
+          }
+        });
+      } else {
+        // If there are no cards that match the filter, display a message.
+        const emojiCards = document.querySelectorAll("div.emoji-card");
+        emojiCards.forEach(function (card) {
+          card.style.display = "none";
+        });
+
+        message.style.display = "block";
+        message.innerHTML = "<p>There are no " + filtertag + " cards on this page. 🙁</p>";
+      }
+    }
   });
+});
 
   // Reveal the movie or show title when the user clicks on the emojis.
   
