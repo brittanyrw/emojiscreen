@@ -115,15 +115,31 @@ $(document).ready(function() {
   });
 
   // Display a hint (type ie tv, movie or musical) when hovering over the question mark.
-  $("#emojis").on("mouseover", ".hint-container", function () {
-    $(this).find(".hint").addClass("hint-reveal");
-  });
+  // $("#emojis").on("mouseover", ".hint-container", function () {
+  //   $(this).find(".hint").addClass("hint-reveal");
+  // });
 
-  // Hide hint (type ie tv, movie or musical) when the user stops hovering over the question mark.
-  $("#emojis").on("mouseleave", ".hint-container", function () {
-    $(this).find(".hint").removeClass("hint-reveal");
-  });
+  // // Hide hint (type ie tv, movie or musical) when the user stops hovering over the question mark.
+  // $("#emojis").on("mouseleave", ".hint-container", function () {
+  //   $(this).find(".hint").removeClass("hint-reveal");
+  // });
 
+
+  // Display a hint (type ie tv, movie or musical) when hovering over the question mark.
+document.querySelector("#emojis").addEventListener("mouseover", function (event) {
+  if (event.target && event.target.classList.contains("hint-container")) {
+    event.target.querySelector(".hint").classList.add("hint-reveal");
+  }
+});
+
+// Hide hint (type ie tv, movie or musical) when the user stops hovering over the question mark.
+document.querySelector("#emojis").addEventListener("mouseleave", function (event) {
+  if (event.target && event.target.classList.contains("hint-container")) {
+    event.target.querySelector(".hint").classList.remove("hint-reveal");
+  }
+});
+
+  
   // Toggle to expand or hide all of the movie/show names by clicking an icon
   $(".btn-reveal-all").click(function () {
     $(this).toggleClass(["revealed"]);
