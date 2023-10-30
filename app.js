@@ -125,24 +125,46 @@ $(document).ready(function() {
   });
 
   // Toggle to expand or hide all of the movie/show names by clicking an icon
-  $(".btn-reveal-all").click(function () {
-    $(this).toggleClass(["revealed"]);
-    const emojis = $("#emojis").find(".emoji-card-title");
-    if ($(this).hasClass("revealed")) {
-      emojis.removeClass("hide-card");
-    } else {
-      emojis.addClass("hide-card");
-    }
-    let title = $(this).attr("title");
-    title =
-      title.search(/reveal/i) === -1
-        ? title.replace(/hide/i, "Reveal")
-        : title.replace(/reveal/i, "Hide");
-    $(this).attr("title", title);
+  // $(".btn-reveal-all").click(function () {
+  //   $(this).toggleClass(["revealed"]);
+  //   const emojis = $("#emojis").find(".emoji-card-title");
+  //   if ($(this).hasClass("revealed")) {
+  //     emojis.removeClass("hide-card");
+  //   } else {
+  //     emojis.addClass("hide-card");
+  //   }
+  //   let title = $(this).attr("title");
+  //   title =
+  //     title.search(/reveal/i) === -1
+  //       ? title.replace(/hide/i, "Reveal")
+  //       : title.replace(/reveal/i, "Hide");
+  //   $(this).attr("title", title);
 
-    $(this).find("i").toggleClass(["fa-eye", "fa-eye-slash"]);
+  //   $(this).find("i").toggleClass(["fa-eye", "fa-eye-slash"]);
+  // });
+
+ // Toggle to expand or hide all of the movie/show names by clicking an icon converted to javascript
+  document.querySelector(".btn-reveal-all").addEventListener("click", function () {
+  this.classList.toggle("revealed");
+  const emojis = document.querySelectorAll("#emojis .emoji-card-title");
+  const revealed = this.classList.contains("revealed");
+
+  emojis.forEach(function (emoji) {
+    if (revealed) {
+      emoji.classList.remove("hide-card");
+    } else {
+      emoji.classList.add("hide-card");
+    }
   });
 
+  let title = this.getAttribute("title");
+  title = title.search(/reveal/i) === -1 ? title.replace(/hide/i, "Reveal") : title.replace(/reveal/i, "Hide");
+  this.setAttribute("title", title);
+
+  const eyeIcon = this.querySelector("i");
+  eyeIcon.classList.toggle("fa-eye");
+  eyeIcon.classList.toggle("fa-eye-slash");
+});
   //Add a secret code to the project that will trigger a fun animation. If a user types in the word 'emojis' while on the website, emojis will start falling briefly. 
 
   //Create an array to store the keys that the user types.
