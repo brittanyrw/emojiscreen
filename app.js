@@ -143,7 +143,34 @@ $(document).ready(function() {
     $(this).find("i").toggleClass(["fa-eye", "fa-eye-slash"]);
   });
 
-  //Add a secret code to the project that will trigger a fun animation. If a user types in the word 'emojis' while on the website, emojis will start falling briefly. 
+  //Add a secret code to the project that will trigger a fun animation. If a user types in the word 'emojis' while on the website, emojis will start falling briefly.
+
+    let userInput = '';
+
+    document.addEventListener('keydown', function (event) {
+      userInput += event.key;
+
+      if (userInput.includes('emojis')) {
+        startFunAnimation();
+        userInput = '';
+      }
+    });
+
+    function startFunAnimation() {
+      const fallingEmojis = document.querySelector('.falling-emojis');
+
+      for (let i = 0; i < 10; i++) {
+        const emoji = document.createElement('div');
+        emoji.className = 'emoji';
+        emoji.innerHTML = '😀'; // You can use different emojis here
+        fallingEmojis.appendChild(emoji);
+
+        const randomX = Math.random() * window.innerWidth;
+        const duration = Math.random() * 5 + 2;
+        emoji.style.left = randomX + 'px';
+        emoji.style.animation = `fall ${duration}s linear forwards`;
+      }
+    }
 
   //Create an array to store the keys that the user types.
   const keysPressed = [];
