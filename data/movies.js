@@ -1040,7 +1040,7 @@ const emojiMovies = [
     genres: ["biography", "drama", "history"],
     itemLink: "https://www.imdb.com/title/tt15398776/",
     type: "movie",
-    year: 2023
+    year: 2023,
   },
   {
     title: "Passport to Paris",
@@ -1526,5 +1526,13 @@ const emojiMovies = [
     itemLink: "https://www.imdb.com/title/tt2948356/",
     type: "movie",
     year: 2016,
+  },
+  {
+    title: "Blue Beetle",
+    emojiImgs: "🔵🦸‍♂️🐞🌟🌌",
+    genres: ["action", "sci-fi", "thriller", "adventure"],
+    itemLink: "https://www.imdb.com/title/tt9362930/",
+    type: "movie",
+    year: 2023,
   },
 ];
