@@ -1527,4 +1527,12 @@ const emojiMovies = [
     type: "movie",
     year: 2016,
   },
+  {
+    title: "Puss in Boots: The Last Wish",
+    emojiImgs: "🐈👢💫🐺",
+    genres: ["animation", "adventure", "comedy"],
+    itemLink: "https://www.imdb.com/title/tt3915174/", 
+    type: "movie",
+    year: 2022,
+  }
 ];
